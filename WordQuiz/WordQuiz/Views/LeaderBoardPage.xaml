@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="WordQuiz.Views.LeaderBoardPage" BackgroundColor="WhiteSmoke" Title="Leader Bord" Padding="0">
+    <ContentPage.Content>
+        <Grid>
+
+        <CollectionView x:Name="CollectionLeaderBoard" >
+
+            <CollectionView.Header>
+                <Grid Padding="10" BackgroundColor="Gray">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto" />
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="Auto" />
+                        <ColumnDefinition Width="Auto" />
+                        <ColumnDefinition Width="Auto" />
+                    </Grid.ColumnDefinitions>
+                    <Label   WidthRequest="60" FontSize="Default" Grid.Column="0" TextColor="White"
+                               HorizontalTextAlignment="Start" VerticalTextAlignment="Center" Text="Rank"/>
+
+                    <Label  WidthRequest="80" FontSize="Default" Grid.Column="1" TextColor="White"
+                               HorizontalTextAlignment="Start" VerticalTextAlignment="Center" Text="Score"/>
+                    <Label   FontSize="Default" Grid.Column="2" TextColor="White"
+                               HorizontalTextAlignment="Start" VerticalTextAlignment="Center" Text="User / Country"/>
+
+                </Grid>
+            </CollectionView.Header>
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <Grid Padding="15,0,10,0" VerticalOptions="Center">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="Auto" />
+                            <RowDefinition Height="Auto" />
+                            <RowDefinition Height="0.4" />
+                        </Grid.RowDefinitions>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="Auto" />
+                            <ColumnDefinition Width="Auto" />
+                            <ColumnDefinition Width="Auto" />
+                        </Grid.ColumnDefinitions>
+                        <Label Grid.RowSpan="3" HeightRequest="60" WidthRequest="60" FontSize="Medium" Grid.Column="0"
+                               HorizontalTextAlignment="Start" VerticalTextAlignment="Center" Text="{Binding Rank}"/>
+
+                        <Label Grid.RowSpan="3" HeightRequest="60" WidthRequest="80" FontSize="Medium" Grid.Column="1" 
+                               HorizontalTextAlignment="Start" VerticalTextAlignment="Center" Text="{Binding Score}"/>
+
+                        <Label Grid.Row="0" Grid.Column="2" Text="{Binding UserName}"
+                               HorizontalTextAlignment="Start" VerticalTextAlignment="End" FontAttributes="Bold"  />
+
+                        <Label Grid.Row="1" Grid.Column="2" Text="{Binding CountryName}" 
+                               HorizontalTextAlignment="Start" VerticalTextAlignment="Start" FontAttributes="Italic" />
+                        <BoxView BackgroundColor="Black" Grid.ColumnSpan="4" Grid.Row="2"></BoxView>
+
+                        
+                        
+                    </Grid>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+        <StackLayout IsVisible="false" x:Name="Indicator" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand">
+            <ActivityIndicator BackgroundColor="Transparent" IsRunning="True" Color="LightGreen" ></ActivityIndicator>
+        </StackLayout>
+
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>
