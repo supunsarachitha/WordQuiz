@@ -7,7 +7,7 @@ namespace WordQuiz.Helpers
 {
     public static class Common
     {
-        public static string FirebaseURL = "";
+        public static string FirebaseURL = "https://wordquiz-f502a.firebaseio.com/";
 
 
     }

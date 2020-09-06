@@ -31,17 +31,27 @@ namespace WordQuiz.Views
 
         private async void btnRegister_Clicked(object sender, EventArgs e)
         {
-            bool valid = await VaidateRegister();
-
-            if (valid)
+            try
             {
-                bool res2 = await RegisterNewUser();
-                if (res2)
-                {
+                bool valid = await VaidateRegister();
 
-                    Xamarin.Essentials.Preferences.Set("registered", true);
-                    await Shell.Current.GoToAsync("//MainPage");
+                if (valid)
+                {
+                    bool res2 = await RegisterNewUser();
+                    if (res2)
+                    {
+
+                        Xamarin.Essentials.Preferences.Set("registered", true);
+                        Xamarin.Essentials.Preferences.Set("UserName", txtUserName.Text);
+                        Xamarin.Essentials.Preferences.Set("Score", 0);
+                        await Shell.Current.GoToAsync("//MainPage");
+                    }
                 }
+            }
+            catch (Exception ex)
+            {
+
+                return;
             }
         }
 
@@ -88,29 +98,46 @@ namespace WordQuiz.Views
 
         private async Task<bool> RegisterNewUser()
         {
-            int Id = 0;
-            Id = AllUsers.Count==0?0: AllUsers.Max(X => X.UserId);
-            var Country = (Country)pickCountry.SelectedItem;
-            bool res = await firebaseHelper.AddNewUser(Id + 1, txtUserName.Text, Country.country, Country.abbreviation, 0);
-            if (res)
+            try
             {
-                return true;
+                int Id = 0;
+                Id = AllUsers.Count == 0 ? 0 : AllUsers.Max(X => X.UserId);
+                var Country = (Country)pickCountry.SelectedItem;
+                bool res = await firebaseHelper.AddNewUser(Id + 1, txtUserName.Text, Country.country, Country.abbreviation, 0);
+                if (res)
+                {
+                    return true;
+                }
+                return false;
             }
-            return false;
+            catch (Exception ex)
+            {
+
+                return false;
+            }
+            
 
         }
 
         private async Task<bool> CheckExist()
         {
-            AllUsers = await firebaseHelper.GetAllPersons();
-            List<Users> res = AllUsers.Where(x => x.UserName.ToLower() == txtUserName.Text.ToLower()).ToList();
+            try
+            {
+                AllUsers = await firebaseHelper.GetAllPersons();
+                List<Users> res = AllUsers.Where(x => x.UserName.ToLower() == txtUserName.Text.ToLower()).ToList();
 
-            if (res.Count > 0)
-            {
-                return true;
+                if (res.Count > 0)
+                {
+                    return true;
+                }
+                else
+                {
+                    return false;
+                }
             }
-            else
+            catch (Exception ex )
             {
+
                 return false;
             }
 

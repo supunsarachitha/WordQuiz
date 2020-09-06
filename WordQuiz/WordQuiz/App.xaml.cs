@@ -3,6 +3,7 @@ using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
 using WordQuiz.Views;
+using MediaManager;
 
 namespace WordQuiz
 {
@@ -13,6 +14,7 @@ namespace WordQuiz
         {
             InitializeComponent();
 
+            CrossMediaManager.Current.Init();
 
             MainPage = new AppShell();
         }

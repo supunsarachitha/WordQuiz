@@ -98,7 +98,7 @@
         await Shell.Current.GoToAsync("//LoginPage");
     -->
     <ShellContent Route="RegisterPage" Shell.FlyoutBehavior="Disabled" ContentTemplate="{DataTemplate local:RegisterPage}" />
-    <ShellContent Route="GamePage" Shell.FlyoutBehavior="Disabled" ContentTemplate="{DataTemplate local:GemaPage}" />
+    <ShellContent Route="GemaPage" Shell.FlyoutBehavior="Disabled" ContentTemplate="{DataTemplate local:GemaPage}" />
     <!-- Optional Templates 
     // These may be provided inline as below or as separate classes.
 

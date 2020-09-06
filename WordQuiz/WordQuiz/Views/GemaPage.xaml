@@ -3,10 +3,13 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="WordQuiz.Views.GemaPage" NavigationPage.HasBackButton="True">
     <ContentPage.Content>
-        <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
+        <StackLayout HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" Margin="10">
+            
+            <Label x:Name="lblScore" ></Label>
+            <Label x:Name="txtWord" FontSize="Large" CharacterSpacing="5"></Label>
+            <Label x:Name="lblDefinition"  ></Label>
+            <Entry x:Name="txtInput" MaxLength="1" FontSize="Large" TextChanged="txtInput_TextChanged"  VerticalOptions="Center" HorizontalTextAlignment="Center"></Entry>
+            <Button x:Name="btnNext" Clicked="btnNext_Clicked" Text="Next"></Button>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

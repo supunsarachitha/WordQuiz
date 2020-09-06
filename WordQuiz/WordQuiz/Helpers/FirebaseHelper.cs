@@ -38,6 +38,35 @@ namespace WordQuiz.Helpers
             return true;
         }
 
+        public async Task UpdateScore(int score, string USerName)
+        {
+            if (!string.IsNullOrEmpty(USerName))
+            {
+                var toUpdatePerson = (await firebase
+              .Child("Users")
+              .OnceAsync<Users>()).Where(a => a.Object.UserName == USerName).FirstOrDefault();
+
+                if (toUpdatePerson != null)
+                {
+                    await firebase
+                  .Child("Users")
+                  .Child(toUpdatePerson.Key)
+                  .PutAsync(new Users()
+                  {
+                      Score = score,
+                      CountryCode = toUpdatePerson.Object.CountryCode,
+                      CountryName = toUpdatePerson.Object.CountryName,
+                      UserId = toUpdatePerson.Object.UserId,
+                      UserName = toUpdatePerson.Object.UserName,
+                      Rank = 0
+                  }); ;
+                }
+            }
+            
+            
+        }
+
+
 
     }
 }
