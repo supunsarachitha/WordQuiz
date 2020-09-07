@@ -13,7 +13,7 @@ namespace WordQuiz.API
     {
         public async Task<Dictionary> getDictionaryMeaning(string  word)
         {
-            string url = $"https://api.dictionaryapi.dev/api/v1/entries/en/" + word;
+            string url = $"https://api.dictionaryapi.dev/api/v2/entries/en/" + word;
 
             using (HttpClient httpClient = new HttpClient())
             {

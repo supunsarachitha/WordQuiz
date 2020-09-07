@@ -1,33 +1,52 @@
-﻿using System;
+﻿using Newtonsoft.Json;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
 namespace WordQuiz.Models
 {
-    public class Dictionary
+    public partial class Dictionary
     {
-        public string word { get; set; }
-        public List<Phonetics> phonetics { get; set; }
+        [JsonProperty("word")]
+        public string Word { get; set; }
 
-        public Meaning meaning { get; set; }
+        [JsonProperty("phonetics")]
+        public Phonetic[] Phonetics { get; set; }
+
+        [JsonProperty("meanings")]
+        public Meaning[] Meanings { get; set; }
     }
 
-    public class Phonetics
+    public partial class Meaning
     {
-        public string text { get; set; }
-        public string audio { get; set; }
+        [JsonProperty("partOfSpeech")]
+        public string PartOfSpeech { get; set; }
+
+        [JsonProperty("definitions")]
+        public Definition[] Definitions { get; set; }
     }
 
-    public class Meaning
+    public partial class Definition
     {
-        public List<Noun> noun { get; set; }
-        public List<Noun> verb { get; set; }
+        [JsonProperty("definition")]
+        public string DefinitionDefinition { get; set; }
+
+        [JsonProperty("example", NullValueHandling = NullValueHandling.Ignore)]
+        public string Example { get; set; }
+
+        [JsonProperty("synonyms", NullValueHandling = NullValueHandling.Ignore)]
+        public string[] Synonyms { get; set; }
     }
 
-    public class Noun
+    public partial class Phonetic
     {
-        public string definition { get; set; }
-        public string example { get; set; }
-        public List<string> synonyms { get; set; }
+        [JsonProperty("text")]
+        public string Text { get; set; }
+
+        [JsonProperty("audio")]
+        public Uri Audio { get; set; }
     }
+
+
+
 }

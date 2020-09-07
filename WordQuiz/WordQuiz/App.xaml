@@ -27,6 +27,11 @@
                     </VisualStateGroupList>
                 </Setter>
             </Style>
-        </ResourceDictionary>        
+        </ResourceDictionary>
+
+        <x:String x:Key="IconHome">&#xf015;</x:String>
+        <x:String x:Key="IconThrophy">&#xf091;</x:String>
+        <x:String x:Key="IconGame">&#xf11b;</x:String>
+
     </Application.Resources>
 </Application>

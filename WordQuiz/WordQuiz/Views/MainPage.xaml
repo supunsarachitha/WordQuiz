@@ -4,8 +4,12 @@
              x:Class="WordQuiz.Views.MainPage" BackgroundImageSource="RegisterBackground.png" Opacity="0.5">
     <ContentPage.Content>
         <StackLayout HorizontalOptions="FillAndExpand" VerticalOptions="EndAndExpand" Margin="20,20,20,100"  >
-            <Button CornerRadius="20" Text="New Game" x:Name="NewGame" Clicked="NewGame_Clicked" BorderColor="Gray" BorderWidth="3" HeightRequest="60"></Button>
-            <Button CornerRadius="20" Text="Continue" x:Name="Continue" Clicked="Continue_Clicked" BorderColor="Gray" BorderWidth="3" HeightRequest="60" ></Button>
+            <Button CornerRadius="20" Text="New Game" FontSize="Large" FontFamily="OpenSans-Bold" x:Name="NewGame" Clicked="NewGame_Clicked" BorderColor="Gray" BorderWidth="3" WidthRequest="250" HeightRequest="60" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand">
+                <Button.ImageSource>
+                    <FontImageSource Glyph="&#xf11b;" FontFamily="fa-solid"/>
+                </Button.ImageSource>
+            </Button>
+            <Button CornerRadius="20" Text="Continue" x:Name="Continue" Clicked="Continue_Clicked" BorderColor="Gray" BorderWidth="3" HeightRequest="60" IsVisible="false" ></Button>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

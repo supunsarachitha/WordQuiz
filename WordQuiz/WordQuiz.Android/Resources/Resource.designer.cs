@@ -25,6 +25,2730 @@ namespace WordQuiz.Droid
 		
 		public static void UpdateIdValues()
 		{
+			global::Lottie.Forms.Resource.Animation.abc_fade_in = global::WordQuiz.Droid.Resource.Animation.abc_fade_in;
+			global::Lottie.Forms.Resource.Animation.abc_fade_out = global::WordQuiz.Droid.Resource.Animation.abc_fade_out;
+			global::Lottie.Forms.Resource.Animation.abc_grow_fade_in_from_bottom = global::WordQuiz.Droid.Resource.Animation.abc_grow_fade_in_from_bottom;
+			global::Lottie.Forms.Resource.Animation.abc_popup_enter = global::WordQuiz.Droid.Resource.Animation.abc_popup_enter;
+			global::Lottie.Forms.Resource.Animation.abc_popup_exit = global::WordQuiz.Droid.Resource.Animation.abc_popup_exit;
+			global::Lottie.Forms.Resource.Animation.abc_shrink_fade_out_from_bottom = global::WordQuiz.Droid.Resource.Animation.abc_shrink_fade_out_from_bottom;
+			global::Lottie.Forms.Resource.Animation.abc_slide_in_bottom = global::WordQuiz.Droid.Resource.Animation.abc_slide_in_bottom;
+			global::Lottie.Forms.Resource.Animation.abc_slide_in_top = global::WordQuiz.Droid.Resource.Animation.abc_slide_in_top;
+			global::Lottie.Forms.Resource.Animation.abc_slide_out_bottom = global::WordQuiz.Droid.Resource.Animation.abc_slide_out_bottom;
+			global::Lottie.Forms.Resource.Animation.abc_slide_out_top = global::WordQuiz.Droid.Resource.Animation.abc_slide_out_top;
+			global::Lottie.Forms.Resource.Animation.abc_tooltip_enter = global::WordQuiz.Droid.Resource.Animation.abc_tooltip_enter;
+			global::Lottie.Forms.Resource.Animation.abc_tooltip_exit = global::WordQuiz.Droid.Resource.Animation.abc_tooltip_exit;
+			global::Lottie.Forms.Resource.Animation.btn_checkbox_to_checked_box_inner_merged_animation = global::WordQuiz.Droid.Resource.Animation.btn_checkbox_to_checked_box_inner_merged_animation;
+			global::Lottie.Forms.Resource.Animation.btn_checkbox_to_checked_box_outer_merged_animation = global::WordQuiz.Droid.Resource.Animation.btn_checkbox_to_checked_box_outer_merged_animation;
+			global::Lottie.Forms.Resource.Animation.btn_checkbox_to_checked_icon_null_animation = global::WordQuiz.Droid.Resource.Animation.btn_checkbox_to_checked_icon_null_animation;
+			global::Lottie.Forms.Resource.Animation.btn_checkbox_to_unchecked_box_inner_merged_animation = global::WordQuiz.Droid.Resource.Animation.btn_checkbox_to_unchecked_box_inner_merged_animation;
+			global::Lottie.Forms.Resource.Animation.btn_checkbox_to_unchecked_check_path_merged_animation = global::WordQuiz.Droid.Resource.Animation.btn_checkbox_to_unchecked_check_path_merged_animation;
+			global::Lottie.Forms.Resource.Animation.btn_checkbox_to_unchecked_icon_null_animation = global::WordQuiz.Droid.Resource.Animation.btn_checkbox_to_unchecked_icon_null_animation;
+			global::Lottie.Forms.Resource.Animation.btn_radio_to_off_mtrl_dot_group_animation = global::WordQuiz.Droid.Resource.Animation.btn_radio_to_off_mtrl_dot_group_animation;
+			global::Lottie.Forms.Resource.Animation.btn_radio_to_off_mtrl_ring_outer_animation = global::WordQuiz.Droid.Resource.Animation.btn_radio_to_off_mtrl_ring_outer_animation;
+			global::Lottie.Forms.Resource.Animation.btn_radio_to_off_mtrl_ring_outer_path_animation = global::WordQuiz.Droid.Resource.Animation.btn_radio_to_off_mtrl_ring_outer_path_animation;
+			global::Lottie.Forms.Resource.Animation.btn_radio_to_on_mtrl_dot_group_animation = global::WordQuiz.Droid.Resource.Animation.btn_radio_to_on_mtrl_dot_group_animation;
+			global::Lottie.Forms.Resource.Animation.btn_radio_to_on_mtrl_ring_outer_animation = global::WordQuiz.Droid.Resource.Animation.btn_radio_to_on_mtrl_ring_outer_animation;
+			global::Lottie.Forms.Resource.Animation.btn_radio_to_on_mtrl_ring_outer_path_animation = global::WordQuiz.Droid.Resource.Animation.btn_radio_to_on_mtrl_ring_outer_path_animation;
+			global::Lottie.Forms.Resource.Animation.design_bottom_sheet_slide_in = global::WordQuiz.Droid.Resource.Animation.design_bottom_sheet_slide_in;
+			global::Lottie.Forms.Resource.Animation.design_bottom_sheet_slide_out = global::WordQuiz.Droid.Resource.Animation.design_bottom_sheet_slide_out;
+			global::Lottie.Forms.Resource.Animation.design_snackbar_in = global::WordQuiz.Droid.Resource.Animation.design_snackbar_in;
+			global::Lottie.Forms.Resource.Animation.design_snackbar_out = global::WordQuiz.Droid.Resource.Animation.design_snackbar_out;
+			global::Lottie.Forms.Resource.Animation.EnterFromLeft = global::WordQuiz.Droid.Resource.Animation.EnterFromLeft;
+			global::Lottie.Forms.Resource.Animation.EnterFromRight = global::WordQuiz.Droid.Resource.Animation.EnterFromRight;
+			global::Lottie.Forms.Resource.Animation.ExitToLeft = global::WordQuiz.Droid.Resource.Animation.ExitToLeft;
+			global::Lottie.Forms.Resource.Animation.ExitToRight = global::WordQuiz.Droid.Resource.Animation.ExitToRight;
+			global::Lottie.Forms.Resource.Animator.design_appbar_state_list_animator = global::WordQuiz.Droid.Resource.Animator.design_appbar_state_list_animator;
+			global::Lottie.Forms.Resource.Animator.design_fab_hide_motion_spec = global::WordQuiz.Droid.Resource.Animator.design_fab_hide_motion_spec;
+			global::Lottie.Forms.Resource.Animator.design_fab_show_motion_spec = global::WordQuiz.Droid.Resource.Animator.design_fab_show_motion_spec;
+			global::Lottie.Forms.Resource.Animator.mtrl_btn_state_list_anim = global::WordQuiz.Droid.Resource.Animator.mtrl_btn_state_list_anim;
+			global::Lottie.Forms.Resource.Animator.mtrl_btn_unelevated_state_list_anim = global::WordQuiz.Droid.Resource.Animator.mtrl_btn_unelevated_state_list_anim;
+			global::Lottie.Forms.Resource.Animator.mtrl_chip_state_list_anim = global::WordQuiz.Droid.Resource.Animator.mtrl_chip_state_list_anim;
+			global::Lottie.Forms.Resource.Animator.mtrl_fab_hide_motion_spec = global::WordQuiz.Droid.Resource.Animator.mtrl_fab_hide_motion_spec;
+			global::Lottie.Forms.Resource.Animator.mtrl_fab_show_motion_spec = global::WordQuiz.Droid.Resource.Animator.mtrl_fab_show_motion_spec;
+			global::Lottie.Forms.Resource.Animator.mtrl_fab_transformation_sheet_collapse_spec = global::WordQuiz.Droid.Resource.Animator.mtrl_fab_transformation_sheet_collapse_spec;
+			global::Lottie.Forms.Resource.Animator.mtrl_fab_transformation_sheet_expand_spec = global::WordQuiz.Droid.Resource.Animator.mtrl_fab_transformation_sheet_expand_spec;
+			global::Lottie.Forms.Resource.Attribute.actionBarDivider = global::WordQuiz.Droid.Resource.Attribute.actionBarDivider;
+			global::Lottie.Forms.Resource.Attribute.actionBarItemBackground = global::WordQuiz.Droid.Resource.Attribute.actionBarItemBackground;
+			global::Lottie.Forms.Resource.Attribute.actionBarPopupTheme = global::WordQuiz.Droid.Resource.Attribute.actionBarPopupTheme;
+			global::Lottie.Forms.Resource.Attribute.actionBarSize = global::WordQuiz.Droid.Resource.Attribute.actionBarSize;
+			global::Lottie.Forms.Resource.Attribute.actionBarSplitStyle = global::WordQuiz.Droid.Resource.Attribute.actionBarSplitStyle;
+			global::Lottie.Forms.Resource.Attribute.actionBarStyle = global::WordQuiz.Droid.Resource.Attribute.actionBarStyle;
+			global::Lottie.Forms.Resource.Attribute.actionBarTabBarStyle = global::WordQuiz.Droid.Resource.Attribute.actionBarTabBarStyle;
+			global::Lottie.Forms.Resource.Attribute.actionBarTabStyle = global::WordQuiz.Droid.Resource.Attribute.actionBarTabStyle;
+			global::Lottie.Forms.Resource.Attribute.actionBarTabTextStyle = global::WordQuiz.Droid.Resource.Attribute.actionBarTabTextStyle;
+			global::Lottie.Forms.Resource.Attribute.actionBarTheme = global::WordQuiz.Droid.Resource.Attribute.actionBarTheme;
+			global::Lottie.Forms.Resource.Attribute.actionBarWidgetTheme = global::WordQuiz.Droid.Resource.Attribute.actionBarWidgetTheme;
+			global::Lottie.Forms.Resource.Attribute.actionButtonStyle = global::WordQuiz.Droid.Resource.Attribute.actionButtonStyle;
+			global::Lottie.Forms.Resource.Attribute.actionDropDownStyle = global::WordQuiz.Droid.Resource.Attribute.actionDropDownStyle;
+			global::Lottie.Forms.Resource.Attribute.actionLayout = global::WordQuiz.Droid.Resource.Attribute.actionLayout;
+			global::Lottie.Forms.Resource.Attribute.actionMenuTextAppearance = global::WordQuiz.Droid.Resource.Attribute.actionMenuTextAppearance;
+			global::Lottie.Forms.Resource.Attribute.actionMenuTextColor = global::WordQuiz.Droid.Resource.Attribute.actionMenuTextColor;
+			global::Lottie.Forms.Resource.Attribute.actionModeBackground = global::WordQuiz.Droid.Resource.Attribute.actionModeBackground;
+			global::Lottie.Forms.Resource.Attribute.actionModeCloseButtonStyle = global::WordQuiz.Droid.Resource.Attribute.actionModeCloseButtonStyle;
+			global::Lottie.Forms.Resource.Attribute.actionModeCloseDrawable = global::WordQuiz.Droid.Resource.Attribute.actionModeCloseDrawable;
+			global::Lottie.Forms.Resource.Attribute.actionModeCopyDrawable = global::WordQuiz.Droid.Resource.Attribute.actionModeCopyDrawable;
+			global::Lottie.Forms.Resource.Attribute.actionModeCutDrawable = global::WordQuiz.Droid.Resource.Attribute.actionModeCutDrawable;
+			global::Lottie.Forms.Resource.Attribute.actionModeFindDrawable = global::WordQuiz.Droid.Resource.Attribute.actionModeFindDrawable;
+			global::Lottie.Forms.Resource.Attribute.actionModePasteDrawable = global::WordQuiz.Droid.Resource.Attribute.actionModePasteDrawable;
+			global::Lottie.Forms.Resource.Attribute.actionModePopupWindowStyle = global::WordQuiz.Droid.Resource.Attribute.actionModePopupWindowStyle;
+			global::Lottie.Forms.Resource.Attribute.actionModeSelectAllDrawable = global::WordQuiz.Droid.Resource.Attribute.actionModeSelectAllDrawable;
+			global::Lottie.Forms.Resource.Attribute.actionModeShareDrawable = global::WordQuiz.Droid.Resource.Attribute.actionModeShareDrawable;
+			global::Lottie.Forms.Resource.Attribute.actionModeSplitBackground = global::WordQuiz.Droid.Resource.Attribute.actionModeSplitBackground;
+			global::Lottie.Forms.Resource.Attribute.actionModeStyle = global::WordQuiz.Droid.Resource.Attribute.actionModeStyle;
+			global::Lottie.Forms.Resource.Attribute.actionModeWebSearchDrawable = global::WordQuiz.Droid.Resource.Attribute.actionModeWebSearchDrawable;
+			global::Lottie.Forms.Resource.Attribute.actionOverflowButtonStyle = global::WordQuiz.Droid.Resource.Attribute.actionOverflowButtonStyle;
+			global::Lottie.Forms.Resource.Attribute.actionOverflowMenuStyle = global::WordQuiz.Droid.Resource.Attribute.actionOverflowMenuStyle;
+			global::Lottie.Forms.Resource.Attribute.actionProviderClass = global::WordQuiz.Droid.Resource.Attribute.actionProviderClass;
+			global::Lottie.Forms.Resource.Attribute.actionViewClass = global::WordQuiz.Droid.Resource.Attribute.actionViewClass;
+			global::Lottie.Forms.Resource.Attribute.activityChooserViewStyle = global::WordQuiz.Droid.Resource.Attribute.activityChooserViewStyle;
+			global::Lottie.Forms.Resource.Attribute.alertDialogButtonGroupStyle = global::WordQuiz.Droid.Resource.Attribute.alertDialogButtonGroupStyle;
+			global::Lottie.Forms.Resource.Attribute.alertDialogCenterButtons = global::WordQuiz.Droid.Resource.Attribute.alertDialogCenterButtons;
+			global::Lottie.Forms.Resource.Attribute.alertDialogStyle = global::WordQuiz.Droid.Resource.Attribute.alertDialogStyle;
+			global::Lottie.Forms.Resource.Attribute.alertDialogTheme = global::WordQuiz.Droid.Resource.Attribute.alertDialogTheme;
+			global::Lottie.Forms.Resource.Attribute.allowStacking = global::WordQuiz.Droid.Resource.Attribute.allowStacking;
+			global::Lottie.Forms.Resource.Attribute.alpha = global::WordQuiz.Droid.Resource.Attribute.alpha;
+			global::Lottie.Forms.Resource.Attribute.alphabeticModifiers = global::WordQuiz.Droid.Resource.Attribute.alphabeticModifiers;
+			global::Lottie.Forms.Resource.Attribute.arrowHeadLength = global::WordQuiz.Droid.Resource.Attribute.arrowHeadLength;
+			global::Lottie.Forms.Resource.Attribute.arrowShaftLength = global::WordQuiz.Droid.Resource.Attribute.arrowShaftLength;
+			global::Lottie.Forms.Resource.Attribute.autoCompleteTextViewStyle = global::WordQuiz.Droid.Resource.Attribute.autoCompleteTextViewStyle;
+			global::Lottie.Forms.Resource.Attribute.autoSizeMaxTextSize = global::WordQuiz.Droid.Resource.Attribute.autoSizeMaxTextSize;
+			global::Lottie.Forms.Resource.Attribute.autoSizeMinTextSize = global::WordQuiz.Droid.Resource.Attribute.autoSizeMinTextSize;
+			global::Lottie.Forms.Resource.Attribute.autoSizePresetSizes = global::WordQuiz.Droid.Resource.Attribute.autoSizePresetSizes;
+			global::Lottie.Forms.Resource.Attribute.autoSizeStepGranularity = global::WordQuiz.Droid.Resource.Attribute.autoSizeStepGranularity;
+			global::Lottie.Forms.Resource.Attribute.autoSizeTextType = global::WordQuiz.Droid.Resource.Attribute.autoSizeTextType;
+			global::Lottie.Forms.Resource.Attribute.background = global::WordQuiz.Droid.Resource.Attribute.background;
+			global::Lottie.Forms.Resource.Attribute.backgroundSplit = global::WordQuiz.Droid.Resource.Attribute.backgroundSplit;
+			global::Lottie.Forms.Resource.Attribute.backgroundStacked = global::WordQuiz.Droid.Resource.Attribute.backgroundStacked;
+			global::Lottie.Forms.Resource.Attribute.backgroundTint = global::WordQuiz.Droid.Resource.Attribute.backgroundTint;
+			global::Lottie.Forms.Resource.Attribute.backgroundTintMode = global::WordQuiz.Droid.Resource.Attribute.backgroundTintMode;
+			global::Lottie.Forms.Resource.Attribute.barLength = global::WordQuiz.Droid.Resource.Attribute.barLength;
+			global::Lottie.Forms.Resource.Attribute.behavior_autoHide = global::WordQuiz.Droid.Resource.Attribute.behavior_autoHide;
+			global::Lottie.Forms.Resource.Attribute.behavior_fitToContents = global::WordQuiz.Droid.Resource.Attribute.behavior_fitToContents;
+			global::Lottie.Forms.Resource.Attribute.behavior_hideable = global::WordQuiz.Droid.Resource.Attribute.behavior_hideable;
+			global::Lottie.Forms.Resource.Attribute.behavior_overlapTop = global::WordQuiz.Droid.Resource.Attribute.behavior_overlapTop;
+			global::Lottie.Forms.Resource.Attribute.behavior_peekHeight = global::WordQuiz.Droid.Resource.Attribute.behavior_peekHeight;
+			global::Lottie.Forms.Resource.Attribute.behavior_skipCollapsed = global::WordQuiz.Droid.Resource.Attribute.behavior_skipCollapsed;
+			global::Lottie.Forms.Resource.Attribute.borderlessButtonStyle = global::WordQuiz.Droid.Resource.Attribute.borderlessButtonStyle;
+			global::Lottie.Forms.Resource.Attribute.borderWidth = global::WordQuiz.Droid.Resource.Attribute.borderWidth;
+			global::Lottie.Forms.Resource.Attribute.bottomAppBarStyle = global::WordQuiz.Droid.Resource.Attribute.bottomAppBarStyle;
+			global::Lottie.Forms.Resource.Attribute.bottomNavigationStyle = global::WordQuiz.Droid.Resource.Attribute.bottomNavigationStyle;
+			global::Lottie.Forms.Resource.Attribute.bottomSheetDialogTheme = global::WordQuiz.Droid.Resource.Attribute.bottomSheetDialogTheme;
+			global::Lottie.Forms.Resource.Attribute.bottomSheetStyle = global::WordQuiz.Droid.Resource.Attribute.bottomSheetStyle;
+			global::Lottie.Forms.Resource.Attribute.boxBackgroundColor = global::WordQuiz.Droid.Resource.Attribute.boxBackgroundColor;
+			global::Lottie.Forms.Resource.Attribute.boxBackgroundMode = global::WordQuiz.Droid.Resource.Attribute.boxBackgroundMode;
+			global::Lottie.Forms.Resource.Attribute.boxCollapsedPaddingTop = global::WordQuiz.Droid.Resource.Attribute.boxCollapsedPaddingTop;
+			global::Lottie.Forms.Resource.Attribute.boxCornerRadiusBottomEnd = global::WordQuiz.Droid.Resource.Attribute.boxCornerRadiusBottomEnd;
+			global::Lottie.Forms.Resource.Attribute.boxCornerRadiusBottomStart = global::WordQuiz.Droid.Resource.Attribute.boxCornerRadiusBottomStart;
+			global::Lottie.Forms.Resource.Attribute.boxCornerRadiusTopEnd = global::WordQuiz.Droid.Resource.Attribute.boxCornerRadiusTopEnd;
+			global::Lottie.Forms.Resource.Attribute.boxCornerRadiusTopStart = global::WordQuiz.Droid.Resource.Attribute.boxCornerRadiusTopStart;
+			global::Lottie.Forms.Resource.Attribute.boxStrokeColor = global::WordQuiz.Droid.Resource.Attribute.boxStrokeColor;
+			global::Lottie.Forms.Resource.Attribute.boxStrokeWidth = global::WordQuiz.Droid.Resource.Attribute.boxStrokeWidth;
+			global::Lottie.Forms.Resource.Attribute.buttonBarButtonStyle = global::WordQuiz.Droid.Resource.Attribute.buttonBarButtonStyle;
+			global::Lottie.Forms.Resource.Attribute.buttonBarNegativeButtonStyle = global::WordQuiz.Droid.Resource.Attribute.buttonBarNegativeButtonStyle;
+			global::Lottie.Forms.Resource.Attribute.buttonBarNeutralButtonStyle = global::WordQuiz.Droid.Resource.Attribute.buttonBarNeutralButtonStyle;
+			global::Lottie.Forms.Resource.Attribute.buttonBarPositiveButtonStyle = global::WordQuiz.Droid.Resource.Attribute.buttonBarPositiveButtonStyle;
+			global::Lottie.Forms.Resource.Attribute.buttonBarStyle = global::WordQuiz.Droid.Resource.Attribute.buttonBarStyle;
+			global::Lottie.Forms.Resource.Attribute.buttonCompat = global::WordQuiz.Droid.Resource.Attribute.buttonCompat;
+			global::Lottie.Forms.Resource.Attribute.buttonGravity = global::WordQuiz.Droid.Resource.Attribute.buttonGravity;
+			global::Lottie.Forms.Resource.Attribute.buttonIconDimen = global::WordQuiz.Droid.Resource.Attribute.buttonIconDimen;
+			global::Lottie.Forms.Resource.Attribute.buttonPanelSideLayout = global::WordQuiz.Droid.Resource.Attribute.buttonPanelSideLayout;
+			global::Lottie.Forms.Resource.Attribute.buttonStyle = global::WordQuiz.Droid.Resource.Attribute.buttonStyle;
+			global::Lottie.Forms.Resource.Attribute.buttonStyleSmall = global::WordQuiz.Droid.Resource.Attribute.buttonStyleSmall;
+			global::Lottie.Forms.Resource.Attribute.buttonTint = global::WordQuiz.Droid.Resource.Attribute.buttonTint;
+			global::Lottie.Forms.Resource.Attribute.buttonTintMode = global::WordQuiz.Droid.Resource.Attribute.buttonTintMode;
+			global::Lottie.Forms.Resource.Attribute.cardBackgroundColor = global::WordQuiz.Droid.Resource.Attribute.cardBackgroundColor;
+			global::Lottie.Forms.Resource.Attribute.cardCornerRadius = global::WordQuiz.Droid.Resource.Attribute.cardCornerRadius;
+			global::Lottie.Forms.Resource.Attribute.cardElevation = global::WordQuiz.Droid.Resource.Attribute.cardElevation;
+			global::Lottie.Forms.Resource.Attribute.cardMaxElevation = global::WordQuiz.Droid.Resource.Attribute.cardMaxElevation;
+			global::Lottie.Forms.Resource.Attribute.cardPreventCornerOverlap = global::WordQuiz.Droid.Resource.Attribute.cardPreventCornerOverlap;
+			global::Lottie.Forms.Resource.Attribute.cardUseCompatPadding = global::WordQuiz.Droid.Resource.Attribute.cardUseCompatPadding;
+			global::Lottie.Forms.Resource.Attribute.cardViewStyle = global::WordQuiz.Droid.Resource.Attribute.cardViewStyle;
+			global::Lottie.Forms.Resource.Attribute.checkboxStyle = global::WordQuiz.Droid.Resource.Attribute.checkboxStyle;
+			global::Lottie.Forms.Resource.Attribute.checkedChip = global::WordQuiz.Droid.Resource.Attribute.checkedChip;
+			global::Lottie.Forms.Resource.Attribute.checkedIcon = global::WordQuiz.Droid.Resource.Attribute.checkedIcon;
+			global::Lottie.Forms.Resource.Attribute.checkedIconEnabled = global::WordQuiz.Droid.Resource.Attribute.checkedIconEnabled;
+			global::Lottie.Forms.Resource.Attribute.checkedIconVisible = global::WordQuiz.Droid.Resource.Attribute.checkedIconVisible;
+			global::Lottie.Forms.Resource.Attribute.checkedTextViewStyle = global::WordQuiz.Droid.Resource.Attribute.checkedTextViewStyle;
+			global::Lottie.Forms.Resource.Attribute.chipBackgroundColor = global::WordQuiz.Droid.Resource.Attribute.chipBackgroundColor;
+			global::Lottie.Forms.Resource.Attribute.chipCornerRadius = global::WordQuiz.Droid.Resource.Attribute.chipCornerRadius;
+			global::Lottie.Forms.Resource.Attribute.chipEndPadding = global::WordQuiz.Droid.Resource.Attribute.chipEndPadding;
+			global::Lottie.Forms.Resource.Attribute.chipGroupStyle = global::WordQuiz.Droid.Resource.Attribute.chipGroupStyle;
+			global::Lottie.Forms.Resource.Attribute.chipIcon = global::WordQuiz.Droid.Resource.Attribute.chipIcon;
+			global::Lottie.Forms.Resource.Attribute.chipIconEnabled = global::WordQuiz.Droid.Resource.Attribute.chipIconEnabled;
+			global::Lottie.Forms.Resource.Attribute.chipIconSize = global::WordQuiz.Droid.Resource.Attribute.chipIconSize;
+			global::Lottie.Forms.Resource.Attribute.chipIconTint = global::WordQuiz.Droid.Resource.Attribute.chipIconTint;
+			global::Lottie.Forms.Resource.Attribute.chipIconVisible = global::WordQuiz.Droid.Resource.Attribute.chipIconVisible;
+			global::Lottie.Forms.Resource.Attribute.chipMinHeight = global::WordQuiz.Droid.Resource.Attribute.chipMinHeight;
+			global::Lottie.Forms.Resource.Attribute.chipSpacing = global::WordQuiz.Droid.Resource.Attribute.chipSpacing;
+			global::Lottie.Forms.Resource.Attribute.chipSpacingHorizontal = global::WordQuiz.Droid.Resource.Attribute.chipSpacingHorizontal;
+			global::Lottie.Forms.Resource.Attribute.chipSpacingVertical = global::WordQuiz.Droid.Resource.Attribute.chipSpacingVertical;
+			global::Lottie.Forms.Resource.Attribute.chipStandaloneStyle = global::WordQuiz.Droid.Resource.Attribute.chipStandaloneStyle;
+			global::Lottie.Forms.Resource.Attribute.chipStartPadding = global::WordQuiz.Droid.Resource.Attribute.chipStartPadding;
+			global::Lottie.Forms.Resource.Attribute.chipStrokeColor = global::WordQuiz.Droid.Resource.Attribute.chipStrokeColor;
+			global::Lottie.Forms.Resource.Attribute.chipStrokeWidth = global::WordQuiz.Droid.Resource.Attribute.chipStrokeWidth;
+			global::Lottie.Forms.Resource.Attribute.chipStyle = global::WordQuiz.Droid.Resource.Attribute.chipStyle;
+			global::Lottie.Forms.Resource.Attribute.closeIcon = global::WordQuiz.Droid.Resource.Attribute.closeIcon;
+			global::Lottie.Forms.Resource.Attribute.closeIconEnabled = global::WordQuiz.Droid.Resource.Attribute.closeIconEnabled;
+			global::Lottie.Forms.Resource.Attribute.closeIconEndPadding = global::WordQuiz.Droid.Resource.Attribute.closeIconEndPadding;
+			global::Lottie.Forms.Resource.Attribute.closeIconSize = global::WordQuiz.Droid.Resource.Attribute.closeIconSize;
+			global::Lottie.Forms.Resource.Attribute.closeIconStartPadding = global::WordQuiz.Droid.Resource.Attribute.closeIconStartPadding;
+			global::Lottie.Forms.Resource.Attribute.closeIconTint = global::WordQuiz.Droid.Resource.Attribute.closeIconTint;
+			global::Lottie.Forms.Resource.Attribute.closeIconVisible = global::WordQuiz.Droid.Resource.Attribute.closeIconVisible;
+			global::Lottie.Forms.Resource.Attribute.closeItemLayout = global::WordQuiz.Droid.Resource.Attribute.closeItemLayout;
+			global::Lottie.Forms.Resource.Attribute.collapseContentDescription = global::WordQuiz.Droid.Resource.Attribute.collapseContentDescription;
+			global::Lottie.Forms.Resource.Attribute.collapsedTitleGravity = global::WordQuiz.Droid.Resource.Attribute.collapsedTitleGravity;
+			global::Lottie.Forms.Resource.Attribute.collapsedTitleTextAppearance = global::WordQuiz.Droid.Resource.Attribute.collapsedTitleTextAppearance;
+			global::Lottie.Forms.Resource.Attribute.collapseIcon = global::WordQuiz.Droid.Resource.Attribute.collapseIcon;
+			global::Lottie.Forms.Resource.Attribute.color = global::WordQuiz.Droid.Resource.Attribute.color;
+			global::Lottie.Forms.Resource.Attribute.colorAccent = global::WordQuiz.Droid.Resource.Attribute.colorAccent;
+			global::Lottie.Forms.Resource.Attribute.colorBackgroundFloating = global::WordQuiz.Droid.Resource.Attribute.colorBackgroundFloating;
+			global::Lottie.Forms.Resource.Attribute.colorButtonNormal = global::WordQuiz.Droid.Resource.Attribute.colorButtonNormal;
+			global::Lottie.Forms.Resource.Attribute.colorControlActivated = global::WordQuiz.Droid.Resource.Attribute.colorControlActivated;
+			global::Lottie.Forms.Resource.Attribute.colorControlHighlight = global::WordQuiz.Droid.Resource.Attribute.colorControlHighlight;
+			global::Lottie.Forms.Resource.Attribute.colorControlNormal = global::WordQuiz.Droid.Resource.Attribute.colorControlNormal;
+			global::Lottie.Forms.Resource.Attribute.colorError = global::WordQuiz.Droid.Resource.Attribute.colorError;
+			global::Lottie.Forms.Resource.Attribute.colorPrimary = global::WordQuiz.Droid.Resource.Attribute.colorPrimary;
+			global::Lottie.Forms.Resource.Attribute.colorPrimaryDark = global::WordQuiz.Droid.Resource.Attribute.colorPrimaryDark;
+			global::Lottie.Forms.Resource.Attribute.colorSecondary = global::WordQuiz.Droid.Resource.Attribute.colorSecondary;
+			global::Lottie.Forms.Resource.Attribute.colorSwitchThumbNormal = global::WordQuiz.Droid.Resource.Attribute.colorSwitchThumbNormal;
+			global::Lottie.Forms.Resource.Attribute.commitIcon = global::WordQuiz.Droid.Resource.Attribute.commitIcon;
+			global::Lottie.Forms.Resource.Attribute.contentDescription = global::WordQuiz.Droid.Resource.Attribute.contentDescription;
+			global::Lottie.Forms.Resource.Attribute.contentInsetEnd = global::WordQuiz.Droid.Resource.Attribute.contentInsetEnd;
+			global::Lottie.Forms.Resource.Attribute.contentInsetEndWithActions = global::WordQuiz.Droid.Resource.Attribute.contentInsetEndWithActions;
+			global::Lottie.Forms.Resource.Attribute.contentInsetLeft = global::WordQuiz.Droid.Resource.Attribute.contentInsetLeft;
+			global::Lottie.Forms.Resource.Attribute.contentInsetRight = global::WordQuiz.Droid.Resource.Attribute.contentInsetRight;
+			global::Lottie.Forms.Resource.Attribute.contentInsetStart = global::WordQuiz.Droid.Resource.Attribute.contentInsetStart;
+			global::Lottie.Forms.Resource.Attribute.contentInsetStartWithNavigation = global::WordQuiz.Droid.Resource.Attribute.contentInsetStartWithNavigation;
+			global::Lottie.Forms.Resource.Attribute.contentPadding = global::WordQuiz.Droid.Resource.Attribute.contentPadding;
+			global::Lottie.Forms.Resource.Attribute.contentPaddingBottom = global::WordQuiz.Droid.Resource.Attribute.contentPaddingBottom;
+			global::Lottie.Forms.Resource.Attribute.contentPaddingLeft = global::WordQuiz.Droid.Resource.Attribute.contentPaddingLeft;
+			global::Lottie.Forms.Resource.Attribute.contentPaddingRight = global::WordQuiz.Droid.Resource.Attribute.contentPaddingRight;
+			global::Lottie.Forms.Resource.Attribute.contentPaddingTop = global::WordQuiz.Droid.Resource.Attribute.contentPaddingTop;
+			global::Lottie.Forms.Resource.Attribute.contentScrim = global::WordQuiz.Droid.Resource.Attribute.contentScrim;
+			global::Lottie.Forms.Resource.Attribute.controlBackground = global::WordQuiz.Droid.Resource.Attribute.controlBackground;
+			global::Lottie.Forms.Resource.Attribute.coordinatorLayoutStyle = global::WordQuiz.Droid.Resource.Attribute.coordinatorLayoutStyle;
+			global::Lottie.Forms.Resource.Attribute.cornerRadius = global::WordQuiz.Droid.Resource.Attribute.cornerRadius;
+			global::Lottie.Forms.Resource.Attribute.counterEnabled = global::WordQuiz.Droid.Resource.Attribute.counterEnabled;
+			global::Lottie.Forms.Resource.Attribute.counterMaxLength = global::WordQuiz.Droid.Resource.Attribute.counterMaxLength;
+			global::Lottie.Forms.Resource.Attribute.counterOverflowTextAppearance = global::WordQuiz.Droid.Resource.Attribute.counterOverflowTextAppearance;
+			global::Lottie.Forms.Resource.Attribute.counterTextAppearance = global::WordQuiz.Droid.Resource.Attribute.counterTextAppearance;
+			global::Lottie.Forms.Resource.Attribute.customNavigationLayout = global::WordQuiz.Droid.Resource.Attribute.customNavigationLayout;
+			global::Lottie.Forms.Resource.Attribute.defaultQueryHint = global::WordQuiz.Droid.Resource.Attribute.defaultQueryHint;
+			global::Lottie.Forms.Resource.Attribute.dialogCornerRadius = global::WordQuiz.Droid.Resource.Attribute.dialogCornerRadius;
+			global::Lottie.Forms.Resource.Attribute.dialogPreferredPadding = global::WordQuiz.Droid.Resource.Attribute.dialogPreferredPadding;
+			global::Lottie.Forms.Resource.Attribute.dialogTheme = global::WordQuiz.Droid.Resource.Attribute.dialogTheme;
+			global::Lottie.Forms.Resource.Attribute.displayOptions = global::WordQuiz.Droid.Resource.Attribute.displayOptions;
+			global::Lottie.Forms.Resource.Attribute.divider = global::WordQuiz.Droid.Resource.Attribute.divider;
+			global::Lottie.Forms.Resource.Attribute.dividerHorizontal = global::WordQuiz.Droid.Resource.Attribute.dividerHorizontal;
+			global::Lottie.Forms.Resource.Attribute.dividerPadding = global::WordQuiz.Droid.Resource.Attribute.dividerPadding;
+			global::Lottie.Forms.Resource.Attribute.dividerVertical = global::WordQuiz.Droid.Resource.Attribute.dividerVertical;
+			global::Lottie.Forms.Resource.Attribute.drawableBottomCompat = global::WordQuiz.Droid.Resource.Attribute.drawableBottomCompat;
+			global::Lottie.Forms.Resource.Attribute.drawableEndCompat = global::WordQuiz.Droid.Resource.Attribute.drawableEndCompat;
+			global::Lottie.Forms.Resource.Attribute.drawableLeftCompat = global::WordQuiz.Droid.Resource.Attribute.drawableLeftCompat;
+			global::Lottie.Forms.Resource.Attribute.drawableRightCompat = global::WordQuiz.Droid.Resource.Attribute.drawableRightCompat;
+			global::Lottie.Forms.Resource.Attribute.drawableSize = global::WordQuiz.Droid.Resource.Attribute.drawableSize;
+			global::Lottie.Forms.Resource.Attribute.drawableStartCompat = global::WordQuiz.Droid.Resource.Attribute.drawableStartCompat;
+			global::Lottie.Forms.Resource.Attribute.drawableTint = global::WordQuiz.Droid.Resource.Attribute.drawableTint;
+			global::Lottie.Forms.Resource.Attribute.drawableTintMode = global::WordQuiz.Droid.Resource.Attribute.drawableTintMode;
+			global::Lottie.Forms.Resource.Attribute.drawableTopCompat = global::WordQuiz.Droid.Resource.Attribute.drawableTopCompat;
+			global::Lottie.Forms.Resource.Attribute.drawerArrowStyle = global::WordQuiz.Droid.Resource.Attribute.drawerArrowStyle;
+			global::Lottie.Forms.Resource.Attribute.dropdownListPreferredItemHeight = global::WordQuiz.Droid.Resource.Attribute.dropdownListPreferredItemHeight;
+			global::Lottie.Forms.Resource.Attribute.dropDownListViewStyle = global::WordQuiz.Droid.Resource.Attribute.dropDownListViewStyle;
+			global::Lottie.Forms.Resource.Attribute.editTextBackground = global::WordQuiz.Droid.Resource.Attribute.editTextBackground;
+			global::Lottie.Forms.Resource.Attribute.editTextColor = global::WordQuiz.Droid.Resource.Attribute.editTextColor;
+			global::Lottie.Forms.Resource.Attribute.editTextStyle = global::WordQuiz.Droid.Resource.Attribute.editTextStyle;
+			global::Lottie.Forms.Resource.Attribute.elevation = global::WordQuiz.Droid.Resource.Attribute.elevation;
+			global::Lottie.Forms.Resource.Attribute.enforceMaterialTheme = global::WordQuiz.Droid.Resource.Attribute.enforceMaterialTheme;
+			global::Lottie.Forms.Resource.Attribute.enforceTextAppearance = global::WordQuiz.Droid.Resource.Attribute.enforceTextAppearance;
+			global::Lottie.Forms.Resource.Attribute.errorEnabled = global::WordQuiz.Droid.Resource.Attribute.errorEnabled;
+			global::Lottie.Forms.Resource.Attribute.errorTextAppearance = global::WordQuiz.Droid.Resource.Attribute.errorTextAppearance;
+			global::Lottie.Forms.Resource.Attribute.expandActivityOverflowButtonDrawable = global::WordQuiz.Droid.Resource.Attribute.expandActivityOverflowButtonDrawable;
+			global::Lottie.Forms.Resource.Attribute.expanded = global::WordQuiz.Droid.Resource.Attribute.expanded;
+			global::Lottie.Forms.Resource.Attribute.expandedTitleGravity = global::WordQuiz.Droid.Resource.Attribute.expandedTitleGravity;
+			global::Lottie.Forms.Resource.Attribute.expandedTitleMargin = global::WordQuiz.Droid.Resource.Attribute.expandedTitleMargin;
+			global::Lottie.Forms.Resource.Attribute.expandedTitleMarginBottom = global::WordQuiz.Droid.Resource.Attribute.expandedTitleMarginBottom;
+			global::Lottie.Forms.Resource.Attribute.expandedTitleMarginEnd = global::WordQuiz.Droid.Resource.Attribute.expandedTitleMarginEnd;
+			global::Lottie.Forms.Resource.Attribute.expandedTitleMarginStart = global::WordQuiz.Droid.Resource.Attribute.expandedTitleMarginStart;
+			global::Lottie.Forms.Resource.Attribute.expandedTitleMarginTop = global::WordQuiz.Droid.Resource.Attribute.expandedTitleMarginTop;
+			global::Lottie.Forms.Resource.Attribute.expandedTitleTextAppearance = global::WordQuiz.Droid.Resource.Attribute.expandedTitleTextAppearance;
+			global::Lottie.Forms.Resource.Attribute.fabAlignmentMode = global::WordQuiz.Droid.Resource.Attribute.fabAlignmentMode;
+			global::Lottie.Forms.Resource.Attribute.fabCradleMargin = global::WordQuiz.Droid.Resource.Attribute.fabCradleMargin;
+			global::Lottie.Forms.Resource.Attribute.fabCradleRoundedCornerRadius = global::WordQuiz.Droid.Resource.Attribute.fabCradleRoundedCornerRadius;
+			global::Lottie.Forms.Resource.Attribute.fabCradleVerticalOffset = global::WordQuiz.Droid.Resource.Attribute.fabCradleVerticalOffset;
+			global::Lottie.Forms.Resource.Attribute.fabCustomSize = global::WordQuiz.Droid.Resource.Attribute.fabCustomSize;
+			global::Lottie.Forms.Resource.Attribute.fabSize = global::WordQuiz.Droid.Resource.Attribute.fabSize;
+			global::Lottie.Forms.Resource.Attribute.fastScrollEnabled = global::WordQuiz.Droid.Resource.Attribute.fastScrollEnabled;
+			global::Lottie.Forms.Resource.Attribute.fastScrollHorizontalThumbDrawable = global::WordQuiz.Droid.Resource.Attribute.fastScrollHorizontalThumbDrawable;
+			global::Lottie.Forms.Resource.Attribute.fastScrollHorizontalTrackDrawable = global::WordQuiz.Droid.Resource.Attribute.fastScrollHorizontalTrackDrawable;
+			global::Lottie.Forms.Resource.Attribute.fastScrollVerticalThumbDrawable = global::WordQuiz.Droid.Resource.Attribute.fastScrollVerticalThumbDrawable;
+			global::Lottie.Forms.Resource.Attribute.fastScrollVerticalTrackDrawable = global::WordQuiz.Droid.Resource.Attribute.fastScrollVerticalTrackDrawable;
+			global::Lottie.Forms.Resource.Attribute.firstBaselineToTopHeight = global::WordQuiz.Droid.Resource.Attribute.firstBaselineToTopHeight;
+			global::Lottie.Forms.Resource.Attribute.floatingActionButtonStyle = global::WordQuiz.Droid.Resource.Attribute.floatingActionButtonStyle;
+			global::Lottie.Forms.Resource.Attribute.font = global::WordQuiz.Droid.Resource.Attribute.font;
+			global::Lottie.Forms.Resource.Attribute.fontFamily = global::WordQuiz.Droid.Resource.Attribute.fontFamily;
+			global::Lottie.Forms.Resource.Attribute.fontProviderAuthority = global::WordQuiz.Droid.Resource.Attribute.fontProviderAuthority;
+			global::Lottie.Forms.Resource.Attribute.fontProviderCerts = global::WordQuiz.Droid.Resource.Attribute.fontProviderCerts;
+			global::Lottie.Forms.Resource.Attribute.fontProviderFetchStrategy = global::WordQuiz.Droid.Resource.Attribute.fontProviderFetchStrategy;
+			global::Lottie.Forms.Resource.Attribute.fontProviderFetchTimeout = global::WordQuiz.Droid.Resource.Attribute.fontProviderFetchTimeout;
+			global::Lottie.Forms.Resource.Attribute.fontProviderPackage = global::WordQuiz.Droid.Resource.Attribute.fontProviderPackage;
+			global::Lottie.Forms.Resource.Attribute.fontProviderQuery = global::WordQuiz.Droid.Resource.Attribute.fontProviderQuery;
+			global::Lottie.Forms.Resource.Attribute.fontStyle = global::WordQuiz.Droid.Resource.Attribute.fontStyle;
+			global::Lottie.Forms.Resource.Attribute.fontVariationSettings = global::WordQuiz.Droid.Resource.Attribute.fontVariationSettings;
+			global::Lottie.Forms.Resource.Attribute.fontWeight = global::WordQuiz.Droid.Resource.Attribute.fontWeight;
+			global::Lottie.Forms.Resource.Attribute.foregroundInsidePadding = global::WordQuiz.Droid.Resource.Attribute.foregroundInsidePadding;
+			global::Lottie.Forms.Resource.Attribute.gapBetweenBars = global::WordQuiz.Droid.Resource.Attribute.gapBetweenBars;
+			global::Lottie.Forms.Resource.Attribute.goIcon = global::WordQuiz.Droid.Resource.Attribute.goIcon;
+			global::Lottie.Forms.Resource.Attribute.headerLayout = global::WordQuiz.Droid.Resource.Attribute.headerLayout;
+			global::Lottie.Forms.Resource.Attribute.height = global::WordQuiz.Droid.Resource.Attribute.height;
+			global::Lottie.Forms.Resource.Attribute.helperText = global::WordQuiz.Droid.Resource.Attribute.helperText;
+			global::Lottie.Forms.Resource.Attribute.helperTextEnabled = global::WordQuiz.Droid.Resource.Attribute.helperTextEnabled;
+			global::Lottie.Forms.Resource.Attribute.helperTextTextAppearance = global::WordQuiz.Droid.Resource.Attribute.helperTextTextAppearance;
+			global::Lottie.Forms.Resource.Attribute.hideMotionSpec = global::WordQuiz.Droid.Resource.Attribute.hideMotionSpec;
+			global::Lottie.Forms.Resource.Attribute.hideOnContentScroll = global::WordQuiz.Droid.Resource.Attribute.hideOnContentScroll;
+			global::Lottie.Forms.Resource.Attribute.hideOnScroll = global::WordQuiz.Droid.Resource.Attribute.hideOnScroll;
+			global::Lottie.Forms.Resource.Attribute.hintAnimationEnabled = global::WordQuiz.Droid.Resource.Attribute.hintAnimationEnabled;
+			global::Lottie.Forms.Resource.Attribute.hintEnabled = global::WordQuiz.Droid.Resource.Attribute.hintEnabled;
+			global::Lottie.Forms.Resource.Attribute.hintTextAppearance = global::WordQuiz.Droid.Resource.Attribute.hintTextAppearance;
+			global::Lottie.Forms.Resource.Attribute.homeAsUpIndicator = global::WordQuiz.Droid.Resource.Attribute.homeAsUpIndicator;
+			global::Lottie.Forms.Resource.Attribute.homeLayout = global::WordQuiz.Droid.Resource.Attribute.homeLayout;
+			global::Lottie.Forms.Resource.Attribute.hoveredFocusedTranslationZ = global::WordQuiz.Droid.Resource.Attribute.hoveredFocusedTranslationZ;
+			global::Lottie.Forms.Resource.Attribute.icon = global::WordQuiz.Droid.Resource.Attribute.icon;
+			global::Lottie.Forms.Resource.Attribute.iconEndPadding = global::WordQuiz.Droid.Resource.Attribute.iconEndPadding;
+			global::Lottie.Forms.Resource.Attribute.iconGravity = global::WordQuiz.Droid.Resource.Attribute.iconGravity;
+			global::Lottie.Forms.Resource.Attribute.iconifiedByDefault = global::WordQuiz.Droid.Resource.Attribute.iconifiedByDefault;
+			global::Lottie.Forms.Resource.Attribute.iconPadding = global::WordQuiz.Droid.Resource.Attribute.iconPadding;
+			global::Lottie.Forms.Resource.Attribute.iconSize = global::WordQuiz.Droid.Resource.Attribute.iconSize;
+			global::Lottie.Forms.Resource.Attribute.iconStartPadding = global::WordQuiz.Droid.Resource.Attribute.iconStartPadding;
+			global::Lottie.Forms.Resource.Attribute.iconTint = global::WordQuiz.Droid.Resource.Attribute.iconTint;
+			global::Lottie.Forms.Resource.Attribute.iconTintMode = global::WordQuiz.Droid.Resource.Attribute.iconTintMode;
+			global::Lottie.Forms.Resource.Attribute.imageButtonStyle = global::WordQuiz.Droid.Resource.Attribute.imageButtonStyle;
+			global::Lottie.Forms.Resource.Attribute.indeterminateProgressStyle = global::WordQuiz.Droid.Resource.Attribute.indeterminateProgressStyle;
+			global::Lottie.Forms.Resource.Attribute.initialActivityCount = global::WordQuiz.Droid.Resource.Attribute.initialActivityCount;
+			global::Lottie.Forms.Resource.Attribute.insetForeground = global::WordQuiz.Droid.Resource.Attribute.insetForeground;
+			global::Lottie.Forms.Resource.Attribute.isLightTheme = global::WordQuiz.Droid.Resource.Attribute.isLightTheme;
+			global::Lottie.Forms.Resource.Attribute.itemBackground = global::WordQuiz.Droid.Resource.Attribute.itemBackground;
+			global::Lottie.Forms.Resource.Attribute.itemHorizontalPadding = global::WordQuiz.Droid.Resource.Attribute.itemHorizontalPadding;
+			global::Lottie.Forms.Resource.Attribute.itemHorizontalTranslationEnabled = global::WordQuiz.Droid.Resource.Attribute.itemHorizontalTranslationEnabled;
+			global::Lottie.Forms.Resource.Attribute.itemIconPadding = global::WordQuiz.Droid.Resource.Attribute.itemIconPadding;
+			global::Lottie.Forms.Resource.Attribute.itemIconSize = global::WordQuiz.Droid.Resource.Attribute.itemIconSize;
+			global::Lottie.Forms.Resource.Attribute.itemIconTint = global::WordQuiz.Droid.Resource.Attribute.itemIconTint;
+			global::Lottie.Forms.Resource.Attribute.itemPadding = global::WordQuiz.Droid.Resource.Attribute.itemPadding;
+			global::Lottie.Forms.Resource.Attribute.itemSpacing = global::WordQuiz.Droid.Resource.Attribute.itemSpacing;
+			global::Lottie.Forms.Resource.Attribute.itemTextAppearance = global::WordQuiz.Droid.Resource.Attribute.itemTextAppearance;
+			global::Lottie.Forms.Resource.Attribute.itemTextAppearanceActive = global::WordQuiz.Droid.Resource.Attribute.itemTextAppearanceActive;
+			global::Lottie.Forms.Resource.Attribute.itemTextAppearanceInactive = global::WordQuiz.Droid.Resource.Attribute.itemTextAppearanceInactive;
+			global::Lottie.Forms.Resource.Attribute.itemTextColor = global::WordQuiz.Droid.Resource.Attribute.itemTextColor;
+			global::Lottie.Forms.Resource.Attribute.keylines = global::WordQuiz.Droid.Resource.Attribute.keylines;
+			global::Lottie.Forms.Resource.Attribute.labelVisibilityMode = global::WordQuiz.Droid.Resource.Attribute.labelVisibilityMode;
+			global::Lottie.Forms.Resource.Attribute.lastBaselineToBottomHeight = global::WordQuiz.Droid.Resource.Attribute.lastBaselineToBottomHeight;
+			global::Lottie.Forms.Resource.Attribute.layout = global::WordQuiz.Droid.Resource.Attribute.layout;
+			global::Lottie.Forms.Resource.Attribute.layoutManager = global::WordQuiz.Droid.Resource.Attribute.layoutManager;
+			global::Lottie.Forms.Resource.Attribute.layout_anchor = global::WordQuiz.Droid.Resource.Attribute.layout_anchor;
+			global::Lottie.Forms.Resource.Attribute.layout_anchorGravity = global::WordQuiz.Droid.Resource.Attribute.layout_anchorGravity;
+			global::Lottie.Forms.Resource.Attribute.layout_behavior = global::WordQuiz.Droid.Resource.Attribute.layout_behavior;
+			global::Lottie.Forms.Resource.Attribute.layout_collapseMode = global::WordQuiz.Droid.Resource.Attribute.layout_collapseMode;
+			global::Lottie.Forms.Resource.Attribute.layout_collapseParallaxMultiplier = global::WordQuiz.Droid.Resource.Attribute.layout_collapseParallaxMultiplier;
+			global::Lottie.Forms.Resource.Attribute.layout_dodgeInsetEdges = global::WordQuiz.Droid.Resource.Attribute.layout_dodgeInsetEdges;
+			global::Lottie.Forms.Resource.Attribute.layout_insetEdge = global::WordQuiz.Droid.Resource.Attribute.layout_insetEdge;
+			global::Lottie.Forms.Resource.Attribute.layout_keyline = global::WordQuiz.Droid.Resource.Attribute.layout_keyline;
+			global::Lottie.Forms.Resource.Attribute.layout_scrollFlags = global::WordQuiz.Droid.Resource.Attribute.layout_scrollFlags;
+			global::Lottie.Forms.Resource.Attribute.layout_scrollInterpolator = global::WordQuiz.Droid.Resource.Attribute.layout_scrollInterpolator;
+			global::Lottie.Forms.Resource.Attribute.liftOnScroll = global::WordQuiz.Droid.Resource.Attribute.liftOnScroll;
+			global::Lottie.Forms.Resource.Attribute.lineHeight = global::WordQuiz.Droid.Resource.Attribute.lineHeight;
+			global::Lottie.Forms.Resource.Attribute.lineSpacing = global::WordQuiz.Droid.Resource.Attribute.lineSpacing;
+			global::Lottie.Forms.Resource.Attribute.listChoiceBackgroundIndicator = global::WordQuiz.Droid.Resource.Attribute.listChoiceBackgroundIndicator;
+			global::Lottie.Forms.Resource.Attribute.listChoiceIndicatorMultipleAnimated = global::WordQuiz.Droid.Resource.Attribute.listChoiceIndicatorMultipleAnimated;
+			global::Lottie.Forms.Resource.Attribute.listChoiceIndicatorSingleAnimated = global::WordQuiz.Droid.Resource.Attribute.listChoiceIndicatorSingleAnimated;
+			global::Lottie.Forms.Resource.Attribute.listDividerAlertDialog = global::WordQuiz.Droid.Resource.Attribute.listDividerAlertDialog;
+			global::Lottie.Forms.Resource.Attribute.listItemLayout = global::WordQuiz.Droid.Resource.Attribute.listItemLayout;
+			global::Lottie.Forms.Resource.Attribute.listLayout = global::WordQuiz.Droid.Resource.Attribute.listLayout;
+			global::Lottie.Forms.Resource.Attribute.listMenuViewStyle = global::WordQuiz.Droid.Resource.Attribute.listMenuViewStyle;
+			global::Lottie.Forms.Resource.Attribute.listPopupWindowStyle = global::WordQuiz.Droid.Resource.Attribute.listPopupWindowStyle;
+			global::Lottie.Forms.Resource.Attribute.listPreferredItemHeight = global::WordQuiz.Droid.Resource.Attribute.listPreferredItemHeight;
+			global::Lottie.Forms.Resource.Attribute.listPreferredItemHeightLarge = global::WordQuiz.Droid.Resource.Attribute.listPreferredItemHeightLarge;
+			global::Lottie.Forms.Resource.Attribute.listPreferredItemHeightSmall = global::WordQuiz.Droid.Resource.Attribute.listPreferredItemHeightSmall;
+			global::Lottie.Forms.Resource.Attribute.listPreferredItemPaddingEnd = global::WordQuiz.Droid.Resource.Attribute.listPreferredItemPaddingEnd;
+			global::Lottie.Forms.Resource.Attribute.listPreferredItemPaddingLeft = global::WordQuiz.Droid.Resource.Attribute.listPreferredItemPaddingLeft;
+			global::Lottie.Forms.Resource.Attribute.listPreferredItemPaddingRight = global::WordQuiz.Droid.Resource.Attribute.listPreferredItemPaddingRight;
+			global::Lottie.Forms.Resource.Attribute.listPreferredItemPaddingStart = global::WordQuiz.Droid.Resource.Attribute.listPreferredItemPaddingStart;
+			global::Lottie.Forms.Resource.Attribute.logo = global::WordQuiz.Droid.Resource.Attribute.logo;
+			global::Lottie.Forms.Resource.Attribute.logoDescription = global::WordQuiz.Droid.Resource.Attribute.logoDescription;
+			global::Lottie.Forms.Resource.Attribute.lottieAnimationViewStyle = global::WordQuiz.Droid.Resource.Attribute.lottieAnimationViewStyle;
+			global::Lottie.Forms.Resource.Attribute.lottie_autoPlay = global::WordQuiz.Droid.Resource.Attribute.lottie_autoPlay;
+			global::Lottie.Forms.Resource.Attribute.lottie_cacheComposition = global::WordQuiz.Droid.Resource.Attribute.lottie_cacheComposition;
+			global::Lottie.Forms.Resource.Attribute.lottie_colorFilter = global::WordQuiz.Droid.Resource.Attribute.lottie_colorFilter;
+			global::Lottie.Forms.Resource.Attribute.lottie_enableMergePathsForKitKatAndAbove = global::WordQuiz.Droid.Resource.Attribute.lottie_enableMergePathsForKitKatAndAbove;
+			global::Lottie.Forms.Resource.Attribute.lottie_fallbackRes = global::WordQuiz.Droid.Resource.Attribute.lottie_fallbackRes;
+			global::Lottie.Forms.Resource.Attribute.lottie_fileName = global::WordQuiz.Droid.Resource.Attribute.lottie_fileName;
+			global::Lottie.Forms.Resource.Attribute.lottie_imageAssetsFolder = global::WordQuiz.Droid.Resource.Attribute.lottie_imageAssetsFolder;
+			global::Lottie.Forms.Resource.Attribute.lottie_loop = global::WordQuiz.Droid.Resource.Attribute.lottie_loop;
+			global::Lottie.Forms.Resource.Attribute.lottie_progress = global::WordQuiz.Droid.Resource.Attribute.lottie_progress;
+			global::Lottie.Forms.Resource.Attribute.lottie_rawRes = global::WordQuiz.Droid.Resource.Attribute.lottie_rawRes;
+			global::Lottie.Forms.Resource.Attribute.lottie_renderMode = global::WordQuiz.Droid.Resource.Attribute.lottie_renderMode;
+			global::Lottie.Forms.Resource.Attribute.lottie_repeatCount = global::WordQuiz.Droid.Resource.Attribute.lottie_repeatCount;
+			global::Lottie.Forms.Resource.Attribute.lottie_repeatMode = global::WordQuiz.Droid.Resource.Attribute.lottie_repeatMode;
+			global::Lottie.Forms.Resource.Attribute.lottie_scale = global::WordQuiz.Droid.Resource.Attribute.lottie_scale;
+			global::Lottie.Forms.Resource.Attribute.lottie_speed = global::WordQuiz.Droid.Resource.Attribute.lottie_speed;
+			global::Lottie.Forms.Resource.Attribute.lottie_url = global::WordQuiz.Droid.Resource.Attribute.lottie_url;
+			global::Lottie.Forms.Resource.Attribute.materialButtonStyle = global::WordQuiz.Droid.Resource.Attribute.materialButtonStyle;
+			global::Lottie.Forms.Resource.Attribute.materialCardViewStyle = global::WordQuiz.Droid.Resource.Attribute.materialCardViewStyle;
+			global::Lottie.Forms.Resource.Attribute.maxActionInlineWidth = global::WordQuiz.Droid.Resource.Attribute.maxActionInlineWidth;
+			global::Lottie.Forms.Resource.Attribute.maxButtonHeight = global::WordQuiz.Droid.Resource.Attribute.maxButtonHeight;
+			global::Lottie.Forms.Resource.Attribute.maxImageSize = global::WordQuiz.Droid.Resource.Attribute.maxImageSize;
+			global::Lottie.Forms.Resource.Attribute.measureWithLargestChild = global::WordQuiz.Droid.Resource.Attribute.measureWithLargestChild;
+			global::Lottie.Forms.Resource.Attribute.menu = global::WordQuiz.Droid.Resource.Attribute.menu;
+			global::Lottie.Forms.Resource.Attribute.multiChoiceItemLayout = global::WordQuiz.Droid.Resource.Attribute.multiChoiceItemLayout;
+			global::Lottie.Forms.Resource.Attribute.navigationContentDescription = global::WordQuiz.Droid.Resource.Attribute.navigationContentDescription;
+			global::Lottie.Forms.Resource.Attribute.navigationIcon = global::WordQuiz.Droid.Resource.Attribute.navigationIcon;
+			global::Lottie.Forms.Resource.Attribute.navigationMode = global::WordQuiz.Droid.Resource.Attribute.navigationMode;
+			global::Lottie.Forms.Resource.Attribute.navigationViewStyle = global::WordQuiz.Droid.Resource.Attribute.navigationViewStyle;
+			global::Lottie.Forms.Resource.Attribute.numericModifiers = global::WordQuiz.Droid.Resource.Attribute.numericModifiers;
+			global::Lottie.Forms.Resource.Attribute.overlapAnchor = global::WordQuiz.Droid.Resource.Attribute.overlapAnchor;
+			global::Lottie.Forms.Resource.Attribute.paddingBottomNoButtons = global::WordQuiz.Droid.Resource.Attribute.paddingBottomNoButtons;
+			global::Lottie.Forms.Resource.Attribute.paddingEnd = global::WordQuiz.Droid.Resource.Attribute.paddingEnd;
+			global::Lottie.Forms.Resource.Attribute.paddingStart = global::WordQuiz.Droid.Resource.Attribute.paddingStart;
+			global::Lottie.Forms.Resource.Attribute.paddingTopNoTitle = global::WordQuiz.Droid.Resource.Attribute.paddingTopNoTitle;
+			global::Lottie.Forms.Resource.Attribute.panelBackground = global::WordQuiz.Droid.Resource.Attribute.panelBackground;
+			global::Lottie.Forms.Resource.Attribute.panelMenuListTheme = global::WordQuiz.Droid.Resource.Attribute.panelMenuListTheme;
+			global::Lottie.Forms.Resource.Attribute.panelMenuListWidth = global::WordQuiz.Droid.Resource.Attribute.panelMenuListWidth;
+			global::Lottie.Forms.Resource.Attribute.passwordToggleContentDescription = global::WordQuiz.Droid.Resource.Attribute.passwordToggleContentDescription;
+			global::Lottie.Forms.Resource.Attribute.passwordToggleDrawable = global::WordQuiz.Droid.Resource.Attribute.passwordToggleDrawable;
+			global::Lottie.Forms.Resource.Attribute.passwordToggleEnabled = global::WordQuiz.Droid.Resource.Attribute.passwordToggleEnabled;
+			global::Lottie.Forms.Resource.Attribute.passwordToggleTint = global::WordQuiz.Droid.Resource.Attribute.passwordToggleTint;
+			global::Lottie.Forms.Resource.Attribute.passwordToggleTintMode = global::WordQuiz.Droid.Resource.Attribute.passwordToggleTintMode;
+			global::Lottie.Forms.Resource.Attribute.popupMenuStyle = global::WordQuiz.Droid.Resource.Attribute.popupMenuStyle;
+			global::Lottie.Forms.Resource.Attribute.popupTheme = global::WordQuiz.Droid.Resource.Attribute.popupTheme;
+			global::Lottie.Forms.Resource.Attribute.popupWindowStyle = global::WordQuiz.Droid.Resource.Attribute.popupWindowStyle;
+			global::Lottie.Forms.Resource.Attribute.preserveIconSpacing = global::WordQuiz.Droid.Resource.Attribute.preserveIconSpacing;
+			global::Lottie.Forms.Resource.Attribute.pressedTranslationZ = global::WordQuiz.Droid.Resource.Attribute.pressedTranslationZ;
+			global::Lottie.Forms.Resource.Attribute.progressBarPadding = global::WordQuiz.Droid.Resource.Attribute.progressBarPadding;
+			global::Lottie.Forms.Resource.Attribute.progressBarStyle = global::WordQuiz.Droid.Resource.Attribute.progressBarStyle;
+			global::Lottie.Forms.Resource.Attribute.queryBackground = global::WordQuiz.Droid.Resource.Attribute.queryBackground;
+			global::Lottie.Forms.Resource.Attribute.queryHint = global::WordQuiz.Droid.Resource.Attribute.queryHint;
+			global::Lottie.Forms.Resource.Attribute.radioButtonStyle = global::WordQuiz.Droid.Resource.Attribute.radioButtonStyle;
+			global::Lottie.Forms.Resource.Attribute.ratingBarStyle = global::WordQuiz.Droid.Resource.Attribute.ratingBarStyle;
+			global::Lottie.Forms.Resource.Attribute.ratingBarStyleIndicator = global::WordQuiz.Droid.Resource.Attribute.ratingBarStyleIndicator;
+			global::Lottie.Forms.Resource.Attribute.ratingBarStyleSmall = global::WordQuiz.Droid.Resource.Attribute.ratingBarStyleSmall;
+			global::Lottie.Forms.Resource.Attribute.recyclerViewStyle = global::WordQuiz.Droid.Resource.Attribute.recyclerViewStyle;
+			global::Lottie.Forms.Resource.Attribute.reverseLayout = global::WordQuiz.Droid.Resource.Attribute.reverseLayout;
+			global::Lottie.Forms.Resource.Attribute.rippleColor = global::WordQuiz.Droid.Resource.Attribute.rippleColor;
+			global::Lottie.Forms.Resource.Attribute.scrimAnimationDuration = global::WordQuiz.Droid.Resource.Attribute.scrimAnimationDuration;
+			global::Lottie.Forms.Resource.Attribute.scrimBackground = global::WordQuiz.Droid.Resource.Attribute.scrimBackground;
+			global::Lottie.Forms.Resource.Attribute.scrimVisibleHeightTrigger = global::WordQuiz.Droid.Resource.Attribute.scrimVisibleHeightTrigger;
+			global::Lottie.Forms.Resource.Attribute.searchHintIcon = global::WordQuiz.Droid.Resource.Attribute.searchHintIcon;
+			global::Lottie.Forms.Resource.Attribute.searchIcon = global::WordQuiz.Droid.Resource.Attribute.searchIcon;
+			global::Lottie.Forms.Resource.Attribute.searchViewStyle = global::WordQuiz.Droid.Resource.Attribute.searchViewStyle;
+			global::Lottie.Forms.Resource.Attribute.seekBarStyle = global::WordQuiz.Droid.Resource.Attribute.seekBarStyle;
+			global::Lottie.Forms.Resource.Attribute.selectableItemBackground = global::WordQuiz.Droid.Resource.Attribute.selectableItemBackground;
+			global::Lottie.Forms.Resource.Attribute.selectableItemBackgroundBorderless = global::WordQuiz.Droid.Resource.Attribute.selectableItemBackgroundBorderless;
+			global::Lottie.Forms.Resource.Attribute.showAsAction = global::WordQuiz.Droid.Resource.Attribute.showAsAction;
+			global::Lottie.Forms.Resource.Attribute.showDividers = global::WordQuiz.Droid.Resource.Attribute.showDividers;
+			global::Lottie.Forms.Resource.Attribute.showMotionSpec = global::WordQuiz.Droid.Resource.Attribute.showMotionSpec;
+			global::Lottie.Forms.Resource.Attribute.showText = global::WordQuiz.Droid.Resource.Attribute.showText;
+			global::Lottie.Forms.Resource.Attribute.showTitle = global::WordQuiz.Droid.Resource.Attribute.showTitle;
+			global::Lottie.Forms.Resource.Attribute.singleChoiceItemLayout = global::WordQuiz.Droid.Resource.Attribute.singleChoiceItemLayout;
+			global::Lottie.Forms.Resource.Attribute.singleLine = global::WordQuiz.Droid.Resource.Attribute.singleLine;
+			global::Lottie.Forms.Resource.Attribute.singleSelection = global::WordQuiz.Droid.Resource.Attribute.singleSelection;
+			global::Lottie.Forms.Resource.Attribute.snackbarButtonStyle = global::WordQuiz.Droid.Resource.Attribute.snackbarButtonStyle;
+			global::Lottie.Forms.Resource.Attribute.snackbarStyle = global::WordQuiz.Droid.Resource.Attribute.snackbarStyle;
+			global::Lottie.Forms.Resource.Attribute.spanCount = global::WordQuiz.Droid.Resource.Attribute.spanCount;
+			global::Lottie.Forms.Resource.Attribute.spinBars = global::WordQuiz.Droid.Resource.Attribute.spinBars;
+			global::Lottie.Forms.Resource.Attribute.spinnerDropDownItemStyle = global::WordQuiz.Droid.Resource.Attribute.spinnerDropDownItemStyle;
+			global::Lottie.Forms.Resource.Attribute.spinnerStyle = global::WordQuiz.Droid.Resource.Attribute.spinnerStyle;
+			global::Lottie.Forms.Resource.Attribute.splitTrack = global::WordQuiz.Droid.Resource.Attribute.splitTrack;
+			global::Lottie.Forms.Resource.Attribute.srcCompat = global::WordQuiz.Droid.Resource.Attribute.srcCompat;
+			global::Lottie.Forms.Resource.Attribute.stackFromEnd = global::WordQuiz.Droid.Resource.Attribute.stackFromEnd;
+			global::Lottie.Forms.Resource.Attribute.state_above_anchor = global::WordQuiz.Droid.Resource.Attribute.state_above_anchor;
+			global::Lottie.Forms.Resource.Attribute.state_collapsed = global::WordQuiz.Droid.Resource.Attribute.state_collapsed;
+			global::Lottie.Forms.Resource.Attribute.state_collapsible = global::WordQuiz.Droid.Resource.Attribute.state_collapsible;
+			global::Lottie.Forms.Resource.Attribute.state_liftable = global::WordQuiz.Droid.Resource.Attribute.state_liftable;
+			global::Lottie.Forms.Resource.Attribute.state_lifted = global::WordQuiz.Droid.Resource.Attribute.state_lifted;
+			global::Lottie.Forms.Resource.Attribute.statusBarBackground = global::WordQuiz.Droid.Resource.Attribute.statusBarBackground;
+			global::Lottie.Forms.Resource.Attribute.statusBarScrim = global::WordQuiz.Droid.Resource.Attribute.statusBarScrim;
+			global::Lottie.Forms.Resource.Attribute.strokeColor = global::WordQuiz.Droid.Resource.Attribute.strokeColor;
+			global::Lottie.Forms.Resource.Attribute.strokeWidth = global::WordQuiz.Droid.Resource.Attribute.strokeWidth;
+			global::Lottie.Forms.Resource.Attribute.subMenuArrow = global::WordQuiz.Droid.Resource.Attribute.subMenuArrow;
+			global::Lottie.Forms.Resource.Attribute.submitBackground = global::WordQuiz.Droid.Resource.Attribute.submitBackground;
+			global::Lottie.Forms.Resource.Attribute.subtitle = global::WordQuiz.Droid.Resource.Attribute.subtitle;
+			global::Lottie.Forms.Resource.Attribute.subtitleTextAppearance = global::WordQuiz.Droid.Resource.Attribute.subtitleTextAppearance;
+			global::Lottie.Forms.Resource.Attribute.subtitleTextColor = global::WordQuiz.Droid.Resource.Attribute.subtitleTextColor;
+			global::Lottie.Forms.Resource.Attribute.subtitleTextStyle = global::WordQuiz.Droid.Resource.Attribute.subtitleTextStyle;
+			global::Lottie.Forms.Resource.Attribute.suggestionRowLayout = global::WordQuiz.Droid.Resource.Attribute.suggestionRowLayout;
+			global::Lottie.Forms.Resource.Attribute.switchMinWidth = global::WordQuiz.Droid.Resource.Attribute.switchMinWidth;
+			global::Lottie.Forms.Resource.Attribute.switchPadding = global::WordQuiz.Droid.Resource.Attribute.switchPadding;
+			global::Lottie.Forms.Resource.Attribute.switchStyle = global::WordQuiz.Droid.Resource.Attribute.switchStyle;
+			global::Lottie.Forms.Resource.Attribute.switchTextAppearance = global::WordQuiz.Droid.Resource.Attribute.switchTextAppearance;
+			global::Lottie.Forms.Resource.Attribute.tabBackground = global::WordQuiz.Droid.Resource.Attribute.tabBackground;
+			global::Lottie.Forms.Resource.Attribute.tabContentStart = global::WordQuiz.Droid.Resource.Attribute.tabContentStart;
+			global::Lottie.Forms.Resource.Attribute.tabGravity = global::WordQuiz.Droid.Resource.Attribute.tabGravity;
+			global::Lottie.Forms.Resource.Attribute.tabIconTint = global::WordQuiz.Droid.Resource.Attribute.tabIconTint;
+			global::Lottie.Forms.Resource.Attribute.tabIconTintMode = global::WordQuiz.Droid.Resource.Attribute.tabIconTintMode;
+			global::Lottie.Forms.Resource.Attribute.tabIndicator = global::WordQuiz.Droid.Resource.Attribute.tabIndicator;
+			global::Lottie.Forms.Resource.Attribute.tabIndicatorAnimationDuration = global::WordQuiz.Droid.Resource.Attribute.tabIndicatorAnimationDuration;
+			global::Lottie.Forms.Resource.Attribute.tabIndicatorColor = global::WordQuiz.Droid.Resource.Attribute.tabIndicatorColor;
+			global::Lottie.Forms.Resource.Attribute.tabIndicatorFullWidth = global::WordQuiz.Droid.Resource.Attribute.tabIndicatorFullWidth;
+			global::Lottie.Forms.Resource.Attribute.tabIndicatorGravity = global::WordQuiz.Droid.Resource.Attribute.tabIndicatorGravity;
+			global::Lottie.Forms.Resource.Attribute.tabIndicatorHeight = global::WordQuiz.Droid.Resource.Attribute.tabIndicatorHeight;
+			global::Lottie.Forms.Resource.Attribute.tabInlineLabel = global::WordQuiz.Droid.Resource.Attribute.tabInlineLabel;
+			global::Lottie.Forms.Resource.Attribute.tabMaxWidth = global::WordQuiz.Droid.Resource.Attribute.tabMaxWidth;
+			global::Lottie.Forms.Resource.Attribute.tabMinWidth = global::WordQuiz.Droid.Resource.Attribute.tabMinWidth;
+			global::Lottie.Forms.Resource.Attribute.tabMode = global::WordQuiz.Droid.Resource.Attribute.tabMode;
+			global::Lottie.Forms.Resource.Attribute.tabPadding = global::WordQuiz.Droid.Resource.Attribute.tabPadding;
+			global::Lottie.Forms.Resource.Attribute.tabPaddingBottom = global::WordQuiz.Droid.Resource.Attribute.tabPaddingBottom;
+			global::Lottie.Forms.Resource.Attribute.tabPaddingEnd = global::WordQuiz.Droid.Resource.Attribute.tabPaddingEnd;
+			global::Lottie.Forms.Resource.Attribute.tabPaddingStart = global::WordQuiz.Droid.Resource.Attribute.tabPaddingStart;
+			global::Lottie.Forms.Resource.Attribute.tabPaddingTop = global::WordQuiz.Droid.Resource.Attribute.tabPaddingTop;
+			global::Lottie.Forms.Resource.Attribute.tabRippleColor = global::WordQuiz.Droid.Resource.Attribute.tabRippleColor;
+			global::Lottie.Forms.Resource.Attribute.tabSelectedTextColor = global::WordQuiz.Droid.Resource.Attribute.tabSelectedTextColor;
+			global::Lottie.Forms.Resource.Attribute.tabStyle = global::WordQuiz.Droid.Resource.Attribute.tabStyle;
+			global::Lottie.Forms.Resource.Attribute.tabTextAppearance = global::WordQuiz.Droid.Resource.Attribute.tabTextAppearance;
+			global::Lottie.Forms.Resource.Attribute.tabTextColor = global::WordQuiz.Droid.Resource.Attribute.tabTextColor;
+			global::Lottie.Forms.Resource.Attribute.tabUnboundedRipple = global::WordQuiz.Droid.Resource.Attribute.tabUnboundedRipple;
+			global::Lottie.Forms.Resource.Attribute.textAllCaps = global::WordQuiz.Droid.Resource.Attribute.textAllCaps;
+			global::Lottie.Forms.Resource.Attribute.textAppearanceBody1 = global::WordQuiz.Droid.Resource.Attribute.textAppearanceBody1;
+			global::Lottie.Forms.Resource.Attribute.textAppearanceBody2 = global::WordQuiz.Droid.Resource.Attribute.textAppearanceBody2;
+			global::Lottie.Forms.Resource.Attribute.textAppearanceButton = global::WordQuiz.Droid.Resource.Attribute.textAppearanceButton;
+			global::Lottie.Forms.Resource.Attribute.textAppearanceCaption = global::WordQuiz.Droid.Resource.Attribute.textAppearanceCaption;
+			global::Lottie.Forms.Resource.Attribute.textAppearanceHeadline1 = global::WordQuiz.Droid.Resource.Attribute.textAppearanceHeadline1;
+			global::Lottie.Forms.Resource.Attribute.textAppearanceHeadline2 = global::WordQuiz.Droid.Resource.Attribute.textAppearanceHeadline2;
+			global::Lottie.Forms.Resource.Attribute.textAppearanceHeadline3 = global::WordQuiz.Droid.Resource.Attribute.textAppearanceHeadline3;
+			global::Lottie.Forms.Resource.Attribute.textAppearanceHeadline4 = global::WordQuiz.Droid.Resource.Attribute.textAppearanceHeadline4;
+			global::Lottie.Forms.Resource.Attribute.textAppearanceHeadline5 = global::WordQuiz.Droid.Resource.Attribute.textAppearanceHeadline5;
+			global::Lottie.Forms.Resource.Attribute.textAppearanceHeadline6 = global::WordQuiz.Droid.Resource.Attribute.textAppearanceHeadline6;
+			global::Lottie.Forms.Resource.Attribute.textAppearanceLargePopupMenu = global::WordQuiz.Droid.Resource.Attribute.textAppearanceLargePopupMenu;
+			global::Lottie.Forms.Resource.Attribute.textAppearanceListItem = global::WordQuiz.Droid.Resource.Attribute.textAppearanceListItem;
+			global::Lottie.Forms.Resource.Attribute.textAppearanceListItemSecondary = global::WordQuiz.Droid.Resource.Attribute.textAppearanceListItemSecondary;
+			global::Lottie.Forms.Resource.Attribute.textAppearanceListItemSmall = global::WordQuiz.Droid.Resource.Attribute.textAppearanceListItemSmall;
+			global::Lottie.Forms.Resource.Attribute.textAppearanceOverline = global::WordQuiz.Droid.Resource.Attribute.textAppearanceOverline;
+			global::Lottie.Forms.Resource.Attribute.textAppearancePopupMenuHeader = global::WordQuiz.Droid.Resource.Attribute.textAppearancePopupMenuHeader;
+			global::Lottie.Forms.Resource.Attribute.textAppearanceSearchResultSubtitle = global::WordQuiz.Droid.Resource.Attribute.textAppearanceSearchResultSubtitle;
+			global::Lottie.Forms.Resource.Attribute.textAppearanceSearchResultTitle = global::WordQuiz.Droid.Resource.Attribute.textAppearanceSearchResultTitle;
+			global::Lottie.Forms.Resource.Attribute.textAppearanceSmallPopupMenu = global::WordQuiz.Droid.Resource.Attribute.textAppearanceSmallPopupMenu;
+			global::Lottie.Forms.Resource.Attribute.textAppearanceSubtitle1 = global::WordQuiz.Droid.Resource.Attribute.textAppearanceSubtitle1;
+			global::Lottie.Forms.Resource.Attribute.textAppearanceSubtitle2 = global::WordQuiz.Droid.Resource.Attribute.textAppearanceSubtitle2;
+			global::Lottie.Forms.Resource.Attribute.textColorAlertDialogListItem = global::WordQuiz.Droid.Resource.Attribute.textColorAlertDialogListItem;
+			global::Lottie.Forms.Resource.Attribute.textColorSearchUrl = global::WordQuiz.Droid.Resource.Attribute.textColorSearchUrl;
+			global::Lottie.Forms.Resource.Attribute.textEndPadding = global::WordQuiz.Droid.Resource.Attribute.textEndPadding;
+			global::Lottie.Forms.Resource.Attribute.textInputStyle = global::WordQuiz.Droid.Resource.Attribute.textInputStyle;
+			global::Lottie.Forms.Resource.Attribute.textLocale = global::WordQuiz.Droid.Resource.Attribute.textLocale;
+			global::Lottie.Forms.Resource.Attribute.textStartPadding = global::WordQuiz.Droid.Resource.Attribute.textStartPadding;
+			global::Lottie.Forms.Resource.Attribute.theme = global::WordQuiz.Droid.Resource.Attribute.theme;
+			global::Lottie.Forms.Resource.Attribute.thickness = global::WordQuiz.Droid.Resource.Attribute.thickness;
+			global::Lottie.Forms.Resource.Attribute.thumbTextPadding = global::WordQuiz.Droid.Resource.Attribute.thumbTextPadding;
+			global::Lottie.Forms.Resource.Attribute.thumbTint = global::WordQuiz.Droid.Resource.Attribute.thumbTint;
+			global::Lottie.Forms.Resource.Attribute.thumbTintMode = global::WordQuiz.Droid.Resource.Attribute.thumbTintMode;
+			global::Lottie.Forms.Resource.Attribute.tickMark = global::WordQuiz.Droid.Resource.Attribute.tickMark;
+			global::Lottie.Forms.Resource.Attribute.tickMarkTint = global::WordQuiz.Droid.Resource.Attribute.tickMarkTint;
+			global::Lottie.Forms.Resource.Attribute.tickMarkTintMode = global::WordQuiz.Droid.Resource.Attribute.tickMarkTintMode;
+			global::Lottie.Forms.Resource.Attribute.tint = global::WordQuiz.Droid.Resource.Attribute.tint;
+			global::Lottie.Forms.Resource.Attribute.tintMode = global::WordQuiz.Droid.Resource.Attribute.tintMode;
+			global::Lottie.Forms.Resource.Attribute.title = global::WordQuiz.Droid.Resource.Attribute.title;
+			global::Lottie.Forms.Resource.Attribute.titleEnabled = global::WordQuiz.Droid.Resource.Attribute.titleEnabled;
+			global::Lottie.Forms.Resource.Attribute.titleMargin = global::WordQuiz.Droid.Resource.Attribute.titleMargin;
+			global::Lottie.Forms.Resource.Attribute.titleMarginBottom = global::WordQuiz.Droid.Resource.Attribute.titleMarginBottom;
+			global::Lottie.Forms.Resource.Attribute.titleMarginEnd = global::WordQuiz.Droid.Resource.Attribute.titleMarginEnd;
+			global::Lottie.Forms.Resource.Attribute.titleMargins = global::WordQuiz.Droid.Resource.Attribute.titleMargins;
+			global::Lottie.Forms.Resource.Attribute.titleMarginStart = global::WordQuiz.Droid.Resource.Attribute.titleMarginStart;
+			global::Lottie.Forms.Resource.Attribute.titleMarginTop = global::WordQuiz.Droid.Resource.Attribute.titleMarginTop;
+			global::Lottie.Forms.Resource.Attribute.titleTextAppearance = global::WordQuiz.Droid.Resource.Attribute.titleTextAppearance;
+			global::Lottie.Forms.Resource.Attribute.titleTextColor = global::WordQuiz.Droid.Resource.Attribute.titleTextColor;
+			global::Lottie.Forms.Resource.Attribute.titleTextStyle = global::WordQuiz.Droid.Resource.Attribute.titleTextStyle;
+			global::Lottie.Forms.Resource.Attribute.toolbarId = global::WordQuiz.Droid.Resource.Attribute.toolbarId;
+			global::Lottie.Forms.Resource.Attribute.toolbarNavigationButtonStyle = global::WordQuiz.Droid.Resource.Attribute.toolbarNavigationButtonStyle;
+			global::Lottie.Forms.Resource.Attribute.toolbarStyle = global::WordQuiz.Droid.Resource.Attribute.toolbarStyle;
+			global::Lottie.Forms.Resource.Attribute.tooltipForegroundColor = global::WordQuiz.Droid.Resource.Attribute.tooltipForegroundColor;
+			global::Lottie.Forms.Resource.Attribute.tooltipFrameBackground = global::WordQuiz.Droid.Resource.Attribute.tooltipFrameBackground;
+			global::Lottie.Forms.Resource.Attribute.tooltipText = global::WordQuiz.Droid.Resource.Attribute.tooltipText;
+			global::Lottie.Forms.Resource.Attribute.track = global::WordQuiz.Droid.Resource.Attribute.track;
+			global::Lottie.Forms.Resource.Attribute.trackTint = global::WordQuiz.Droid.Resource.Attribute.trackTint;
+			global::Lottie.Forms.Resource.Attribute.trackTintMode = global::WordQuiz.Droid.Resource.Attribute.trackTintMode;
+			global::Lottie.Forms.Resource.Attribute.ttcIndex = global::WordQuiz.Droid.Resource.Attribute.ttcIndex;
+			global::Lottie.Forms.Resource.Attribute.useCompatPadding = global::WordQuiz.Droid.Resource.Attribute.useCompatPadding;
+			global::Lottie.Forms.Resource.Attribute.viewInflaterClass = global::WordQuiz.Droid.Resource.Attribute.viewInflaterClass;
+			global::Lottie.Forms.Resource.Attribute.voiceIcon = global::WordQuiz.Droid.Resource.Attribute.voiceIcon;
+			global::Lottie.Forms.Resource.Attribute.windowActionBar = global::WordQuiz.Droid.Resource.Attribute.windowActionBar;
+			global::Lottie.Forms.Resource.Attribute.windowActionBarOverlay = global::WordQuiz.Droid.Resource.Attribute.windowActionBarOverlay;
+			global::Lottie.Forms.Resource.Attribute.windowActionModeOverlay = global::WordQuiz.Droid.Resource.Attribute.windowActionModeOverlay;
+			global::Lottie.Forms.Resource.Attribute.windowFixedHeightMajor = global::WordQuiz.Droid.Resource.Attribute.windowFixedHeightMajor;
+			global::Lottie.Forms.Resource.Attribute.windowFixedHeightMinor = global::WordQuiz.Droid.Resource.Attribute.windowFixedHeightMinor;
+			global::Lottie.Forms.Resource.Attribute.windowFixedWidthMajor = global::WordQuiz.Droid.Resource.Attribute.windowFixedWidthMajor;
+			global::Lottie.Forms.Resource.Attribute.windowFixedWidthMinor = global::WordQuiz.Droid.Resource.Attribute.windowFixedWidthMinor;
+			global::Lottie.Forms.Resource.Attribute.windowMinWidthMajor = global::WordQuiz.Droid.Resource.Attribute.windowMinWidthMajor;
+			global::Lottie.Forms.Resource.Attribute.windowMinWidthMinor = global::WordQuiz.Droid.Resource.Attribute.windowMinWidthMinor;
+			global::Lottie.Forms.Resource.Attribute.windowNoTitle = global::WordQuiz.Droid.Resource.Attribute.windowNoTitle;
+			global::Lottie.Forms.Resource.Boolean.abc_action_bar_embed_tabs = global::WordQuiz.Droid.Resource.Boolean.abc_action_bar_embed_tabs;
+			global::Lottie.Forms.Resource.Boolean.abc_allow_stacked_button_bar = global::WordQuiz.Droid.Resource.Boolean.abc_allow_stacked_button_bar;
+			global::Lottie.Forms.Resource.Boolean.abc_config_actionMenuItemAllCaps = global::WordQuiz.Droid.Resource.Boolean.abc_config_actionMenuItemAllCaps;
+			global::Lottie.Forms.Resource.Boolean.mtrl_btn_textappearance_all_caps = global::WordQuiz.Droid.Resource.Boolean.mtrl_btn_textappearance_all_caps;
+			global::Lottie.Forms.Resource.Color.abc_background_cache_hint_selector_material_dark = global::WordQuiz.Droid.Resource.Color.abc_background_cache_hint_selector_material_dark;
+			global::Lottie.Forms.Resource.Color.abc_background_cache_hint_selector_material_light = global::WordQuiz.Droid.Resource.Color.abc_background_cache_hint_selector_material_light;
+			global::Lottie.Forms.Resource.Color.abc_btn_colored_borderless_text_material = global::WordQuiz.Droid.Resource.Color.abc_btn_colored_borderless_text_material;
+			global::Lottie.Forms.Resource.Color.abc_btn_colored_text_material = global::WordQuiz.Droid.Resource.Color.abc_btn_colored_text_material;
+			global::Lottie.Forms.Resource.Color.abc_color_highlight_material = global::WordQuiz.Droid.Resource.Color.abc_color_highlight_material;
+			global::Lottie.Forms.Resource.Color.abc_hint_foreground_material_dark = global::WordQuiz.Droid.Resource.Color.abc_hint_foreground_material_dark;
+			global::Lottie.Forms.Resource.Color.abc_hint_foreground_material_light = global::WordQuiz.Droid.Resource.Color.abc_hint_foreground_material_light;
+			global::Lottie.Forms.Resource.Color.abc_input_method_navigation_guard = global::WordQuiz.Droid.Resource.Color.abc_input_method_navigation_guard;
+			global::Lottie.Forms.Resource.Color.abc_primary_text_disable_only_material_dark = global::WordQuiz.Droid.Resource.Color.abc_primary_text_disable_only_material_dark;
+			global::Lottie.Forms.Resource.Color.abc_primary_text_disable_only_material_light = global::WordQuiz.Droid.Resource.Color.abc_primary_text_disable_only_material_light;
+			global::Lottie.Forms.Resource.Color.abc_primary_text_material_dark = global::WordQuiz.Droid.Resource.Color.abc_primary_text_material_dark;
+			global::Lottie.Forms.Resource.Color.abc_primary_text_material_light = global::WordQuiz.Droid.Resource.Color.abc_primary_text_material_light;
+			global::Lottie.Forms.Resource.Color.abc_search_url_text = global::WordQuiz.Droid.Resource.Color.abc_search_url_text;
+			global::Lottie.Forms.Resource.Color.abc_search_url_text_normal = global::WordQuiz.Droid.Resource.Color.abc_search_url_text_normal;
+			global::Lottie.Forms.Resource.Color.abc_search_url_text_pressed = global::WordQuiz.Droid.Resource.Color.abc_search_url_text_pressed;
+			global::Lottie.Forms.Resource.Color.abc_search_url_text_selected = global::WordQuiz.Droid.Resource.Color.abc_search_url_text_selected;
+			global::Lottie.Forms.Resource.Color.abc_secondary_text_material_dark = global::WordQuiz.Droid.Resource.Color.abc_secondary_text_material_dark;
+			global::Lottie.Forms.Resource.Color.abc_secondary_text_material_light = global::WordQuiz.Droid.Resource.Color.abc_secondary_text_material_light;
+			global::Lottie.Forms.Resource.Color.abc_tint_btn_checkable = global::WordQuiz.Droid.Resource.Color.abc_tint_btn_checkable;
+			global::Lottie.Forms.Resource.Color.abc_tint_default = global::WordQuiz.Droid.Resource.Color.abc_tint_default;
+			global::Lottie.Forms.Resource.Color.abc_tint_edittext = global::WordQuiz.Droid.Resource.Color.abc_tint_edittext;
+			global::Lottie.Forms.Resource.Color.abc_tint_seek_thumb = global::WordQuiz.Droid.Resource.Color.abc_tint_seek_thumb;
+			global::Lottie.Forms.Resource.Color.abc_tint_spinner = global::WordQuiz.Droid.Resource.Color.abc_tint_spinner;
+			global::Lottie.Forms.Resource.Color.abc_tint_switch_track = global::WordQuiz.Droid.Resource.Color.abc_tint_switch_track;
+			global::Lottie.Forms.Resource.Color.accent_material_dark = global::WordQuiz.Droid.Resource.Color.accent_material_dark;
+			global::Lottie.Forms.Resource.Color.accent_material_light = global::WordQuiz.Droid.Resource.Color.accent_material_light;
+			global::Lottie.Forms.Resource.Color.background_floating_material_dark = global::WordQuiz.Droid.Resource.Color.background_floating_material_dark;
+			global::Lottie.Forms.Resource.Color.background_floating_material_light = global::WordQuiz.Droid.Resource.Color.background_floating_material_light;
+			global::Lottie.Forms.Resource.Color.background_material_dark = global::WordQuiz.Droid.Resource.Color.background_material_dark;
+			global::Lottie.Forms.Resource.Color.background_material_light = global::WordQuiz.Droid.Resource.Color.background_material_light;
+			global::Lottie.Forms.Resource.Color.bright_foreground_disabled_material_dark = global::WordQuiz.Droid.Resource.Color.bright_foreground_disabled_material_dark;
+			global::Lottie.Forms.Resource.Color.bright_foreground_disabled_material_light = global::WordQuiz.Droid.Resource.Color.bright_foreground_disabled_material_light;
+			global::Lottie.Forms.Resource.Color.bright_foreground_inverse_material_dark = global::WordQuiz.Droid.Resource.Color.bright_foreground_inverse_material_dark;
+			global::Lottie.Forms.Resource.Color.bright_foreground_inverse_material_light = global::WordQuiz.Droid.Resource.Color.bright_foreground_inverse_material_light;
+			global::Lottie.Forms.Resource.Color.bright_foreground_material_dark = global::WordQuiz.Droid.Resource.Color.bright_foreground_material_dark;
+			global::Lottie.Forms.Resource.Color.bright_foreground_material_light = global::WordQuiz.Droid.Resource.Color.bright_foreground_material_light;
+			global::Lottie.Forms.Resource.Color.browser_actions_bg_grey = global::WordQuiz.Droid.Resource.Color.browser_actions_bg_grey;
+			global::Lottie.Forms.Resource.Color.browser_actions_divider_color = global::WordQuiz.Droid.Resource.Color.browser_actions_divider_color;
+			global::Lottie.Forms.Resource.Color.browser_actions_text_color = global::WordQuiz.Droid.Resource.Color.browser_actions_text_color;
+			global::Lottie.Forms.Resource.Color.browser_actions_title_color = global::WordQuiz.Droid.Resource.Color.browser_actions_title_color;
+			global::Lottie.Forms.Resource.Color.button_material_dark = global::WordQuiz.Droid.Resource.Color.button_material_dark;
+			global::Lottie.Forms.Resource.Color.button_material_light = global::WordQuiz.Droid.Resource.Color.button_material_light;
+			global::Lottie.Forms.Resource.Color.cardview_dark_background = global::WordQuiz.Droid.Resource.Color.cardview_dark_background;
+			global::Lottie.Forms.Resource.Color.cardview_light_background = global::WordQuiz.Droid.Resource.Color.cardview_light_background;
+			global::Lottie.Forms.Resource.Color.cardview_shadow_end_color = global::WordQuiz.Droid.Resource.Color.cardview_shadow_end_color;
+			global::Lottie.Forms.Resource.Color.cardview_shadow_start_color = global::WordQuiz.Droid.Resource.Color.cardview_shadow_start_color;
+			global::Lottie.Forms.Resource.Color.design_bottom_navigation_shadow_color = global::WordQuiz.Droid.Resource.Color.design_bottom_navigation_shadow_color;
+			global::Lottie.Forms.Resource.Color.design_default_color_primary = global::WordQuiz.Droid.Resource.Color.design_default_color_primary;
+			global::Lottie.Forms.Resource.Color.design_default_color_primary_dark = global::WordQuiz.Droid.Resource.Color.design_default_color_primary_dark;
+			global::Lottie.Forms.Resource.Color.design_error = global::WordQuiz.Droid.Resource.Color.design_error;
+			global::Lottie.Forms.Resource.Color.design_fab_shadow_end_color = global::WordQuiz.Droid.Resource.Color.design_fab_shadow_end_color;
+			global::Lottie.Forms.Resource.Color.design_fab_shadow_mid_color = global::WordQuiz.Droid.Resource.Color.design_fab_shadow_mid_color;
+			global::Lottie.Forms.Resource.Color.design_fab_shadow_start_color = global::WordQuiz.Droid.Resource.Color.design_fab_shadow_start_color;
+			global::Lottie.Forms.Resource.Color.design_fab_stroke_end_inner_color = global::WordQuiz.Droid.Resource.Color.design_fab_stroke_end_inner_color;
+			global::Lottie.Forms.Resource.Color.design_fab_stroke_end_outer_color = global::WordQuiz.Droid.Resource.Color.design_fab_stroke_end_outer_color;
+			global::Lottie.Forms.Resource.Color.design_fab_stroke_top_inner_color = global::WordQuiz.Droid.Resource.Color.design_fab_stroke_top_inner_color;
+			global::Lottie.Forms.Resource.Color.design_fab_stroke_top_outer_color = global::WordQuiz.Droid.Resource.Color.design_fab_stroke_top_outer_color;
+			global::Lottie.Forms.Resource.Color.design_snackbar_background_color = global::WordQuiz.Droid.Resource.Color.design_snackbar_background_color;
+			global::Lottie.Forms.Resource.Color.design_tint_password_toggle = global::WordQuiz.Droid.Resource.Color.design_tint_password_toggle;
+			global::Lottie.Forms.Resource.Color.dim_foreground_disabled_material_dark = global::WordQuiz.Droid.Resource.Color.dim_foreground_disabled_material_dark;
+			global::Lottie.Forms.Resource.Color.dim_foreground_disabled_material_light = global::WordQuiz.Droid.Resource.Color.dim_foreground_disabled_material_light;
+			global::Lottie.Forms.Resource.Color.dim_foreground_material_dark = global::WordQuiz.Droid.Resource.Color.dim_foreground_material_dark;
+			global::Lottie.Forms.Resource.Color.dim_foreground_material_light = global::WordQuiz.Droid.Resource.Color.dim_foreground_material_light;
+			global::Lottie.Forms.Resource.Color.error_color_material_dark = global::WordQuiz.Droid.Resource.Color.error_color_material_dark;
+			global::Lottie.Forms.Resource.Color.error_color_material_light = global::WordQuiz.Droid.Resource.Color.error_color_material_light;
+			global::Lottie.Forms.Resource.Color.foreground_material_dark = global::WordQuiz.Droid.Resource.Color.foreground_material_dark;
+			global::Lottie.Forms.Resource.Color.foreground_material_light = global::WordQuiz.Droid.Resource.Color.foreground_material_light;
+			global::Lottie.Forms.Resource.Color.highlighted_text_material_dark = global::WordQuiz.Droid.Resource.Color.highlighted_text_material_dark;
+			global::Lottie.Forms.Resource.Color.highlighted_text_material_light = global::WordQuiz.Droid.Resource.Color.highlighted_text_material_light;
+			global::Lottie.Forms.Resource.Color.material_blue_grey_800 = global::WordQuiz.Droid.Resource.Color.material_blue_grey_800;
+			global::Lottie.Forms.Resource.Color.material_blue_grey_900 = global::WordQuiz.Droid.Resource.Color.material_blue_grey_900;
+			global::Lottie.Forms.Resource.Color.material_blue_grey_950 = global::WordQuiz.Droid.Resource.Color.material_blue_grey_950;
+			global::Lottie.Forms.Resource.Color.material_deep_teal_200 = global::WordQuiz.Droid.Resource.Color.material_deep_teal_200;
+			global::Lottie.Forms.Resource.Color.material_deep_teal_500 = global::WordQuiz.Droid.Resource.Color.material_deep_teal_500;
+			global::Lottie.Forms.Resource.Color.material_grey_100 = global::WordQuiz.Droid.Resource.Color.material_grey_100;
+			global::Lottie.Forms.Resource.Color.material_grey_300 = global::WordQuiz.Droid.Resource.Color.material_grey_300;
+			global::Lottie.Forms.Resource.Color.material_grey_50 = global::WordQuiz.Droid.Resource.Color.material_grey_50;
+			global::Lottie.Forms.Resource.Color.material_grey_600 = global::WordQuiz.Droid.Resource.Color.material_grey_600;
+			global::Lottie.Forms.Resource.Color.material_grey_800 = global::WordQuiz.Droid.Resource.Color.material_grey_800;
+			global::Lottie.Forms.Resource.Color.material_grey_850 = global::WordQuiz.Droid.Resource.Color.material_grey_850;
+			global::Lottie.Forms.Resource.Color.material_grey_900 = global::WordQuiz.Droid.Resource.Color.material_grey_900;
+			global::Lottie.Forms.Resource.Color.mtrl_bottom_nav_colored_item_tint = global::WordQuiz.Droid.Resource.Color.mtrl_bottom_nav_colored_item_tint;
+			global::Lottie.Forms.Resource.Color.mtrl_bottom_nav_item_tint = global::WordQuiz.Droid.Resource.Color.mtrl_bottom_nav_item_tint;
+			global::Lottie.Forms.Resource.Color.mtrl_btn_bg_color_disabled = global::WordQuiz.Droid.Resource.Color.mtrl_btn_bg_color_disabled;
+			global::Lottie.Forms.Resource.Color.mtrl_btn_bg_color_selector = global::WordQuiz.Droid.Resource.Color.mtrl_btn_bg_color_selector;
+			global::Lottie.Forms.Resource.Color.mtrl_btn_ripple_color = global::WordQuiz.Droid.Resource.Color.mtrl_btn_ripple_color;
+			global::Lottie.Forms.Resource.Color.mtrl_btn_stroke_color_selector = global::WordQuiz.Droid.Resource.Color.mtrl_btn_stroke_color_selector;
+			global::Lottie.Forms.Resource.Color.mtrl_btn_text_btn_ripple_color = global::WordQuiz.Droid.Resource.Color.mtrl_btn_text_btn_ripple_color;
+			global::Lottie.Forms.Resource.Color.mtrl_btn_text_color_disabled = global::WordQuiz.Droid.Resource.Color.mtrl_btn_text_color_disabled;
+			global::Lottie.Forms.Resource.Color.mtrl_btn_text_color_selector = global::WordQuiz.Droid.Resource.Color.mtrl_btn_text_color_selector;
+			global::Lottie.Forms.Resource.Color.mtrl_btn_transparent_bg_color = global::WordQuiz.Droid.Resource.Color.mtrl_btn_transparent_bg_color;
+			global::Lottie.Forms.Resource.Color.mtrl_chip_background_color = global::WordQuiz.Droid.Resource.Color.mtrl_chip_background_color;
+			global::Lottie.Forms.Resource.Color.mtrl_chip_close_icon_tint = global::WordQuiz.Droid.Resource.Color.mtrl_chip_close_icon_tint;
+			global::Lottie.Forms.Resource.Color.mtrl_chip_ripple_color = global::WordQuiz.Droid.Resource.Color.mtrl_chip_ripple_color;
+			global::Lottie.Forms.Resource.Color.mtrl_chip_text_color = global::WordQuiz.Droid.Resource.Color.mtrl_chip_text_color;
+			global::Lottie.Forms.Resource.Color.mtrl_fab_ripple_color = global::WordQuiz.Droid.Resource.Color.mtrl_fab_ripple_color;
+			global::Lottie.Forms.Resource.Color.mtrl_scrim_color = global::WordQuiz.Droid.Resource.Color.mtrl_scrim_color;
+			global::Lottie.Forms.Resource.Color.mtrl_tabs_colored_ripple_color = global::WordQuiz.Droid.Resource.Color.mtrl_tabs_colored_ripple_color;
+			global::Lottie.Forms.Resource.Color.mtrl_tabs_icon_color_selector = global::WordQuiz.Droid.Resource.Color.mtrl_tabs_icon_color_selector;
+			global::Lottie.Forms.Resource.Color.mtrl_tabs_icon_color_selector_colored = global::WordQuiz.Droid.Resource.Color.mtrl_tabs_icon_color_selector_colored;
+			global::Lottie.Forms.Resource.Color.mtrl_tabs_legacy_text_color_selector = global::WordQuiz.Droid.Resource.Color.mtrl_tabs_legacy_text_color_selector;
+			global::Lottie.Forms.Resource.Color.mtrl_tabs_ripple_color = global::WordQuiz.Droid.Resource.Color.mtrl_tabs_ripple_color;
+			global::Lottie.Forms.Resource.Color.mtrl_textinput_default_box_stroke_color = global::WordQuiz.Droid.Resource.Color.mtrl_textinput_default_box_stroke_color;
+			global::Lottie.Forms.Resource.Color.mtrl_textinput_disabled_color = global::WordQuiz.Droid.Resource.Color.mtrl_textinput_disabled_color;
+			global::Lottie.Forms.Resource.Color.mtrl_textinput_filled_box_default_background_color = global::WordQuiz.Droid.Resource.Color.mtrl_textinput_filled_box_default_background_color;
+			global::Lottie.Forms.Resource.Color.mtrl_textinput_hovered_box_stroke_color = global::WordQuiz.Droid.Resource.Color.mtrl_textinput_hovered_box_stroke_color;
+			global::Lottie.Forms.Resource.Color.mtrl_text_btn_text_color_selector = global::WordQuiz.Droid.Resource.Color.mtrl_text_btn_text_color_selector;
+			global::Lottie.Forms.Resource.Color.notification_action_color_filter = global::WordQuiz.Droid.Resource.Color.notification_action_color_filter;
+			global::Lottie.Forms.Resource.Color.notification_icon_bg_color = global::WordQuiz.Droid.Resource.Color.notification_icon_bg_color;
+			global::Lottie.Forms.Resource.Color.notification_material_background_media_default_color = global::WordQuiz.Droid.Resource.Color.notification_material_background_media_default_color;
+			global::Lottie.Forms.Resource.Color.primary_dark_material_dark = global::WordQuiz.Droid.Resource.Color.primary_dark_material_dark;
+			global::Lottie.Forms.Resource.Color.primary_dark_material_light = global::WordQuiz.Droid.Resource.Color.primary_dark_material_light;
+			global::Lottie.Forms.Resource.Color.primary_material_dark = global::WordQuiz.Droid.Resource.Color.primary_material_dark;
+			global::Lottie.Forms.Resource.Color.primary_material_light = global::WordQuiz.Droid.Resource.Color.primary_material_light;
+			global::Lottie.Forms.Resource.Color.primary_text_default_material_dark = global::WordQuiz.Droid.Resource.Color.primary_text_default_material_dark;
+			global::Lottie.Forms.Resource.Color.primary_text_default_material_light = global::WordQuiz.Droid.Resource.Color.primary_text_default_material_light;
+			global::Lottie.Forms.Resource.Color.primary_text_disabled_material_dark = global::WordQuiz.Droid.Resource.Color.primary_text_disabled_material_dark;
+			global::Lottie.Forms.Resource.Color.primary_text_disabled_material_light = global::WordQuiz.Droid.Resource.Color.primary_text_disabled_material_light;
+			global::Lottie.Forms.Resource.Color.ripple_material_dark = global::WordQuiz.Droid.Resource.Color.ripple_material_dark;
+			global::Lottie.Forms.Resource.Color.ripple_material_light = global::WordQuiz.Droid.Resource.Color.ripple_material_light;
+			global::Lottie.Forms.Resource.Color.secondary_text_default_material_dark = global::WordQuiz.Droid.Resource.Color.secondary_text_default_material_dark;
+			global::Lottie.Forms.Resource.Color.secondary_text_default_material_light = global::WordQuiz.Droid.Resource.Color.secondary_text_default_material_light;
+			global::Lottie.Forms.Resource.Color.secondary_text_disabled_material_dark = global::WordQuiz.Droid.Resource.Color.secondary_text_disabled_material_dark;
+			global::Lottie.Forms.Resource.Color.secondary_text_disabled_material_light = global::WordQuiz.Droid.Resource.Color.secondary_text_disabled_material_light;
+			global::Lottie.Forms.Resource.Color.switch_thumb_disabled_material_dark = global::WordQuiz.Droid.Resource.Color.switch_thumb_disabled_material_dark;
+			global::Lottie.Forms.Resource.Color.switch_thumb_disabled_material_light = global::WordQuiz.Droid.Resource.Color.switch_thumb_disabled_material_light;
+			global::Lottie.Forms.Resource.Color.switch_thumb_material_dark = global::WordQuiz.Droid.Resource.Color.switch_thumb_material_dark;
+			global::Lottie.Forms.Resource.Color.switch_thumb_material_light = global::WordQuiz.Droid.Resource.Color.switch_thumb_material_light;
+			global::Lottie.Forms.Resource.Color.switch_thumb_normal_material_dark = global::WordQuiz.Droid.Resource.Color.switch_thumb_normal_material_dark;
+			global::Lottie.Forms.Resource.Color.switch_thumb_normal_material_light = global::WordQuiz.Droid.Resource.Color.switch_thumb_normal_material_light;
+			global::Lottie.Forms.Resource.Color.tooltip_background_dark = global::WordQuiz.Droid.Resource.Color.tooltip_background_dark;
+			global::Lottie.Forms.Resource.Color.tooltip_background_light = global::WordQuiz.Droid.Resource.Color.tooltip_background_light;
+			global::Lottie.Forms.Resource.Dimension.abc_action_bar_content_inset_material = global::WordQuiz.Droid.Resource.Dimension.abc_action_bar_content_inset_material;
+			global::Lottie.Forms.Resource.Dimension.abc_action_bar_content_inset_with_nav = global::WordQuiz.Droid.Resource.Dimension.abc_action_bar_content_inset_with_nav;
+			global::Lottie.Forms.Resource.Dimension.abc_action_bar_default_height_material = global::WordQuiz.Droid.Resource.Dimension.abc_action_bar_default_height_material;
+			global::Lottie.Forms.Resource.Dimension.abc_action_bar_default_padding_end_material = global::WordQuiz.Droid.Resource.Dimension.abc_action_bar_default_padding_end_material;
+			global::Lottie.Forms.Resource.Dimension.abc_action_bar_default_padding_start_material = global::WordQuiz.Droid.Resource.Dimension.abc_action_bar_default_padding_start_material;
+			global::Lottie.Forms.Resource.Dimension.abc_action_bar_elevation_material = global::WordQuiz.Droid.Resource.Dimension.abc_action_bar_elevation_material;
+			global::Lottie.Forms.Resource.Dimension.abc_action_bar_icon_vertical_padding_material = global::WordQuiz.Droid.Resource.Dimension.abc_action_bar_icon_vertical_padding_material;
+			global::Lottie.Forms.Resource.Dimension.abc_action_bar_overflow_padding_end_material = global::WordQuiz.Droid.Resource.Dimension.abc_action_bar_overflow_padding_end_material;
+			global::Lottie.Forms.Resource.Dimension.abc_action_bar_overflow_padding_start_material = global::WordQuiz.Droid.Resource.Dimension.abc_action_bar_overflow_padding_start_material;
+			global::Lottie.Forms.Resource.Dimension.abc_action_bar_stacked_max_height = global::WordQuiz.Droid.Resource.Dimension.abc_action_bar_stacked_max_height;
+			global::Lottie.Forms.Resource.Dimension.abc_action_bar_stacked_tab_max_width = global::WordQuiz.Droid.Resource.Dimension.abc_action_bar_stacked_tab_max_width;
+			global::Lottie.Forms.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material = global::WordQuiz.Droid.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material;
+			global::Lottie.Forms.Resource.Dimension.abc_action_bar_subtitle_top_margin_material = global::WordQuiz.Droid.Resource.Dimension.abc_action_bar_subtitle_top_margin_material;
+			global::Lottie.Forms.Resource.Dimension.abc_action_button_min_height_material = global::WordQuiz.Droid.Resource.Dimension.abc_action_button_min_height_material;
+			global::Lottie.Forms.Resource.Dimension.abc_action_button_min_width_material = global::WordQuiz.Droid.Resource.Dimension.abc_action_button_min_width_material;
+			global::Lottie.Forms.Resource.Dimension.abc_action_button_min_width_overflow_material = global::WordQuiz.Droid.Resource.Dimension.abc_action_button_min_width_overflow_material;
+			global::Lottie.Forms.Resource.Dimension.abc_alert_dialog_button_bar_height = global::WordQuiz.Droid.Resource.Dimension.abc_alert_dialog_button_bar_height;
+			global::Lottie.Forms.Resource.Dimension.abc_alert_dialog_button_dimen = global::WordQuiz.Droid.Resource.Dimension.abc_alert_dialog_button_dimen;
+			global::Lottie.Forms.Resource.Dimension.abc_button_inset_horizontal_material = global::WordQuiz.Droid.Resource.Dimension.abc_button_inset_horizontal_material;
+			global::Lottie.Forms.Resource.Dimension.abc_button_inset_vertical_material = global::WordQuiz.Droid.Resource.Dimension.abc_button_inset_vertical_material;
+			global::Lottie.Forms.Resource.Dimension.abc_button_padding_horizontal_material = global::WordQuiz.Droid.Resource.Dimension.abc_button_padding_horizontal_material;
+			global::Lottie.Forms.Resource.Dimension.abc_button_padding_vertical_material = global::WordQuiz.Droid.Resource.Dimension.abc_button_padding_vertical_material;
+			global::Lottie.Forms.Resource.Dimension.abc_cascading_menus_min_smallest_width = global::WordQuiz.Droid.Resource.Dimension.abc_cascading_menus_min_smallest_width;
+			global::Lottie.Forms.Resource.Dimension.abc_config_prefDialogWidth = global::WordQuiz.Droid.Resource.Dimension.abc_config_prefDialogWidth;
+			global::Lottie.Forms.Resource.Dimension.abc_control_corner_material = global::WordQuiz.Droid.Resource.Dimension.abc_control_corner_material;
+			global::Lottie.Forms.Resource.Dimension.abc_control_inset_material = global::WordQuiz.Droid.Resource.Dimension.abc_control_inset_material;
+			global::Lottie.Forms.Resource.Dimension.abc_control_padding_material = global::WordQuiz.Droid.Resource.Dimension.abc_control_padding_material;
+			global::Lottie.Forms.Resource.Dimension.abc_dialog_corner_radius_material = global::WordQuiz.Droid.Resource.Dimension.abc_dialog_corner_radius_material;
+			global::Lottie.Forms.Resource.Dimension.abc_dialog_fixed_height_major = global::WordQuiz.Droid.Resource.Dimension.abc_dialog_fixed_height_major;
+			global::Lottie.Forms.Resource.Dimension.abc_dialog_fixed_height_minor = global::WordQuiz.Droid.Resource.Dimension.abc_dialog_fixed_height_minor;
+			global::Lottie.Forms.Resource.Dimension.abc_dialog_fixed_width_major = global::WordQuiz.Droid.Resource.Dimension.abc_dialog_fixed_width_major;
+			global::Lottie.Forms.Resource.Dimension.abc_dialog_fixed_width_minor = global::WordQuiz.Droid.Resource.Dimension.abc_dialog_fixed_width_minor;
+			global::Lottie.Forms.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons = global::WordQuiz.Droid.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons;
+			global::Lottie.Forms.Resource.Dimension.abc_dialog_list_padding_top_no_title = global::WordQuiz.Droid.Resource.Dimension.abc_dialog_list_padding_top_no_title;
+			global::Lottie.Forms.Resource.Dimension.abc_dialog_min_width_major = global::WordQuiz.Droid.Resource.Dimension.abc_dialog_min_width_major;
+			global::Lottie.Forms.Resource.Dimension.abc_dialog_min_width_minor = global::WordQuiz.Droid.Resource.Dimension.abc_dialog_min_width_minor;
+			global::Lottie.Forms.Resource.Dimension.abc_dialog_padding_material = global::WordQuiz.Droid.Resource.Dimension.abc_dialog_padding_material;
+			global::Lottie.Forms.Resource.Dimension.abc_dialog_padding_top_material = global::WordQuiz.Droid.Resource.Dimension.abc_dialog_padding_top_material;
+			global::Lottie.Forms.Resource.Dimension.abc_dialog_title_divider_material = global::WordQuiz.Droid.Resource.Dimension.abc_dialog_title_divider_material;
+			global::Lottie.Forms.Resource.Dimension.abc_disabled_alpha_material_dark = global::WordQuiz.Droid.Resource.Dimension.abc_disabled_alpha_material_dark;
+			global::Lottie.Forms.Resource.Dimension.abc_disabled_alpha_material_light = global::WordQuiz.Droid.Resource.Dimension.abc_disabled_alpha_material_light;
+			global::Lottie.Forms.Resource.Dimension.abc_dropdownitem_icon_width = global::WordQuiz.Droid.Resource.Dimension.abc_dropdownitem_icon_width;
+			global::Lottie.Forms.Resource.Dimension.abc_dropdownitem_text_padding_left = global::WordQuiz.Droid.Resource.Dimension.abc_dropdownitem_text_padding_left;
+			global::Lottie.Forms.Resource.Dimension.abc_dropdownitem_text_padding_right = global::WordQuiz.Droid.Resource.Dimension.abc_dropdownitem_text_padding_right;
+			global::Lottie.Forms.Resource.Dimension.abc_edit_text_inset_bottom_material = global::WordQuiz.Droid.Resource.Dimension.abc_edit_text_inset_bottom_material;
+			global::Lottie.Forms.Resource.Dimension.abc_edit_text_inset_horizontal_material = global::WordQuiz.Droid.Resource.Dimension.abc_edit_text_inset_horizontal_material;
+			global::Lottie.Forms.Resource.Dimension.abc_edit_text_inset_top_material = global::WordQuiz.Droid.Resource.Dimension.abc_edit_text_inset_top_material;
+			global::Lottie.Forms.Resource.Dimension.abc_floating_window_z = global::WordQuiz.Droid.Resource.Dimension.abc_floating_window_z;
+			global::Lottie.Forms.Resource.Dimension.abc_list_item_height_large_material = global::WordQuiz.Droid.Resource.Dimension.abc_list_item_height_large_material;
+			global::Lottie.Forms.Resource.Dimension.abc_list_item_height_material = global::WordQuiz.Droid.Resource.Dimension.abc_list_item_height_material;
+			global::Lottie.Forms.Resource.Dimension.abc_list_item_height_small_material = global::WordQuiz.Droid.Resource.Dimension.abc_list_item_height_small_material;
+			global::Lottie.Forms.Resource.Dimension.abc_list_item_padding_horizontal_material = global::WordQuiz.Droid.Resource.Dimension.abc_list_item_padding_horizontal_material;
+			global::Lottie.Forms.Resource.Dimension.abc_panel_menu_list_width = global::WordQuiz.Droid.Resource.Dimension.abc_panel_menu_list_width;
+			global::Lottie.Forms.Resource.Dimension.abc_progress_bar_height_material = global::WordQuiz.Droid.Resource.Dimension.abc_progress_bar_height_material;
+			global::Lottie.Forms.Resource.Dimension.abc_search_view_preferred_height = global::WordQuiz.Droid.Resource.Dimension.abc_search_view_preferred_height;
+			global::Lottie.Forms.Resource.Dimension.abc_search_view_preferred_width = global::WordQuiz.Droid.Resource.Dimension.abc_search_view_preferred_width;
+			global::Lottie.Forms.Resource.Dimension.abc_seekbar_track_background_height_material = global::WordQuiz.Droid.Resource.Dimension.abc_seekbar_track_background_height_material;
+			global::Lottie.Forms.Resource.Dimension.abc_seekbar_track_progress_height_material = global::WordQuiz.Droid.Resource.Dimension.abc_seekbar_track_progress_height_material;
+			global::Lottie.Forms.Resource.Dimension.abc_select_dialog_padding_start_material = global::WordQuiz.Droid.Resource.Dimension.abc_select_dialog_padding_start_material;
+			global::Lottie.Forms.Resource.Dimension.abc_switch_padding = global::WordQuiz.Droid.Resource.Dimension.abc_switch_padding;
+			global::Lottie.Forms.Resource.Dimension.abc_text_size_body_1_material = global::WordQuiz.Droid.Resource.Dimension.abc_text_size_body_1_material;
+			global::Lottie.Forms.Resource.Dimension.abc_text_size_body_2_material = global::WordQuiz.Droid.Resource.Dimension.abc_text_size_body_2_material;
+			global::Lottie.Forms.Resource.Dimension.abc_text_size_button_material = global::WordQuiz.Droid.Resource.Dimension.abc_text_size_button_material;
+			global::Lottie.Forms.Resource.Dimension.abc_text_size_caption_material = global::WordQuiz.Droid.Resource.Dimension.abc_text_size_caption_material;
+			global::Lottie.Forms.Resource.Dimension.abc_text_size_display_1_material = global::WordQuiz.Droid.Resource.Dimension.abc_text_size_display_1_material;
+			global::Lottie.Forms.Resource.Dimension.abc_text_size_display_2_material = global::WordQuiz.Droid.Resource.Dimension.abc_text_size_display_2_material;
+			global::Lottie.Forms.Resource.Dimension.abc_text_size_display_3_material = global::WordQuiz.Droid.Resource.Dimension.abc_text_size_display_3_material;
+			global::Lottie.Forms.Resource.Dimension.abc_text_size_display_4_material = global::WordQuiz.Droid.Resource.Dimension.abc_text_size_display_4_material;
+			global::Lottie.Forms.Resource.Dimension.abc_text_size_headline_material = global::WordQuiz.Droid.Resource.Dimension.abc_text_size_headline_material;
+			global::Lottie.Forms.Resource.Dimension.abc_text_size_large_material = global::WordQuiz.Droid.Resource.Dimension.abc_text_size_large_material;
+			global::Lottie.Forms.Resource.Dimension.abc_text_size_medium_material = global::WordQuiz.Droid.Resource.Dimension.abc_text_size_medium_material;
+			global::Lottie.Forms.Resource.Dimension.abc_text_size_menu_header_material = global::WordQuiz.Droid.Resource.Dimension.abc_text_size_menu_header_material;
+			global::Lottie.Forms.Resource.Dimension.abc_text_size_menu_material = global::WordQuiz.Droid.Resource.Dimension.abc_text_size_menu_material;
+			global::Lottie.Forms.Resource.Dimension.abc_text_size_small_material = global::WordQuiz.Droid.Resource.Dimension.abc_text_size_small_material;
+			global::Lottie.Forms.Resource.Dimension.abc_text_size_subhead_material = global::WordQuiz.Droid.Resource.Dimension.abc_text_size_subhead_material;
+			global::Lottie.Forms.Resource.Dimension.abc_text_size_subtitle_material_toolbar = global::WordQuiz.Droid.Resource.Dimension.abc_text_size_subtitle_material_toolbar;
+			global::Lottie.Forms.Resource.Dimension.abc_text_size_title_material = global::WordQuiz.Droid.Resource.Dimension.abc_text_size_title_material;
+			global::Lottie.Forms.Resource.Dimension.abc_text_size_title_material_toolbar = global::WordQuiz.Droid.Resource.Dimension.abc_text_size_title_material_toolbar;
+			global::Lottie.Forms.Resource.Dimension.browser_actions_context_menu_max_width = global::WordQuiz.Droid.Resource.Dimension.browser_actions_context_menu_max_width;
+			global::Lottie.Forms.Resource.Dimension.browser_actions_context_menu_min_padding = global::WordQuiz.Droid.Resource.Dimension.browser_actions_context_menu_min_padding;
+			global::Lottie.Forms.Resource.Dimension.cardview_compat_inset_shadow = global::WordQuiz.Droid.Resource.Dimension.cardview_compat_inset_shadow;
+			global::Lottie.Forms.Resource.Dimension.cardview_default_elevation = global::WordQuiz.Droid.Resource.Dimension.cardview_default_elevation;
+			global::Lottie.Forms.Resource.Dimension.cardview_default_radius = global::WordQuiz.Droid.Resource.Dimension.cardview_default_radius;
+			global::Lottie.Forms.Resource.Dimension.compat_button_inset_horizontal_material = global::WordQuiz.Droid.Resource.Dimension.compat_button_inset_horizontal_material;
+			global::Lottie.Forms.Resource.Dimension.compat_button_inset_vertical_material = global::WordQuiz.Droid.Resource.Dimension.compat_button_inset_vertical_material;
+			global::Lottie.Forms.Resource.Dimension.compat_button_padding_horizontal_material = global::WordQuiz.Droid.Resource.Dimension.compat_button_padding_horizontal_material;
+			global::Lottie.Forms.Resource.Dimension.compat_button_padding_vertical_material = global::WordQuiz.Droid.Resource.Dimension.compat_button_padding_vertical_material;
+			global::Lottie.Forms.Resource.Dimension.compat_control_corner_material = global::WordQuiz.Droid.Resource.Dimension.compat_control_corner_material;
+			global::Lottie.Forms.Resource.Dimension.compat_notification_large_icon_max_height = global::WordQuiz.Droid.Resource.Dimension.compat_notification_large_icon_max_height;
+			global::Lottie.Forms.Resource.Dimension.compat_notification_large_icon_max_width = global::WordQuiz.Droid.Resource.Dimension.compat_notification_large_icon_max_width;
+			global::Lottie.Forms.Resource.Dimension.design_appbar_elevation = global::WordQuiz.Droid.Resource.Dimension.design_appbar_elevation;
+			global::Lottie.Forms.Resource.Dimension.design_bottom_navigation_active_item_max_width = global::WordQuiz.Droid.Resource.Dimension.design_bottom_navigation_active_item_max_width;
+			global::Lottie.Forms.Resource.Dimension.design_bottom_navigation_active_item_min_width = global::WordQuiz.Droid.Resource.Dimension.design_bottom_navigation_active_item_min_width;
+			global::Lottie.Forms.Resource.Dimension.design_bottom_navigation_active_text_size = global::WordQuiz.Droid.Resource.Dimension.design_bottom_navigation_active_text_size;
+			global::Lottie.Forms.Resource.Dimension.design_bottom_navigation_elevation = global::WordQuiz.Droid.Resource.Dimension.design_bottom_navigation_elevation;
+			global::Lottie.Forms.Resource.Dimension.design_bottom_navigation_height = global::WordQuiz.Droid.Resource.Dimension.design_bottom_navigation_height;
+			global::Lottie.Forms.Resource.Dimension.design_bottom_navigation_icon_size = global::WordQuiz.Droid.Resource.Dimension.design_bottom_navigation_icon_size;
+			global::Lottie.Forms.Resource.Dimension.design_bottom_navigation_item_max_width = global::WordQuiz.Droid.Resource.Dimension.design_bottom_navigation_item_max_width;
+			global::Lottie.Forms.Resource.Dimension.design_bottom_navigation_item_min_width = global::WordQuiz.Droid.Resource.Dimension.design_bottom_navigation_item_min_width;
+			global::Lottie.Forms.Resource.Dimension.design_bottom_navigation_margin = global::WordQuiz.Droid.Resource.Dimension.design_bottom_navigation_margin;
+			global::Lottie.Forms.Resource.Dimension.design_bottom_navigation_shadow_height = global::WordQuiz.Droid.Resource.Dimension.design_bottom_navigation_shadow_height;
+			global::Lottie.Forms.Resource.Dimension.design_bottom_navigation_text_size = global::WordQuiz.Droid.Resource.Dimension.design_bottom_navigation_text_size;
+			global::Lottie.Forms.Resource.Dimension.design_bottom_sheet_modal_elevation = global::WordQuiz.Droid.Resource.Dimension.design_bottom_sheet_modal_elevation;
+			global::Lottie.Forms.Resource.Dimension.design_bottom_sheet_peek_height_min = global::WordQuiz.Droid.Resource.Dimension.design_bottom_sheet_peek_height_min;
+			global::Lottie.Forms.Resource.Dimension.design_fab_border_width = global::WordQuiz.Droid.Resource.Dimension.design_fab_border_width;
+			global::Lottie.Forms.Resource.Dimension.design_fab_elevation = global::WordQuiz.Droid.Resource.Dimension.design_fab_elevation;
+			global::Lottie.Forms.Resource.Dimension.design_fab_image_size = global::WordQuiz.Droid.Resource.Dimension.design_fab_image_size;
+			global::Lottie.Forms.Resource.Dimension.design_fab_size_mini = global::WordQuiz.Droid.Resource.Dimension.design_fab_size_mini;
+			global::Lottie.Forms.Resource.Dimension.design_fab_size_normal = global::WordQuiz.Droid.Resource.Dimension.design_fab_size_normal;
+			global::Lottie.Forms.Resource.Dimension.design_fab_translation_z_hovered_focused = global::WordQuiz.Droid.Resource.Dimension.design_fab_translation_z_hovered_focused;
+			global::Lottie.Forms.Resource.Dimension.design_fab_translation_z_pressed = global::WordQuiz.Droid.Resource.Dimension.design_fab_translation_z_pressed;
+			global::Lottie.Forms.Resource.Dimension.design_navigation_elevation = global::WordQuiz.Droid.Resource.Dimension.design_navigation_elevation;
+			global::Lottie.Forms.Resource.Dimension.design_navigation_icon_padding = global::WordQuiz.Droid.Resource.Dimension.design_navigation_icon_padding;
+			global::Lottie.Forms.Resource.Dimension.design_navigation_icon_size = global::WordQuiz.Droid.Resource.Dimension.design_navigation_icon_size;
+			global::Lottie.Forms.Resource.Dimension.design_navigation_item_horizontal_padding = global::WordQuiz.Droid.Resource.Dimension.design_navigation_item_horizontal_padding;
+			global::Lottie.Forms.Resource.Dimension.design_navigation_item_icon_padding = global::WordQuiz.Droid.Resource.Dimension.design_navigation_item_icon_padding;
+			global::Lottie.Forms.Resource.Dimension.design_navigation_max_width = global::WordQuiz.Droid.Resource.Dimension.design_navigation_max_width;
+			global::Lottie.Forms.Resource.Dimension.design_navigation_padding_bottom = global::WordQuiz.Droid.Resource.Dimension.design_navigation_padding_bottom;
+			global::Lottie.Forms.Resource.Dimension.design_navigation_separator_vertical_padding = global::WordQuiz.Droid.Resource.Dimension.design_navigation_separator_vertical_padding;
+			global::Lottie.Forms.Resource.Dimension.design_snackbar_action_inline_max_width = global::WordQuiz.Droid.Resource.Dimension.design_snackbar_action_inline_max_width;
+			global::Lottie.Forms.Resource.Dimension.design_snackbar_background_corner_radius = global::WordQuiz.Droid.Resource.Dimension.design_snackbar_background_corner_radius;
+			global::Lottie.Forms.Resource.Dimension.design_snackbar_elevation = global::WordQuiz.Droid.Resource.Dimension.design_snackbar_elevation;
+			global::Lottie.Forms.Resource.Dimension.design_snackbar_extra_spacing_horizontal = global::WordQuiz.Droid.Resource.Dimension.design_snackbar_extra_spacing_horizontal;
+			global::Lottie.Forms.Resource.Dimension.design_snackbar_max_width = global::WordQuiz.Droid.Resource.Dimension.design_snackbar_max_width;
+			global::Lottie.Forms.Resource.Dimension.design_snackbar_min_width = global::WordQuiz.Droid.Resource.Dimension.design_snackbar_min_width;
+			global::Lottie.Forms.Resource.Dimension.design_snackbar_padding_horizontal = global::WordQuiz.Droid.Resource.Dimension.design_snackbar_padding_horizontal;
+			global::Lottie.Forms.Resource.Dimension.design_snackbar_padding_vertical = global::WordQuiz.Droid.Resource.Dimension.design_snackbar_padding_vertical;
+			global::Lottie.Forms.Resource.Dimension.design_snackbar_padding_vertical_2lines = global::WordQuiz.Droid.Resource.Dimension.design_snackbar_padding_vertical_2lines;
+			global::Lottie.Forms.Resource.Dimension.design_snackbar_text_size = global::WordQuiz.Droid.Resource.Dimension.design_snackbar_text_size;
+			global::Lottie.Forms.Resource.Dimension.design_tab_max_width = global::WordQuiz.Droid.Resource.Dimension.design_tab_max_width;
+			global::Lottie.Forms.Resource.Dimension.design_tab_scrollable_min_width = global::WordQuiz.Droid.Resource.Dimension.design_tab_scrollable_min_width;
+			global::Lottie.Forms.Resource.Dimension.design_tab_text_size = global::WordQuiz.Droid.Resource.Dimension.design_tab_text_size;
+			global::Lottie.Forms.Resource.Dimension.design_tab_text_size_2line = global::WordQuiz.Droid.Resource.Dimension.design_tab_text_size_2line;
+			global::Lottie.Forms.Resource.Dimension.design_textinput_caption_translate_y = global::WordQuiz.Droid.Resource.Dimension.design_textinput_caption_translate_y;
+			global::Lottie.Forms.Resource.Dimension.disabled_alpha_material_dark = global::WordQuiz.Droid.Resource.Dimension.disabled_alpha_material_dark;
+			global::Lottie.Forms.Resource.Dimension.disabled_alpha_material_light = global::WordQuiz.Droid.Resource.Dimension.disabled_alpha_material_light;
+			global::Lottie.Forms.Resource.Dimension.fastscroll_default_thickness = global::WordQuiz.Droid.Resource.Dimension.fastscroll_default_thickness;
+			global::Lottie.Forms.Resource.Dimension.fastscroll_margin = global::WordQuiz.Droid.Resource.Dimension.fastscroll_margin;
+			global::Lottie.Forms.Resource.Dimension.fastscroll_minimum_range = global::WordQuiz.Droid.Resource.Dimension.fastscroll_minimum_range;
+			global::Lottie.Forms.Resource.Dimension.highlight_alpha_material_colored = global::WordQuiz.Droid.Resource.Dimension.highlight_alpha_material_colored;
+			global::Lottie.Forms.Resource.Dimension.highlight_alpha_material_dark = global::WordQuiz.Droid.Resource.Dimension.highlight_alpha_material_dark;
+			global::Lottie.Forms.Resource.Dimension.highlight_alpha_material_light = global::WordQuiz.Droid.Resource.Dimension.highlight_alpha_material_light;
+			global::Lottie.Forms.Resource.Dimension.hint_alpha_material_dark = global::WordQuiz.Droid.Resource.Dimension.hint_alpha_material_dark;
+			global::Lottie.Forms.Resource.Dimension.hint_alpha_material_light = global::WordQuiz.Droid.Resource.Dimension.hint_alpha_material_light;
+			global::Lottie.Forms.Resource.Dimension.hint_pressed_alpha_material_dark = global::WordQuiz.Droid.Resource.Dimension.hint_pressed_alpha_material_dark;
+			global::Lottie.Forms.Resource.Dimension.hint_pressed_alpha_material_light = global::WordQuiz.Droid.Resource.Dimension.hint_pressed_alpha_material_light;
+			global::Lottie.Forms.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame = global::WordQuiz.Droid.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame;
+			global::Lottie.Forms.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity = global::WordQuiz.Droid.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity;
+			global::Lottie.Forms.Resource.Dimension.item_touch_helper_swipe_escape_velocity = global::WordQuiz.Droid.Resource.Dimension.item_touch_helper_swipe_escape_velocity;
+			global::Lottie.Forms.Resource.Dimension.mtrl_bottomappbar_fabOffsetEndMode = global::WordQuiz.Droid.Resource.Dimension.mtrl_bottomappbar_fabOffsetEndMode;
+			global::Lottie.Forms.Resource.Dimension.mtrl_bottomappbar_fab_cradle_margin = global::WordQuiz.Droid.Resource.Dimension.mtrl_bottomappbar_fab_cradle_margin;
+			global::Lottie.Forms.Resource.Dimension.mtrl_bottomappbar_fab_cradle_rounded_corner_radius = global::WordQuiz.Droid.Resource.Dimension.mtrl_bottomappbar_fab_cradle_rounded_corner_radius;
+			global::Lottie.Forms.Resource.Dimension.mtrl_bottomappbar_fab_cradle_vertical_offset = global::WordQuiz.Droid.Resource.Dimension.mtrl_bottomappbar_fab_cradle_vertical_offset;
+			global::Lottie.Forms.Resource.Dimension.mtrl_bottomappbar_height = global::WordQuiz.Droid.Resource.Dimension.mtrl_bottomappbar_height;
+			global::Lottie.Forms.Resource.Dimension.mtrl_btn_corner_radius = global::WordQuiz.Droid.Resource.Dimension.mtrl_btn_corner_radius;
+			global::Lottie.Forms.Resource.Dimension.mtrl_btn_dialog_btn_min_width = global::WordQuiz.Droid.Resource.Dimension.mtrl_btn_dialog_btn_min_width;
+			global::Lottie.Forms.Resource.Dimension.mtrl_btn_disabled_elevation = global::WordQuiz.Droid.Resource.Dimension.mtrl_btn_disabled_elevation;
+			global::Lottie.Forms.Resource.Dimension.mtrl_btn_disabled_z = global::WordQuiz.Droid.Resource.Dimension.mtrl_btn_disabled_z;
+			global::Lottie.Forms.Resource.Dimension.mtrl_btn_elevation = global::WordQuiz.Droid.Resource.Dimension.mtrl_btn_elevation;
+			global::Lottie.Forms.Resource.Dimension.mtrl_btn_focused_z = global::WordQuiz.Droid.Resource.Dimension.mtrl_btn_focused_z;
+			global::Lottie.Forms.Resource.Dimension.mtrl_btn_hovered_z = global::WordQuiz.Droid.Resource.Dimension.mtrl_btn_hovered_z;
+			global::Lottie.Forms.Resource.Dimension.mtrl_btn_icon_btn_padding_left = global::WordQuiz.Droid.Resource.Dimension.mtrl_btn_icon_btn_padding_left;
+			global::Lottie.Forms.Resource.Dimension.mtrl_btn_icon_padding = global::WordQuiz.Droid.Resource.Dimension.mtrl_btn_icon_padding;
+			global::Lottie.Forms.Resource.Dimension.mtrl_btn_inset = global::WordQuiz.Droid.Resource.Dimension.mtrl_btn_inset;
+			global::Lottie.Forms.Resource.Dimension.mtrl_btn_letter_spacing = global::WordQuiz.Droid.Resource.Dimension.mtrl_btn_letter_spacing;
+			global::Lottie.Forms.Resource.Dimension.mtrl_btn_padding_bottom = global::WordQuiz.Droid.Resource.Dimension.mtrl_btn_padding_bottom;
+			global::Lottie.Forms.Resource.Dimension.mtrl_btn_padding_left = global::WordQuiz.Droid.Resource.Dimension.mtrl_btn_padding_left;
+			global::Lottie.Forms.Resource.Dimension.mtrl_btn_padding_right = global::WordQuiz.Droid.Resource.Dimension.mtrl_btn_padding_right;
+			global::Lottie.Forms.Resource.Dimension.mtrl_btn_padding_top = global::WordQuiz.Droid.Resource.Dimension.mtrl_btn_padding_top;
+			global::Lottie.Forms.Resource.Dimension.mtrl_btn_pressed_z = global::WordQuiz.Droid.Resource.Dimension.mtrl_btn_pressed_z;
+			global::Lottie.Forms.Resource.Dimension.mtrl_btn_stroke_size = global::WordQuiz.Droid.Resource.Dimension.mtrl_btn_stroke_size;
+			global::Lottie.Forms.Resource.Dimension.mtrl_btn_text_btn_icon_padding = global::WordQuiz.Droid.Resource.Dimension.mtrl_btn_text_btn_icon_padding;
+			global::Lottie.Forms.Resource.Dimension.mtrl_btn_text_btn_padding_left = global::WordQuiz.Droid.Resource.Dimension.mtrl_btn_text_btn_padding_left;
+			global::Lottie.Forms.Resource.Dimension.mtrl_btn_text_btn_padding_right = global::WordQuiz.Droid.Resource.Dimension.mtrl_btn_text_btn_padding_right;
+			global::Lottie.Forms.Resource.Dimension.mtrl_btn_text_size = global::WordQuiz.Droid.Resource.Dimension.mtrl_btn_text_size;
+			global::Lottie.Forms.Resource.Dimension.mtrl_btn_z = global::WordQuiz.Droid.Resource.Dimension.mtrl_btn_z;
+			global::Lottie.Forms.Resource.Dimension.mtrl_card_elevation = global::WordQuiz.Droid.Resource.Dimension.mtrl_card_elevation;
+			global::Lottie.Forms.Resource.Dimension.mtrl_card_spacing = global::WordQuiz.Droid.Resource.Dimension.mtrl_card_spacing;
+			global::Lottie.Forms.Resource.Dimension.mtrl_chip_pressed_translation_z = global::WordQuiz.Droid.Resource.Dimension.mtrl_chip_pressed_translation_z;
+			global::Lottie.Forms.Resource.Dimension.mtrl_chip_text_size = global::WordQuiz.Droid.Resource.Dimension.mtrl_chip_text_size;
+			global::Lottie.Forms.Resource.Dimension.mtrl_fab_elevation = global::WordQuiz.Droid.Resource.Dimension.mtrl_fab_elevation;
+			global::Lottie.Forms.Resource.Dimension.mtrl_fab_translation_z_hovered_focused = global::WordQuiz.Droid.Resource.Dimension.mtrl_fab_translation_z_hovered_focused;
+			global::Lottie.Forms.Resource.Dimension.mtrl_fab_translation_z_pressed = global::WordQuiz.Droid.Resource.Dimension.mtrl_fab_translation_z_pressed;
+			global::Lottie.Forms.Resource.Dimension.mtrl_navigation_elevation = global::WordQuiz.Droid.Resource.Dimension.mtrl_navigation_elevation;
+			global::Lottie.Forms.Resource.Dimension.mtrl_navigation_item_horizontal_padding = global::WordQuiz.Droid.Resource.Dimension.mtrl_navigation_item_horizontal_padding;
+			global::Lottie.Forms.Resource.Dimension.mtrl_navigation_item_icon_padding = global::WordQuiz.Droid.Resource.Dimension.mtrl_navigation_item_icon_padding;
+			global::Lottie.Forms.Resource.Dimension.mtrl_snackbar_background_corner_radius = global::WordQuiz.Droid.Resource.Dimension.mtrl_snackbar_background_corner_radius;
+			global::Lottie.Forms.Resource.Dimension.mtrl_snackbar_margin = global::WordQuiz.Droid.Resource.Dimension.mtrl_snackbar_margin;
+			global::Lottie.Forms.Resource.Dimension.mtrl_textinput_box_bottom_offset = global::WordQuiz.Droid.Resource.Dimension.mtrl_textinput_box_bottom_offset;
+			global::Lottie.Forms.Resource.Dimension.mtrl_textinput_box_corner_radius_medium = global::WordQuiz.Droid.Resource.Dimension.mtrl_textinput_box_corner_radius_medium;
+			global::Lottie.Forms.Resource.Dimension.mtrl_textinput_box_corner_radius_small = global::WordQuiz.Droid.Resource.Dimension.mtrl_textinput_box_corner_radius_small;
+			global::Lottie.Forms.Resource.Dimension.mtrl_textinput_box_label_cutout_padding = global::WordQuiz.Droid.Resource.Dimension.mtrl_textinput_box_label_cutout_padding;
+			global::Lottie.Forms.Resource.Dimension.mtrl_textinput_box_padding_end = global::WordQuiz.Droid.Resource.Dimension.mtrl_textinput_box_padding_end;
+			global::Lottie.Forms.Resource.Dimension.mtrl_textinput_box_stroke_width_default = global::WordQuiz.Droid.Resource.Dimension.mtrl_textinput_box_stroke_width_default;
+			global::Lottie.Forms.Resource.Dimension.mtrl_textinput_box_stroke_width_focused = global::WordQuiz.Droid.Resource.Dimension.mtrl_textinput_box_stroke_width_focused;
+			global::Lottie.Forms.Resource.Dimension.mtrl_textinput_outline_box_expanded_padding = global::WordQuiz.Droid.Resource.Dimension.mtrl_textinput_outline_box_expanded_padding;
+			global::Lottie.Forms.Resource.Dimension.mtrl_toolbar_default_height = global::WordQuiz.Droid.Resource.Dimension.mtrl_toolbar_default_height;
+			global::Lottie.Forms.Resource.Dimension.notification_action_icon_size = global::WordQuiz.Droid.Resource.Dimension.notification_action_icon_size;
+			global::Lottie.Forms.Resource.Dimension.notification_action_text_size = global::WordQuiz.Droid.Resource.Dimension.notification_action_text_size;
+			global::Lottie.Forms.Resource.Dimension.notification_big_circle_margin = global::WordQuiz.Droid.Resource.Dimension.notification_big_circle_margin;
+			global::Lottie.Forms.Resource.Dimension.notification_content_margin_start = global::WordQuiz.Droid.Resource.Dimension.notification_content_margin_start;
+			global::Lottie.Forms.Resource.Dimension.notification_large_icon_height = global::WordQuiz.Droid.Resource.Dimension.notification_large_icon_height;
+			global::Lottie.Forms.Resource.Dimension.notification_large_icon_width = global::WordQuiz.Droid.Resource.Dimension.notification_large_icon_width;
+			global::Lottie.Forms.Resource.Dimension.notification_main_column_padding_top = global::WordQuiz.Droid.Resource.Dimension.notification_main_column_padding_top;
+			global::Lottie.Forms.Resource.Dimension.notification_media_narrow_margin = global::WordQuiz.Droid.Resource.Dimension.notification_media_narrow_margin;
+			global::Lottie.Forms.Resource.Dimension.notification_right_icon_size = global::WordQuiz.Droid.Resource.Dimension.notification_right_icon_size;
+			global::Lottie.Forms.Resource.Dimension.notification_right_side_padding_top = global::WordQuiz.Droid.Resource.Dimension.notification_right_side_padding_top;
+			global::Lottie.Forms.Resource.Dimension.notification_small_icon_background_padding = global::WordQuiz.Droid.Resource.Dimension.notification_small_icon_background_padding;
+			global::Lottie.Forms.Resource.Dimension.notification_small_icon_size_as_large = global::WordQuiz.Droid.Resource.Dimension.notification_small_icon_size_as_large;
+			global::Lottie.Forms.Resource.Dimension.notification_subtext_size = global::WordQuiz.Droid.Resource.Dimension.notification_subtext_size;
+			global::Lottie.Forms.Resource.Dimension.notification_top_pad = global::WordQuiz.Droid.Resource.Dimension.notification_top_pad;
+			global::Lottie.Forms.Resource.Dimension.notification_top_pad_large_text = global::WordQuiz.Droid.Resource.Dimension.notification_top_pad_large_text;
+			global::Lottie.Forms.Resource.Dimension.subtitle_corner_radius = global::WordQuiz.Droid.Resource.Dimension.subtitle_corner_radius;
+			global::Lottie.Forms.Resource.Dimension.subtitle_outline_width = global::WordQuiz.Droid.Resource.Dimension.subtitle_outline_width;
+			global::Lottie.Forms.Resource.Dimension.subtitle_shadow_offset = global::WordQuiz.Droid.Resource.Dimension.subtitle_shadow_offset;
+			global::Lottie.Forms.Resource.Dimension.subtitle_shadow_radius = global::WordQuiz.Droid.Resource.Dimension.subtitle_shadow_radius;
+			global::Lottie.Forms.Resource.Dimension.tooltip_corner_radius = global::WordQuiz.Droid.Resource.Dimension.tooltip_corner_radius;
+			global::Lottie.Forms.Resource.Dimension.tooltip_horizontal_padding = global::WordQuiz.Droid.Resource.Dimension.tooltip_horizontal_padding;
+			global::Lottie.Forms.Resource.Dimension.tooltip_margin = global::WordQuiz.Droid.Resource.Dimension.tooltip_margin;
+			global::Lottie.Forms.Resource.Dimension.tooltip_precise_anchor_extra_offset = global::WordQuiz.Droid.Resource.Dimension.tooltip_precise_anchor_extra_offset;
+			global::Lottie.Forms.Resource.Dimension.tooltip_precise_anchor_threshold = global::WordQuiz.Droid.Resource.Dimension.tooltip_precise_anchor_threshold;
+			global::Lottie.Forms.Resource.Dimension.tooltip_vertical_padding = global::WordQuiz.Droid.Resource.Dimension.tooltip_vertical_padding;
+			global::Lottie.Forms.Resource.Dimension.tooltip_y_offset_non_touch = global::WordQuiz.Droid.Resource.Dimension.tooltip_y_offset_non_touch;
+			global::Lottie.Forms.Resource.Dimension.tooltip_y_offset_touch = global::WordQuiz.Droid.Resource.Dimension.tooltip_y_offset_touch;
+			global::Lottie.Forms.Resource.Drawable.abc_ab_share_pack_mtrl_alpha = global::WordQuiz.Droid.Resource.Drawable.abc_ab_share_pack_mtrl_alpha;
+			global::Lottie.Forms.Resource.Drawable.abc_action_bar_item_background_material = global::WordQuiz.Droid.Resource.Drawable.abc_action_bar_item_background_material;
+			global::Lottie.Forms.Resource.Drawable.abc_btn_borderless_material = global::WordQuiz.Droid.Resource.Drawable.abc_btn_borderless_material;
+			global::Lottie.Forms.Resource.Drawable.abc_btn_check_material = global::WordQuiz.Droid.Resource.Drawable.abc_btn_check_material;
+			global::Lottie.Forms.Resource.Drawable.abc_btn_check_material_anim = global::WordQuiz.Droid.Resource.Drawable.abc_btn_check_material_anim;
+			global::Lottie.Forms.Resource.Drawable.abc_btn_check_to_on_mtrl_000 = global::WordQuiz.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_000;
+			global::Lottie.Forms.Resource.Drawable.abc_btn_check_to_on_mtrl_015 = global::WordQuiz.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_015;
+			global::Lottie.Forms.Resource.Drawable.abc_btn_colored_material = global::WordQuiz.Droid.Resource.Drawable.abc_btn_colored_material;
+			global::Lottie.Forms.Resource.Drawable.abc_btn_default_mtrl_shape = global::WordQuiz.Droid.Resource.Drawable.abc_btn_default_mtrl_shape;
+			global::Lottie.Forms.Resource.Drawable.abc_btn_radio_material = global::WordQuiz.Droid.Resource.Drawable.abc_btn_radio_material;
+			global::Lottie.Forms.Resource.Drawable.abc_btn_radio_material_anim = global::WordQuiz.Droid.Resource.Drawable.abc_btn_radio_material_anim;
+			global::Lottie.Forms.Resource.Drawable.abc_btn_radio_to_on_mtrl_000 = global::WordQuiz.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_000;
+			global::Lottie.Forms.Resource.Drawable.abc_btn_radio_to_on_mtrl_015 = global::WordQuiz.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_015;
+			global::Lottie.Forms.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001 = global::WordQuiz.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001;
+			global::Lottie.Forms.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012 = global::WordQuiz.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012;
+			global::Lottie.Forms.Resource.Drawable.abc_cab_background_internal_bg = global::WordQuiz.Droid.Resource.Drawable.abc_cab_background_internal_bg;
+			global::Lottie.Forms.Resource.Drawable.abc_cab_background_top_material = global::WordQuiz.Droid.Resource.Drawable.abc_cab_background_top_material;
+			global::Lottie.Forms.Resource.Drawable.abc_cab_background_top_mtrl_alpha = global::WordQuiz.Droid.Resource.Drawable.abc_cab_background_top_mtrl_alpha;
+			global::Lottie.Forms.Resource.Drawable.abc_control_background_material = global::WordQuiz.Droid.Resource.Drawable.abc_control_background_material;
+			global::Lottie.Forms.Resource.Drawable.abc_dialog_material_background = global::WordQuiz.Droid.Resource.Drawable.abc_dialog_material_background;
+			global::Lottie.Forms.Resource.Drawable.abc_edit_text_material = global::WordQuiz.Droid.Resource.Drawable.abc_edit_text_material;
+			global::Lottie.Forms.Resource.Drawable.abc_ic_ab_back_material = global::WordQuiz.Droid.Resource.Drawable.abc_ic_ab_back_material;
+			global::Lottie.Forms.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp = global::WordQuiz.Droid.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp;
+			global::Lottie.Forms.Resource.Drawable.abc_ic_clear_material = global::WordQuiz.Droid.Resource.Drawable.abc_ic_clear_material;
+			global::Lottie.Forms.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha = global::WordQuiz.Droid.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha;
+			global::Lottie.Forms.Resource.Drawable.abc_ic_go_search_api_material = global::WordQuiz.Droid.Resource.Drawable.abc_ic_go_search_api_material;
+			global::Lottie.Forms.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha = global::WordQuiz.Droid.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha;
+			global::Lottie.Forms.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha = global::WordQuiz.Droid.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha;
+			global::Lottie.Forms.Resource.Drawable.abc_ic_menu_overflow_material = global::WordQuiz.Droid.Resource.Drawable.abc_ic_menu_overflow_material;
+			global::Lottie.Forms.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha = global::WordQuiz.Droid.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha;
+			global::Lottie.Forms.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha = global::WordQuiz.Droid.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha;
+			global::Lottie.Forms.Resource.Drawable.abc_ic_menu_share_mtrl_alpha = global::WordQuiz.Droid.Resource.Drawable.abc_ic_menu_share_mtrl_alpha;
+			global::Lottie.Forms.Resource.Drawable.abc_ic_search_api_material = global::WordQuiz.Droid.Resource.Drawable.abc_ic_search_api_material;
+			global::Lottie.Forms.Resource.Drawable.abc_ic_star_black_16dp = global::WordQuiz.Droid.Resource.Drawable.abc_ic_star_black_16dp;
+			global::Lottie.Forms.Resource.Drawable.abc_ic_star_black_36dp = global::WordQuiz.Droid.Resource.Drawable.abc_ic_star_black_36dp;
+			global::Lottie.Forms.Resource.Drawable.abc_ic_star_black_48dp = global::WordQuiz.Droid.Resource.Drawable.abc_ic_star_black_48dp;
+			global::Lottie.Forms.Resource.Drawable.abc_ic_star_half_black_16dp = global::WordQuiz.Droid.Resource.Drawable.abc_ic_star_half_black_16dp;
+			global::Lottie.Forms.Resource.Drawable.abc_ic_star_half_black_36dp = global::WordQuiz.Droid.Resource.Drawable.abc_ic_star_half_black_36dp;
+			global::Lottie.Forms.Resource.Drawable.abc_ic_star_half_black_48dp = global::WordQuiz.Droid.Resource.Drawable.abc_ic_star_half_black_48dp;
+			global::Lottie.Forms.Resource.Drawable.abc_ic_voice_search_api_material = global::WordQuiz.Droid.Resource.Drawable.abc_ic_voice_search_api_material;
+			global::Lottie.Forms.Resource.Drawable.abc_item_background_holo_dark = global::WordQuiz.Droid.Resource.Drawable.abc_item_background_holo_dark;
+			global::Lottie.Forms.Resource.Drawable.abc_item_background_holo_light = global::WordQuiz.Droid.Resource.Drawable.abc_item_background_holo_light;
+			global::Lottie.Forms.Resource.Drawable.abc_list_divider_material = global::WordQuiz.Droid.Resource.Drawable.abc_list_divider_material;
+			global::Lottie.Forms.Resource.Drawable.abc_list_divider_mtrl_alpha = global::WordQuiz.Droid.Resource.Drawable.abc_list_divider_mtrl_alpha;
+			global::Lottie.Forms.Resource.Drawable.abc_list_focused_holo = global::WordQuiz.Droid.Resource.Drawable.abc_list_focused_holo;
+			global::Lottie.Forms.Resource.Drawable.abc_list_longpressed_holo = global::WordQuiz.Droid.Resource.Drawable.abc_list_longpressed_holo;
+			global::Lottie.Forms.Resource.Drawable.abc_list_pressed_holo_dark = global::WordQuiz.Droid.Resource.Drawable.abc_list_pressed_holo_dark;
+			global::Lottie.Forms.Resource.Drawable.abc_list_pressed_holo_light = global::WordQuiz.Droid.Resource.Drawable.abc_list_pressed_holo_light;
+			global::Lottie.Forms.Resource.Drawable.abc_list_selector_background_transition_holo_dark = global::WordQuiz.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_dark;
+			global::Lottie.Forms.Resource.Drawable.abc_list_selector_background_transition_holo_light = global::WordQuiz.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_light;
+			global::Lottie.Forms.Resource.Drawable.abc_list_selector_disabled_holo_dark = global::WordQuiz.Droid.Resource.Drawable.abc_list_selector_disabled_holo_dark;
+			global::Lottie.Forms.Resource.Drawable.abc_list_selector_disabled_holo_light = global::WordQuiz.Droid.Resource.Drawable.abc_list_selector_disabled_holo_light;
+			global::Lottie.Forms.Resource.Drawable.abc_list_selector_holo_dark = global::WordQuiz.Droid.Resource.Drawable.abc_list_selector_holo_dark;
+			global::Lottie.Forms.Resource.Drawable.abc_list_selector_holo_light = global::WordQuiz.Droid.Resource.Drawable.abc_list_selector_holo_light;
+			global::Lottie.Forms.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult = global::WordQuiz.Droid.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult;
+			global::Lottie.Forms.Resource.Drawable.abc_popup_background_mtrl_mult = global::WordQuiz.Droid.Resource.Drawable.abc_popup_background_mtrl_mult;
+			global::Lottie.Forms.Resource.Drawable.abc_ratingbar_indicator_material = global::WordQuiz.Droid.Resource.Drawable.abc_ratingbar_indicator_material;
+			global::Lottie.Forms.Resource.Drawable.abc_ratingbar_material = global::WordQuiz.Droid.Resource.Drawable.abc_ratingbar_material;
+			global::Lottie.Forms.Resource.Drawable.abc_ratingbar_small_material = global::WordQuiz.Droid.Resource.Drawable.abc_ratingbar_small_material;
+			global::Lottie.Forms.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha = global::WordQuiz.Droid.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha;
+			global::Lottie.Forms.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000 = global::WordQuiz.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000;
+			global::Lottie.Forms.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005 = global::WordQuiz.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005;
+			global::Lottie.Forms.Resource.Drawable.abc_scrubber_primary_mtrl_alpha = global::WordQuiz.Droid.Resource.Drawable.abc_scrubber_primary_mtrl_alpha;
+			global::Lottie.Forms.Resource.Drawable.abc_scrubber_track_mtrl_alpha = global::WordQuiz.Droid.Resource.Drawable.abc_scrubber_track_mtrl_alpha;
+			global::Lottie.Forms.Resource.Drawable.abc_seekbar_thumb_material = global::WordQuiz.Droid.Resource.Drawable.abc_seekbar_thumb_material;
+			global::Lottie.Forms.Resource.Drawable.abc_seekbar_tick_mark_material = global::WordQuiz.Droid.Resource.Drawable.abc_seekbar_tick_mark_material;
+			global::Lottie.Forms.Resource.Drawable.abc_seekbar_track_material = global::WordQuiz.Droid.Resource.Drawable.abc_seekbar_track_material;
+			global::Lottie.Forms.Resource.Drawable.abc_spinner_mtrl_am_alpha = global::WordQuiz.Droid.Resource.Drawable.abc_spinner_mtrl_am_alpha;
+			global::Lottie.Forms.Resource.Drawable.abc_spinner_textfield_background_material = global::WordQuiz.Droid.Resource.Drawable.abc_spinner_textfield_background_material;
+			global::Lottie.Forms.Resource.Drawable.abc_switch_thumb_material = global::WordQuiz.Droid.Resource.Drawable.abc_switch_thumb_material;
+			global::Lottie.Forms.Resource.Drawable.abc_switch_track_mtrl_alpha = global::WordQuiz.Droid.Resource.Drawable.abc_switch_track_mtrl_alpha;
+			global::Lottie.Forms.Resource.Drawable.abc_tab_indicator_material = global::WordQuiz.Droid.Resource.Drawable.abc_tab_indicator_material;
+			global::Lottie.Forms.Resource.Drawable.abc_tab_indicator_mtrl_alpha = global::WordQuiz.Droid.Resource.Drawable.abc_tab_indicator_mtrl_alpha;
+			global::Lottie.Forms.Resource.Drawable.abc_textfield_activated_mtrl_alpha = global::WordQuiz.Droid.Resource.Drawable.abc_textfield_activated_mtrl_alpha;
+			global::Lottie.Forms.Resource.Drawable.abc_textfield_default_mtrl_alpha = global::WordQuiz.Droid.Resource.Drawable.abc_textfield_default_mtrl_alpha;
+			global::Lottie.Forms.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha = global::WordQuiz.Droid.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha;
+			global::Lottie.Forms.Resource.Drawable.abc_textfield_search_default_mtrl_alpha = global::WordQuiz.Droid.Resource.Drawable.abc_textfield_search_default_mtrl_alpha;
+			global::Lottie.Forms.Resource.Drawable.abc_textfield_search_material = global::WordQuiz.Droid.Resource.Drawable.abc_textfield_search_material;
+			global::Lottie.Forms.Resource.Drawable.abc_text_cursor_material = global::WordQuiz.Droid.Resource.Drawable.abc_text_cursor_material;
+			global::Lottie.Forms.Resource.Drawable.abc_text_select_handle_left_mtrl_dark = global::WordQuiz.Droid.Resource.Drawable.abc_text_select_handle_left_mtrl_dark;
+			global::Lottie.Forms.Resource.Drawable.abc_text_select_handle_left_mtrl_light = global::WordQuiz.Droid.Resource.Drawable.abc_text_select_handle_left_mtrl_light;
+			global::Lottie.Forms.Resource.Drawable.abc_text_select_handle_middle_mtrl_dark = global::WordQuiz.Droid.Resource.Drawable.abc_text_select_handle_middle_mtrl_dark;
+			global::Lottie.Forms.Resource.Drawable.abc_text_select_handle_middle_mtrl_light = global::WordQuiz.Droid.Resource.Drawable.abc_text_select_handle_middle_mtrl_light;
+			global::Lottie.Forms.Resource.Drawable.abc_text_select_handle_right_mtrl_dark = global::WordQuiz.Droid.Resource.Drawable.abc_text_select_handle_right_mtrl_dark;
+			global::Lottie.Forms.Resource.Drawable.abc_text_select_handle_right_mtrl_light = global::WordQuiz.Droid.Resource.Drawable.abc_text_select_handle_right_mtrl_light;
+			global::Lottie.Forms.Resource.Drawable.abc_vector_test = global::WordQuiz.Droid.Resource.Drawable.abc_vector_test;
+			global::Lottie.Forms.Resource.Drawable.avd_hide_password = global::WordQuiz.Droid.Resource.Drawable.avd_hide_password;
+			global::Lottie.Forms.Resource.Drawable.avd_show_password = global::WordQuiz.Droid.Resource.Drawable.avd_show_password;
+			global::Lottie.Forms.Resource.Drawable.btn_checkbox_checked_mtrl = global::WordQuiz.Droid.Resource.Drawable.btn_checkbox_checked_mtrl;
+			global::Lottie.Forms.Resource.Drawable.btn_checkbox_checked_to_unchecked_mtrl_animation = global::WordQuiz.Droid.Resource.Drawable.btn_checkbox_checked_to_unchecked_mtrl_animation;
+			global::Lottie.Forms.Resource.Drawable.btn_checkbox_unchecked_mtrl = global::WordQuiz.Droid.Resource.Drawable.btn_checkbox_unchecked_mtrl;
+			global::Lottie.Forms.Resource.Drawable.btn_checkbox_unchecked_to_checked_mtrl_animation = global::WordQuiz.Droid.Resource.Drawable.btn_checkbox_unchecked_to_checked_mtrl_animation;
+			global::Lottie.Forms.Resource.Drawable.btn_radio_off_mtrl = global::WordQuiz.Droid.Resource.Drawable.btn_radio_off_mtrl;
+			global::Lottie.Forms.Resource.Drawable.btn_radio_off_to_on_mtrl_animation = global::WordQuiz.Droid.Resource.Drawable.btn_radio_off_to_on_mtrl_animation;
+			global::Lottie.Forms.Resource.Drawable.btn_radio_on_mtrl = global::WordQuiz.Droid.Resource.Drawable.btn_radio_on_mtrl;
+			global::Lottie.Forms.Resource.Drawable.btn_radio_on_to_off_mtrl_animation = global::WordQuiz.Droid.Resource.Drawable.btn_radio_on_to_off_mtrl_animation;
+			global::Lottie.Forms.Resource.Drawable.design_bottom_navigation_item_background = global::WordQuiz.Droid.Resource.Drawable.design_bottom_navigation_item_background;
+			global::Lottie.Forms.Resource.Drawable.design_fab_background = global::WordQuiz.Droid.Resource.Drawable.design_fab_background;
+			global::Lottie.Forms.Resource.Drawable.design_ic_visibility = global::WordQuiz.Droid.Resource.Drawable.design_ic_visibility;
+			global::Lottie.Forms.Resource.Drawable.design_ic_visibility_off = global::WordQuiz.Droid.Resource.Drawable.design_ic_visibility_off;
+			global::Lottie.Forms.Resource.Drawable.design_password_eye = global::WordQuiz.Droid.Resource.Drawable.design_password_eye;
+			global::Lottie.Forms.Resource.Drawable.design_snackbar_background = global::WordQuiz.Droid.Resource.Drawable.design_snackbar_background;
+			global::Lottie.Forms.Resource.Drawable.ic_mtrl_chip_checked_black = global::WordQuiz.Droid.Resource.Drawable.ic_mtrl_chip_checked_black;
+			global::Lottie.Forms.Resource.Drawable.ic_mtrl_chip_checked_circle = global::WordQuiz.Droid.Resource.Drawable.ic_mtrl_chip_checked_circle;
+			global::Lottie.Forms.Resource.Drawable.ic_mtrl_chip_close_circle = global::WordQuiz.Droid.Resource.Drawable.ic_mtrl_chip_close_circle;
+			global::Lottie.Forms.Resource.Drawable.mtrl_snackbar_background = global::WordQuiz.Droid.Resource.Drawable.mtrl_snackbar_background;
+			global::Lottie.Forms.Resource.Drawable.mtrl_tabs_default_indicator = global::WordQuiz.Droid.Resource.Drawable.mtrl_tabs_default_indicator;
+			global::Lottie.Forms.Resource.Drawable.navigation_empty_icon = global::WordQuiz.Droid.Resource.Drawable.navigation_empty_icon;
+			global::Lottie.Forms.Resource.Drawable.notification_action_background = global::WordQuiz.Droid.Resource.Drawable.notification_action_background;
+			global::Lottie.Forms.Resource.Drawable.notification_bg = global::WordQuiz.Droid.Resource.Drawable.notification_bg;
+			global::Lottie.Forms.Resource.Drawable.notification_bg_low = global::WordQuiz.Droid.Resource.Drawable.notification_bg_low;
+			global::Lottie.Forms.Resource.Drawable.notification_bg_low_normal = global::WordQuiz.Droid.Resource.Drawable.notification_bg_low_normal;
+			global::Lottie.Forms.Resource.Drawable.notification_bg_low_pressed = global::WordQuiz.Droid.Resource.Drawable.notification_bg_low_pressed;
+			global::Lottie.Forms.Resource.Drawable.notification_bg_normal = global::WordQuiz.Droid.Resource.Drawable.notification_bg_normal;
+			global::Lottie.Forms.Resource.Drawable.notification_bg_normal_pressed = global::WordQuiz.Droid.Resource.Drawable.notification_bg_normal_pressed;
+			global::Lottie.Forms.Resource.Drawable.notification_icon_background = global::WordQuiz.Droid.Resource.Drawable.notification_icon_background;
+			global::Lottie.Forms.Resource.Drawable.notification_template_icon_bg = global::WordQuiz.Droid.Resource.Drawable.notification_template_icon_bg;
+			global::Lottie.Forms.Resource.Drawable.notification_template_icon_low_bg = global::WordQuiz.Droid.Resource.Drawable.notification_template_icon_low_bg;
+			global::Lottie.Forms.Resource.Drawable.notification_tile_bg = global::WordQuiz.Droid.Resource.Drawable.notification_tile_bg;
+			global::Lottie.Forms.Resource.Drawable.notify_panel_notification_icon_bg = global::WordQuiz.Droid.Resource.Drawable.notify_panel_notification_icon_bg;
+			global::Lottie.Forms.Resource.Drawable.tooltip_frame_dark = global::WordQuiz.Droid.Resource.Drawable.tooltip_frame_dark;
+			global::Lottie.Forms.Resource.Drawable.tooltip_frame_light = global::WordQuiz.Droid.Resource.Drawable.tooltip_frame_light;
+			global::Lottie.Forms.Resource.Id.accessibility_action_clickable_span = global::WordQuiz.Droid.Resource.Id.accessibility_action_clickable_span;
+			global::Lottie.Forms.Resource.Id.accessibility_custom_action_0 = global::WordQuiz.Droid.Resource.Id.accessibility_custom_action_0;
+			global::Lottie.Forms.Resource.Id.accessibility_custom_action_1 = global::WordQuiz.Droid.Resource.Id.accessibility_custom_action_1;
+			global::Lottie.Forms.Resource.Id.accessibility_custom_action_10 = global::WordQuiz.Droid.Resource.Id.accessibility_custom_action_10;
+			global::Lottie.Forms.Resource.Id.accessibility_custom_action_11 = global::WordQuiz.Droid.Resource.Id.accessibility_custom_action_11;
+			global::Lottie.Forms.Resource.Id.accessibility_custom_action_12 = global::WordQuiz.Droid.Resource.Id.accessibility_custom_action_12;
+			global::Lottie.Forms.Resource.Id.accessibility_custom_action_13 = global::WordQuiz.Droid.Resource.Id.accessibility_custom_action_13;
+			global::Lottie.Forms.Resource.Id.accessibility_custom_action_14 = global::WordQuiz.Droid.Resource.Id.accessibility_custom_action_14;
+			global::Lottie.Forms.Resource.Id.accessibility_custom_action_15 = global::WordQuiz.Droid.Resource.Id.accessibility_custom_action_15;
+			global::Lottie.Forms.Resource.Id.accessibility_custom_action_16 = global::WordQuiz.Droid.Resource.Id.accessibility_custom_action_16;
+			global::Lottie.Forms.Resource.Id.accessibility_custom_action_17 = global::WordQuiz.Droid.Resource.Id.accessibility_custom_action_17;
+			global::Lottie.Forms.Resource.Id.accessibility_custom_action_18 = global::WordQuiz.Droid.Resource.Id.accessibility_custom_action_18;
+			global::Lottie.Forms.Resource.Id.accessibility_custom_action_19 = global::WordQuiz.Droid.Resource.Id.accessibility_custom_action_19;
+			global::Lottie.Forms.Resource.Id.accessibility_custom_action_2 = global::WordQuiz.Droid.Resource.Id.accessibility_custom_action_2;
+			global::Lottie.Forms.Resource.Id.accessibility_custom_action_20 = global::WordQuiz.Droid.Resource.Id.accessibility_custom_action_20;
+			global::Lottie.Forms.Resource.Id.accessibility_custom_action_21 = global::WordQuiz.Droid.Resource.Id.accessibility_custom_action_21;
+			global::Lottie.Forms.Resource.Id.accessibility_custom_action_22 = global::WordQuiz.Droid.Resource.Id.accessibility_custom_action_22;
+			global::Lottie.Forms.Resource.Id.accessibility_custom_action_23 = global::WordQuiz.Droid.Resource.Id.accessibility_custom_action_23;
+			global::Lottie.Forms.Resource.Id.accessibility_custom_action_24 = global::WordQuiz.Droid.Resource.Id.accessibility_custom_action_24;
+			global::Lottie.Forms.Resource.Id.accessibility_custom_action_25 = global::WordQuiz.Droid.Resource.Id.accessibility_custom_action_25;
+			global::Lottie.Forms.Resource.Id.accessibility_custom_action_26 = global::WordQuiz.Droid.Resource.Id.accessibility_custom_action_26;
+			global::Lottie.Forms.Resource.Id.accessibility_custom_action_27 = global::WordQuiz.Droid.Resource.Id.accessibility_custom_action_27;
+			global::Lottie.Forms.Resource.Id.accessibility_custom_action_28 = global::WordQuiz.Droid.Resource.Id.accessibility_custom_action_28;
+			global::Lottie.Forms.Resource.Id.accessibility_custom_action_29 = global::WordQuiz.Droid.Resource.Id.accessibility_custom_action_29;
+			global::Lottie.Forms.Resource.Id.accessibility_custom_action_3 = global::WordQuiz.Droid.Resource.Id.accessibility_custom_action_3;
+			global::Lottie.Forms.Resource.Id.accessibility_custom_action_30 = global::WordQuiz.Droid.Resource.Id.accessibility_custom_action_30;
+			global::Lottie.Forms.Resource.Id.accessibility_custom_action_31 = global::WordQuiz.Droid.Resource.Id.accessibility_custom_action_31;
+			global::Lottie.Forms.Resource.Id.accessibility_custom_action_4 = global::WordQuiz.Droid.Resource.Id.accessibility_custom_action_4;
+			global::Lottie.Forms.Resource.Id.accessibility_custom_action_5 = global::WordQuiz.Droid.Resource.Id.accessibility_custom_action_5;
+			global::Lottie.Forms.Resource.Id.accessibility_custom_action_6 = global::WordQuiz.Droid.Resource.Id.accessibility_custom_action_6;
+			global::Lottie.Forms.Resource.Id.accessibility_custom_action_7 = global::WordQuiz.Droid.Resource.Id.accessibility_custom_action_7;
+			global::Lottie.Forms.Resource.Id.accessibility_custom_action_8 = global::WordQuiz.Droid.Resource.Id.accessibility_custom_action_8;
+			global::Lottie.Forms.Resource.Id.accessibility_custom_action_9 = global::WordQuiz.Droid.Resource.Id.accessibility_custom_action_9;
+			global::Lottie.Forms.Resource.Id.action0 = global::WordQuiz.Droid.Resource.Id.action0;
+			global::Lottie.Forms.Resource.Id.actions = global::WordQuiz.Droid.Resource.Id.actions;
+			global::Lottie.Forms.Resource.Id.action_bar = global::WordQuiz.Droid.Resource.Id.action_bar;
+			global::Lottie.Forms.Resource.Id.action_bar_activity_content = global::WordQuiz.Droid.Resource.Id.action_bar_activity_content;
+			global::Lottie.Forms.Resource.Id.action_bar_container = global::WordQuiz.Droid.Resource.Id.action_bar_container;
+			global::Lottie.Forms.Resource.Id.action_bar_root = global::WordQuiz.Droid.Resource.Id.action_bar_root;
+			global::Lottie.Forms.Resource.Id.action_bar_spinner = global::WordQuiz.Droid.Resource.Id.action_bar_spinner;
+			global::Lottie.Forms.Resource.Id.action_bar_subtitle = global::WordQuiz.Droid.Resource.Id.action_bar_subtitle;
+			global::Lottie.Forms.Resource.Id.action_bar_title = global::WordQuiz.Droid.Resource.Id.action_bar_title;
+			global::Lottie.Forms.Resource.Id.action_container = global::WordQuiz.Droid.Resource.Id.action_container;
+			global::Lottie.Forms.Resource.Id.action_context_bar = global::WordQuiz.Droid.Resource.Id.action_context_bar;
+			global::Lottie.Forms.Resource.Id.action_divider = global::WordQuiz.Droid.Resource.Id.action_divider;
+			global::Lottie.Forms.Resource.Id.action_image = global::WordQuiz.Droid.Resource.Id.action_image;
+			global::Lottie.Forms.Resource.Id.action_menu_divider = global::WordQuiz.Droid.Resource.Id.action_menu_divider;
+			global::Lottie.Forms.Resource.Id.action_menu_presenter = global::WordQuiz.Droid.Resource.Id.action_menu_presenter;
+			global::Lottie.Forms.Resource.Id.action_mode_bar = global::WordQuiz.Droid.Resource.Id.action_mode_bar;
+			global::Lottie.Forms.Resource.Id.action_mode_bar_stub = global::WordQuiz.Droid.Resource.Id.action_mode_bar_stub;
+			global::Lottie.Forms.Resource.Id.action_mode_close_button = global::WordQuiz.Droid.Resource.Id.action_mode_close_button;
+			global::Lottie.Forms.Resource.Id.action_text = global::WordQuiz.Droid.Resource.Id.action_text;
+			global::Lottie.Forms.Resource.Id.activity_chooser_view_content = global::WordQuiz.Droid.Resource.Id.activity_chooser_view_content;
+			global::Lottie.Forms.Resource.Id.add = global::WordQuiz.Droid.Resource.Id.add;
+			global::Lottie.Forms.Resource.Id.alertTitle = global::WordQuiz.Droid.Resource.Id.alertTitle;
+			global::Lottie.Forms.Resource.Id.all = global::WordQuiz.Droid.Resource.Id.all;
+			global::Lottie.Forms.Resource.Id.ALT = global::WordQuiz.Droid.Resource.Id.ALT;
+			global::Lottie.Forms.Resource.Id.always = global::WordQuiz.Droid.Resource.Id.always;
+			global::Lottie.Forms.Resource.Id.async = global::WordQuiz.Droid.Resource.Id.async;
+			global::Lottie.Forms.Resource.Id.auto = global::WordQuiz.Droid.Resource.Id.auto;
+			global::Lottie.Forms.Resource.Id.automatic = global::WordQuiz.Droid.Resource.Id.automatic;
+			global::Lottie.Forms.Resource.Id.beginning = global::WordQuiz.Droid.Resource.Id.beginning;
+			global::Lottie.Forms.Resource.Id.blocking = global::WordQuiz.Droid.Resource.Id.blocking;
+			global::Lottie.Forms.Resource.Id.bottom = global::WordQuiz.Droid.Resource.Id.bottom;
+			global::Lottie.Forms.Resource.Id.bottomtab_navarea = global::WordQuiz.Droid.Resource.Id.bottomtab_navarea;
+			global::Lottie.Forms.Resource.Id.bottomtab_tabbar = global::WordQuiz.Droid.Resource.Id.bottomtab_tabbar;
+			global::Lottie.Forms.Resource.Id.browser_actions_header_text = global::WordQuiz.Droid.Resource.Id.browser_actions_header_text;
+			global::Lottie.Forms.Resource.Id.browser_actions_menu_items = global::WordQuiz.Droid.Resource.Id.browser_actions_menu_items;
+			global::Lottie.Forms.Resource.Id.browser_actions_menu_item_icon = global::WordQuiz.Droid.Resource.Id.browser_actions_menu_item_icon;
+			global::Lottie.Forms.Resource.Id.browser_actions_menu_item_text = global::WordQuiz.Droid.Resource.Id.browser_actions_menu_item_text;
+			global::Lottie.Forms.Resource.Id.browser_actions_menu_view = global::WordQuiz.Droid.Resource.Id.browser_actions_menu_view;
+			global::Lottie.Forms.Resource.Id.buttonPanel = global::WordQuiz.Droid.Resource.Id.buttonPanel;
+			global::Lottie.Forms.Resource.Id.cancel_action = global::WordQuiz.Droid.Resource.Id.cancel_action;
+			global::Lottie.Forms.Resource.Id.center = global::WordQuiz.Droid.Resource.Id.center;
+			global::Lottie.Forms.Resource.Id.center_horizontal = global::WordQuiz.Droid.Resource.Id.center_horizontal;
+			global::Lottie.Forms.Resource.Id.center_vertical = global::WordQuiz.Droid.Resource.Id.center_vertical;
+			global::Lottie.Forms.Resource.Id.checkbox = global::WordQuiz.Droid.Resource.Id.checkbox;
+			global::Lottie.Forms.Resource.Id.@checked = global::WordQuiz.Droid.Resource.Id.@checked;
+			global::Lottie.Forms.Resource.Id.chronometer = global::WordQuiz.Droid.Resource.Id.chronometer;
+			global::Lottie.Forms.Resource.Id.clip_horizontal = global::WordQuiz.Droid.Resource.Id.clip_horizontal;
+			global::Lottie.Forms.Resource.Id.clip_vertical = global::WordQuiz.Droid.Resource.Id.clip_vertical;
+			global::Lottie.Forms.Resource.Id.collapseActionView = global::WordQuiz.Droid.Resource.Id.collapseActionView;
+			global::Lottie.Forms.Resource.Id.container = global::WordQuiz.Droid.Resource.Id.container;
+			global::Lottie.Forms.Resource.Id.content = global::WordQuiz.Droid.Resource.Id.content;
+			global::Lottie.Forms.Resource.Id.contentPanel = global::WordQuiz.Droid.Resource.Id.contentPanel;
+			global::Lottie.Forms.Resource.Id.coordinator = global::WordQuiz.Droid.Resource.Id.coordinator;
+			global::Lottie.Forms.Resource.Id.CTRL = global::WordQuiz.Droid.Resource.Id.CTRL;
+			global::Lottie.Forms.Resource.Id.custom = global::WordQuiz.Droid.Resource.Id.custom;
+			global::Lottie.Forms.Resource.Id.customPanel = global::WordQuiz.Droid.Resource.Id.customPanel;
+			global::Lottie.Forms.Resource.Id.decor_content_parent = global::WordQuiz.Droid.Resource.Id.decor_content_parent;
+			global::Lottie.Forms.Resource.Id.default_activity_button = global::WordQuiz.Droid.Resource.Id.default_activity_button;
+			global::Lottie.Forms.Resource.Id.design_bottom_sheet = global::WordQuiz.Droid.Resource.Id.design_bottom_sheet;
+			global::Lottie.Forms.Resource.Id.design_menu_item_action_area = global::WordQuiz.Droid.Resource.Id.design_menu_item_action_area;
+			global::Lottie.Forms.Resource.Id.design_menu_item_action_area_stub = global::WordQuiz.Droid.Resource.Id.design_menu_item_action_area_stub;
+			global::Lottie.Forms.Resource.Id.design_menu_item_text = global::WordQuiz.Droid.Resource.Id.design_menu_item_text;
+			global::Lottie.Forms.Resource.Id.design_navigation_view = global::WordQuiz.Droid.Resource.Id.design_navigation_view;
+			global::Lottie.Forms.Resource.Id.dialog_button = global::WordQuiz.Droid.Resource.Id.dialog_button;
+			global::Lottie.Forms.Resource.Id.disableHome = global::WordQuiz.Droid.Resource.Id.disableHome;
+			global::Lottie.Forms.Resource.Id.edit_query = global::WordQuiz.Droid.Resource.Id.edit_query;
+			global::Lottie.Forms.Resource.Id.end = global::WordQuiz.Droid.Resource.Id.end;
+			global::Lottie.Forms.Resource.Id.end_padder = global::WordQuiz.Droid.Resource.Id.end_padder;
+			global::Lottie.Forms.Resource.Id.enterAlways = global::WordQuiz.Droid.Resource.Id.enterAlways;
+			global::Lottie.Forms.Resource.Id.enterAlwaysCollapsed = global::WordQuiz.Droid.Resource.Id.enterAlwaysCollapsed;
+			global::Lottie.Forms.Resource.Id.exitUntilCollapsed = global::WordQuiz.Droid.Resource.Id.exitUntilCollapsed;
+			global::Lottie.Forms.Resource.Id.expanded_menu = global::WordQuiz.Droid.Resource.Id.expanded_menu;
+			global::Lottie.Forms.Resource.Id.expand_activities_button = global::WordQuiz.Droid.Resource.Id.expand_activities_button;
+			global::Lottie.Forms.Resource.Id.fill = global::WordQuiz.Droid.Resource.Id.fill;
+			global::Lottie.Forms.Resource.Id.filled = global::WordQuiz.Droid.Resource.Id.filled;
+			global::Lottie.Forms.Resource.Id.fill_horizontal = global::WordQuiz.Droid.Resource.Id.fill_horizontal;
+			global::Lottie.Forms.Resource.Id.fill_vertical = global::WordQuiz.Droid.Resource.Id.fill_vertical;
+			global::Lottie.Forms.Resource.Id.@fixed = global::WordQuiz.Droid.Resource.Id.@fixed;
+			global::Lottie.Forms.Resource.Id.flyoutcontent_appbar = global::WordQuiz.Droid.Resource.Id.flyoutcontent_appbar;
+			global::Lottie.Forms.Resource.Id.flyoutcontent_recycler = global::WordQuiz.Droid.Resource.Id.flyoutcontent_recycler;
+			global::Lottie.Forms.Resource.Id.forever = global::WordQuiz.Droid.Resource.Id.forever;
+			global::Lottie.Forms.Resource.Id.FUNCTION = global::WordQuiz.Droid.Resource.Id.FUNCTION;
+			global::Lottie.Forms.Resource.Id.ghost_view = global::WordQuiz.Droid.Resource.Id.ghost_view;
+			global::Lottie.Forms.Resource.Id.ghost_view_holder = global::WordQuiz.Droid.Resource.Id.ghost_view_holder;
+			global::Lottie.Forms.Resource.Id.group_divider = global::WordQuiz.Droid.Resource.Id.group_divider;
+			global::Lottie.Forms.Resource.Id.hardware = global::WordQuiz.Droid.Resource.Id.hardware;
+			global::Lottie.Forms.Resource.Id.home = global::WordQuiz.Droid.Resource.Id.home;
+			global::Lottie.Forms.Resource.Id.homeAsUp = global::WordQuiz.Droid.Resource.Id.homeAsUp;
+			global::Lottie.Forms.Resource.Id.icon = global::WordQuiz.Droid.Resource.Id.icon;
+			global::Lottie.Forms.Resource.Id.icon_group = global::WordQuiz.Droid.Resource.Id.icon_group;
+			global::Lottie.Forms.Resource.Id.ifRoom = global::WordQuiz.Droid.Resource.Id.ifRoom;
+			global::Lottie.Forms.Resource.Id.image = global::WordQuiz.Droid.Resource.Id.image;
+			global::Lottie.Forms.Resource.Id.info = global::WordQuiz.Droid.Resource.Id.info;
+			global::Lottie.Forms.Resource.Id.italic = global::WordQuiz.Droid.Resource.Id.italic;
+			global::Lottie.Forms.Resource.Id.item_touch_helper_previous_elevation = global::WordQuiz.Droid.Resource.Id.item_touch_helper_previous_elevation;
+			global::Lottie.Forms.Resource.Id.labeled = global::WordQuiz.Droid.Resource.Id.labeled;
+			global::Lottie.Forms.Resource.Id.largeLabel = global::WordQuiz.Droid.Resource.Id.largeLabel;
+			global::Lottie.Forms.Resource.Id.left = global::WordQuiz.Droid.Resource.Id.left;
+			global::Lottie.Forms.Resource.Id.line1 = global::WordQuiz.Droid.Resource.Id.line1;
+			global::Lottie.Forms.Resource.Id.line3 = global::WordQuiz.Droid.Resource.Id.line3;
+			global::Lottie.Forms.Resource.Id.listMode = global::WordQuiz.Droid.Resource.Id.listMode;
+			global::Lottie.Forms.Resource.Id.list_item = global::WordQuiz.Droid.Resource.Id.list_item;
+			global::Lottie.Forms.Resource.Id.lottie_layer_name = global::WordQuiz.Droid.Resource.Id.lottie_layer_name;
+			global::Lottie.Forms.Resource.Id.main_appbar = global::WordQuiz.Droid.Resource.Id.main_appbar;
+			global::Lottie.Forms.Resource.Id.main_tablayout = global::WordQuiz.Droid.Resource.Id.main_tablayout;
+			global::Lottie.Forms.Resource.Id.main_toolbar = global::WordQuiz.Droid.Resource.Id.main_toolbar;
+			global::Lottie.Forms.Resource.Id.main_viewpager = global::WordQuiz.Droid.Resource.Id.main_viewpager;
+			global::Lottie.Forms.Resource.Id.masked = global::WordQuiz.Droid.Resource.Id.masked;
+			global::Lottie.Forms.Resource.Id.media_actions = global::WordQuiz.Droid.Resource.Id.media_actions;
+			global::Lottie.Forms.Resource.Id.message = global::WordQuiz.Droid.Resource.Id.message;
+			global::Lottie.Forms.Resource.Id.META = global::WordQuiz.Droid.Resource.Id.META;
+			global::Lottie.Forms.Resource.Id.middle = global::WordQuiz.Droid.Resource.Id.middle;
+			global::Lottie.Forms.Resource.Id.mini = global::WordQuiz.Droid.Resource.Id.mini;
+			global::Lottie.Forms.Resource.Id.mtrl_child_content_container = global::WordQuiz.Droid.Resource.Id.mtrl_child_content_container;
+			global::Lottie.Forms.Resource.Id.mtrl_internal_children_alpha_tag = global::WordQuiz.Droid.Resource.Id.mtrl_internal_children_alpha_tag;
+			global::Lottie.Forms.Resource.Id.multiply = global::WordQuiz.Droid.Resource.Id.multiply;
+			global::Lottie.Forms.Resource.Id.navigation_header_container = global::WordQuiz.Droid.Resource.Id.navigation_header_container;
+			global::Lottie.Forms.Resource.Id.never = global::WordQuiz.Droid.Resource.Id.never;
+			global::Lottie.Forms.Resource.Id.none = global::WordQuiz.Droid.Resource.Id.none;
+			global::Lottie.Forms.Resource.Id.normal = global::WordQuiz.Droid.Resource.Id.normal;
+			global::Lottie.Forms.Resource.Id.notification_background = global::WordQuiz.Droid.Resource.Id.notification_background;
+			global::Lottie.Forms.Resource.Id.notification_main_column = global::WordQuiz.Droid.Resource.Id.notification_main_column;
+			global::Lottie.Forms.Resource.Id.notification_main_column_container = global::WordQuiz.Droid.Resource.Id.notification_main_column_container;
+			global::Lottie.Forms.Resource.Id.off = global::WordQuiz.Droid.Resource.Id.off;
+			global::Lottie.Forms.Resource.Id.on = global::WordQuiz.Droid.Resource.Id.on;
+			global::Lottie.Forms.Resource.Id.outline = global::WordQuiz.Droid.Resource.Id.outline;
+			global::Lottie.Forms.Resource.Id.parallax = global::WordQuiz.Droid.Resource.Id.parallax;
+			global::Lottie.Forms.Resource.Id.parentPanel = global::WordQuiz.Droid.Resource.Id.parentPanel;
+			global::Lottie.Forms.Resource.Id.parent_matrix = global::WordQuiz.Droid.Resource.Id.parent_matrix;
+			global::Lottie.Forms.Resource.Id.pin = global::WordQuiz.Droid.Resource.Id.pin;
+			global::Lottie.Forms.Resource.Id.progress_circular = global::WordQuiz.Droid.Resource.Id.progress_circular;
+			global::Lottie.Forms.Resource.Id.progress_horizontal = global::WordQuiz.Droid.Resource.Id.progress_horizontal;
+			global::Lottie.Forms.Resource.Id.radio = global::WordQuiz.Droid.Resource.Id.radio;
+			global::Lottie.Forms.Resource.Id.restart = global::WordQuiz.Droid.Resource.Id.restart;
+			global::Lottie.Forms.Resource.Id.reverse = global::WordQuiz.Droid.Resource.Id.reverse;
+			global::Lottie.Forms.Resource.Id.right = global::WordQuiz.Droid.Resource.Id.right;
+			global::Lottie.Forms.Resource.Id.right_icon = global::WordQuiz.Droid.Resource.Id.right_icon;
+			global::Lottie.Forms.Resource.Id.right_side = global::WordQuiz.Droid.Resource.Id.right_side;
+			global::Lottie.Forms.Resource.Id.save_non_transition_alpha = global::WordQuiz.Droid.Resource.Id.save_non_transition_alpha;
+			global::Lottie.Forms.Resource.Id.save_overlay_view = global::WordQuiz.Droid.Resource.Id.save_overlay_view;
+			global::Lottie.Forms.Resource.Id.screen = global::WordQuiz.Droid.Resource.Id.screen;
+			global::Lottie.Forms.Resource.Id.scroll = global::WordQuiz.Droid.Resource.Id.scroll;
+			global::Lottie.Forms.Resource.Id.scrollable = global::WordQuiz.Droid.Resource.Id.scrollable;
+			global::Lottie.Forms.Resource.Id.scrollIndicatorDown = global::WordQuiz.Droid.Resource.Id.scrollIndicatorDown;
+			global::Lottie.Forms.Resource.Id.scrollIndicatorUp = global::WordQuiz.Droid.Resource.Id.scrollIndicatorUp;
+			global::Lottie.Forms.Resource.Id.scrollView = global::WordQuiz.Droid.Resource.Id.scrollView;
+			global::Lottie.Forms.Resource.Id.search_badge = global::WordQuiz.Droid.Resource.Id.search_badge;
+			global::Lottie.Forms.Resource.Id.search_bar = global::WordQuiz.Droid.Resource.Id.search_bar;
+			global::Lottie.Forms.Resource.Id.search_button = global::WordQuiz.Droid.Resource.Id.search_button;
+			global::Lottie.Forms.Resource.Id.search_close_btn = global::WordQuiz.Droid.Resource.Id.search_close_btn;
+			global::Lottie.Forms.Resource.Id.search_edit_frame = global::WordQuiz.Droid.Resource.Id.search_edit_frame;
+			global::Lottie.Forms.Resource.Id.search_go_btn = global::WordQuiz.Droid.Resource.Id.search_go_btn;
+			global::Lottie.Forms.Resource.Id.search_mag_icon = global::WordQuiz.Droid.Resource.Id.search_mag_icon;
+			global::Lottie.Forms.Resource.Id.search_plate = global::WordQuiz.Droid.Resource.Id.search_plate;
+			global::Lottie.Forms.Resource.Id.search_src_text = global::WordQuiz.Droid.Resource.Id.search_src_text;
+			global::Lottie.Forms.Resource.Id.search_voice_btn = global::WordQuiz.Droid.Resource.Id.search_voice_btn;
+			global::Lottie.Forms.Resource.Id.selected = global::WordQuiz.Droid.Resource.Id.selected;
+			global::Lottie.Forms.Resource.Id.select_dialog_listview = global::WordQuiz.Droid.Resource.Id.select_dialog_listview;
+			global::Lottie.Forms.Resource.Id.shellcontent_appbar = global::WordQuiz.Droid.Resource.Id.shellcontent_appbar;
+			global::Lottie.Forms.Resource.Id.shellcontent_toolbar = global::WordQuiz.Droid.Resource.Id.shellcontent_toolbar;
+			global::Lottie.Forms.Resource.Id.SHIFT = global::WordQuiz.Droid.Resource.Id.SHIFT;
+			global::Lottie.Forms.Resource.Id.shortcut = global::WordQuiz.Droid.Resource.Id.shortcut;
+			global::Lottie.Forms.Resource.Id.showCustom = global::WordQuiz.Droid.Resource.Id.showCustom;
+			global::Lottie.Forms.Resource.Id.showHome = global::WordQuiz.Droid.Resource.Id.showHome;
+			global::Lottie.Forms.Resource.Id.showTitle = global::WordQuiz.Droid.Resource.Id.showTitle;
+			global::Lottie.Forms.Resource.Id.sliding_tabs = global::WordQuiz.Droid.Resource.Id.sliding_tabs;
+			global::Lottie.Forms.Resource.Id.smallLabel = global::WordQuiz.Droid.Resource.Id.smallLabel;
+			global::Lottie.Forms.Resource.Id.snackbar_action = global::WordQuiz.Droid.Resource.Id.snackbar_action;
+			global::Lottie.Forms.Resource.Id.snackbar_text = global::WordQuiz.Droid.Resource.Id.snackbar_text;
+			global::Lottie.Forms.Resource.Id.snap = global::WordQuiz.Droid.Resource.Id.snap;
+			global::Lottie.Forms.Resource.Id.snapMargins = global::WordQuiz.Droid.Resource.Id.snapMargins;
+			global::Lottie.Forms.Resource.Id.software = global::WordQuiz.Droid.Resource.Id.software;
+			global::Lottie.Forms.Resource.Id.spacer = global::WordQuiz.Droid.Resource.Id.spacer;
+			global::Lottie.Forms.Resource.Id.split_action_bar = global::WordQuiz.Droid.Resource.Id.split_action_bar;
+			global::Lottie.Forms.Resource.Id.src_atop = global::WordQuiz.Droid.Resource.Id.src_atop;
+			global::Lottie.Forms.Resource.Id.src_in = global::WordQuiz.Droid.Resource.Id.src_in;
+			global::Lottie.Forms.Resource.Id.src_over = global::WordQuiz.Droid.Resource.Id.src_over;
+			global::Lottie.Forms.Resource.Id.start = global::WordQuiz.Droid.Resource.Id.start;
+			global::Lottie.Forms.Resource.Id.status_bar_latest_event_content = global::WordQuiz.Droid.Resource.Id.status_bar_latest_event_content;
+			global::Lottie.Forms.Resource.Id.stretch = global::WordQuiz.Droid.Resource.Id.stretch;
+			global::Lottie.Forms.Resource.Id.submenuarrow = global::WordQuiz.Droid.Resource.Id.submenuarrow;
+			global::Lottie.Forms.Resource.Id.submit_area = global::WordQuiz.Droid.Resource.Id.submit_area;
+			global::Lottie.Forms.Resource.Id.SYM = global::WordQuiz.Droid.Resource.Id.SYM;
+			global::Lottie.Forms.Resource.Id.tabMode = global::WordQuiz.Droid.Resource.Id.tabMode;
+			global::Lottie.Forms.Resource.Id.tag_accessibility_actions = global::WordQuiz.Droid.Resource.Id.tag_accessibility_actions;
+			global::Lottie.Forms.Resource.Id.tag_accessibility_clickable_spans = global::WordQuiz.Droid.Resource.Id.tag_accessibility_clickable_spans;
+			global::Lottie.Forms.Resource.Id.tag_accessibility_heading = global::WordQuiz.Droid.Resource.Id.tag_accessibility_heading;
+			global::Lottie.Forms.Resource.Id.tag_accessibility_pane_title = global::WordQuiz.Droid.Resource.Id.tag_accessibility_pane_title;
+			global::Lottie.Forms.Resource.Id.tag_screen_reader_focusable = global::WordQuiz.Droid.Resource.Id.tag_screen_reader_focusable;
+			global::Lottie.Forms.Resource.Id.tag_transition_group = global::WordQuiz.Droid.Resource.Id.tag_transition_group;
+			global::Lottie.Forms.Resource.Id.tag_unhandled_key_event_manager = global::WordQuiz.Droid.Resource.Id.tag_unhandled_key_event_manager;
+			global::Lottie.Forms.Resource.Id.tag_unhandled_key_listeners = global::WordQuiz.Droid.Resource.Id.tag_unhandled_key_listeners;
+			global::Lottie.Forms.Resource.Id.text = global::WordQuiz.Droid.Resource.Id.text;
+			global::Lottie.Forms.Resource.Id.text2 = global::WordQuiz.Droid.Resource.Id.text2;
+			global::Lottie.Forms.Resource.Id.textinput_counter = global::WordQuiz.Droid.Resource.Id.textinput_counter;
+			global::Lottie.Forms.Resource.Id.textinput_error = global::WordQuiz.Droid.Resource.Id.textinput_error;
+			global::Lottie.Forms.Resource.Id.textinput_helper_text = global::WordQuiz.Droid.Resource.Id.textinput_helper_text;
+			global::Lottie.Forms.Resource.Id.textSpacerNoButtons = global::WordQuiz.Droid.Resource.Id.textSpacerNoButtons;
+			global::Lottie.Forms.Resource.Id.textSpacerNoTitle = global::WordQuiz.Droid.Resource.Id.textSpacerNoTitle;
+			global::Lottie.Forms.Resource.Id.textStart = global::WordQuiz.Droid.Resource.Id.textStart;
+			global::Lottie.Forms.Resource.Id.text_input_password_toggle = global::WordQuiz.Droid.Resource.Id.text_input_password_toggle;
+			global::Lottie.Forms.Resource.Id.time = global::WordQuiz.Droid.Resource.Id.time;
+			global::Lottie.Forms.Resource.Id.title = global::WordQuiz.Droid.Resource.Id.title;
+			global::Lottie.Forms.Resource.Id.titleDividerNoCustom = global::WordQuiz.Droid.Resource.Id.titleDividerNoCustom;
+			global::Lottie.Forms.Resource.Id.title_template = global::WordQuiz.Droid.Resource.Id.title_template;
+			global::Lottie.Forms.Resource.Id.toolbar = global::WordQuiz.Droid.Resource.Id.toolbar;
+			global::Lottie.Forms.Resource.Id.top = global::WordQuiz.Droid.Resource.Id.top;
+			global::Lottie.Forms.Resource.Id.topPanel = global::WordQuiz.Droid.Resource.Id.topPanel;
+			global::Lottie.Forms.Resource.Id.touch_outside = global::WordQuiz.Droid.Resource.Id.touch_outside;
+			global::Lottie.Forms.Resource.Id.transition_current_scene = global::WordQuiz.Droid.Resource.Id.transition_current_scene;
+			global::Lottie.Forms.Resource.Id.transition_layout_save = global::WordQuiz.Droid.Resource.Id.transition_layout_save;
+			global::Lottie.Forms.Resource.Id.transition_position = global::WordQuiz.Droid.Resource.Id.transition_position;
+			global::Lottie.Forms.Resource.Id.transition_scene_layoutid_cache = global::WordQuiz.Droid.Resource.Id.transition_scene_layoutid_cache;
+			global::Lottie.Forms.Resource.Id.transition_transform = global::WordQuiz.Droid.Resource.Id.transition_transform;
+			global::Lottie.Forms.Resource.Id.@unchecked = global::WordQuiz.Droid.Resource.Id.@unchecked;
+			global::Lottie.Forms.Resource.Id.uniform = global::WordQuiz.Droid.Resource.Id.uniform;
+			global::Lottie.Forms.Resource.Id.unlabeled = global::WordQuiz.Droid.Resource.Id.unlabeled;
+			global::Lottie.Forms.Resource.Id.up = global::WordQuiz.Droid.Resource.Id.up;
+			global::Lottie.Forms.Resource.Id.useLogo = global::WordQuiz.Droid.Resource.Id.useLogo;
+			global::Lottie.Forms.Resource.Id.view_offset_helper = global::WordQuiz.Droid.Resource.Id.view_offset_helper;
+			global::Lottie.Forms.Resource.Id.visible = global::WordQuiz.Droid.Resource.Id.visible;
+			global::Lottie.Forms.Resource.Id.withText = global::WordQuiz.Droid.Resource.Id.withText;
+			global::Lottie.Forms.Resource.Id.wrap_content = global::WordQuiz.Droid.Resource.Id.wrap_content;
+			global::Lottie.Forms.Resource.Integer.abc_config_activityDefaultDur = global::WordQuiz.Droid.Resource.Integer.abc_config_activityDefaultDur;
+			global::Lottie.Forms.Resource.Integer.abc_config_activityShortDur = global::WordQuiz.Droid.Resource.Integer.abc_config_activityShortDur;
+			global::Lottie.Forms.Resource.Integer.app_bar_elevation_anim_duration = global::WordQuiz.Droid.Resource.Integer.app_bar_elevation_anim_duration;
+			global::Lottie.Forms.Resource.Integer.bottom_sheet_slide_duration = global::WordQuiz.Droid.Resource.Integer.bottom_sheet_slide_duration;
+			global::Lottie.Forms.Resource.Integer.cancel_button_image_alpha = global::WordQuiz.Droid.Resource.Integer.cancel_button_image_alpha;
+			global::Lottie.Forms.Resource.Integer.config_tooltipAnimTime = global::WordQuiz.Droid.Resource.Integer.config_tooltipAnimTime;
+			global::Lottie.Forms.Resource.Integer.design_snackbar_text_max_lines = global::WordQuiz.Droid.Resource.Integer.design_snackbar_text_max_lines;
+			global::Lottie.Forms.Resource.Integer.design_tab_indicator_anim_duration_ms = global::WordQuiz.Droid.Resource.Integer.design_tab_indicator_anim_duration_ms;
+			global::Lottie.Forms.Resource.Integer.hide_password_duration = global::WordQuiz.Droid.Resource.Integer.hide_password_duration;
+			global::Lottie.Forms.Resource.Integer.mtrl_btn_anim_delay_ms = global::WordQuiz.Droid.Resource.Integer.mtrl_btn_anim_delay_ms;
+			global::Lottie.Forms.Resource.Integer.mtrl_btn_anim_duration_ms = global::WordQuiz.Droid.Resource.Integer.mtrl_btn_anim_duration_ms;
+			global::Lottie.Forms.Resource.Integer.mtrl_chip_anim_duration = global::WordQuiz.Droid.Resource.Integer.mtrl_chip_anim_duration;
+			global::Lottie.Forms.Resource.Integer.mtrl_tab_indicator_anim_duration_ms = global::WordQuiz.Droid.Resource.Integer.mtrl_tab_indicator_anim_duration_ms;
+			global::Lottie.Forms.Resource.Integer.show_password_duration = global::WordQuiz.Droid.Resource.Integer.show_password_duration;
+			global::Lottie.Forms.Resource.Integer.status_bar_notification_info_maxnum = global::WordQuiz.Droid.Resource.Integer.status_bar_notification_info_maxnum;
+			global::Lottie.Forms.Resource.Interpolator.btn_checkbox_checked_mtrl_animation_interpolator_0 = global::WordQuiz.Droid.Resource.Interpolator.btn_checkbox_checked_mtrl_animation_interpolator_0;
+			global::Lottie.Forms.Resource.Interpolator.btn_checkbox_checked_mtrl_animation_interpolator_1 = global::WordQuiz.Droid.Resource.Interpolator.btn_checkbox_checked_mtrl_animation_interpolator_1;
+			global::Lottie.Forms.Resource.Interpolator.btn_checkbox_unchecked_mtrl_animation_interpolator_0 = global::WordQuiz.Droid.Resource.Interpolator.btn_checkbox_unchecked_mtrl_animation_interpolator_0;
+			global::Lottie.Forms.Resource.Interpolator.btn_checkbox_unchecked_mtrl_animation_interpolator_1 = global::WordQuiz.Droid.Resource.Interpolator.btn_checkbox_unchecked_mtrl_animation_interpolator_1;
+			global::Lottie.Forms.Resource.Interpolator.btn_radio_to_off_mtrl_animation_interpolator_0 = global::WordQuiz.Droid.Resource.Interpolator.btn_radio_to_off_mtrl_animation_interpolator_0;
+			global::Lottie.Forms.Resource.Interpolator.btn_radio_to_on_mtrl_animation_interpolator_0 = global::WordQuiz.Droid.Resource.Interpolator.btn_radio_to_on_mtrl_animation_interpolator_0;
+			global::Lottie.Forms.Resource.Interpolator.fast_out_slow_in = global::WordQuiz.Droid.Resource.Interpolator.fast_out_slow_in;
+			global::Lottie.Forms.Resource.Interpolator.mtrl_fast_out_linear_in = global::WordQuiz.Droid.Resource.Interpolator.mtrl_fast_out_linear_in;
+			global::Lottie.Forms.Resource.Interpolator.mtrl_fast_out_slow_in = global::WordQuiz.Droid.Resource.Interpolator.mtrl_fast_out_slow_in;
+			global::Lottie.Forms.Resource.Interpolator.mtrl_linear = global::WordQuiz.Droid.Resource.Interpolator.mtrl_linear;
+			global::Lottie.Forms.Resource.Interpolator.mtrl_linear_out_slow_in = global::WordQuiz.Droid.Resource.Interpolator.mtrl_linear_out_slow_in;
+			global::Lottie.Forms.Resource.Layout.abc_action_bar_title_item = global::WordQuiz.Droid.Resource.Layout.abc_action_bar_title_item;
+			global::Lottie.Forms.Resource.Layout.abc_action_bar_up_container = global::WordQuiz.Droid.Resource.Layout.abc_action_bar_up_container;
+			global::Lottie.Forms.Resource.Layout.abc_action_menu_item_layout = global::WordQuiz.Droid.Resource.Layout.abc_action_menu_item_layout;
+			global::Lottie.Forms.Resource.Layout.abc_action_menu_layout = global::WordQuiz.Droid.Resource.Layout.abc_action_menu_layout;
+			global::Lottie.Forms.Resource.Layout.abc_action_mode_bar = global::WordQuiz.Droid.Resource.Layout.abc_action_mode_bar;
+			global::Lottie.Forms.Resource.Layout.abc_action_mode_close_item_material = global::WordQuiz.Droid.Resource.Layout.abc_action_mode_close_item_material;
+			global::Lottie.Forms.Resource.Layout.abc_activity_chooser_view = global::WordQuiz.Droid.Resource.Layout.abc_activity_chooser_view;
+			global::Lottie.Forms.Resource.Layout.abc_activity_chooser_view_list_item = global::WordQuiz.Droid.Resource.Layout.abc_activity_chooser_view_list_item;
+			global::Lottie.Forms.Resource.Layout.abc_alert_dialog_button_bar_material = global::WordQuiz.Droid.Resource.Layout.abc_alert_dialog_button_bar_material;
+			global::Lottie.Forms.Resource.Layout.abc_alert_dialog_material = global::WordQuiz.Droid.Resource.Layout.abc_alert_dialog_material;
+			global::Lottie.Forms.Resource.Layout.abc_alert_dialog_title_material = global::WordQuiz.Droid.Resource.Layout.abc_alert_dialog_title_material;
+			global::Lottie.Forms.Resource.Layout.abc_cascading_menu_item_layout = global::WordQuiz.Droid.Resource.Layout.abc_cascading_menu_item_layout;
+			global::Lottie.Forms.Resource.Layout.abc_dialog_title_material = global::WordQuiz.Droid.Resource.Layout.abc_dialog_title_material;
+			global::Lottie.Forms.Resource.Layout.abc_expanded_menu_layout = global::WordQuiz.Droid.Resource.Layout.abc_expanded_menu_layout;
+			global::Lottie.Forms.Resource.Layout.abc_list_menu_item_checkbox = global::WordQuiz.Droid.Resource.Layout.abc_list_menu_item_checkbox;
+			global::Lottie.Forms.Resource.Layout.abc_list_menu_item_icon = global::WordQuiz.Droid.Resource.Layout.abc_list_menu_item_icon;
+			global::Lottie.Forms.Resource.Layout.abc_list_menu_item_layout = global::WordQuiz.Droid.Resource.Layout.abc_list_menu_item_layout;
+			global::Lottie.Forms.Resource.Layout.abc_list_menu_item_radio = global::WordQuiz.Droid.Resource.Layout.abc_list_menu_item_radio;
+			global::Lottie.Forms.Resource.Layout.abc_popup_menu_header_item_layout = global::WordQuiz.Droid.Resource.Layout.abc_popup_menu_header_item_layout;
+			global::Lottie.Forms.Resource.Layout.abc_popup_menu_item_layout = global::WordQuiz.Droid.Resource.Layout.abc_popup_menu_item_layout;
+			global::Lottie.Forms.Resource.Layout.abc_screen_content_include = global::WordQuiz.Droid.Resource.Layout.abc_screen_content_include;
+			global::Lottie.Forms.Resource.Layout.abc_screen_simple = global::WordQuiz.Droid.Resource.Layout.abc_screen_simple;
+			global::Lottie.Forms.Resource.Layout.abc_screen_simple_overlay_action_mode = global::WordQuiz.Droid.Resource.Layout.abc_screen_simple_overlay_action_mode;
+			global::Lottie.Forms.Resource.Layout.abc_screen_toolbar = global::WordQuiz.Droid.Resource.Layout.abc_screen_toolbar;
+			global::Lottie.Forms.Resource.Layout.abc_search_dropdown_item_icons_2line = global::WordQuiz.Droid.Resource.Layout.abc_search_dropdown_item_icons_2line;
+			global::Lottie.Forms.Resource.Layout.abc_search_view = global::WordQuiz.Droid.Resource.Layout.abc_search_view;
+			global::Lottie.Forms.Resource.Layout.abc_select_dialog_material = global::WordQuiz.Droid.Resource.Layout.abc_select_dialog_material;
+			global::Lottie.Forms.Resource.Layout.abc_tooltip = global::WordQuiz.Droid.Resource.Layout.abc_tooltip;
+			global::Lottie.Forms.Resource.Layout.BottomTabLayout = global::WordQuiz.Droid.Resource.Layout.BottomTabLayout;
+			global::Lottie.Forms.Resource.Layout.browser_actions_context_menu_page = global::WordQuiz.Droid.Resource.Layout.browser_actions_context_menu_page;
+			global::Lottie.Forms.Resource.Layout.browser_actions_context_menu_row = global::WordQuiz.Droid.Resource.Layout.browser_actions_context_menu_row;
+			global::Lottie.Forms.Resource.Layout.custom_dialog = global::WordQuiz.Droid.Resource.Layout.custom_dialog;
+			global::Lottie.Forms.Resource.Layout.design_bottom_navigation_item = global::WordQuiz.Droid.Resource.Layout.design_bottom_navigation_item;
+			global::Lottie.Forms.Resource.Layout.design_bottom_sheet_dialog = global::WordQuiz.Droid.Resource.Layout.design_bottom_sheet_dialog;
+			global::Lottie.Forms.Resource.Layout.design_layout_snackbar = global::WordQuiz.Droid.Resource.Layout.design_layout_snackbar;
+			global::Lottie.Forms.Resource.Layout.design_layout_snackbar_include = global::WordQuiz.Droid.Resource.Layout.design_layout_snackbar_include;
+			global::Lottie.Forms.Resource.Layout.design_layout_tab_icon = global::WordQuiz.Droid.Resource.Layout.design_layout_tab_icon;
+			global::Lottie.Forms.Resource.Layout.design_layout_tab_text = global::WordQuiz.Droid.Resource.Layout.design_layout_tab_text;
+			global::Lottie.Forms.Resource.Layout.design_menu_item_action_area = global::WordQuiz.Droid.Resource.Layout.design_menu_item_action_area;
+			global::Lottie.Forms.Resource.Layout.design_navigation_item = global::WordQuiz.Droid.Resource.Layout.design_navigation_item;
+			global::Lottie.Forms.Resource.Layout.design_navigation_item_header = global::WordQuiz.Droid.Resource.Layout.design_navigation_item_header;
+			global::Lottie.Forms.Resource.Layout.design_navigation_item_separator = global::WordQuiz.Droid.Resource.Layout.design_navigation_item_separator;
+			global::Lottie.Forms.Resource.Layout.design_navigation_item_subheader = global::WordQuiz.Droid.Resource.Layout.design_navigation_item_subheader;
+			global::Lottie.Forms.Resource.Layout.design_navigation_menu = global::WordQuiz.Droid.Resource.Layout.design_navigation_menu;
+			global::Lottie.Forms.Resource.Layout.design_navigation_menu_item = global::WordQuiz.Droid.Resource.Layout.design_navigation_menu_item;
+			global::Lottie.Forms.Resource.Layout.design_text_input_password_icon = global::WordQuiz.Droid.Resource.Layout.design_text_input_password_icon;
+			global::Lottie.Forms.Resource.Layout.FallbackTabbarDoNotUse = global::WordQuiz.Droid.Resource.Layout.FallbackTabbarDoNotUse;
+			global::Lottie.Forms.Resource.Layout.FallbackToolbarDoNotUse = global::WordQuiz.Droid.Resource.Layout.FallbackToolbarDoNotUse;
+			global::Lottie.Forms.Resource.Layout.FlyoutContent = global::WordQuiz.Droid.Resource.Layout.FlyoutContent;
+			global::Lottie.Forms.Resource.Layout.mtrl_layout_snackbar = global::WordQuiz.Droid.Resource.Layout.mtrl_layout_snackbar;
+			global::Lottie.Forms.Resource.Layout.mtrl_layout_snackbar_include = global::WordQuiz.Droid.Resource.Layout.mtrl_layout_snackbar_include;
+			global::Lottie.Forms.Resource.Layout.notification_action = global::WordQuiz.Droid.Resource.Layout.notification_action;
+			global::Lottie.Forms.Resource.Layout.notification_action_tombstone = global::WordQuiz.Droid.Resource.Layout.notification_action_tombstone;
+			global::Lottie.Forms.Resource.Layout.notification_media_action = global::WordQuiz.Droid.Resource.Layout.notification_media_action;
+			global::Lottie.Forms.Resource.Layout.notification_media_cancel_action = global::WordQuiz.Droid.Resource.Layout.notification_media_cancel_action;
+			global::Lottie.Forms.Resource.Layout.notification_template_big_media = global::WordQuiz.Droid.Resource.Layout.notification_template_big_media;
+			global::Lottie.Forms.Resource.Layout.notification_template_big_media_custom = global::WordQuiz.Droid.Resource.Layout.notification_template_big_media_custom;
+			global::Lottie.Forms.Resource.Layout.notification_template_big_media_narrow = global::WordQuiz.Droid.Resource.Layout.notification_template_big_media_narrow;
+			global::Lottie.Forms.Resource.Layout.notification_template_big_media_narrow_custom = global::WordQuiz.Droid.Resource.Layout.notification_template_big_media_narrow_custom;
+			global::Lottie.Forms.Resource.Layout.notification_template_custom_big = global::WordQuiz.Droid.Resource.Layout.notification_template_custom_big;
+			global::Lottie.Forms.Resource.Layout.notification_template_icon_group = global::WordQuiz.Droid.Resource.Layout.notification_template_icon_group;
+			global::Lottie.Forms.Resource.Layout.notification_template_lines_media = global::WordQuiz.Droid.Resource.Layout.notification_template_lines_media;
+			global::Lottie.Forms.Resource.Layout.notification_template_media = global::WordQuiz.Droid.Resource.Layout.notification_template_media;
+			global::Lottie.Forms.Resource.Layout.notification_template_media_custom = global::WordQuiz.Droid.Resource.Layout.notification_template_media_custom;
+			global::Lottie.Forms.Resource.Layout.notification_template_part_chronometer = global::WordQuiz.Droid.Resource.Layout.notification_template_part_chronometer;
+			global::Lottie.Forms.Resource.Layout.notification_template_part_time = global::WordQuiz.Droid.Resource.Layout.notification_template_part_time;
+			global::Lottie.Forms.Resource.Layout.RootLayout = global::WordQuiz.Droid.Resource.Layout.RootLayout;
+			global::Lottie.Forms.Resource.Layout.select_dialog_item_material = global::WordQuiz.Droid.Resource.Layout.select_dialog_item_material;
+			global::Lottie.Forms.Resource.Layout.select_dialog_multichoice_material = global::WordQuiz.Droid.Resource.Layout.select_dialog_multichoice_material;
+			global::Lottie.Forms.Resource.Layout.select_dialog_singlechoice_material = global::WordQuiz.Droid.Resource.Layout.select_dialog_singlechoice_material;
+			global::Lottie.Forms.Resource.Layout.ShellContent = global::WordQuiz.Droid.Resource.Layout.ShellContent;
+			global::Lottie.Forms.Resource.Layout.support_simple_spinner_dropdown_item = global::WordQuiz.Droid.Resource.Layout.support_simple_spinner_dropdown_item;
+			global::Lottie.Forms.Resource.Layout.Tabbar = global::WordQuiz.Droid.Resource.Layout.Tabbar;
+			global::Lottie.Forms.Resource.Layout.Toolbar = global::WordQuiz.Droid.Resource.Layout.Toolbar;
+			global::Lottie.Forms.Resource.String.abc_action_bar_home_description = global::WordQuiz.Droid.Resource.String.abc_action_bar_home_description;
+			global::Lottie.Forms.Resource.String.abc_action_bar_up_description = global::WordQuiz.Droid.Resource.String.abc_action_bar_up_description;
+			global::Lottie.Forms.Resource.String.abc_action_menu_overflow_description = global::WordQuiz.Droid.Resource.String.abc_action_menu_overflow_description;
+			global::Lottie.Forms.Resource.String.abc_action_mode_done = global::WordQuiz.Droid.Resource.String.abc_action_mode_done;
+			global::Lottie.Forms.Resource.String.abc_activitychooserview_choose_application = global::WordQuiz.Droid.Resource.String.abc_activitychooserview_choose_application;
+			global::Lottie.Forms.Resource.String.abc_activity_chooser_view_see_all = global::WordQuiz.Droid.Resource.String.abc_activity_chooser_view_see_all;
+			global::Lottie.Forms.Resource.String.abc_capital_off = global::WordQuiz.Droid.Resource.String.abc_capital_off;
+			global::Lottie.Forms.Resource.String.abc_capital_on = global::WordQuiz.Droid.Resource.String.abc_capital_on;
+			global::Lottie.Forms.Resource.String.abc_menu_alt_shortcut_label = global::WordQuiz.Droid.Resource.String.abc_menu_alt_shortcut_label;
+			global::Lottie.Forms.Resource.String.abc_menu_ctrl_shortcut_label = global::WordQuiz.Droid.Resource.String.abc_menu_ctrl_shortcut_label;
+			global::Lottie.Forms.Resource.String.abc_menu_delete_shortcut_label = global::WordQuiz.Droid.Resource.String.abc_menu_delete_shortcut_label;
+			global::Lottie.Forms.Resource.String.abc_menu_enter_shortcut_label = global::WordQuiz.Droid.Resource.String.abc_menu_enter_shortcut_label;
+			global::Lottie.Forms.Resource.String.abc_menu_function_shortcut_label = global::WordQuiz.Droid.Resource.String.abc_menu_function_shortcut_label;
+			global::Lottie.Forms.Resource.String.abc_menu_meta_shortcut_label = global::WordQuiz.Droid.Resource.String.abc_menu_meta_shortcut_label;
+			global::Lottie.Forms.Resource.String.abc_menu_shift_shortcut_label = global::WordQuiz.Droid.Resource.String.abc_menu_shift_shortcut_label;
+			global::Lottie.Forms.Resource.String.abc_menu_space_shortcut_label = global::WordQuiz.Droid.Resource.String.abc_menu_space_shortcut_label;
+			global::Lottie.Forms.Resource.String.abc_menu_sym_shortcut_label = global::WordQuiz.Droid.Resource.String.abc_menu_sym_shortcut_label;
+			global::Lottie.Forms.Resource.String.abc_prepend_shortcut_label = global::WordQuiz.Droid.Resource.String.abc_prepend_shortcut_label;
+			global::Lottie.Forms.Resource.String.abc_searchview_description_clear = global::WordQuiz.Droid.Resource.String.abc_searchview_description_clear;
+			global::Lottie.Forms.Resource.String.abc_searchview_description_query = global::WordQuiz.Droid.Resource.String.abc_searchview_description_query;
+			global::Lottie.Forms.Resource.String.abc_searchview_description_search = global::WordQuiz.Droid.Resource.String.abc_searchview_description_search;
+			global::Lottie.Forms.Resource.String.abc_searchview_description_submit = global::WordQuiz.Droid.Resource.String.abc_searchview_description_submit;
+			global::Lottie.Forms.Resource.String.abc_searchview_description_voice = global::WordQuiz.Droid.Resource.String.abc_searchview_description_voice;
+			global::Lottie.Forms.Resource.String.abc_search_hint = global::WordQuiz.Droid.Resource.String.abc_search_hint;
+			global::Lottie.Forms.Resource.String.abc_shareactionprovider_share_with = global::WordQuiz.Droid.Resource.String.abc_shareactionprovider_share_with;
+			global::Lottie.Forms.Resource.String.abc_shareactionprovider_share_with_application = global::WordQuiz.Droid.Resource.String.abc_shareactionprovider_share_with_application;
+			global::Lottie.Forms.Resource.String.abc_toolbar_collapse_description = global::WordQuiz.Droid.Resource.String.abc_toolbar_collapse_description;
+			global::Lottie.Forms.Resource.String.appbar_scrolling_view_behavior = global::WordQuiz.Droid.Resource.String.appbar_scrolling_view_behavior;
+			global::Lottie.Forms.Resource.String.bottom_sheet_behavior = global::WordQuiz.Droid.Resource.String.bottom_sheet_behavior;
+			global::Lottie.Forms.Resource.String.character_counter_content_description = global::WordQuiz.Droid.Resource.String.character_counter_content_description;
+			global::Lottie.Forms.Resource.String.character_counter_pattern = global::WordQuiz.Droid.Resource.String.character_counter_pattern;
+			global::Lottie.Forms.Resource.String.fab_transformation_scrim_behavior = global::WordQuiz.Droid.Resource.String.fab_transformation_scrim_behavior;
+			global::Lottie.Forms.Resource.String.fab_transformation_sheet_behavior = global::WordQuiz.Droid.Resource.String.fab_transformation_sheet_behavior;
+			global::Lottie.Forms.Resource.String.hide_bottom_view_on_scroll_behavior = global::WordQuiz.Droid.Resource.String.hide_bottom_view_on_scroll_behavior;
+			global::Lottie.Forms.Resource.String.mtrl_chip_close_icon_content_description = global::WordQuiz.Droid.Resource.String.mtrl_chip_close_icon_content_description;
+			global::Lottie.Forms.Resource.String.password_toggle_content_description = global::WordQuiz.Droid.Resource.String.password_toggle_content_description;
+			global::Lottie.Forms.Resource.String.path_password_eye = global::WordQuiz.Droid.Resource.String.path_password_eye;
+			global::Lottie.Forms.Resource.String.path_password_eye_mask_strike_through = global::WordQuiz.Droid.Resource.String.path_password_eye_mask_strike_through;
+			global::Lottie.Forms.Resource.String.path_password_eye_mask_visible = global::WordQuiz.Droid.Resource.String.path_password_eye_mask_visible;
+			global::Lottie.Forms.Resource.String.path_password_strike_through = global::WordQuiz.Droid.Resource.String.path_password_strike_through;
+			global::Lottie.Forms.Resource.String.search_menu_title = global::WordQuiz.Droid.Resource.String.search_menu_title;
+			global::Lottie.Forms.Resource.String.status_bar_notification_info_overflow = global::WordQuiz.Droid.Resource.String.status_bar_notification_info_overflow;
+			global::Lottie.Forms.Resource.Style.AlertDialog_AppCompat = global::WordQuiz.Droid.Resource.Style.AlertDialog_AppCompat;
+			global::Lottie.Forms.Resource.Style.AlertDialog_AppCompat_Light = global::WordQuiz.Droid.Resource.Style.AlertDialog_AppCompat_Light;
+			global::Lottie.Forms.Resource.Style.Animation_AppCompat_Dialog = global::WordQuiz.Droid.Resource.Style.Animation_AppCompat_Dialog;
+			global::Lottie.Forms.Resource.Style.Animation_AppCompat_DropDownUp = global::WordQuiz.Droid.Resource.Style.Animation_AppCompat_DropDownUp;
+			global::Lottie.Forms.Resource.Style.Animation_AppCompat_Tooltip = global::WordQuiz.Droid.Resource.Style.Animation_AppCompat_Tooltip;
+			global::Lottie.Forms.Resource.Style.Animation_Design_BottomSheetDialog = global::WordQuiz.Droid.Resource.Style.Animation_Design_BottomSheetDialog;
+			global::Lottie.Forms.Resource.Style.Base_AlertDialog_AppCompat = global::WordQuiz.Droid.Resource.Style.Base_AlertDialog_AppCompat;
+			global::Lottie.Forms.Resource.Style.Base_AlertDialog_AppCompat_Light = global::WordQuiz.Droid.Resource.Style.Base_AlertDialog_AppCompat_Light;
+			global::Lottie.Forms.Resource.Style.Base_Animation_AppCompat_Dialog = global::WordQuiz.Droid.Resource.Style.Base_Animation_AppCompat_Dialog;
+			global::Lottie.Forms.Resource.Style.Base_Animation_AppCompat_DropDownUp = global::WordQuiz.Droid.Resource.Style.Base_Animation_AppCompat_DropDownUp;
+			global::Lottie.Forms.Resource.Style.Base_Animation_AppCompat_Tooltip = global::WordQuiz.Droid.Resource.Style.Base_Animation_AppCompat_Tooltip;
+			global::Lottie.Forms.Resource.Style.Base_CardView = global::WordQuiz.Droid.Resource.Style.Base_CardView;
+			global::Lottie.Forms.Resource.Style.Base_DialogWindowTitleBackground_AppCompat = global::WordQuiz.Droid.Resource.Style.Base_DialogWindowTitleBackground_AppCompat;
+			global::Lottie.Forms.Resource.Style.Base_DialogWindowTitle_AppCompat = global::WordQuiz.Droid.Resource.Style.Base_DialogWindowTitle_AppCompat;
+			global::Lottie.Forms.Resource.Style.Base_TextAppearance_AppCompat = global::WordQuiz.Droid.Resource.Style.Base_TextAppearance_AppCompat;
+			global::Lottie.Forms.Resource.Style.Base_TextAppearance_AppCompat_Body1 = global::WordQuiz.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body1;
+			global::Lottie.Forms.Resource.Style.Base_TextAppearance_AppCompat_Body2 = global::WordQuiz.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body2;
+			global::Lottie.Forms.Resource.Style.Base_TextAppearance_AppCompat_Button = global::WordQuiz.Droid.Resource.Style.Base_TextAppearance_AppCompat_Button;
+			global::Lottie.Forms.Resource.Style.Base_TextAppearance_AppCompat_Caption = global::WordQuiz.Droid.Resource.Style.Base_TextAppearance_AppCompat_Caption;
+			global::Lottie.Forms.Resource.Style.Base_TextAppearance_AppCompat_Display1 = global::WordQuiz.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display1;
+			global::Lottie.Forms.Resource.Style.Base_TextAppearance_AppCompat_Display2 = global::WordQuiz.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display2;
+			global::Lottie.Forms.Resource.Style.Base_TextAppearance_AppCompat_Display3 = global::WordQuiz.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display3;
+			global::Lottie.Forms.Resource.Style.Base_TextAppearance_AppCompat_Display4 = global::WordQuiz.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display4;
+			global::Lottie.Forms.Resource.Style.Base_TextAppearance_AppCompat_Headline = global::WordQuiz.Droid.Resource.Style.Base_TextAppearance_AppCompat_Headline;
+			global::Lottie.Forms.Resource.Style.Base_TextAppearance_AppCompat_Inverse = global::WordQuiz.Droid.Resource.Style.Base_TextAppearance_AppCompat_Inverse;
+			global::Lottie.Forms.Resource.Style.Base_TextAppearance_AppCompat_Large = global::WordQuiz.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large;
+			global::Lottie.Forms.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse = global::WordQuiz.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse;
+			global::Lottie.Forms.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::WordQuiz.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::Lottie.Forms.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::WordQuiz.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::Lottie.Forms.Resource.Style.Base_TextAppearance_AppCompat_Medium = global::WordQuiz.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium;
+			global::Lottie.Forms.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse = global::WordQuiz.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse;
+			global::Lottie.Forms.Resource.Style.Base_TextAppearance_AppCompat_Menu = global::WordQuiz.Droid.Resource.Style.Base_TextAppearance_AppCompat_Menu;
+			global::Lottie.Forms.Resource.Style.Base_TextAppearance_AppCompat_SearchResult = global::WordQuiz.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult;
+			global::Lottie.Forms.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle = global::WordQuiz.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::Lottie.Forms.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title = global::WordQuiz.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title;
+			global::Lottie.Forms.Resource.Style.Base_TextAppearance_AppCompat_Small = global::WordQuiz.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small;
+			global::Lottie.Forms.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse = global::WordQuiz.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse;
+			global::Lottie.Forms.Resource.Style.Base_TextAppearance_AppCompat_Subhead = global::WordQuiz.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead;
+			global::Lottie.Forms.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse = global::WordQuiz.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse;
+			global::Lottie.Forms.Resource.Style.Base_TextAppearance_AppCompat_Title = global::WordQuiz.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title;
+			global::Lottie.Forms.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse = global::WordQuiz.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse;
+			global::Lottie.Forms.Resource.Style.Base_TextAppearance_AppCompat_Tooltip = global::WordQuiz.Droid.Resource.Style.Base_TextAppearance_AppCompat_Tooltip;
+			global::Lottie.Forms.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu = global::WordQuiz.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::Lottie.Forms.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::WordQuiz.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::Lottie.Forms.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::WordQuiz.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::Lottie.Forms.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title = global::WordQuiz.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::Lottie.Forms.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::WordQuiz.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::Lottie.Forms.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::WordQuiz.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::Lottie.Forms.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title = global::WordQuiz.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::Lottie.Forms.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button = global::WordQuiz.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button;
+			global::Lottie.Forms.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::WordQuiz.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
+			global::Lottie.Forms.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored = global::WordQuiz.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored;
+			global::Lottie.Forms.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse = global::WordQuiz.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::Lottie.Forms.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem = global::WordQuiz.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem;
+			global::Lottie.Forms.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header = global::WordQuiz.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header;
+			global::Lottie.Forms.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large = global::WordQuiz.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::Lottie.Forms.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small = global::WordQuiz.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::Lottie.Forms.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch = global::WordQuiz.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch;
+			global::Lottie.Forms.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::WordQuiz.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::Lottie.Forms.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::WordQuiz.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::Lottie.Forms.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::WordQuiz.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::Lottie.Forms.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title = global::WordQuiz.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::Lottie.Forms.Resource.Style.Base_ThemeOverlay_AppCompat = global::WordQuiz.Droid.Resource.Style.Base_ThemeOverlay_AppCompat;
+			global::Lottie.Forms.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar = global::WordQuiz.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar;
+			global::Lottie.Forms.Resource.Style.Base_ThemeOverlay_AppCompat_Dark = global::WordQuiz.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark;
+			global::Lottie.Forms.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar = global::WordQuiz.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::Lottie.Forms.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog = global::WordQuiz.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog;
+			global::Lottie.Forms.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert = global::WordQuiz.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert;
+			global::Lottie.Forms.Resource.Style.Base_ThemeOverlay_AppCompat_Light = global::WordQuiz.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Light;
+			global::Lottie.Forms.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog = global::WordQuiz.Droid.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog;
+			global::Lottie.Forms.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog_Alert = global::WordQuiz.Droid.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog_Alert;
+			global::Lottie.Forms.Resource.Style.Base_Theme_AppCompat = global::WordQuiz.Droid.Resource.Style.Base_Theme_AppCompat;
+			global::Lottie.Forms.Resource.Style.Base_Theme_AppCompat_CompactMenu = global::WordQuiz.Droid.Resource.Style.Base_Theme_AppCompat_CompactMenu;
+			global::Lottie.Forms.Resource.Style.Base_Theme_AppCompat_Dialog = global::WordQuiz.Droid.Resource.Style.Base_Theme_AppCompat_Dialog;
+			global::Lottie.Forms.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge = global::WordQuiz.Droid.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge;
+			global::Lottie.Forms.Resource.Style.Base_Theme_AppCompat_Dialog_Alert = global::WordQuiz.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_Alert;
+			global::Lottie.Forms.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize = global::WordQuiz.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize;
+			global::Lottie.Forms.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth = global::WordQuiz.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth;
+			global::Lottie.Forms.Resource.Style.Base_Theme_AppCompat_Light = global::WordQuiz.Droid.Resource.Style.Base_Theme_AppCompat_Light;
+			global::Lottie.Forms.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar = global::WordQuiz.Droid.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar;
+			global::Lottie.Forms.Resource.Style.Base_Theme_AppCompat_Light_Dialog = global::WordQuiz.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog;
+			global::Lottie.Forms.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge = global::WordQuiz.Droid.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge;
+			global::Lottie.Forms.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert = global::WordQuiz.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert;
+			global::Lottie.Forms.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize = global::WordQuiz.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize;
+			global::Lottie.Forms.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth = global::WordQuiz.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth;
+			global::Lottie.Forms.Resource.Style.Base_Theme_MaterialComponents = global::WordQuiz.Droid.Resource.Style.Base_Theme_MaterialComponents;
+			global::Lottie.Forms.Resource.Style.Base_Theme_MaterialComponents_Bridge = global::WordQuiz.Droid.Resource.Style.Base_Theme_MaterialComponents_Bridge;
+			global::Lottie.Forms.Resource.Style.Base_Theme_MaterialComponents_CompactMenu = global::WordQuiz.Droid.Resource.Style.Base_Theme_MaterialComponents_CompactMenu;
+			global::Lottie.Forms.Resource.Style.Base_Theme_MaterialComponents_Dialog = global::WordQuiz.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog;
+			global::Lottie.Forms.Resource.Style.Base_Theme_MaterialComponents_DialogWhenLarge = global::WordQuiz.Droid.Resource.Style.Base_Theme_MaterialComponents_DialogWhenLarge;
+			global::Lottie.Forms.Resource.Style.Base_Theme_MaterialComponents_Dialog_Alert = global::WordQuiz.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog_Alert;
+			global::Lottie.Forms.Resource.Style.Base_Theme_MaterialComponents_Dialog_FixedSize = global::WordQuiz.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog_FixedSize;
+			global::Lottie.Forms.Resource.Style.Base_Theme_MaterialComponents_Dialog_MinWidth = global::WordQuiz.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog_MinWidth;
+			global::Lottie.Forms.Resource.Style.Base_Theme_MaterialComponents_Light = global::WordQuiz.Droid.Resource.Style.Base_Theme_MaterialComponents_Light;
+			global::Lottie.Forms.Resource.Style.Base_Theme_MaterialComponents_Light_Bridge = global::WordQuiz.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Bridge;
+			global::Lottie.Forms.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar = global::WordQuiz.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar;
+			global::Lottie.Forms.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar_Bridge = global::WordQuiz.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar_Bridge;
+			global::Lottie.Forms.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog = global::WordQuiz.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog;
+			global::Lottie.Forms.Resource.Style.Base_Theme_MaterialComponents_Light_DialogWhenLarge = global::WordQuiz.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_DialogWhenLarge;
+			global::Lottie.Forms.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_Alert = global::WordQuiz.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_Alert;
+			global::Lottie.Forms.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_FixedSize = global::WordQuiz.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_FixedSize;
+			global::Lottie.Forms.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_MinWidth = global::WordQuiz.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_MinWidth;
+			global::Lottie.Forms.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog = global::WordQuiz.Droid.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog;
+			global::Lottie.Forms.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog_Alert = global::WordQuiz.Droid.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog_Alert;
+			global::Lottie.Forms.Resource.Style.Base_V14_Theme_MaterialComponents = global::WordQuiz.Droid.Resource.Style.Base_V14_Theme_MaterialComponents;
+			global::Lottie.Forms.Resource.Style.Base_V14_Theme_MaterialComponents_Bridge = global::WordQuiz.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Bridge;
+			global::Lottie.Forms.Resource.Style.Base_V14_Theme_MaterialComponents_Dialog = global::WordQuiz.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Dialog;
+			global::Lottie.Forms.Resource.Style.Base_V14_Theme_MaterialComponents_Light = global::WordQuiz.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light;
+			global::Lottie.Forms.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Bridge = global::WordQuiz.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Bridge;
+			global::Lottie.Forms.Resource.Style.Base_V14_Theme_MaterialComponents_Light_DarkActionBar_Bridge = global::WordQuiz.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light_DarkActionBar_Bridge;
+			global::Lottie.Forms.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Dialog = global::WordQuiz.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Dialog;
+			global::Lottie.Forms.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog = global::WordQuiz.Droid.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog;
+			global::Lottie.Forms.Resource.Style.Base_V21_Theme_AppCompat = global::WordQuiz.Droid.Resource.Style.Base_V21_Theme_AppCompat;
+			global::Lottie.Forms.Resource.Style.Base_V21_Theme_AppCompat_Dialog = global::WordQuiz.Droid.Resource.Style.Base_V21_Theme_AppCompat_Dialog;
+			global::Lottie.Forms.Resource.Style.Base_V21_Theme_AppCompat_Light = global::WordQuiz.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light;
+			global::Lottie.Forms.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog = global::WordQuiz.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog;
+			global::Lottie.Forms.Resource.Style.Base_V22_Theme_AppCompat = global::WordQuiz.Droid.Resource.Style.Base_V22_Theme_AppCompat;
+			global::Lottie.Forms.Resource.Style.Base_V22_Theme_AppCompat_Light = global::WordQuiz.Droid.Resource.Style.Base_V22_Theme_AppCompat_Light;
+			global::Lottie.Forms.Resource.Style.Base_V23_Theme_AppCompat = global::WordQuiz.Droid.Resource.Style.Base_V23_Theme_AppCompat;
+			global::Lottie.Forms.Resource.Style.Base_V23_Theme_AppCompat_Light = global::WordQuiz.Droid.Resource.Style.Base_V23_Theme_AppCompat_Light;
+			global::Lottie.Forms.Resource.Style.Base_V26_Theme_AppCompat = global::WordQuiz.Droid.Resource.Style.Base_V26_Theme_AppCompat;
+			global::Lottie.Forms.Resource.Style.Base_V26_Theme_AppCompat_Light = global::WordQuiz.Droid.Resource.Style.Base_V26_Theme_AppCompat_Light;
+			global::Lottie.Forms.Resource.Style.Base_V26_Widget_AppCompat_Toolbar = global::WordQuiz.Droid.Resource.Style.Base_V26_Widget_AppCompat_Toolbar;
+			global::Lottie.Forms.Resource.Style.Base_V28_Theme_AppCompat = global::WordQuiz.Droid.Resource.Style.Base_V28_Theme_AppCompat;
+			global::Lottie.Forms.Resource.Style.Base_V28_Theme_AppCompat_Light = global::WordQuiz.Droid.Resource.Style.Base_V28_Theme_AppCompat_Light;
+			global::Lottie.Forms.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog = global::WordQuiz.Droid.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog;
+			global::Lottie.Forms.Resource.Style.Base_V7_Theme_AppCompat = global::WordQuiz.Droid.Resource.Style.Base_V7_Theme_AppCompat;
+			global::Lottie.Forms.Resource.Style.Base_V7_Theme_AppCompat_Dialog = global::WordQuiz.Droid.Resource.Style.Base_V7_Theme_AppCompat_Dialog;
+			global::Lottie.Forms.Resource.Style.Base_V7_Theme_AppCompat_Light = global::WordQuiz.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light;
+			global::Lottie.Forms.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog = global::WordQuiz.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog;
+			global::Lottie.Forms.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView = global::WordQuiz.Droid.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView;
+			global::Lottie.Forms.Resource.Style.Base_V7_Widget_AppCompat_EditText = global::WordQuiz.Droid.Resource.Style.Base_V7_Widget_AppCompat_EditText;
+			global::Lottie.Forms.Resource.Style.Base_V7_Widget_AppCompat_Toolbar = global::WordQuiz.Droid.Resource.Style.Base_V7_Widget_AppCompat_Toolbar;
+			global::Lottie.Forms.Resource.Style.Base_Widget_AppCompat_ActionBar = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar;
+			global::Lottie.Forms.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid;
+			global::Lottie.Forms.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar;
+			global::Lottie.Forms.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText;
+			global::Lottie.Forms.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView;
+			global::Lottie.Forms.Resource.Style.Base_Widget_AppCompat_ActionButton = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton;
+			global::Lottie.Forms.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode;
+			global::Lottie.Forms.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow;
+			global::Lottie.Forms.Resource.Style.Base_Widget_AppCompat_ActionMode = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_ActionMode;
+			global::Lottie.Forms.Resource.Style.Base_Widget_AppCompat_ActivityChooserView = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_ActivityChooserView;
+			global::Lottie.Forms.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView;
+			global::Lottie.Forms.Resource.Style.Base_Widget_AppCompat_Button = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_Button;
+			global::Lottie.Forms.Resource.Style.Base_Widget_AppCompat_ButtonBar = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar;
+			global::Lottie.Forms.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog;
+			global::Lottie.Forms.Resource.Style.Base_Widget_AppCompat_Button_Borderless = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless;
+			global::Lottie.Forms.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored;
+			global::Lottie.Forms.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::Lottie.Forms.Resource.Style.Base_Widget_AppCompat_Button_Colored = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_Button_Colored;
+			global::Lottie.Forms.Resource.Style.Base_Widget_AppCompat_Button_Small = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_Button_Small;
+			global::Lottie.Forms.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox;
+			global::Lottie.Forms.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton;
+			global::Lottie.Forms.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch;
+			global::Lottie.Forms.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle;
+			global::Lottie.Forms.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common;
+			global::Lottie.Forms.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner;
+			global::Lottie.Forms.Resource.Style.Base_Widget_AppCompat_EditText = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_EditText;
+			global::Lottie.Forms.Resource.Style.Base_Widget_AppCompat_ImageButton = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_ImageButton;
+			global::Lottie.Forms.Resource.Style.Base_Widget_AppCompat_Light_ActionBar = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar;
+			global::Lottie.Forms.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid;
+			global::Lottie.Forms.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar;
+			global::Lottie.Forms.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText;
+			global::Lottie.Forms.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::Lottie.Forms.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView;
+			global::Lottie.Forms.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu;
+			global::Lottie.Forms.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::Lottie.Forms.Resource.Style.Base_Widget_AppCompat_ListMenuView = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_ListMenuView;
+			global::Lottie.Forms.Resource.Style.Base_Widget_AppCompat_ListPopupWindow = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_ListPopupWindow;
+			global::Lottie.Forms.Resource.Style.Base_Widget_AppCompat_ListView = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_ListView;
+			global::Lottie.Forms.Resource.Style.Base_Widget_AppCompat_ListView_DropDown = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_ListView_DropDown;
+			global::Lottie.Forms.Resource.Style.Base_Widget_AppCompat_ListView_Menu = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_ListView_Menu;
+			global::Lottie.Forms.Resource.Style.Base_Widget_AppCompat_PopupMenu = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu;
+			global::Lottie.Forms.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow;
+			global::Lottie.Forms.Resource.Style.Base_Widget_AppCompat_PopupWindow = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_PopupWindow;
+			global::Lottie.Forms.Resource.Style.Base_Widget_AppCompat_ProgressBar = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar;
+			global::Lottie.Forms.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal;
+			global::Lottie.Forms.Resource.Style.Base_Widget_AppCompat_RatingBar = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar;
+			global::Lottie.Forms.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator;
+			global::Lottie.Forms.Resource.Style.Base_Widget_AppCompat_RatingBar_Small = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Small;
+			global::Lottie.Forms.Resource.Style.Base_Widget_AppCompat_SearchView = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_SearchView;
+			global::Lottie.Forms.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar;
+			global::Lottie.Forms.Resource.Style.Base_Widget_AppCompat_SeekBar = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar;
+			global::Lottie.Forms.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete;
+			global::Lottie.Forms.Resource.Style.Base_Widget_AppCompat_Spinner = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_Spinner;
+			global::Lottie.Forms.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined;
+			global::Lottie.Forms.Resource.Style.Base_Widget_AppCompat_TextView = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_TextView;
+			global::Lottie.Forms.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem;
+			global::Lottie.Forms.Resource.Style.Base_Widget_AppCompat_Toolbar = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar;
+			global::Lottie.Forms.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation;
+			global::Lottie.Forms.Resource.Style.Base_Widget_Design_TabLayout = global::WordQuiz.Droid.Resource.Style.Base_Widget_Design_TabLayout;
+			global::Lottie.Forms.Resource.Style.Base_Widget_MaterialComponents_Chip = global::WordQuiz.Droid.Resource.Style.Base_Widget_MaterialComponents_Chip;
+			global::Lottie.Forms.Resource.Style.Base_Widget_MaterialComponents_TextInputEditText = global::WordQuiz.Droid.Resource.Style.Base_Widget_MaterialComponents_TextInputEditText;
+			global::Lottie.Forms.Resource.Style.Base_Widget_MaterialComponents_TextInputLayout = global::WordQuiz.Droid.Resource.Style.Base_Widget_MaterialComponents_TextInputLayout;
+			global::Lottie.Forms.Resource.Style.CardView = global::WordQuiz.Droid.Resource.Style.CardView;
+			global::Lottie.Forms.Resource.Style.CardView_Dark = global::WordQuiz.Droid.Resource.Style.CardView_Dark;
+			global::Lottie.Forms.Resource.Style.CardView_Light = global::WordQuiz.Droid.Resource.Style.CardView_Light;
+			global::Lottie.Forms.Resource.Style.collectionViewStyle = global::WordQuiz.Droid.Resource.Style.collectionViewStyle;
+			global::Lottie.Forms.Resource.Style.Platform_AppCompat = global::WordQuiz.Droid.Resource.Style.Platform_AppCompat;
+			global::Lottie.Forms.Resource.Style.Platform_AppCompat_Light = global::WordQuiz.Droid.Resource.Style.Platform_AppCompat_Light;
+			global::Lottie.Forms.Resource.Style.Platform_MaterialComponents = global::WordQuiz.Droid.Resource.Style.Platform_MaterialComponents;
+			global::Lottie.Forms.Resource.Style.Platform_MaterialComponents_Dialog = global::WordQuiz.Droid.Resource.Style.Platform_MaterialComponents_Dialog;
+			global::Lottie.Forms.Resource.Style.Platform_MaterialComponents_Light = global::WordQuiz.Droid.Resource.Style.Platform_MaterialComponents_Light;
+			global::Lottie.Forms.Resource.Style.Platform_MaterialComponents_Light_Dialog = global::WordQuiz.Droid.Resource.Style.Platform_MaterialComponents_Light_Dialog;
+			global::Lottie.Forms.Resource.Style.Platform_ThemeOverlay_AppCompat = global::WordQuiz.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat;
+			global::Lottie.Forms.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark = global::WordQuiz.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark;
+			global::Lottie.Forms.Resource.Style.Platform_ThemeOverlay_AppCompat_Light = global::WordQuiz.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Light;
+			global::Lottie.Forms.Resource.Style.Platform_V21_AppCompat = global::WordQuiz.Droid.Resource.Style.Platform_V21_AppCompat;
+			global::Lottie.Forms.Resource.Style.Platform_V21_AppCompat_Light = global::WordQuiz.Droid.Resource.Style.Platform_V21_AppCompat_Light;
+			global::Lottie.Forms.Resource.Style.Platform_V25_AppCompat = global::WordQuiz.Droid.Resource.Style.Platform_V25_AppCompat;
+			global::Lottie.Forms.Resource.Style.Platform_V25_AppCompat_Light = global::WordQuiz.Droid.Resource.Style.Platform_V25_AppCompat_Light;
+			global::Lottie.Forms.Resource.Style.Platform_Widget_AppCompat_Spinner = global::WordQuiz.Droid.Resource.Style.Platform_Widget_AppCompat_Spinner;
+			global::Lottie.Forms.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat = global::WordQuiz.Droid.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat;
+			global::Lottie.Forms.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem = global::WordQuiz.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem;
+			global::Lottie.Forms.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon = global::WordQuiz.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon;
+			global::Lottie.Forms.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem = global::WordQuiz.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem;
+			global::Lottie.Forms.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup = global::WordQuiz.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup;
+			global::Lottie.Forms.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Shortcut = global::WordQuiz.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Shortcut;
+			global::Lottie.Forms.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_SubmenuArrow = global::WordQuiz.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_SubmenuArrow;
+			global::Lottie.Forms.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text = global::WordQuiz.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text;
+			global::Lottie.Forms.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Title = global::WordQuiz.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Title;
+			global::Lottie.Forms.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon = global::WordQuiz.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon;
+			global::Lottie.Forms.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown = global::WordQuiz.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown;
+			global::Lottie.Forms.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = global::WordQuiz.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1;
+			global::Lottie.Forms.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = global::WordQuiz.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2;
+			global::Lottie.Forms.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query = global::WordQuiz.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query;
+			global::Lottie.Forms.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text = global::WordQuiz.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text;
+			global::Lottie.Forms.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton = global::WordQuiz.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton;
+			global::Lottie.Forms.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = global::WordQuiz.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow;
+			global::Lottie.Forms.Resource.Style.TextAppearance_AppCompat = global::WordQuiz.Droid.Resource.Style.TextAppearance_AppCompat;
+			global::Lottie.Forms.Resource.Style.TextAppearance_AppCompat_Body1 = global::WordQuiz.Droid.Resource.Style.TextAppearance_AppCompat_Body1;
+			global::Lottie.Forms.Resource.Style.TextAppearance_AppCompat_Body2 = global::WordQuiz.Droid.Resource.Style.TextAppearance_AppCompat_Body2;
+			global::Lottie.Forms.Resource.Style.TextAppearance_AppCompat_Button = global::WordQuiz.Droid.Resource.Style.TextAppearance_AppCompat_Button;
+			global::Lottie.Forms.Resource.Style.TextAppearance_AppCompat_Caption = global::WordQuiz.Droid.Resource.Style.TextAppearance_AppCompat_Caption;
+			global::Lottie.Forms.Resource.Style.TextAppearance_AppCompat_Display1 = global::WordQuiz.Droid.Resource.Style.TextAppearance_AppCompat_Display1;
+			global::Lottie.Forms.Resource.Style.TextAppearance_AppCompat_Display2 = global::WordQuiz.Droid.Resource.Style.TextAppearance_AppCompat_Display2;
+			global::Lottie.Forms.Resource.Style.TextAppearance_AppCompat_Display3 = global::WordQuiz.Droid.Resource.Style.TextAppearance_AppCompat_Display3;
+			global::Lottie.Forms.Resource.Style.TextAppearance_AppCompat_Display4 = global::WordQuiz.Droid.Resource.Style.TextAppearance_AppCompat_Display4;
+			global::Lottie.Forms.Resource.Style.TextAppearance_AppCompat_Headline = global::WordQuiz.Droid.Resource.Style.TextAppearance_AppCompat_Headline;
+			global::Lottie.Forms.Resource.Style.TextAppearance_AppCompat_Inverse = global::WordQuiz.Droid.Resource.Style.TextAppearance_AppCompat_Inverse;
+			global::Lottie.Forms.Resource.Style.TextAppearance_AppCompat_Large = global::WordQuiz.Droid.Resource.Style.TextAppearance_AppCompat_Large;
+			global::Lottie.Forms.Resource.Style.TextAppearance_AppCompat_Large_Inverse = global::WordQuiz.Droid.Resource.Style.TextAppearance_AppCompat_Large_Inverse;
+			global::Lottie.Forms.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle = global::WordQuiz.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle;
+			global::Lottie.Forms.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title = global::WordQuiz.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title;
+			global::Lottie.Forms.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::WordQuiz.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::Lottie.Forms.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::WordQuiz.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::Lottie.Forms.Resource.Style.TextAppearance_AppCompat_Medium = global::WordQuiz.Droid.Resource.Style.TextAppearance_AppCompat_Medium;
+			global::Lottie.Forms.Resource.Style.TextAppearance_AppCompat_Medium_Inverse = global::WordQuiz.Droid.Resource.Style.TextAppearance_AppCompat_Medium_Inverse;
+			global::Lottie.Forms.Resource.Style.TextAppearance_AppCompat_Menu = global::WordQuiz.Droid.Resource.Style.TextAppearance_AppCompat_Menu;
+			global::Lottie.Forms.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle = global::WordQuiz.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::Lottie.Forms.Resource.Style.TextAppearance_AppCompat_SearchResult_Title = global::WordQuiz.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Title;
+			global::Lottie.Forms.Resource.Style.TextAppearance_AppCompat_Small = global::WordQuiz.Droid.Resource.Style.TextAppearance_AppCompat_Small;
+			global::Lottie.Forms.Resource.Style.TextAppearance_AppCompat_Small_Inverse = global::WordQuiz.Droid.Resource.Style.TextAppearance_AppCompat_Small_Inverse;
+			global::Lottie.Forms.Resource.Style.TextAppearance_AppCompat_Subhead = global::WordQuiz.Droid.Resource.Style.TextAppearance_AppCompat_Subhead;
+			global::Lottie.Forms.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse = global::WordQuiz.Droid.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse;
+			global::Lottie.Forms.Resource.Style.TextAppearance_AppCompat_Title = global::WordQuiz.Droid.Resource.Style.TextAppearance_AppCompat_Title;
+			global::Lottie.Forms.Resource.Style.TextAppearance_AppCompat_Title_Inverse = global::WordQuiz.Droid.Resource.Style.TextAppearance_AppCompat_Title_Inverse;
+			global::Lottie.Forms.Resource.Style.TextAppearance_AppCompat_Tooltip = global::WordQuiz.Droid.Resource.Style.TextAppearance_AppCompat_Tooltip;
+			global::Lottie.Forms.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu = global::WordQuiz.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::Lottie.Forms.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::WordQuiz.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::Lottie.Forms.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::WordQuiz.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::Lottie.Forms.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title = global::WordQuiz.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::Lottie.Forms.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::WordQuiz.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::Lottie.Forms.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::WordQuiz.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::Lottie.Forms.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = global::WordQuiz.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse;
+			global::Lottie.Forms.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title = global::WordQuiz.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::Lottie.Forms.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = global::WordQuiz.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse;
+			global::Lottie.Forms.Resource.Style.TextAppearance_AppCompat_Widget_Button = global::WordQuiz.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button;
+			global::Lottie.Forms.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::WordQuiz.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
+			global::Lottie.Forms.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored = global::WordQuiz.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored;
+			global::Lottie.Forms.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse = global::WordQuiz.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::Lottie.Forms.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem = global::WordQuiz.Droid.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem;
+			global::Lottie.Forms.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header = global::WordQuiz.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header;
+			global::Lottie.Forms.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large = global::WordQuiz.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::Lottie.Forms.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small = global::WordQuiz.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::Lottie.Forms.Resource.Style.TextAppearance_AppCompat_Widget_Switch = global::WordQuiz.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Switch;
+			global::Lottie.Forms.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::WordQuiz.Droid.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::Lottie.Forms.Resource.Style.TextAppearance_Compat_Notification = global::WordQuiz.Droid.Resource.Style.TextAppearance_Compat_Notification;
+			global::Lottie.Forms.Resource.Style.TextAppearance_Compat_Notification_Info = global::WordQuiz.Droid.Resource.Style.TextAppearance_Compat_Notification_Info;
+			global::Lottie.Forms.Resource.Style.TextAppearance_Compat_Notification_Info_Media = global::WordQuiz.Droid.Resource.Style.TextAppearance_Compat_Notification_Info_Media;
+			global::Lottie.Forms.Resource.Style.TextAppearance_Compat_Notification_Line2 = global::WordQuiz.Droid.Resource.Style.TextAppearance_Compat_Notification_Line2;
+			global::Lottie.Forms.Resource.Style.TextAppearance_Compat_Notification_Line2_Media = global::WordQuiz.Droid.Resource.Style.TextAppearance_Compat_Notification_Line2_Media;
+			global::Lottie.Forms.Resource.Style.TextAppearance_Compat_Notification_Media = global::WordQuiz.Droid.Resource.Style.TextAppearance_Compat_Notification_Media;
+			global::Lottie.Forms.Resource.Style.TextAppearance_Compat_Notification_Time = global::WordQuiz.Droid.Resource.Style.TextAppearance_Compat_Notification_Time;
+			global::Lottie.Forms.Resource.Style.TextAppearance_Compat_Notification_Time_Media = global::WordQuiz.Droid.Resource.Style.TextAppearance_Compat_Notification_Time_Media;
+			global::Lottie.Forms.Resource.Style.TextAppearance_Compat_Notification_Title = global::WordQuiz.Droid.Resource.Style.TextAppearance_Compat_Notification_Title;
+			global::Lottie.Forms.Resource.Style.TextAppearance_Compat_Notification_Title_Media = global::WordQuiz.Droid.Resource.Style.TextAppearance_Compat_Notification_Title_Media;
+			global::Lottie.Forms.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded = global::WordQuiz.Droid.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded;
+			global::Lottie.Forms.Resource.Style.TextAppearance_Design_Counter = global::WordQuiz.Droid.Resource.Style.TextAppearance_Design_Counter;
+			global::Lottie.Forms.Resource.Style.TextAppearance_Design_Counter_Overflow = global::WordQuiz.Droid.Resource.Style.TextAppearance_Design_Counter_Overflow;
+			global::Lottie.Forms.Resource.Style.TextAppearance_Design_Error = global::WordQuiz.Droid.Resource.Style.TextAppearance_Design_Error;
+			global::Lottie.Forms.Resource.Style.TextAppearance_Design_HelperText = global::WordQuiz.Droid.Resource.Style.TextAppearance_Design_HelperText;
+			global::Lottie.Forms.Resource.Style.TextAppearance_Design_Hint = global::WordQuiz.Droid.Resource.Style.TextAppearance_Design_Hint;
+			global::Lottie.Forms.Resource.Style.TextAppearance_Design_Snackbar_Message = global::WordQuiz.Droid.Resource.Style.TextAppearance_Design_Snackbar_Message;
+			global::Lottie.Forms.Resource.Style.TextAppearance_Design_Tab = global::WordQuiz.Droid.Resource.Style.TextAppearance_Design_Tab;
+			global::Lottie.Forms.Resource.Style.TextAppearance_MaterialComponents_Body1 = global::WordQuiz.Droid.Resource.Style.TextAppearance_MaterialComponents_Body1;
+			global::Lottie.Forms.Resource.Style.TextAppearance_MaterialComponents_Body2 = global::WordQuiz.Droid.Resource.Style.TextAppearance_MaterialComponents_Body2;
+			global::Lottie.Forms.Resource.Style.TextAppearance_MaterialComponents_Button = global::WordQuiz.Droid.Resource.Style.TextAppearance_MaterialComponents_Button;
+			global::Lottie.Forms.Resource.Style.TextAppearance_MaterialComponents_Caption = global::WordQuiz.Droid.Resource.Style.TextAppearance_MaterialComponents_Caption;
+			global::Lottie.Forms.Resource.Style.TextAppearance_MaterialComponents_Chip = global::WordQuiz.Droid.Resource.Style.TextAppearance_MaterialComponents_Chip;
+			global::Lottie.Forms.Resource.Style.TextAppearance_MaterialComponents_Headline1 = global::WordQuiz.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline1;
+			global::Lottie.Forms.Resource.Style.TextAppearance_MaterialComponents_Headline2 = global::WordQuiz.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline2;
+			global::Lottie.Forms.Resource.Style.TextAppearance_MaterialComponents_Headline3 = global::WordQuiz.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline3;
+			global::Lottie.Forms.Resource.Style.TextAppearance_MaterialComponents_Headline4 = global::WordQuiz.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline4;
+			global::Lottie.Forms.Resource.Style.TextAppearance_MaterialComponents_Headline5 = global::WordQuiz.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline5;
+			global::Lottie.Forms.Resource.Style.TextAppearance_MaterialComponents_Headline6 = global::WordQuiz.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline6;
+			global::Lottie.Forms.Resource.Style.TextAppearance_MaterialComponents_Overline = global::WordQuiz.Droid.Resource.Style.TextAppearance_MaterialComponents_Overline;
+			global::Lottie.Forms.Resource.Style.TextAppearance_MaterialComponents_Subtitle1 = global::WordQuiz.Droid.Resource.Style.TextAppearance_MaterialComponents_Subtitle1;
+			global::Lottie.Forms.Resource.Style.TextAppearance_MaterialComponents_Subtitle2 = global::WordQuiz.Droid.Resource.Style.TextAppearance_MaterialComponents_Subtitle2;
+			global::Lottie.Forms.Resource.Style.TextAppearance_MaterialComponents_Tab = global::WordQuiz.Droid.Resource.Style.TextAppearance_MaterialComponents_Tab;
+			global::Lottie.Forms.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::WordQuiz.Droid.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::Lottie.Forms.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::WordQuiz.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::Lottie.Forms.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title = global::WordQuiz.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::Lottie.Forms.Resource.Style.ThemeOverlay_AppCompat = global::WordQuiz.Droid.Resource.Style.ThemeOverlay_AppCompat;
+			global::Lottie.Forms.Resource.Style.ThemeOverlay_AppCompat_ActionBar = global::WordQuiz.Droid.Resource.Style.ThemeOverlay_AppCompat_ActionBar;
+			global::Lottie.Forms.Resource.Style.ThemeOverlay_AppCompat_Dark = global::WordQuiz.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark;
+			global::Lottie.Forms.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar = global::WordQuiz.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::Lottie.Forms.Resource.Style.ThemeOverlay_AppCompat_DayNight = global::WordQuiz.Droid.Resource.Style.ThemeOverlay_AppCompat_DayNight;
+			global::Lottie.Forms.Resource.Style.ThemeOverlay_AppCompat_DayNight_ActionBar = global::WordQuiz.Droid.Resource.Style.ThemeOverlay_AppCompat_DayNight_ActionBar;
+			global::Lottie.Forms.Resource.Style.ThemeOverlay_AppCompat_Dialog = global::WordQuiz.Droid.Resource.Style.ThemeOverlay_AppCompat_Dialog;
+			global::Lottie.Forms.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert = global::WordQuiz.Droid.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert;
+			global::Lottie.Forms.Resource.Style.ThemeOverlay_AppCompat_Light = global::WordQuiz.Droid.Resource.Style.ThemeOverlay_AppCompat_Light;
+			global::Lottie.Forms.Resource.Style.ThemeOverlay_MaterialComponents = global::WordQuiz.Droid.Resource.Style.ThemeOverlay_MaterialComponents;
+			global::Lottie.Forms.Resource.Style.ThemeOverlay_MaterialComponents_ActionBar = global::WordQuiz.Droid.Resource.Style.ThemeOverlay_MaterialComponents_ActionBar;
+			global::Lottie.Forms.Resource.Style.ThemeOverlay_MaterialComponents_Dark = global::WordQuiz.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dark;
+			global::Lottie.Forms.Resource.Style.ThemeOverlay_MaterialComponents_Dark_ActionBar = global::WordQuiz.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dark_ActionBar;
+			global::Lottie.Forms.Resource.Style.ThemeOverlay_MaterialComponents_Dialog = global::WordQuiz.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dialog;
+			global::Lottie.Forms.Resource.Style.ThemeOverlay_MaterialComponents_Dialog_Alert = global::WordQuiz.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dialog_Alert;
+			global::Lottie.Forms.Resource.Style.ThemeOverlay_MaterialComponents_Light = global::WordQuiz.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Light;
+			global::Lottie.Forms.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText = global::WordQuiz.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText;
+			global::Lottie.Forms.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox = global::WordQuiz.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox;
+			global::Lottie.Forms.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox_Dense = global::WordQuiz.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox_Dense;
+			global::Lottie.Forms.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox = global::WordQuiz.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox;
+			global::Lottie.Forms.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox_Dense = global::WordQuiz.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox_Dense;
+			global::Lottie.Forms.Resource.Style.Theme_AppCompat = global::WordQuiz.Droid.Resource.Style.Theme_AppCompat;
+			global::Lottie.Forms.Resource.Style.Theme_AppCompat_CompactMenu = global::WordQuiz.Droid.Resource.Style.Theme_AppCompat_CompactMenu;
+			global::Lottie.Forms.Resource.Style.Theme_AppCompat_DayNight = global::WordQuiz.Droid.Resource.Style.Theme_AppCompat_DayNight;
+			global::Lottie.Forms.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar = global::WordQuiz.Droid.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar;
+			global::Lottie.Forms.Resource.Style.Theme_AppCompat_DayNight_Dialog = global::WordQuiz.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog;
+			global::Lottie.Forms.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge = global::WordQuiz.Droid.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge;
+			global::Lottie.Forms.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert = global::WordQuiz.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert;
+			global::Lottie.Forms.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth = global::WordQuiz.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth;
+			global::Lottie.Forms.Resource.Style.Theme_AppCompat_DayNight_NoActionBar = global::WordQuiz.Droid.Resource.Style.Theme_AppCompat_DayNight_NoActionBar;
+			global::Lottie.Forms.Resource.Style.Theme_AppCompat_Dialog = global::WordQuiz.Droid.Resource.Style.Theme_AppCompat_Dialog;
+			global::Lottie.Forms.Resource.Style.Theme_AppCompat_DialogWhenLarge = global::WordQuiz.Droid.Resource.Style.Theme_AppCompat_DialogWhenLarge;
+			global::Lottie.Forms.Resource.Style.Theme_AppCompat_Dialog_Alert = global::WordQuiz.Droid.Resource.Style.Theme_AppCompat_Dialog_Alert;
+			global::Lottie.Forms.Resource.Style.Theme_AppCompat_Dialog_MinWidth = global::WordQuiz.Droid.Resource.Style.Theme_AppCompat_Dialog_MinWidth;
+			global::Lottie.Forms.Resource.Style.Theme_AppCompat_Light = global::WordQuiz.Droid.Resource.Style.Theme_AppCompat_Light;
+			global::Lottie.Forms.Resource.Style.Theme_AppCompat_Light_DarkActionBar = global::WordQuiz.Droid.Resource.Style.Theme_AppCompat_Light_DarkActionBar;
+			global::Lottie.Forms.Resource.Style.Theme_AppCompat_Light_Dialog = global::WordQuiz.Droid.Resource.Style.Theme_AppCompat_Light_Dialog;
+			global::Lottie.Forms.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge = global::WordQuiz.Droid.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge;
+			global::Lottie.Forms.Resource.Style.Theme_AppCompat_Light_Dialog_Alert = global::WordQuiz.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_Alert;
+			global::Lottie.Forms.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth = global::WordQuiz.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth;
+			global::Lottie.Forms.Resource.Style.Theme_AppCompat_Light_NoActionBar = global::WordQuiz.Droid.Resource.Style.Theme_AppCompat_Light_NoActionBar;
+			global::Lottie.Forms.Resource.Style.Theme_AppCompat_NoActionBar = global::WordQuiz.Droid.Resource.Style.Theme_AppCompat_NoActionBar;
+			global::Lottie.Forms.Resource.Style.Theme_Design = global::WordQuiz.Droid.Resource.Style.Theme_Design;
+			global::Lottie.Forms.Resource.Style.Theme_Design_BottomSheetDialog = global::WordQuiz.Droid.Resource.Style.Theme_Design_BottomSheetDialog;
+			global::Lottie.Forms.Resource.Style.Theme_Design_Light = global::WordQuiz.Droid.Resource.Style.Theme_Design_Light;
+			global::Lottie.Forms.Resource.Style.Theme_Design_Light_BottomSheetDialog = global::WordQuiz.Droid.Resource.Style.Theme_Design_Light_BottomSheetDialog;
+			global::Lottie.Forms.Resource.Style.Theme_Design_Light_NoActionBar = global::WordQuiz.Droid.Resource.Style.Theme_Design_Light_NoActionBar;
+			global::Lottie.Forms.Resource.Style.Theme_Design_NoActionBar = global::WordQuiz.Droid.Resource.Style.Theme_Design_NoActionBar;
+			global::Lottie.Forms.Resource.Style.Theme_MaterialComponents = global::WordQuiz.Droid.Resource.Style.Theme_MaterialComponents;
+			global::Lottie.Forms.Resource.Style.Theme_MaterialComponents_BottomSheetDialog = global::WordQuiz.Droid.Resource.Style.Theme_MaterialComponents_BottomSheetDialog;
+			global::Lottie.Forms.Resource.Style.Theme_MaterialComponents_Bridge = global::WordQuiz.Droid.Resource.Style.Theme_MaterialComponents_Bridge;
+			global::Lottie.Forms.Resource.Style.Theme_MaterialComponents_CompactMenu = global::WordQuiz.Droid.Resource.Style.Theme_MaterialComponents_CompactMenu;
+			global::Lottie.Forms.Resource.Style.Theme_MaterialComponents_Dialog = global::WordQuiz.Droid.Resource.Style.Theme_MaterialComponents_Dialog;
+			global::Lottie.Forms.Resource.Style.Theme_MaterialComponents_DialogWhenLarge = global::WordQuiz.Droid.Resource.Style.Theme_MaterialComponents_DialogWhenLarge;
+			global::Lottie.Forms.Resource.Style.Theme_MaterialComponents_Dialog_Alert = global::WordQuiz.Droid.Resource.Style.Theme_MaterialComponents_Dialog_Alert;
+			global::Lottie.Forms.Resource.Style.Theme_MaterialComponents_Dialog_MinWidth = global::WordQuiz.Droid.Resource.Style.Theme_MaterialComponents_Dialog_MinWidth;
+			global::Lottie.Forms.Resource.Style.Theme_MaterialComponents_Light = global::WordQuiz.Droid.Resource.Style.Theme_MaterialComponents_Light;
+			global::Lottie.Forms.Resource.Style.Theme_MaterialComponents_Light_BottomSheetDialog = global::WordQuiz.Droid.Resource.Style.Theme_MaterialComponents_Light_BottomSheetDialog;
+			global::Lottie.Forms.Resource.Style.Theme_MaterialComponents_Light_Bridge = global::WordQuiz.Droid.Resource.Style.Theme_MaterialComponents_Light_Bridge;
+			global::Lottie.Forms.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar = global::WordQuiz.Droid.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar;
+			global::Lottie.Forms.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar_Bridge = global::WordQuiz.Droid.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar_Bridge;
+			global::Lottie.Forms.Resource.Style.Theme_MaterialComponents_Light_Dialog = global::WordQuiz.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog;
+			global::Lottie.Forms.Resource.Style.Theme_MaterialComponents_Light_DialogWhenLarge = global::WordQuiz.Droid.Resource.Style.Theme_MaterialComponents_Light_DialogWhenLarge;
+			global::Lottie.Forms.Resource.Style.Theme_MaterialComponents_Light_Dialog_Alert = global::WordQuiz.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_Alert;
+			global::Lottie.Forms.Resource.Style.Theme_MaterialComponents_Light_Dialog_MinWidth = global::WordQuiz.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_MinWidth;
+			global::Lottie.Forms.Resource.Style.Theme_MaterialComponents_Light_NoActionBar = global::WordQuiz.Droid.Resource.Style.Theme_MaterialComponents_Light_NoActionBar;
+			global::Lottie.Forms.Resource.Style.Theme_MaterialComponents_Light_NoActionBar_Bridge = global::WordQuiz.Droid.Resource.Style.Theme_MaterialComponents_Light_NoActionBar_Bridge;
+			global::Lottie.Forms.Resource.Style.Theme_MaterialComponents_NoActionBar = global::WordQuiz.Droid.Resource.Style.Theme_MaterialComponents_NoActionBar;
+			global::Lottie.Forms.Resource.Style.Theme_MaterialComponents_NoActionBar_Bridge = global::WordQuiz.Droid.Resource.Style.Theme_MaterialComponents_NoActionBar_Bridge;
+			global::Lottie.Forms.Resource.Style.Widget_AppCompat_ActionBar = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_ActionBar;
+			global::Lottie.Forms.Resource.Style.Widget_AppCompat_ActionBar_Solid = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_ActionBar_Solid;
+			global::Lottie.Forms.Resource.Style.Widget_AppCompat_ActionBar_TabBar = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabBar;
+			global::Lottie.Forms.Resource.Style.Widget_AppCompat_ActionBar_TabText = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabText;
+			global::Lottie.Forms.Resource.Style.Widget_AppCompat_ActionBar_TabView = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabView;
+			global::Lottie.Forms.Resource.Style.Widget_AppCompat_ActionButton = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_ActionButton;
+			global::Lottie.Forms.Resource.Style.Widget_AppCompat_ActionButton_CloseMode = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_ActionButton_CloseMode;
+			global::Lottie.Forms.Resource.Style.Widget_AppCompat_ActionButton_Overflow = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_ActionButton_Overflow;
+			global::Lottie.Forms.Resource.Style.Widget_AppCompat_ActionMode = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_ActionMode;
+			global::Lottie.Forms.Resource.Style.Widget_AppCompat_ActivityChooserView = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_ActivityChooserView;
+			global::Lottie.Forms.Resource.Style.Widget_AppCompat_AutoCompleteTextView = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_AutoCompleteTextView;
+			global::Lottie.Forms.Resource.Style.Widget_AppCompat_Button = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_Button;
+			global::Lottie.Forms.Resource.Style.Widget_AppCompat_ButtonBar = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_ButtonBar;
+			global::Lottie.Forms.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog;
+			global::Lottie.Forms.Resource.Style.Widget_AppCompat_Button_Borderless = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_Button_Borderless;
+			global::Lottie.Forms.Resource.Style.Widget_AppCompat_Button_Borderless_Colored = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_Button_Borderless_Colored;
+			global::Lottie.Forms.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::Lottie.Forms.Resource.Style.Widget_AppCompat_Button_Colored = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_Button_Colored;
+			global::Lottie.Forms.Resource.Style.Widget_AppCompat_Button_Small = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_Button_Small;
+			global::Lottie.Forms.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox;
+			global::Lottie.Forms.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton;
+			global::Lottie.Forms.Resource.Style.Widget_AppCompat_CompoundButton_Switch = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_CompoundButton_Switch;
+			global::Lottie.Forms.Resource.Style.Widget_AppCompat_DrawerArrowToggle = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_DrawerArrowToggle;
+			global::Lottie.Forms.Resource.Style.Widget_AppCompat_DropDownItem_Spinner = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_DropDownItem_Spinner;
+			global::Lottie.Forms.Resource.Style.Widget_AppCompat_EditText = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_EditText;
+			global::Lottie.Forms.Resource.Style.Widget_AppCompat_ImageButton = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_ImageButton;
+			global::Lottie.Forms.Resource.Style.Widget_AppCompat_Light_ActionBar = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar;
+			global::Lottie.Forms.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid;
+			global::Lottie.Forms.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse;
+			global::Lottie.Forms.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar;
+			global::Lottie.Forms.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse;
+			global::Lottie.Forms.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText;
+			global::Lottie.Forms.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::Lottie.Forms.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView;
+			global::Lottie.Forms.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse;
+			global::Lottie.Forms.Resource.Style.Widget_AppCompat_Light_ActionButton = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton;
+			global::Lottie.Forms.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode;
+			global::Lottie.Forms.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow;
+			global::Lottie.Forms.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse;
+			global::Lottie.Forms.Resource.Style.Widget_AppCompat_Light_ActivityChooserView = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_Light_ActivityChooserView;
+			global::Lottie.Forms.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView;
+			global::Lottie.Forms.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner;
+			global::Lottie.Forms.Resource.Style.Widget_AppCompat_Light_ListPopupWindow = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_Light_ListPopupWindow;
+			global::Lottie.Forms.Resource.Style.Widget_AppCompat_Light_ListView_DropDown = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_Light_ListView_DropDown;
+			global::Lottie.Forms.Resource.Style.Widget_AppCompat_Light_PopupMenu = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu;
+			global::Lottie.Forms.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::Lottie.Forms.Resource.Style.Widget_AppCompat_Light_SearchView = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_Light_SearchView;
+			global::Lottie.Forms.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar;
+			global::Lottie.Forms.Resource.Style.Widget_AppCompat_ListMenuView = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_ListMenuView;
+			global::Lottie.Forms.Resource.Style.Widget_AppCompat_ListPopupWindow = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_ListPopupWindow;
+			global::Lottie.Forms.Resource.Style.Widget_AppCompat_ListView = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_ListView;
+			global::Lottie.Forms.Resource.Style.Widget_AppCompat_ListView_DropDown = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_ListView_DropDown;
+			global::Lottie.Forms.Resource.Style.Widget_AppCompat_ListView_Menu = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_ListView_Menu;
+			global::Lottie.Forms.Resource.Style.Widget_AppCompat_PopupMenu = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_PopupMenu;
+			global::Lottie.Forms.Resource.Style.Widget_AppCompat_PopupMenu_Overflow = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_PopupMenu_Overflow;
+			global::Lottie.Forms.Resource.Style.Widget_AppCompat_PopupWindow = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_PopupWindow;
+			global::Lottie.Forms.Resource.Style.Widget_AppCompat_ProgressBar = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_ProgressBar;
+			global::Lottie.Forms.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal;
+			global::Lottie.Forms.Resource.Style.Widget_AppCompat_RatingBar = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_RatingBar;
+			global::Lottie.Forms.Resource.Style.Widget_AppCompat_RatingBar_Indicator = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_RatingBar_Indicator;
+			global::Lottie.Forms.Resource.Style.Widget_AppCompat_RatingBar_Small = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_RatingBar_Small;
+			global::Lottie.Forms.Resource.Style.Widget_AppCompat_SearchView = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_SearchView;
+			global::Lottie.Forms.Resource.Style.Widget_AppCompat_SearchView_ActionBar = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_SearchView_ActionBar;
+			global::Lottie.Forms.Resource.Style.Widget_AppCompat_SeekBar = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_SeekBar;
+			global::Lottie.Forms.Resource.Style.Widget_AppCompat_SeekBar_Discrete = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_SeekBar_Discrete;
+			global::Lottie.Forms.Resource.Style.Widget_AppCompat_Spinner = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_Spinner;
+			global::Lottie.Forms.Resource.Style.Widget_AppCompat_Spinner_DropDown = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown;
+			global::Lottie.Forms.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar;
+			global::Lottie.Forms.Resource.Style.Widget_AppCompat_Spinner_Underlined = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_Spinner_Underlined;
+			global::Lottie.Forms.Resource.Style.Widget_AppCompat_TextView = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_TextView;
+			global::Lottie.Forms.Resource.Style.Widget_AppCompat_TextView_SpinnerItem = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_TextView_SpinnerItem;
+			global::Lottie.Forms.Resource.Style.Widget_AppCompat_Toolbar = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_Toolbar;
+			global::Lottie.Forms.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation;
+			global::Lottie.Forms.Resource.Style.Widget_Compat_NotificationActionContainer = global::WordQuiz.Droid.Resource.Style.Widget_Compat_NotificationActionContainer;
+			global::Lottie.Forms.Resource.Style.Widget_Compat_NotificationActionText = global::WordQuiz.Droid.Resource.Style.Widget_Compat_NotificationActionText;
+			global::Lottie.Forms.Resource.Style.Widget_Design_AppBarLayout = global::WordQuiz.Droid.Resource.Style.Widget_Design_AppBarLayout;
+			global::Lottie.Forms.Resource.Style.Widget_Design_BottomNavigationView = global::WordQuiz.Droid.Resource.Style.Widget_Design_BottomNavigationView;
+			global::Lottie.Forms.Resource.Style.Widget_Design_BottomSheet_Modal = global::WordQuiz.Droid.Resource.Style.Widget_Design_BottomSheet_Modal;
+			global::Lottie.Forms.Resource.Style.Widget_Design_CollapsingToolbar = global::WordQuiz.Droid.Resource.Style.Widget_Design_CollapsingToolbar;
+			global::Lottie.Forms.Resource.Style.Widget_Design_FloatingActionButton = global::WordQuiz.Droid.Resource.Style.Widget_Design_FloatingActionButton;
+			global::Lottie.Forms.Resource.Style.Widget_Design_NavigationView = global::WordQuiz.Droid.Resource.Style.Widget_Design_NavigationView;
+			global::Lottie.Forms.Resource.Style.Widget_Design_ScrimInsetsFrameLayout = global::WordQuiz.Droid.Resource.Style.Widget_Design_ScrimInsetsFrameLayout;
+			global::Lottie.Forms.Resource.Style.Widget_Design_Snackbar = global::WordQuiz.Droid.Resource.Style.Widget_Design_Snackbar;
+			global::Lottie.Forms.Resource.Style.Widget_Design_TabLayout = global::WordQuiz.Droid.Resource.Style.Widget_Design_TabLayout;
+			global::Lottie.Forms.Resource.Style.Widget_Design_TextInputLayout = global::WordQuiz.Droid.Resource.Style.Widget_Design_TextInputLayout;
+			global::Lottie.Forms.Resource.Style.Widget_MaterialComponents_BottomAppBar = global::WordQuiz.Droid.Resource.Style.Widget_MaterialComponents_BottomAppBar;
+			global::Lottie.Forms.Resource.Style.Widget_MaterialComponents_BottomAppBar_Colored = global::WordQuiz.Droid.Resource.Style.Widget_MaterialComponents_BottomAppBar_Colored;
+			global::Lottie.Forms.Resource.Style.Widget_MaterialComponents_BottomNavigationView = global::WordQuiz.Droid.Resource.Style.Widget_MaterialComponents_BottomNavigationView;
+			global::Lottie.Forms.Resource.Style.Widget_MaterialComponents_BottomNavigationView_Colored = global::WordQuiz.Droid.Resource.Style.Widget_MaterialComponents_BottomNavigationView_Colored;
+			global::Lottie.Forms.Resource.Style.Widget_MaterialComponents_BottomSheet_Modal = global::WordQuiz.Droid.Resource.Style.Widget_MaterialComponents_BottomSheet_Modal;
+			global::Lottie.Forms.Resource.Style.Widget_MaterialComponents_Button = global::WordQuiz.Droid.Resource.Style.Widget_MaterialComponents_Button;
+			global::Lottie.Forms.Resource.Style.Widget_MaterialComponents_Button_Icon = global::WordQuiz.Droid.Resource.Style.Widget_MaterialComponents_Button_Icon;
+			global::Lottie.Forms.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton = global::WordQuiz.Droid.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton;
+			global::Lottie.Forms.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton_Icon = global::WordQuiz.Droid.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton_Icon;
+			global::Lottie.Forms.Resource.Style.Widget_MaterialComponents_Button_TextButton = global::WordQuiz.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton;
+			global::Lottie.Forms.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog = global::WordQuiz.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog;
+			global::Lottie.Forms.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog_Icon = global::WordQuiz.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog_Icon;
+			global::Lottie.Forms.Resource.Style.Widget_MaterialComponents_Button_TextButton_Icon = global::WordQuiz.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton_Icon;
+			global::Lottie.Forms.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton = global::WordQuiz.Droid.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton;
+			global::Lottie.Forms.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton_Icon = global::WordQuiz.Droid.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton_Icon;
+			global::Lottie.Forms.Resource.Style.Widget_MaterialComponents_CardView = global::WordQuiz.Droid.Resource.Style.Widget_MaterialComponents_CardView;
+			global::Lottie.Forms.Resource.Style.Widget_MaterialComponents_ChipGroup = global::WordQuiz.Droid.Resource.Style.Widget_MaterialComponents_ChipGroup;
+			global::Lottie.Forms.Resource.Style.Widget_MaterialComponents_Chip_Action = global::WordQuiz.Droid.Resource.Style.Widget_MaterialComponents_Chip_Action;
+			global::Lottie.Forms.Resource.Style.Widget_MaterialComponents_Chip_Choice = global::WordQuiz.Droid.Resource.Style.Widget_MaterialComponents_Chip_Choice;
+			global::Lottie.Forms.Resource.Style.Widget_MaterialComponents_Chip_Entry = global::WordQuiz.Droid.Resource.Style.Widget_MaterialComponents_Chip_Entry;
+			global::Lottie.Forms.Resource.Style.Widget_MaterialComponents_Chip_Filter = global::WordQuiz.Droid.Resource.Style.Widget_MaterialComponents_Chip_Filter;
+			global::Lottie.Forms.Resource.Style.Widget_MaterialComponents_FloatingActionButton = global::WordQuiz.Droid.Resource.Style.Widget_MaterialComponents_FloatingActionButton;
+			global::Lottie.Forms.Resource.Style.Widget_MaterialComponents_NavigationView = global::WordQuiz.Droid.Resource.Style.Widget_MaterialComponents_NavigationView;
+			global::Lottie.Forms.Resource.Style.Widget_MaterialComponents_Snackbar = global::WordQuiz.Droid.Resource.Style.Widget_MaterialComponents_Snackbar;
+			global::Lottie.Forms.Resource.Style.Widget_MaterialComponents_Snackbar_FullWidth = global::WordQuiz.Droid.Resource.Style.Widget_MaterialComponents_Snackbar_FullWidth;
+			global::Lottie.Forms.Resource.Style.Widget_MaterialComponents_TabLayout = global::WordQuiz.Droid.Resource.Style.Widget_MaterialComponents_TabLayout;
+			global::Lottie.Forms.Resource.Style.Widget_MaterialComponents_TabLayout_Colored = global::WordQuiz.Droid.Resource.Style.Widget_MaterialComponents_TabLayout_Colored;
+			global::Lottie.Forms.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox = global::WordQuiz.Droid.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox;
+			global::Lottie.Forms.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox_Dense = global::WordQuiz.Droid.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox_Dense;
+			global::Lottie.Forms.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox = global::WordQuiz.Droid.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox;
+			global::Lottie.Forms.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox_Dense = global::WordQuiz.Droid.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox_Dense;
+			global::Lottie.Forms.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox = global::WordQuiz.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox;
+			global::Lottie.Forms.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox_Dense = global::WordQuiz.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox_Dense;
+			global::Lottie.Forms.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox = global::WordQuiz.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox;
+			global::Lottie.Forms.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense = global::WordQuiz.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense;
+			global::Lottie.Forms.Resource.Style.Widget_MaterialComponents_Toolbar = global::WordQuiz.Droid.Resource.Style.Widget_MaterialComponents_Toolbar;
+			global::Lottie.Forms.Resource.Style.Widget_Support_CoordinatorLayout = global::WordQuiz.Droid.Resource.Style.Widget_Support_CoordinatorLayout;
+			global::Lottie.Forms.Resource.Styleable.ActionBar = global::WordQuiz.Droid.Resource.Styleable.ActionBar;
+			global::Lottie.Forms.Resource.Styleable.ActionBarLayout = global::WordQuiz.Droid.Resource.Styleable.ActionBarLayout;
+			global::Lottie.Forms.Resource.Styleable.ActionBarLayout_android_layout_gravity = global::WordQuiz.Droid.Resource.Styleable.ActionBarLayout_android_layout_gravity;
+			global::Lottie.Forms.Resource.Styleable.ActionBar_background = global::WordQuiz.Droid.Resource.Styleable.ActionBar_background;
+			global::Lottie.Forms.Resource.Styleable.ActionBar_backgroundSplit = global::WordQuiz.Droid.Resource.Styleable.ActionBar_backgroundSplit;
+			global::Lottie.Forms.Resource.Styleable.ActionBar_backgroundStacked = global::WordQuiz.Droid.Resource.Styleable.ActionBar_backgroundStacked;
+			global::Lottie.Forms.Resource.Styleable.ActionBar_contentInsetEnd = global::WordQuiz.Droid.Resource.Styleable.ActionBar_contentInsetEnd;
+			global::Lottie.Forms.Resource.Styleable.ActionBar_contentInsetEndWithActions = global::WordQuiz.Droid.Resource.Styleable.ActionBar_contentInsetEndWithActions;
+			global::Lottie.Forms.Resource.Styleable.ActionBar_contentInsetLeft = global::WordQuiz.Droid.Resource.Styleable.ActionBar_contentInsetLeft;
+			global::Lottie.Forms.Resource.Styleable.ActionBar_contentInsetRight = global::WordQuiz.Droid.Resource.Styleable.ActionBar_contentInsetRight;
+			global::Lottie.Forms.Resource.Styleable.ActionBar_contentInsetStart = global::WordQuiz.Droid.Resource.Styleable.ActionBar_contentInsetStart;
+			global::Lottie.Forms.Resource.Styleable.ActionBar_contentInsetStartWithNavigation = global::WordQuiz.Droid.Resource.Styleable.ActionBar_contentInsetStartWithNavigation;
+			global::Lottie.Forms.Resource.Styleable.ActionBar_customNavigationLayout = global::WordQuiz.Droid.Resource.Styleable.ActionBar_customNavigationLayout;
+			global::Lottie.Forms.Resource.Styleable.ActionBar_displayOptions = global::WordQuiz.Droid.Resource.Styleable.ActionBar_displayOptions;
+			global::Lottie.Forms.Resource.Styleable.ActionBar_divider = global::WordQuiz.Droid.Resource.Styleable.ActionBar_divider;
+			global::Lottie.Forms.Resource.Styleable.ActionBar_elevation = global::WordQuiz.Droid.Resource.Styleable.ActionBar_elevation;
+			global::Lottie.Forms.Resource.Styleable.ActionBar_height = global::WordQuiz.Droid.Resource.Styleable.ActionBar_height;
+			global::Lottie.Forms.Resource.Styleable.ActionBar_hideOnContentScroll = global::WordQuiz.Droid.Resource.Styleable.ActionBar_hideOnContentScroll;
+			global::Lottie.Forms.Resource.Styleable.ActionBar_homeAsUpIndicator = global::WordQuiz.Droid.Resource.Styleable.ActionBar_homeAsUpIndicator;
+			global::Lottie.Forms.Resource.Styleable.ActionBar_homeLayout = global::WordQuiz.Droid.Resource.Styleable.ActionBar_homeLayout;
+			global::Lottie.Forms.Resource.Styleable.ActionBar_icon = global::WordQuiz.Droid.Resource.Styleable.ActionBar_icon;
+			global::Lottie.Forms.Resource.Styleable.ActionBar_indeterminateProgressStyle = global::WordQuiz.Droid.Resource.Styleable.ActionBar_indeterminateProgressStyle;
+			global::Lottie.Forms.Resource.Styleable.ActionBar_itemPadding = global::WordQuiz.Droid.Resource.Styleable.ActionBar_itemPadding;
+			global::Lottie.Forms.Resource.Styleable.ActionBar_logo = global::WordQuiz.Droid.Resource.Styleable.ActionBar_logo;
+			global::Lottie.Forms.Resource.Styleable.ActionBar_navigationMode = global::WordQuiz.Droid.Resource.Styleable.ActionBar_navigationMode;
+			global::Lottie.Forms.Resource.Styleable.ActionBar_popupTheme = global::WordQuiz.Droid.Resource.Styleable.ActionBar_popupTheme;
+			global::Lottie.Forms.Resource.Styleable.ActionBar_progressBarPadding = global::WordQuiz.Droid.Resource.Styleable.ActionBar_progressBarPadding;
+			global::Lottie.Forms.Resource.Styleable.ActionBar_progressBarStyle = global::WordQuiz.Droid.Resource.Styleable.ActionBar_progressBarStyle;
+			global::Lottie.Forms.Resource.Styleable.ActionBar_subtitle = global::WordQuiz.Droid.Resource.Styleable.ActionBar_subtitle;
+			global::Lottie.Forms.Resource.Styleable.ActionBar_subtitleTextStyle = global::WordQuiz.Droid.Resource.Styleable.ActionBar_subtitleTextStyle;
+			global::Lottie.Forms.Resource.Styleable.ActionBar_title = global::WordQuiz.Droid.Resource.Styleable.ActionBar_title;
+			global::Lottie.Forms.Resource.Styleable.ActionBar_titleTextStyle = global::WordQuiz.Droid.Resource.Styleable.ActionBar_titleTextStyle;
+			global::Lottie.Forms.Resource.Styleable.ActionMenuItemView = global::WordQuiz.Droid.Resource.Styleable.ActionMenuItemView;
+			global::Lottie.Forms.Resource.Styleable.ActionMenuItemView_android_minWidth = global::WordQuiz.Droid.Resource.Styleable.ActionMenuItemView_android_minWidth;
+			global::Lottie.Forms.Resource.Styleable.ActionMenuView = global::WordQuiz.Droid.Resource.Styleable.ActionMenuView;
+			global::Lottie.Forms.Resource.Styleable.ActionMode = global::WordQuiz.Droid.Resource.Styleable.ActionMode;
+			global::Lottie.Forms.Resource.Styleable.ActionMode_background = global::WordQuiz.Droid.Resource.Styleable.ActionMode_background;
+			global::Lottie.Forms.Resource.Styleable.ActionMode_backgroundSplit = global::WordQuiz.Droid.Resource.Styleable.ActionMode_backgroundSplit;
+			global::Lottie.Forms.Resource.Styleable.ActionMode_closeItemLayout = global::WordQuiz.Droid.Resource.Styleable.ActionMode_closeItemLayout;
+			global::Lottie.Forms.Resource.Styleable.ActionMode_height = global::WordQuiz.Droid.Resource.Styleable.ActionMode_height;
+			global::Lottie.Forms.Resource.Styleable.ActionMode_subtitleTextStyle = global::WordQuiz.Droid.Resource.Styleable.ActionMode_subtitleTextStyle;
+			global::Lottie.Forms.Resource.Styleable.ActionMode_titleTextStyle = global::WordQuiz.Droid.Resource.Styleable.ActionMode_titleTextStyle;
+			global::Lottie.Forms.Resource.Styleable.ActivityChooserView = global::WordQuiz.Droid.Resource.Styleable.ActivityChooserView;
+			global::Lottie.Forms.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable = global::WordQuiz.Droid.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable;
+			global::Lottie.Forms.Resource.Styleable.ActivityChooserView_initialActivityCount = global::WordQuiz.Droid.Resource.Styleable.ActivityChooserView_initialActivityCount;
+			global::Lottie.Forms.Resource.Styleable.AlertDialog = global::WordQuiz.Droid.Resource.Styleable.AlertDialog;
+			global::Lottie.Forms.Resource.Styleable.AlertDialog_android_layout = global::WordQuiz.Droid.Resource.Styleable.AlertDialog_android_layout;
+			global::Lottie.Forms.Resource.Styleable.AlertDialog_buttonIconDimen = global::WordQuiz.Droid.Resource.Styleable.AlertDialog_buttonIconDimen;
+			global::Lottie.Forms.Resource.Styleable.AlertDialog_buttonPanelSideLayout = global::WordQuiz.Droid.Resource.Styleable.AlertDialog_buttonPanelSideLayout;
+			global::Lottie.Forms.Resource.Styleable.AlertDialog_listItemLayout = global::WordQuiz.Droid.Resource.Styleable.AlertDialog_listItemLayout;
+			global::Lottie.Forms.Resource.Styleable.AlertDialog_listLayout = global::WordQuiz.Droid.Resource.Styleable.AlertDialog_listLayout;
+			global::Lottie.Forms.Resource.Styleable.AlertDialog_multiChoiceItemLayout = global::WordQuiz.Droid.Resource.Styleable.AlertDialog_multiChoiceItemLayout;
+			global::Lottie.Forms.Resource.Styleable.AlertDialog_showTitle = global::WordQuiz.Droid.Resource.Styleable.AlertDialog_showTitle;
+			global::Lottie.Forms.Resource.Styleable.AlertDialog_singleChoiceItemLayout = global::WordQuiz.Droid.Resource.Styleable.AlertDialog_singleChoiceItemLayout;
+			global::Lottie.Forms.Resource.Styleable.AnimatedStateListDrawableCompat = global::WordQuiz.Droid.Resource.Styleable.AnimatedStateListDrawableCompat;
+			global::Lottie.Forms.Resource.Styleable.AnimatedStateListDrawableCompat_android_constantSize = global::WordQuiz.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_constantSize;
+			global::Lottie.Forms.Resource.Styleable.AnimatedStateListDrawableCompat_android_dither = global::WordQuiz.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_dither;
+			global::Lottie.Forms.Resource.Styleable.AnimatedStateListDrawableCompat_android_enterFadeDuration = global::WordQuiz.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_enterFadeDuration;
+			global::Lottie.Forms.Resource.Styleable.AnimatedStateListDrawableCompat_android_exitFadeDuration = global::WordQuiz.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_exitFadeDuration;
+			global::Lottie.Forms.Resource.Styleable.AnimatedStateListDrawableCompat_android_variablePadding = global::WordQuiz.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_variablePadding;
+			global::Lottie.Forms.Resource.Styleable.AnimatedStateListDrawableCompat_android_visible = global::WordQuiz.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_visible;
+			global::Lottie.Forms.Resource.Styleable.AnimatedStateListDrawableItem = global::WordQuiz.Droid.Resource.Styleable.AnimatedStateListDrawableItem;
+			global::Lottie.Forms.Resource.Styleable.AnimatedStateListDrawableItem_android_drawable = global::WordQuiz.Droid.Resource.Styleable.AnimatedStateListDrawableItem_android_drawable;
+			global::Lottie.Forms.Resource.Styleable.AnimatedStateListDrawableItem_android_id = global::WordQuiz.Droid.Resource.Styleable.AnimatedStateListDrawableItem_android_id;
+			global::Lottie.Forms.Resource.Styleable.AnimatedStateListDrawableTransition = global::WordQuiz.Droid.Resource.Styleable.AnimatedStateListDrawableTransition;
+			global::Lottie.Forms.Resource.Styleable.AnimatedStateListDrawableTransition_android_drawable = global::WordQuiz.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_drawable;
+			global::Lottie.Forms.Resource.Styleable.AnimatedStateListDrawableTransition_android_fromId = global::WordQuiz.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_fromId;
+			global::Lottie.Forms.Resource.Styleable.AnimatedStateListDrawableTransition_android_reversible = global::WordQuiz.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_reversible;
+			global::Lottie.Forms.Resource.Styleable.AnimatedStateListDrawableTransition_android_toId = global::WordQuiz.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_toId;
+			global::Lottie.Forms.Resource.Styleable.AppBarLayout = global::WordQuiz.Droid.Resource.Styleable.AppBarLayout;
+			global::Lottie.Forms.Resource.Styleable.AppBarLayoutStates = global::WordQuiz.Droid.Resource.Styleable.AppBarLayoutStates;
+			global::Lottie.Forms.Resource.Styleable.AppBarLayoutStates_state_collapsed = global::WordQuiz.Droid.Resource.Styleable.AppBarLayoutStates_state_collapsed;
+			global::Lottie.Forms.Resource.Styleable.AppBarLayoutStates_state_collapsible = global::WordQuiz.Droid.Resource.Styleable.AppBarLayoutStates_state_collapsible;
+			global::Lottie.Forms.Resource.Styleable.AppBarLayoutStates_state_liftable = global::WordQuiz.Droid.Resource.Styleable.AppBarLayoutStates_state_liftable;
+			global::Lottie.Forms.Resource.Styleable.AppBarLayoutStates_state_lifted = global::WordQuiz.Droid.Resource.Styleable.AppBarLayoutStates_state_lifted;
+			global::Lottie.Forms.Resource.Styleable.AppBarLayout_android_background = global::WordQuiz.Droid.Resource.Styleable.AppBarLayout_android_background;
+			global::Lottie.Forms.Resource.Styleable.AppBarLayout_android_keyboardNavigationCluster = global::WordQuiz.Droid.Resource.Styleable.AppBarLayout_android_keyboardNavigationCluster;
+			global::Lottie.Forms.Resource.Styleable.AppBarLayout_android_touchscreenBlocksFocus = global::WordQuiz.Droid.Resource.Styleable.AppBarLayout_android_touchscreenBlocksFocus;
+			global::Lottie.Forms.Resource.Styleable.AppBarLayout_elevation = global::WordQuiz.Droid.Resource.Styleable.AppBarLayout_elevation;
+			global::Lottie.Forms.Resource.Styleable.AppBarLayout_expanded = global::WordQuiz.Droid.Resource.Styleable.AppBarLayout_expanded;
+			global::Lottie.Forms.Resource.Styleable.AppBarLayout_Layout = global::WordQuiz.Droid.Resource.Styleable.AppBarLayout_Layout;
+			global::Lottie.Forms.Resource.Styleable.AppBarLayout_Layout_layout_scrollFlags = global::WordQuiz.Droid.Resource.Styleable.AppBarLayout_Layout_layout_scrollFlags;
+			global::Lottie.Forms.Resource.Styleable.AppBarLayout_Layout_layout_scrollInterpolator = global::WordQuiz.Droid.Resource.Styleable.AppBarLayout_Layout_layout_scrollInterpolator;
+			global::Lottie.Forms.Resource.Styleable.AppBarLayout_liftOnScroll = global::WordQuiz.Droid.Resource.Styleable.AppBarLayout_liftOnScroll;
+			global::Lottie.Forms.Resource.Styleable.AppCompatImageView = global::WordQuiz.Droid.Resource.Styleable.AppCompatImageView;
+			global::Lottie.Forms.Resource.Styleable.AppCompatImageView_android_src = global::WordQuiz.Droid.Resource.Styleable.AppCompatImageView_android_src;
+			global::Lottie.Forms.Resource.Styleable.AppCompatImageView_srcCompat = global::WordQuiz.Droid.Resource.Styleable.AppCompatImageView_srcCompat;
+			global::Lottie.Forms.Resource.Styleable.AppCompatImageView_tint = global::WordQuiz.Droid.Resource.Styleable.AppCompatImageView_tint;
+			global::Lottie.Forms.Resource.Styleable.AppCompatImageView_tintMode = global::WordQuiz.Droid.Resource.Styleable.AppCompatImageView_tintMode;
+			global::Lottie.Forms.Resource.Styleable.AppCompatSeekBar = global::WordQuiz.Droid.Resource.Styleable.AppCompatSeekBar;
+			global::Lottie.Forms.Resource.Styleable.AppCompatSeekBar_android_thumb = global::WordQuiz.Droid.Resource.Styleable.AppCompatSeekBar_android_thumb;
+			global::Lottie.Forms.Resource.Styleable.AppCompatSeekBar_tickMark = global::WordQuiz.Droid.Resource.Styleable.AppCompatSeekBar_tickMark;
+			global::Lottie.Forms.Resource.Styleable.AppCompatSeekBar_tickMarkTint = global::WordQuiz.Droid.Resource.Styleable.AppCompatSeekBar_tickMarkTint;
+			global::Lottie.Forms.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode = global::WordQuiz.Droid.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTextHelper = global::WordQuiz.Droid.Resource.Styleable.AppCompatTextHelper;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTextHelper_android_drawableBottom = global::WordQuiz.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableBottom;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTextHelper_android_drawableEnd = global::WordQuiz.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableEnd;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTextHelper_android_drawableLeft = global::WordQuiz.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableLeft;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTextHelper_android_drawableRight = global::WordQuiz.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableRight;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTextHelper_android_drawableStart = global::WordQuiz.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableStart;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTextHelper_android_drawableTop = global::WordQuiz.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableTop;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTextHelper_android_textAppearance = global::WordQuiz.Droid.Resource.Styleable.AppCompatTextHelper_android_textAppearance;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTextView = global::WordQuiz.Droid.Resource.Styleable.AppCompatTextView;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTextView_android_textAppearance = global::WordQuiz.Droid.Resource.Styleable.AppCompatTextView_android_textAppearance;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTextView_autoSizeMaxTextSize = global::WordQuiz.Droid.Resource.Styleable.AppCompatTextView_autoSizeMaxTextSize;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTextView_autoSizeMinTextSize = global::WordQuiz.Droid.Resource.Styleable.AppCompatTextView_autoSizeMinTextSize;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTextView_autoSizePresetSizes = global::WordQuiz.Droid.Resource.Styleable.AppCompatTextView_autoSizePresetSizes;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity = global::WordQuiz.Droid.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTextView_autoSizeTextType = global::WordQuiz.Droid.Resource.Styleable.AppCompatTextView_autoSizeTextType;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTextView_drawableBottomCompat = global::WordQuiz.Droid.Resource.Styleable.AppCompatTextView_drawableBottomCompat;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTextView_drawableEndCompat = global::WordQuiz.Droid.Resource.Styleable.AppCompatTextView_drawableEndCompat;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTextView_drawableLeftCompat = global::WordQuiz.Droid.Resource.Styleable.AppCompatTextView_drawableLeftCompat;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTextView_drawableRightCompat = global::WordQuiz.Droid.Resource.Styleable.AppCompatTextView_drawableRightCompat;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTextView_drawableStartCompat = global::WordQuiz.Droid.Resource.Styleable.AppCompatTextView_drawableStartCompat;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTextView_drawableTint = global::WordQuiz.Droid.Resource.Styleable.AppCompatTextView_drawableTint;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTextView_drawableTintMode = global::WordQuiz.Droid.Resource.Styleable.AppCompatTextView_drawableTintMode;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTextView_drawableTopCompat = global::WordQuiz.Droid.Resource.Styleable.AppCompatTextView_drawableTopCompat;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTextView_firstBaselineToTopHeight = global::WordQuiz.Droid.Resource.Styleable.AppCompatTextView_firstBaselineToTopHeight;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTextView_fontFamily = global::WordQuiz.Droid.Resource.Styleable.AppCompatTextView_fontFamily;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTextView_fontVariationSettings = global::WordQuiz.Droid.Resource.Styleable.AppCompatTextView_fontVariationSettings;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTextView_lastBaselineToBottomHeight = global::WordQuiz.Droid.Resource.Styleable.AppCompatTextView_lastBaselineToBottomHeight;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTextView_lineHeight = global::WordQuiz.Droid.Resource.Styleable.AppCompatTextView_lineHeight;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTextView_textAllCaps = global::WordQuiz.Droid.Resource.Styleable.AppCompatTextView_textAllCaps;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTextView_textLocale = global::WordQuiz.Droid.Resource.Styleable.AppCompatTextView_textLocale;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_actionBarDivider = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_actionBarDivider;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_actionBarItemBackground = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_actionBarItemBackground;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_actionBarPopupTheme = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_actionBarPopupTheme;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_actionBarSize = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_actionBarSize;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_actionBarSplitStyle = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_actionBarSplitStyle;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_actionBarStyle = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_actionBarStyle;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_actionBarTabStyle = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_actionBarTabStyle;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_actionBarTheme = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_actionBarTheme;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_actionButtonStyle = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_actionButtonStyle;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_actionDropDownStyle = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_actionDropDownStyle;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_actionMenuTextColor = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextColor;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_actionModeBackground = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_actionModeBackground;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_actionModeCutDrawable = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_actionModeCutDrawable;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_actionModeFindDrawable = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_actionModeFindDrawable;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_actionModePasteDrawable = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_actionModePasteDrawable;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_actionModeShareDrawable = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_actionModeShareDrawable;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_actionModeSplitBackground = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_actionModeSplitBackground;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_actionModeStyle = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_actionModeStyle;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_activityChooserViewStyle = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_activityChooserViewStyle;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_alertDialogStyle = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_alertDialogStyle;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_alertDialogTheme = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_alertDialogTheme;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_android_windowIsFloating = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_android_windowIsFloating;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_borderlessButtonStyle = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_borderlessButtonStyle;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_buttonBarStyle = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_buttonBarStyle;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_buttonStyle = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_buttonStyle;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_buttonStyleSmall = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_buttonStyleSmall;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_checkboxStyle = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_checkboxStyle;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_checkedTextViewStyle = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_checkedTextViewStyle;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_colorAccent = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_colorAccent;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_colorBackgroundFloating = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_colorBackgroundFloating;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_colorButtonNormal = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_colorButtonNormal;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_colorControlActivated = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_colorControlActivated;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_colorControlHighlight = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_colorControlHighlight;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_colorControlNormal = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_colorControlNormal;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_colorError = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_colorError;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_colorPrimary = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_colorPrimary;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_colorPrimaryDark = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_colorPrimaryDark;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_controlBackground = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_controlBackground;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_dialogCornerRadius = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_dialogCornerRadius;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_dialogPreferredPadding = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_dialogPreferredPadding;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_dialogTheme = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_dialogTheme;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_dividerHorizontal = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_dividerHorizontal;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_dividerVertical = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_dividerVertical;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_dropDownListViewStyle = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_dropDownListViewStyle;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_editTextBackground = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_editTextBackground;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_editTextColor = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_editTextColor;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_editTextStyle = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_editTextStyle;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_homeAsUpIndicator = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_homeAsUpIndicator;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_imageButtonStyle = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_imageButtonStyle;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_listChoiceIndicatorMultipleAnimated = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_listChoiceIndicatorMultipleAnimated;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_listChoiceIndicatorSingleAnimated = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_listChoiceIndicatorSingleAnimated;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_listDividerAlertDialog = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_listDividerAlertDialog;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_listMenuViewStyle = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_listMenuViewStyle;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_listPopupWindowStyle = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_listPopupWindowStyle;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_listPreferredItemHeight = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeight;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingEnd = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingEnd;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingStart = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingStart;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_panelBackground = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_panelBackground;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_panelMenuListTheme = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_panelMenuListTheme;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_panelMenuListWidth = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_panelMenuListWidth;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_popupMenuStyle = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_popupMenuStyle;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_popupWindowStyle = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_popupWindowStyle;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_radioButtonStyle = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_radioButtonStyle;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_ratingBarStyle = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyle;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_searchViewStyle = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_searchViewStyle;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_seekBarStyle = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_seekBarStyle;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_selectableItemBackground = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackground;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_spinnerStyle = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_spinnerStyle;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_switchStyle = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_switchStyle;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_textAppearanceListItem = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItem;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_textColorSearchUrl = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_textColorSearchUrl;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_toolbarStyle = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_toolbarStyle;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_tooltipForegroundColor = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_tooltipForegroundColor;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_tooltipFrameBackground = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_tooltipFrameBackground;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_viewInflaterClass = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_viewInflaterClass;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_windowActionBar = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_windowActionBar;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_windowActionBarOverlay = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_windowActionBarOverlay;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_windowActionModeOverlay = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_windowActionModeOverlay;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_windowMinWidthMajor = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMajor;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_windowMinWidthMinor = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMinor;
+			global::Lottie.Forms.Resource.Styleable.AppCompatTheme_windowNoTitle = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_windowNoTitle;
+			global::Lottie.Forms.Resource.Styleable.BottomAppBar = global::WordQuiz.Droid.Resource.Styleable.BottomAppBar;
+			global::Lottie.Forms.Resource.Styleable.BottomAppBar_backgroundTint = global::WordQuiz.Droid.Resource.Styleable.BottomAppBar_backgroundTint;
+			global::Lottie.Forms.Resource.Styleable.BottomAppBar_fabAlignmentMode = global::WordQuiz.Droid.Resource.Styleable.BottomAppBar_fabAlignmentMode;
+			global::Lottie.Forms.Resource.Styleable.BottomAppBar_fabCradleMargin = global::WordQuiz.Droid.Resource.Styleable.BottomAppBar_fabCradleMargin;
+			global::Lottie.Forms.Resource.Styleable.BottomAppBar_fabCradleRoundedCornerRadius = global::WordQuiz.Droid.Resource.Styleable.BottomAppBar_fabCradleRoundedCornerRadius;
+			global::Lottie.Forms.Resource.Styleable.BottomAppBar_fabCradleVerticalOffset = global::WordQuiz.Droid.Resource.Styleable.BottomAppBar_fabCradleVerticalOffset;
+			global::Lottie.Forms.Resource.Styleable.BottomAppBar_hideOnScroll = global::WordQuiz.Droid.Resource.Styleable.BottomAppBar_hideOnScroll;
+			global::Lottie.Forms.Resource.Styleable.BottomNavigationView = global::WordQuiz.Droid.Resource.Styleable.BottomNavigationView;
+			global::Lottie.Forms.Resource.Styleable.BottomNavigationView_elevation = global::WordQuiz.Droid.Resource.Styleable.BottomNavigationView_elevation;
+			global::Lottie.Forms.Resource.Styleable.BottomNavigationView_itemBackground = global::WordQuiz.Droid.Resource.Styleable.BottomNavigationView_itemBackground;
+			global::Lottie.Forms.Resource.Styleable.BottomNavigationView_itemHorizontalTranslationEnabled = global::WordQuiz.Droid.Resource.Styleable.BottomNavigationView_itemHorizontalTranslationEnabled;
+			global::Lottie.Forms.Resource.Styleable.BottomNavigationView_itemIconSize = global::WordQuiz.Droid.Resource.Styleable.BottomNavigationView_itemIconSize;
+			global::Lottie.Forms.Resource.Styleable.BottomNavigationView_itemIconTint = global::WordQuiz.Droid.Resource.Styleable.BottomNavigationView_itemIconTint;
+			global::Lottie.Forms.Resource.Styleable.BottomNavigationView_itemTextAppearanceActive = global::WordQuiz.Droid.Resource.Styleable.BottomNavigationView_itemTextAppearanceActive;
+			global::Lottie.Forms.Resource.Styleable.BottomNavigationView_itemTextAppearanceInactive = global::WordQuiz.Droid.Resource.Styleable.BottomNavigationView_itemTextAppearanceInactive;
+			global::Lottie.Forms.Resource.Styleable.BottomNavigationView_itemTextColor = global::WordQuiz.Droid.Resource.Styleable.BottomNavigationView_itemTextColor;
+			global::Lottie.Forms.Resource.Styleable.BottomNavigationView_labelVisibilityMode = global::WordQuiz.Droid.Resource.Styleable.BottomNavigationView_labelVisibilityMode;
+			global::Lottie.Forms.Resource.Styleable.BottomNavigationView_menu = global::WordQuiz.Droid.Resource.Styleable.BottomNavigationView_menu;
+			global::Lottie.Forms.Resource.Styleable.BottomSheetBehavior_Layout = global::WordQuiz.Droid.Resource.Styleable.BottomSheetBehavior_Layout;
+			global::Lottie.Forms.Resource.Styleable.BottomSheetBehavior_Layout_behavior_fitToContents = global::WordQuiz.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_fitToContents;
+			global::Lottie.Forms.Resource.Styleable.BottomSheetBehavior_Layout_behavior_hideable = global::WordQuiz.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_hideable;
+			global::Lottie.Forms.Resource.Styleable.BottomSheetBehavior_Layout_behavior_peekHeight = global::WordQuiz.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_peekHeight;
+			global::Lottie.Forms.Resource.Styleable.BottomSheetBehavior_Layout_behavior_skipCollapsed = global::WordQuiz.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_skipCollapsed;
+			global::Lottie.Forms.Resource.Styleable.ButtonBarLayout = global::WordQuiz.Droid.Resource.Styleable.ButtonBarLayout;
+			global::Lottie.Forms.Resource.Styleable.ButtonBarLayout_allowStacking = global::WordQuiz.Droid.Resource.Styleable.ButtonBarLayout_allowStacking;
+			global::Lottie.Forms.Resource.Styleable.CardView = global::WordQuiz.Droid.Resource.Styleable.CardView;
+			global::Lottie.Forms.Resource.Styleable.CardView_android_minHeight = global::WordQuiz.Droid.Resource.Styleable.CardView_android_minHeight;
+			global::Lottie.Forms.Resource.Styleable.CardView_android_minWidth = global::WordQuiz.Droid.Resource.Styleable.CardView_android_minWidth;
+			global::Lottie.Forms.Resource.Styleable.CardView_cardBackgroundColor = global::WordQuiz.Droid.Resource.Styleable.CardView_cardBackgroundColor;
+			global::Lottie.Forms.Resource.Styleable.CardView_cardCornerRadius = global::WordQuiz.Droid.Resource.Styleable.CardView_cardCornerRadius;
+			global::Lottie.Forms.Resource.Styleable.CardView_cardElevation = global::WordQuiz.Droid.Resource.Styleable.CardView_cardElevation;
+			global::Lottie.Forms.Resource.Styleable.CardView_cardMaxElevation = global::WordQuiz.Droid.Resource.Styleable.CardView_cardMaxElevation;
+			global::Lottie.Forms.Resource.Styleable.CardView_cardPreventCornerOverlap = global::WordQuiz.Droid.Resource.Styleable.CardView_cardPreventCornerOverlap;
+			global::Lottie.Forms.Resource.Styleable.CardView_cardUseCompatPadding = global::WordQuiz.Droid.Resource.Styleable.CardView_cardUseCompatPadding;
+			global::Lottie.Forms.Resource.Styleable.CardView_contentPadding = global::WordQuiz.Droid.Resource.Styleable.CardView_contentPadding;
+			global::Lottie.Forms.Resource.Styleable.CardView_contentPaddingBottom = global::WordQuiz.Droid.Resource.Styleable.CardView_contentPaddingBottom;
+			global::Lottie.Forms.Resource.Styleable.CardView_contentPaddingLeft = global::WordQuiz.Droid.Resource.Styleable.CardView_contentPaddingLeft;
+			global::Lottie.Forms.Resource.Styleable.CardView_contentPaddingRight = global::WordQuiz.Droid.Resource.Styleable.CardView_contentPaddingRight;
+			global::Lottie.Forms.Resource.Styleable.CardView_contentPaddingTop = global::WordQuiz.Droid.Resource.Styleable.CardView_contentPaddingTop;
+			global::Lottie.Forms.Resource.Styleable.Chip = global::WordQuiz.Droid.Resource.Styleable.Chip;
+			global::Lottie.Forms.Resource.Styleable.ChipGroup = global::WordQuiz.Droid.Resource.Styleable.ChipGroup;
+			global::Lottie.Forms.Resource.Styleable.ChipGroup_checkedChip = global::WordQuiz.Droid.Resource.Styleable.ChipGroup_checkedChip;
+			global::Lottie.Forms.Resource.Styleable.ChipGroup_chipSpacing = global::WordQuiz.Droid.Resource.Styleable.ChipGroup_chipSpacing;
+			global::Lottie.Forms.Resource.Styleable.ChipGroup_chipSpacingHorizontal = global::WordQuiz.Droid.Resource.Styleable.ChipGroup_chipSpacingHorizontal;
+			global::Lottie.Forms.Resource.Styleable.ChipGroup_chipSpacingVertical = global::WordQuiz.Droid.Resource.Styleable.ChipGroup_chipSpacingVertical;
+			global::Lottie.Forms.Resource.Styleable.ChipGroup_singleLine = global::WordQuiz.Droid.Resource.Styleable.ChipGroup_singleLine;
+			global::Lottie.Forms.Resource.Styleable.ChipGroup_singleSelection = global::WordQuiz.Droid.Resource.Styleable.ChipGroup_singleSelection;
+			global::Lottie.Forms.Resource.Styleable.Chip_android_checkable = global::WordQuiz.Droid.Resource.Styleable.Chip_android_checkable;
+			global::Lottie.Forms.Resource.Styleable.Chip_android_ellipsize = global::WordQuiz.Droid.Resource.Styleable.Chip_android_ellipsize;
+			global::Lottie.Forms.Resource.Styleable.Chip_android_maxWidth = global::WordQuiz.Droid.Resource.Styleable.Chip_android_maxWidth;
+			global::Lottie.Forms.Resource.Styleable.Chip_android_text = global::WordQuiz.Droid.Resource.Styleable.Chip_android_text;
+			global::Lottie.Forms.Resource.Styleable.Chip_android_textAppearance = global::WordQuiz.Droid.Resource.Styleable.Chip_android_textAppearance;
+			global::Lottie.Forms.Resource.Styleable.Chip_checkedIcon = global::WordQuiz.Droid.Resource.Styleable.Chip_checkedIcon;
+			global::Lottie.Forms.Resource.Styleable.Chip_checkedIconEnabled = global::WordQuiz.Droid.Resource.Styleable.Chip_checkedIconEnabled;
+			global::Lottie.Forms.Resource.Styleable.Chip_checkedIconVisible = global::WordQuiz.Droid.Resource.Styleable.Chip_checkedIconVisible;
+			global::Lottie.Forms.Resource.Styleable.Chip_chipBackgroundColor = global::WordQuiz.Droid.Resource.Styleable.Chip_chipBackgroundColor;
+			global::Lottie.Forms.Resource.Styleable.Chip_chipCornerRadius = global::WordQuiz.Droid.Resource.Styleable.Chip_chipCornerRadius;
+			global::Lottie.Forms.Resource.Styleable.Chip_chipEndPadding = global::WordQuiz.Droid.Resource.Styleable.Chip_chipEndPadding;
+			global::Lottie.Forms.Resource.Styleable.Chip_chipIcon = global::WordQuiz.Droid.Resource.Styleable.Chip_chipIcon;
+			global::Lottie.Forms.Resource.Styleable.Chip_chipIconEnabled = global::WordQuiz.Droid.Resource.Styleable.Chip_chipIconEnabled;
+			global::Lottie.Forms.Resource.Styleable.Chip_chipIconSize = global::WordQuiz.Droid.Resource.Styleable.Chip_chipIconSize;
+			global::Lottie.Forms.Resource.Styleable.Chip_chipIconTint = global::WordQuiz.Droid.Resource.Styleable.Chip_chipIconTint;
+			global::Lottie.Forms.Resource.Styleable.Chip_chipIconVisible = global::WordQuiz.Droid.Resource.Styleable.Chip_chipIconVisible;
+			global::Lottie.Forms.Resource.Styleable.Chip_chipMinHeight = global::WordQuiz.Droid.Resource.Styleable.Chip_chipMinHeight;
+			global::Lottie.Forms.Resource.Styleable.Chip_chipStartPadding = global::WordQuiz.Droid.Resource.Styleable.Chip_chipStartPadding;
+			global::Lottie.Forms.Resource.Styleable.Chip_chipStrokeColor = global::WordQuiz.Droid.Resource.Styleable.Chip_chipStrokeColor;
+			global::Lottie.Forms.Resource.Styleable.Chip_chipStrokeWidth = global::WordQuiz.Droid.Resource.Styleable.Chip_chipStrokeWidth;
+			global::Lottie.Forms.Resource.Styleable.Chip_closeIcon = global::WordQuiz.Droid.Resource.Styleable.Chip_closeIcon;
+			global::Lottie.Forms.Resource.Styleable.Chip_closeIconEnabled = global::WordQuiz.Droid.Resource.Styleable.Chip_closeIconEnabled;
+			global::Lottie.Forms.Resource.Styleable.Chip_closeIconEndPadding = global::WordQuiz.Droid.Resource.Styleable.Chip_closeIconEndPadding;
+			global::Lottie.Forms.Resource.Styleable.Chip_closeIconSize = global::WordQuiz.Droid.Resource.Styleable.Chip_closeIconSize;
+			global::Lottie.Forms.Resource.Styleable.Chip_closeIconStartPadding = global::WordQuiz.Droid.Resource.Styleable.Chip_closeIconStartPadding;
+			global::Lottie.Forms.Resource.Styleable.Chip_closeIconTint = global::WordQuiz.Droid.Resource.Styleable.Chip_closeIconTint;
+			global::Lottie.Forms.Resource.Styleable.Chip_closeIconVisible = global::WordQuiz.Droid.Resource.Styleable.Chip_closeIconVisible;
+			global::Lottie.Forms.Resource.Styleable.Chip_hideMotionSpec = global::WordQuiz.Droid.Resource.Styleable.Chip_hideMotionSpec;
+			global::Lottie.Forms.Resource.Styleable.Chip_iconEndPadding = global::WordQuiz.Droid.Resource.Styleable.Chip_iconEndPadding;
+			global::Lottie.Forms.Resource.Styleable.Chip_iconStartPadding = global::WordQuiz.Droid.Resource.Styleable.Chip_iconStartPadding;
+			global::Lottie.Forms.Resource.Styleable.Chip_rippleColor = global::WordQuiz.Droid.Resource.Styleable.Chip_rippleColor;
+			global::Lottie.Forms.Resource.Styleable.Chip_showMotionSpec = global::WordQuiz.Droid.Resource.Styleable.Chip_showMotionSpec;
+			global::Lottie.Forms.Resource.Styleable.Chip_textEndPadding = global::WordQuiz.Droid.Resource.Styleable.Chip_textEndPadding;
+			global::Lottie.Forms.Resource.Styleable.Chip_textStartPadding = global::WordQuiz.Droid.Resource.Styleable.Chip_textStartPadding;
+			global::Lottie.Forms.Resource.Styleable.CollapsingToolbarLayout = global::WordQuiz.Droid.Resource.Styleable.CollapsingToolbarLayout;
+			global::Lottie.Forms.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity = global::WordQuiz.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity;
+			global::Lottie.Forms.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance = global::WordQuiz.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance;
+			global::Lottie.Forms.Resource.Styleable.CollapsingToolbarLayout_contentScrim = global::WordQuiz.Droid.Resource.Styleable.CollapsingToolbarLayout_contentScrim;
+			global::Lottie.Forms.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity = global::WordQuiz.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity;
+			global::Lottie.Forms.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin = global::WordQuiz.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin;
+			global::Lottie.Forms.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom = global::WordQuiz.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom;
+			global::Lottie.Forms.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd = global::WordQuiz.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd;
+			global::Lottie.Forms.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart = global::WordQuiz.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart;
+			global::Lottie.Forms.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop = global::WordQuiz.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop;
+			global::Lottie.Forms.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance = global::WordQuiz.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance;
+			global::Lottie.Forms.Resource.Styleable.CollapsingToolbarLayout_Layout = global::WordQuiz.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout;
+			global::Lottie.Forms.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseMode = global::WordQuiz.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseMode;
+			global::Lottie.Forms.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier = global::WordQuiz.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier;
+			global::Lottie.Forms.Resource.Styleable.CollapsingToolbarLayout_scrimAnimationDuration = global::WordQuiz.Droid.Resource.Styleable.CollapsingToolbarLayout_scrimAnimationDuration;
+			global::Lottie.Forms.Resource.Styleable.CollapsingToolbarLayout_scrimVisibleHeightTrigger = global::WordQuiz.Droid.Resource.Styleable.CollapsingToolbarLayout_scrimVisibleHeightTrigger;
+			global::Lottie.Forms.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim = global::WordQuiz.Droid.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim;
+			global::Lottie.Forms.Resource.Styleable.CollapsingToolbarLayout_title = global::WordQuiz.Droid.Resource.Styleable.CollapsingToolbarLayout_title;
+			global::Lottie.Forms.Resource.Styleable.CollapsingToolbarLayout_titleEnabled = global::WordQuiz.Droid.Resource.Styleable.CollapsingToolbarLayout_titleEnabled;
+			global::Lottie.Forms.Resource.Styleable.CollapsingToolbarLayout_toolbarId = global::WordQuiz.Droid.Resource.Styleable.CollapsingToolbarLayout_toolbarId;
+			global::Lottie.Forms.Resource.Styleable.ColorStateListItem = global::WordQuiz.Droid.Resource.Styleable.ColorStateListItem;
+			global::Lottie.Forms.Resource.Styleable.ColorStateListItem_alpha = global::WordQuiz.Droid.Resource.Styleable.ColorStateListItem_alpha;
+			global::Lottie.Forms.Resource.Styleable.ColorStateListItem_android_alpha = global::WordQuiz.Droid.Resource.Styleable.ColorStateListItem_android_alpha;
+			global::Lottie.Forms.Resource.Styleable.ColorStateListItem_android_color = global::WordQuiz.Droid.Resource.Styleable.ColorStateListItem_android_color;
+			global::Lottie.Forms.Resource.Styleable.CompoundButton = global::WordQuiz.Droid.Resource.Styleable.CompoundButton;
+			global::Lottie.Forms.Resource.Styleable.CompoundButton_android_button = global::WordQuiz.Droid.Resource.Styleable.CompoundButton_android_button;
+			global::Lottie.Forms.Resource.Styleable.CompoundButton_buttonCompat = global::WordQuiz.Droid.Resource.Styleable.CompoundButton_buttonCompat;
+			global::Lottie.Forms.Resource.Styleable.CompoundButton_buttonTint = global::WordQuiz.Droid.Resource.Styleable.CompoundButton_buttonTint;
+			global::Lottie.Forms.Resource.Styleable.CompoundButton_buttonTintMode = global::WordQuiz.Droid.Resource.Styleable.CompoundButton_buttonTintMode;
+			global::Lottie.Forms.Resource.Styleable.CoordinatorLayout = global::WordQuiz.Droid.Resource.Styleable.CoordinatorLayout;
+			global::Lottie.Forms.Resource.Styleable.CoordinatorLayout_keylines = global::WordQuiz.Droid.Resource.Styleable.CoordinatorLayout_keylines;
+			global::Lottie.Forms.Resource.Styleable.CoordinatorLayout_Layout = global::WordQuiz.Droid.Resource.Styleable.CoordinatorLayout_Layout;
+			global::Lottie.Forms.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity = global::WordQuiz.Droid.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity;
+			global::Lottie.Forms.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor = global::WordQuiz.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor;
+			global::Lottie.Forms.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity = global::WordQuiz.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity;
+			global::Lottie.Forms.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior = global::WordQuiz.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior;
+			global::Lottie.Forms.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges = global::WordQuiz.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges;
+			global::Lottie.Forms.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge = global::WordQuiz.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge;
+			global::Lottie.Forms.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline = global::WordQuiz.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline;
+			global::Lottie.Forms.Resource.Styleable.CoordinatorLayout_statusBarBackground = global::WordQuiz.Droid.Resource.Styleable.CoordinatorLayout_statusBarBackground;
+			global::Lottie.Forms.Resource.Styleable.DesignTheme = global::WordQuiz.Droid.Resource.Styleable.DesignTheme;
+			global::Lottie.Forms.Resource.Styleable.DesignTheme_bottomSheetDialogTheme = global::WordQuiz.Droid.Resource.Styleable.DesignTheme_bottomSheetDialogTheme;
+			global::Lottie.Forms.Resource.Styleable.DesignTheme_bottomSheetStyle = global::WordQuiz.Droid.Resource.Styleable.DesignTheme_bottomSheetStyle;
+			global::Lottie.Forms.Resource.Styleable.DrawerArrowToggle = global::WordQuiz.Droid.Resource.Styleable.DrawerArrowToggle;
+			global::Lottie.Forms.Resource.Styleable.DrawerArrowToggle_arrowHeadLength = global::WordQuiz.Droid.Resource.Styleable.DrawerArrowToggle_arrowHeadLength;
+			global::Lottie.Forms.Resource.Styleable.DrawerArrowToggle_arrowShaftLength = global::WordQuiz.Droid.Resource.Styleable.DrawerArrowToggle_arrowShaftLength;
+			global::Lottie.Forms.Resource.Styleable.DrawerArrowToggle_barLength = global::WordQuiz.Droid.Resource.Styleable.DrawerArrowToggle_barLength;
+			global::Lottie.Forms.Resource.Styleable.DrawerArrowToggle_color = global::WordQuiz.Droid.Resource.Styleable.DrawerArrowToggle_color;
+			global::Lottie.Forms.Resource.Styleable.DrawerArrowToggle_drawableSize = global::WordQuiz.Droid.Resource.Styleable.DrawerArrowToggle_drawableSize;
+			global::Lottie.Forms.Resource.Styleable.DrawerArrowToggle_gapBetweenBars = global::WordQuiz.Droid.Resource.Styleable.DrawerArrowToggle_gapBetweenBars;
+			global::Lottie.Forms.Resource.Styleable.DrawerArrowToggle_spinBars = global::WordQuiz.Droid.Resource.Styleable.DrawerArrowToggle_spinBars;
+			global::Lottie.Forms.Resource.Styleable.DrawerArrowToggle_thickness = global::WordQuiz.Droid.Resource.Styleable.DrawerArrowToggle_thickness;
+			global::Lottie.Forms.Resource.Styleable.FloatingActionButton = global::WordQuiz.Droid.Resource.Styleable.FloatingActionButton;
+			global::Lottie.Forms.Resource.Styleable.FloatingActionButton_backgroundTint = global::WordQuiz.Droid.Resource.Styleable.FloatingActionButton_backgroundTint;
+			global::Lottie.Forms.Resource.Styleable.FloatingActionButton_backgroundTintMode = global::WordQuiz.Droid.Resource.Styleable.FloatingActionButton_backgroundTintMode;
+			global::Lottie.Forms.Resource.Styleable.FloatingActionButton_Behavior_Layout = global::WordQuiz.Droid.Resource.Styleable.FloatingActionButton_Behavior_Layout;
+			global::Lottie.Forms.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide = global::WordQuiz.Droid.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide;
+			global::Lottie.Forms.Resource.Styleable.FloatingActionButton_borderWidth = global::WordQuiz.Droid.Resource.Styleable.FloatingActionButton_borderWidth;
+			global::Lottie.Forms.Resource.Styleable.FloatingActionButton_elevation = global::WordQuiz.Droid.Resource.Styleable.FloatingActionButton_elevation;
+			global::Lottie.Forms.Resource.Styleable.FloatingActionButton_fabCustomSize = global::WordQuiz.Droid.Resource.Styleable.FloatingActionButton_fabCustomSize;
+			global::Lottie.Forms.Resource.Styleable.FloatingActionButton_fabSize = global::WordQuiz.Droid.Resource.Styleable.FloatingActionButton_fabSize;
+			global::Lottie.Forms.Resource.Styleable.FloatingActionButton_hideMotionSpec = global::WordQuiz.Droid.Resource.Styleable.FloatingActionButton_hideMotionSpec;
+			global::Lottie.Forms.Resource.Styleable.FloatingActionButton_hoveredFocusedTranslationZ = global::WordQuiz.Droid.Resource.Styleable.FloatingActionButton_hoveredFocusedTranslationZ;
+			global::Lottie.Forms.Resource.Styleable.FloatingActionButton_maxImageSize = global::WordQuiz.Droid.Resource.Styleable.FloatingActionButton_maxImageSize;
+			global::Lottie.Forms.Resource.Styleable.FloatingActionButton_pressedTranslationZ = global::WordQuiz.Droid.Resource.Styleable.FloatingActionButton_pressedTranslationZ;
+			global::Lottie.Forms.Resource.Styleable.FloatingActionButton_rippleColor = global::WordQuiz.Droid.Resource.Styleable.FloatingActionButton_rippleColor;
+			global::Lottie.Forms.Resource.Styleable.FloatingActionButton_showMotionSpec = global::WordQuiz.Droid.Resource.Styleable.FloatingActionButton_showMotionSpec;
+			global::Lottie.Forms.Resource.Styleable.FloatingActionButton_useCompatPadding = global::WordQuiz.Droid.Resource.Styleable.FloatingActionButton_useCompatPadding;
+			global::Lottie.Forms.Resource.Styleable.FlowLayout = global::WordQuiz.Droid.Resource.Styleable.FlowLayout;
+			global::Lottie.Forms.Resource.Styleable.FlowLayout_itemSpacing = global::WordQuiz.Droid.Resource.Styleable.FlowLayout_itemSpacing;
+			global::Lottie.Forms.Resource.Styleable.FlowLayout_lineSpacing = global::WordQuiz.Droid.Resource.Styleable.FlowLayout_lineSpacing;
+			global::Lottie.Forms.Resource.Styleable.FontFamily = global::WordQuiz.Droid.Resource.Styleable.FontFamily;
+			global::Lottie.Forms.Resource.Styleable.FontFamilyFont = global::WordQuiz.Droid.Resource.Styleable.FontFamilyFont;
+			global::Lottie.Forms.Resource.Styleable.FontFamilyFont_android_font = global::WordQuiz.Droid.Resource.Styleable.FontFamilyFont_android_font;
+			global::Lottie.Forms.Resource.Styleable.FontFamilyFont_android_fontStyle = global::WordQuiz.Droid.Resource.Styleable.FontFamilyFont_android_fontStyle;
+			global::Lottie.Forms.Resource.Styleable.FontFamilyFont_android_fontVariationSettings = global::WordQuiz.Droid.Resource.Styleable.FontFamilyFont_android_fontVariationSettings;
+			global::Lottie.Forms.Resource.Styleable.FontFamilyFont_android_fontWeight = global::WordQuiz.Droid.Resource.Styleable.FontFamilyFont_android_fontWeight;
+			global::Lottie.Forms.Resource.Styleable.FontFamilyFont_android_ttcIndex = global::WordQuiz.Droid.Resource.Styleable.FontFamilyFont_android_ttcIndex;
+			global::Lottie.Forms.Resource.Styleable.FontFamilyFont_font = global::WordQuiz.Droid.Resource.Styleable.FontFamilyFont_font;
+			global::Lottie.Forms.Resource.Styleable.FontFamilyFont_fontStyle = global::WordQuiz.Droid.Resource.Styleable.FontFamilyFont_fontStyle;
+			global::Lottie.Forms.Resource.Styleable.FontFamilyFont_fontVariationSettings = global::WordQuiz.Droid.Resource.Styleable.FontFamilyFont_fontVariationSettings;
+			global::Lottie.Forms.Resource.Styleable.FontFamilyFont_fontWeight = global::WordQuiz.Droid.Resource.Styleable.FontFamilyFont_fontWeight;
+			global::Lottie.Forms.Resource.Styleable.FontFamilyFont_ttcIndex = global::WordQuiz.Droid.Resource.Styleable.FontFamilyFont_ttcIndex;
+			global::Lottie.Forms.Resource.Styleable.FontFamily_fontProviderAuthority = global::WordQuiz.Droid.Resource.Styleable.FontFamily_fontProviderAuthority;
+			global::Lottie.Forms.Resource.Styleable.FontFamily_fontProviderCerts = global::WordQuiz.Droid.Resource.Styleable.FontFamily_fontProviderCerts;
+			global::Lottie.Forms.Resource.Styleable.FontFamily_fontProviderFetchStrategy = global::WordQuiz.Droid.Resource.Styleable.FontFamily_fontProviderFetchStrategy;
+			global::Lottie.Forms.Resource.Styleable.FontFamily_fontProviderFetchTimeout = global::WordQuiz.Droid.Resource.Styleable.FontFamily_fontProviderFetchTimeout;
+			global::Lottie.Forms.Resource.Styleable.FontFamily_fontProviderPackage = global::WordQuiz.Droid.Resource.Styleable.FontFamily_fontProviderPackage;
+			global::Lottie.Forms.Resource.Styleable.FontFamily_fontProviderQuery = global::WordQuiz.Droid.Resource.Styleable.FontFamily_fontProviderQuery;
+			global::Lottie.Forms.Resource.Styleable.ForegroundLinearLayout = global::WordQuiz.Droid.Resource.Styleable.ForegroundLinearLayout;
+			global::Lottie.Forms.Resource.Styleable.ForegroundLinearLayout_android_foreground = global::WordQuiz.Droid.Resource.Styleable.ForegroundLinearLayout_android_foreground;
+			global::Lottie.Forms.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity = global::WordQuiz.Droid.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity;
+			global::Lottie.Forms.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding = global::WordQuiz.Droid.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding;
+			global::Lottie.Forms.Resource.Styleable.GradientColor = global::WordQuiz.Droid.Resource.Styleable.GradientColor;
+			global::Lottie.Forms.Resource.Styleable.GradientColorItem = global::WordQuiz.Droid.Resource.Styleable.GradientColorItem;
+			global::Lottie.Forms.Resource.Styleable.GradientColorItem_android_color = global::WordQuiz.Droid.Resource.Styleable.GradientColorItem_android_color;
+			global::Lottie.Forms.Resource.Styleable.GradientColorItem_android_offset = global::WordQuiz.Droid.Resource.Styleable.GradientColorItem_android_offset;
+			global::Lottie.Forms.Resource.Styleable.GradientColor_android_centerColor = global::WordQuiz.Droid.Resource.Styleable.GradientColor_android_centerColor;
+			global::Lottie.Forms.Resource.Styleable.GradientColor_android_centerX = global::WordQuiz.Droid.Resource.Styleable.GradientColor_android_centerX;
+			global::Lottie.Forms.Resource.Styleable.GradientColor_android_centerY = global::WordQuiz.Droid.Resource.Styleable.GradientColor_android_centerY;
+			global::Lottie.Forms.Resource.Styleable.GradientColor_android_endColor = global::WordQuiz.Droid.Resource.Styleable.GradientColor_android_endColor;
+			global::Lottie.Forms.Resource.Styleable.GradientColor_android_endX = global::WordQuiz.Droid.Resource.Styleable.GradientColor_android_endX;
+			global::Lottie.Forms.Resource.Styleable.GradientColor_android_endY = global::WordQuiz.Droid.Resource.Styleable.GradientColor_android_endY;
+			global::Lottie.Forms.Resource.Styleable.GradientColor_android_gradientRadius = global::WordQuiz.Droid.Resource.Styleable.GradientColor_android_gradientRadius;
+			global::Lottie.Forms.Resource.Styleable.GradientColor_android_startColor = global::WordQuiz.Droid.Resource.Styleable.GradientColor_android_startColor;
+			global::Lottie.Forms.Resource.Styleable.GradientColor_android_startX = global::WordQuiz.Droid.Resource.Styleable.GradientColor_android_startX;
+			global::Lottie.Forms.Resource.Styleable.GradientColor_android_startY = global::WordQuiz.Droid.Resource.Styleable.GradientColor_android_startY;
+			global::Lottie.Forms.Resource.Styleable.GradientColor_android_tileMode = global::WordQuiz.Droid.Resource.Styleable.GradientColor_android_tileMode;
+			global::Lottie.Forms.Resource.Styleable.GradientColor_android_type = global::WordQuiz.Droid.Resource.Styleable.GradientColor_android_type;
+			global::Lottie.Forms.Resource.Styleable.LinearLayoutCompat = global::WordQuiz.Droid.Resource.Styleable.LinearLayoutCompat;
+			global::Lottie.Forms.Resource.Styleable.LinearLayoutCompat_android_baselineAligned = global::WordQuiz.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAligned;
+			global::Lottie.Forms.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex = global::WordQuiz.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex;
+			global::Lottie.Forms.Resource.Styleable.LinearLayoutCompat_android_gravity = global::WordQuiz.Droid.Resource.Styleable.LinearLayoutCompat_android_gravity;
+			global::Lottie.Forms.Resource.Styleable.LinearLayoutCompat_android_orientation = global::WordQuiz.Droid.Resource.Styleable.LinearLayoutCompat_android_orientation;
+			global::Lottie.Forms.Resource.Styleable.LinearLayoutCompat_android_weightSum = global::WordQuiz.Droid.Resource.Styleable.LinearLayoutCompat_android_weightSum;
+			global::Lottie.Forms.Resource.Styleable.LinearLayoutCompat_divider = global::WordQuiz.Droid.Resource.Styleable.LinearLayoutCompat_divider;
+			global::Lottie.Forms.Resource.Styleable.LinearLayoutCompat_dividerPadding = global::WordQuiz.Droid.Resource.Styleable.LinearLayoutCompat_dividerPadding;
+			global::Lottie.Forms.Resource.Styleable.LinearLayoutCompat_Layout = global::WordQuiz.Droid.Resource.Styleable.LinearLayoutCompat_Layout;
+			global::Lottie.Forms.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity = global::WordQuiz.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity;
+			global::Lottie.Forms.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height = global::WordQuiz.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height;
+			global::Lottie.Forms.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight = global::WordQuiz.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight;
+			global::Lottie.Forms.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width = global::WordQuiz.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width;
+			global::Lottie.Forms.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild = global::WordQuiz.Droid.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild;
+			global::Lottie.Forms.Resource.Styleable.LinearLayoutCompat_showDividers = global::WordQuiz.Droid.Resource.Styleable.LinearLayoutCompat_showDividers;
+			global::Lottie.Forms.Resource.Styleable.ListPopupWindow = global::WordQuiz.Droid.Resource.Styleable.ListPopupWindow;
+			global::Lottie.Forms.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset = global::WordQuiz.Droid.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset;
+			global::Lottie.Forms.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset = global::WordQuiz.Droid.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset;
+			global::Lottie.Forms.Resource.Styleable.LottieAnimationView = global::WordQuiz.Droid.Resource.Styleable.LottieAnimationView;
+			global::Lottie.Forms.Resource.Styleable.LottieAnimationView_lottie_autoPlay = global::WordQuiz.Droid.Resource.Styleable.LottieAnimationView_lottie_autoPlay;
+			global::Lottie.Forms.Resource.Styleable.LottieAnimationView_lottie_cacheComposition = global::WordQuiz.Droid.Resource.Styleable.LottieAnimationView_lottie_cacheComposition;
+			global::Lottie.Forms.Resource.Styleable.LottieAnimationView_lottie_colorFilter = global::WordQuiz.Droid.Resource.Styleable.LottieAnimationView_lottie_colorFilter;
+			global::Lottie.Forms.Resource.Styleable.LottieAnimationView_lottie_enableMergePathsForKitKatAndAbove = global::WordQuiz.Droid.Resource.Styleable.LottieAnimationView_lottie_enableMergePathsForKitKatAndAbove;
+			global::Lottie.Forms.Resource.Styleable.LottieAnimationView_lottie_fallbackRes = global::WordQuiz.Droid.Resource.Styleable.LottieAnimationView_lottie_fallbackRes;
+			global::Lottie.Forms.Resource.Styleable.LottieAnimationView_lottie_fileName = global::WordQuiz.Droid.Resource.Styleable.LottieAnimationView_lottie_fileName;
+			global::Lottie.Forms.Resource.Styleable.LottieAnimationView_lottie_imageAssetsFolder = global::WordQuiz.Droid.Resource.Styleable.LottieAnimationView_lottie_imageAssetsFolder;
+			global::Lottie.Forms.Resource.Styleable.LottieAnimationView_lottie_loop = global::WordQuiz.Droid.Resource.Styleable.LottieAnimationView_lottie_loop;
+			global::Lottie.Forms.Resource.Styleable.LottieAnimationView_lottie_progress = global::WordQuiz.Droid.Resource.Styleable.LottieAnimationView_lottie_progress;
+			global::Lottie.Forms.Resource.Styleable.LottieAnimationView_lottie_rawRes = global::WordQuiz.Droid.Resource.Styleable.LottieAnimationView_lottie_rawRes;
+			global::Lottie.Forms.Resource.Styleable.LottieAnimationView_lottie_renderMode = global::WordQuiz.Droid.Resource.Styleable.LottieAnimationView_lottie_renderMode;
+			global::Lottie.Forms.Resource.Styleable.LottieAnimationView_lottie_repeatCount = global::WordQuiz.Droid.Resource.Styleable.LottieAnimationView_lottie_repeatCount;
+			global::Lottie.Forms.Resource.Styleable.LottieAnimationView_lottie_repeatMode = global::WordQuiz.Droid.Resource.Styleable.LottieAnimationView_lottie_repeatMode;
+			global::Lottie.Forms.Resource.Styleable.LottieAnimationView_lottie_scale = global::WordQuiz.Droid.Resource.Styleable.LottieAnimationView_lottie_scale;
+			global::Lottie.Forms.Resource.Styleable.LottieAnimationView_lottie_speed = global::WordQuiz.Droid.Resource.Styleable.LottieAnimationView_lottie_speed;
+			global::Lottie.Forms.Resource.Styleable.LottieAnimationView_lottie_url = global::WordQuiz.Droid.Resource.Styleable.LottieAnimationView_lottie_url;
+			global::Lottie.Forms.Resource.Styleable.MaterialButton = global::WordQuiz.Droid.Resource.Styleable.MaterialButton;
+			global::Lottie.Forms.Resource.Styleable.MaterialButton_android_insetBottom = global::WordQuiz.Droid.Resource.Styleable.MaterialButton_android_insetBottom;
+			global::Lottie.Forms.Resource.Styleable.MaterialButton_android_insetLeft = global::WordQuiz.Droid.Resource.Styleable.MaterialButton_android_insetLeft;
+			global::Lottie.Forms.Resource.Styleable.MaterialButton_android_insetRight = global::WordQuiz.Droid.Resource.Styleable.MaterialButton_android_insetRight;
+			global::Lottie.Forms.Resource.Styleable.MaterialButton_android_insetTop = global::WordQuiz.Droid.Resource.Styleable.MaterialButton_android_insetTop;
+			global::Lottie.Forms.Resource.Styleable.MaterialButton_backgroundTint = global::WordQuiz.Droid.Resource.Styleable.MaterialButton_backgroundTint;
+			global::Lottie.Forms.Resource.Styleable.MaterialButton_backgroundTintMode = global::WordQuiz.Droid.Resource.Styleable.MaterialButton_backgroundTintMode;
+			global::Lottie.Forms.Resource.Styleable.MaterialButton_cornerRadius = global::WordQuiz.Droid.Resource.Styleable.MaterialButton_cornerRadius;
+			global::Lottie.Forms.Resource.Styleable.MaterialButton_icon = global::WordQuiz.Droid.Resource.Styleable.MaterialButton_icon;
+			global::Lottie.Forms.Resource.Styleable.MaterialButton_iconGravity = global::WordQuiz.Droid.Resource.Styleable.MaterialButton_iconGravity;
+			global::Lottie.Forms.Resource.Styleable.MaterialButton_iconPadding = global::WordQuiz.Droid.Resource.Styleable.MaterialButton_iconPadding;
+			global::Lottie.Forms.Resource.Styleable.MaterialButton_iconSize = global::WordQuiz.Droid.Resource.Styleable.MaterialButton_iconSize;
+			global::Lottie.Forms.Resource.Styleable.MaterialButton_iconTint = global::WordQuiz.Droid.Resource.Styleable.MaterialButton_iconTint;
+			global::Lottie.Forms.Resource.Styleable.MaterialButton_iconTintMode = global::WordQuiz.Droid.Resource.Styleable.MaterialButton_iconTintMode;
+			global::Lottie.Forms.Resource.Styleable.MaterialButton_rippleColor = global::WordQuiz.Droid.Resource.Styleable.MaterialButton_rippleColor;
+			global::Lottie.Forms.Resource.Styleable.MaterialButton_strokeColor = global::WordQuiz.Droid.Resource.Styleable.MaterialButton_strokeColor;
+			global::Lottie.Forms.Resource.Styleable.MaterialButton_strokeWidth = global::WordQuiz.Droid.Resource.Styleable.MaterialButton_strokeWidth;
+			global::Lottie.Forms.Resource.Styleable.MaterialCardView = global::WordQuiz.Droid.Resource.Styleable.MaterialCardView;
+			global::Lottie.Forms.Resource.Styleable.MaterialCardView_strokeColor = global::WordQuiz.Droid.Resource.Styleable.MaterialCardView_strokeColor;
+			global::Lottie.Forms.Resource.Styleable.MaterialCardView_strokeWidth = global::WordQuiz.Droid.Resource.Styleable.MaterialCardView_strokeWidth;
+			global::Lottie.Forms.Resource.Styleable.MaterialComponentsTheme = global::WordQuiz.Droid.Resource.Styleable.MaterialComponentsTheme;
+			global::Lottie.Forms.Resource.Styleable.MaterialComponentsTheme_bottomSheetDialogTheme = global::WordQuiz.Droid.Resource.Styleable.MaterialComponentsTheme_bottomSheetDialogTheme;
+			global::Lottie.Forms.Resource.Styleable.MaterialComponentsTheme_bottomSheetStyle = global::WordQuiz.Droid.Resource.Styleable.MaterialComponentsTheme_bottomSheetStyle;
+			global::Lottie.Forms.Resource.Styleable.MaterialComponentsTheme_chipGroupStyle = global::WordQuiz.Droid.Resource.Styleable.MaterialComponentsTheme_chipGroupStyle;
+			global::Lottie.Forms.Resource.Styleable.MaterialComponentsTheme_chipStandaloneStyle = global::WordQuiz.Droid.Resource.Styleable.MaterialComponentsTheme_chipStandaloneStyle;
+			global::Lottie.Forms.Resource.Styleable.MaterialComponentsTheme_chipStyle = global::WordQuiz.Droid.Resource.Styleable.MaterialComponentsTheme_chipStyle;
+			global::Lottie.Forms.Resource.Styleable.MaterialComponentsTheme_colorAccent = global::WordQuiz.Droid.Resource.Styleable.MaterialComponentsTheme_colorAccent;
+			global::Lottie.Forms.Resource.Styleable.MaterialComponentsTheme_colorBackgroundFloating = global::WordQuiz.Droid.Resource.Styleable.MaterialComponentsTheme_colorBackgroundFloating;
+			global::Lottie.Forms.Resource.Styleable.MaterialComponentsTheme_colorPrimary = global::WordQuiz.Droid.Resource.Styleable.MaterialComponentsTheme_colorPrimary;
+			global::Lottie.Forms.Resource.Styleable.MaterialComponentsTheme_colorPrimaryDark = global::WordQuiz.Droid.Resource.Styleable.MaterialComponentsTheme_colorPrimaryDark;
+			global::Lottie.Forms.Resource.Styleable.MaterialComponentsTheme_colorSecondary = global::WordQuiz.Droid.Resource.Styleable.MaterialComponentsTheme_colorSecondary;
+			global::Lottie.Forms.Resource.Styleable.MaterialComponentsTheme_editTextStyle = global::WordQuiz.Droid.Resource.Styleable.MaterialComponentsTheme_editTextStyle;
+			global::Lottie.Forms.Resource.Styleable.MaterialComponentsTheme_floatingActionButtonStyle = global::WordQuiz.Droid.Resource.Styleable.MaterialComponentsTheme_floatingActionButtonStyle;
+			global::Lottie.Forms.Resource.Styleable.MaterialComponentsTheme_materialButtonStyle = global::WordQuiz.Droid.Resource.Styleable.MaterialComponentsTheme_materialButtonStyle;
+			global::Lottie.Forms.Resource.Styleable.MaterialComponentsTheme_materialCardViewStyle = global::WordQuiz.Droid.Resource.Styleable.MaterialComponentsTheme_materialCardViewStyle;
+			global::Lottie.Forms.Resource.Styleable.MaterialComponentsTheme_navigationViewStyle = global::WordQuiz.Droid.Resource.Styleable.MaterialComponentsTheme_navigationViewStyle;
+			global::Lottie.Forms.Resource.Styleable.MaterialComponentsTheme_scrimBackground = global::WordQuiz.Droid.Resource.Styleable.MaterialComponentsTheme_scrimBackground;
+			global::Lottie.Forms.Resource.Styleable.MaterialComponentsTheme_snackbarButtonStyle = global::WordQuiz.Droid.Resource.Styleable.MaterialComponentsTheme_snackbarButtonStyle;
+			global::Lottie.Forms.Resource.Styleable.MaterialComponentsTheme_tabStyle = global::WordQuiz.Droid.Resource.Styleable.MaterialComponentsTheme_tabStyle;
+			global::Lottie.Forms.Resource.Styleable.MaterialComponentsTheme_textAppearanceBody1 = global::WordQuiz.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceBody1;
+			global::Lottie.Forms.Resource.Styleable.MaterialComponentsTheme_textAppearanceBody2 = global::WordQuiz.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceBody2;
+			global::Lottie.Forms.Resource.Styleable.MaterialComponentsTheme_textAppearanceButton = global::WordQuiz.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceButton;
+			global::Lottie.Forms.Resource.Styleable.MaterialComponentsTheme_textAppearanceCaption = global::WordQuiz.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceCaption;
+			global::Lottie.Forms.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline1 = global::WordQuiz.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline1;
+			global::Lottie.Forms.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline2 = global::WordQuiz.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline2;
+			global::Lottie.Forms.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline3 = global::WordQuiz.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline3;
+			global::Lottie.Forms.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline4 = global::WordQuiz.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline4;
+			global::Lottie.Forms.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline5 = global::WordQuiz.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline5;
+			global::Lottie.Forms.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline6 = global::WordQuiz.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline6;
+			global::Lottie.Forms.Resource.Styleable.MaterialComponentsTheme_textAppearanceOverline = global::WordQuiz.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceOverline;
+			global::Lottie.Forms.Resource.Styleable.MaterialComponentsTheme_textAppearanceSubtitle1 = global::WordQuiz.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceSubtitle1;
+			global::Lottie.Forms.Resource.Styleable.MaterialComponentsTheme_textAppearanceSubtitle2 = global::WordQuiz.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceSubtitle2;
+			global::Lottie.Forms.Resource.Styleable.MaterialComponentsTheme_textInputStyle = global::WordQuiz.Droid.Resource.Styleable.MaterialComponentsTheme_textInputStyle;
+			global::Lottie.Forms.Resource.Styleable.MenuGroup = global::WordQuiz.Droid.Resource.Styleable.MenuGroup;
+			global::Lottie.Forms.Resource.Styleable.MenuGroup_android_checkableBehavior = global::WordQuiz.Droid.Resource.Styleable.MenuGroup_android_checkableBehavior;
+			global::Lottie.Forms.Resource.Styleable.MenuGroup_android_enabled = global::WordQuiz.Droid.Resource.Styleable.MenuGroup_android_enabled;
+			global::Lottie.Forms.Resource.Styleable.MenuGroup_android_id = global::WordQuiz.Droid.Resource.Styleable.MenuGroup_android_id;
+			global::Lottie.Forms.Resource.Styleable.MenuGroup_android_menuCategory = global::WordQuiz.Droid.Resource.Styleable.MenuGroup_android_menuCategory;
+			global::Lottie.Forms.Resource.Styleable.MenuGroup_android_orderInCategory = global::WordQuiz.Droid.Resource.Styleable.MenuGroup_android_orderInCategory;
+			global::Lottie.Forms.Resource.Styleable.MenuGroup_android_visible = global::WordQuiz.Droid.Resource.Styleable.MenuGroup_android_visible;
+			global::Lottie.Forms.Resource.Styleable.MenuItem = global::WordQuiz.Droid.Resource.Styleable.MenuItem;
+			global::Lottie.Forms.Resource.Styleable.MenuItem_actionLayout = global::WordQuiz.Droid.Resource.Styleable.MenuItem_actionLayout;
+			global::Lottie.Forms.Resource.Styleable.MenuItem_actionProviderClass = global::WordQuiz.Droid.Resource.Styleable.MenuItem_actionProviderClass;
+			global::Lottie.Forms.Resource.Styleable.MenuItem_actionViewClass = global::WordQuiz.Droid.Resource.Styleable.MenuItem_actionViewClass;
+			global::Lottie.Forms.Resource.Styleable.MenuItem_alphabeticModifiers = global::WordQuiz.Droid.Resource.Styleable.MenuItem_alphabeticModifiers;
+			global::Lottie.Forms.Resource.Styleable.MenuItem_android_alphabeticShortcut = global::WordQuiz.Droid.Resource.Styleable.MenuItem_android_alphabeticShortcut;
+			global::Lottie.Forms.Resource.Styleable.MenuItem_android_checkable = global::WordQuiz.Droid.Resource.Styleable.MenuItem_android_checkable;
+			global::Lottie.Forms.Resource.Styleable.MenuItem_android_checked = global::WordQuiz.Droid.Resource.Styleable.MenuItem_android_checked;
+			global::Lottie.Forms.Resource.Styleable.MenuItem_android_enabled = global::WordQuiz.Droid.Resource.Styleable.MenuItem_android_enabled;
+			global::Lottie.Forms.Resource.Styleable.MenuItem_android_icon = global::WordQuiz.Droid.Resource.Styleable.MenuItem_android_icon;
+			global::Lottie.Forms.Resource.Styleable.MenuItem_android_id = global::WordQuiz.Droid.Resource.Styleable.MenuItem_android_id;
+			global::Lottie.Forms.Resource.Styleable.MenuItem_android_menuCategory = global::WordQuiz.Droid.Resource.Styleable.MenuItem_android_menuCategory;
+			global::Lottie.Forms.Resource.Styleable.MenuItem_android_numericShortcut = global::WordQuiz.Droid.Resource.Styleable.MenuItem_android_numericShortcut;
+			global::Lottie.Forms.Resource.Styleable.MenuItem_android_onClick = global::WordQuiz.Droid.Resource.Styleable.MenuItem_android_onClick;
+			global::Lottie.Forms.Resource.Styleable.MenuItem_android_orderInCategory = global::WordQuiz.Droid.Resource.Styleable.MenuItem_android_orderInCategory;
+			global::Lottie.Forms.Resource.Styleable.MenuItem_android_title = global::WordQuiz.Droid.Resource.Styleable.MenuItem_android_title;
+			global::Lottie.Forms.Resource.Styleable.MenuItem_android_titleCondensed = global::WordQuiz.Droid.Resource.Styleable.MenuItem_android_titleCondensed;
+			global::Lottie.Forms.Resource.Styleable.MenuItem_android_visible = global::WordQuiz.Droid.Resource.Styleable.MenuItem_android_visible;
+			global::Lottie.Forms.Resource.Styleable.MenuItem_contentDescription = global::WordQuiz.Droid.Resource.Styleable.MenuItem_contentDescription;
+			global::Lottie.Forms.Resource.Styleable.MenuItem_iconTint = global::WordQuiz.Droid.Resource.Styleable.MenuItem_iconTint;
+			global::Lottie.Forms.Resource.Styleable.MenuItem_iconTintMode = global::WordQuiz.Droid.Resource.Styleable.MenuItem_iconTintMode;
+			global::Lottie.Forms.Resource.Styleable.MenuItem_numericModifiers = global::WordQuiz.Droid.Resource.Styleable.MenuItem_numericModifiers;
+			global::Lottie.Forms.Resource.Styleable.MenuItem_showAsAction = global::WordQuiz.Droid.Resource.Styleable.MenuItem_showAsAction;
+			global::Lottie.Forms.Resource.Styleable.MenuItem_tooltipText = global::WordQuiz.Droid.Resource.Styleable.MenuItem_tooltipText;
+			global::Lottie.Forms.Resource.Styleable.MenuView = global::WordQuiz.Droid.Resource.Styleable.MenuView;
+			global::Lottie.Forms.Resource.Styleable.MenuView_android_headerBackground = global::WordQuiz.Droid.Resource.Styleable.MenuView_android_headerBackground;
+			global::Lottie.Forms.Resource.Styleable.MenuView_android_horizontalDivider = global::WordQuiz.Droid.Resource.Styleable.MenuView_android_horizontalDivider;
+			global::Lottie.Forms.Resource.Styleable.MenuView_android_itemBackground = global::WordQuiz.Droid.Resource.Styleable.MenuView_android_itemBackground;
+			global::Lottie.Forms.Resource.Styleable.MenuView_android_itemIconDisabledAlpha = global::WordQuiz.Droid.Resource.Styleable.MenuView_android_itemIconDisabledAlpha;
+			global::Lottie.Forms.Resource.Styleable.MenuView_android_itemTextAppearance = global::WordQuiz.Droid.Resource.Styleable.MenuView_android_itemTextAppearance;
+			global::Lottie.Forms.Resource.Styleable.MenuView_android_verticalDivider = global::WordQuiz.Droid.Resource.Styleable.MenuView_android_verticalDivider;
+			global::Lottie.Forms.Resource.Styleable.MenuView_android_windowAnimationStyle = global::WordQuiz.Droid.Resource.Styleable.MenuView_android_windowAnimationStyle;
+			global::Lottie.Forms.Resource.Styleable.MenuView_preserveIconSpacing = global::WordQuiz.Droid.Resource.Styleable.MenuView_preserveIconSpacing;
+			global::Lottie.Forms.Resource.Styleable.MenuView_subMenuArrow = global::WordQuiz.Droid.Resource.Styleable.MenuView_subMenuArrow;
+			global::Lottie.Forms.Resource.Styleable.NavigationView = global::WordQuiz.Droid.Resource.Styleable.NavigationView;
+			global::Lottie.Forms.Resource.Styleable.NavigationView_android_background = global::WordQuiz.Droid.Resource.Styleable.NavigationView_android_background;
+			global::Lottie.Forms.Resource.Styleable.NavigationView_android_fitsSystemWindows = global::WordQuiz.Droid.Resource.Styleable.NavigationView_android_fitsSystemWindows;
+			global::Lottie.Forms.Resource.Styleable.NavigationView_android_maxWidth = global::WordQuiz.Droid.Resource.Styleable.NavigationView_android_maxWidth;
+			global::Lottie.Forms.Resource.Styleable.NavigationView_elevation = global::WordQuiz.Droid.Resource.Styleable.NavigationView_elevation;
+			global::Lottie.Forms.Resource.Styleable.NavigationView_headerLayout = global::WordQuiz.Droid.Resource.Styleable.NavigationView_headerLayout;
+			global::Lottie.Forms.Resource.Styleable.NavigationView_itemBackground = global::WordQuiz.Droid.Resource.Styleable.NavigationView_itemBackground;
+			global::Lottie.Forms.Resource.Styleable.NavigationView_itemHorizontalPadding = global::WordQuiz.Droid.Resource.Styleable.NavigationView_itemHorizontalPadding;
+			global::Lottie.Forms.Resource.Styleable.NavigationView_itemIconPadding = global::WordQuiz.Droid.Resource.Styleable.NavigationView_itemIconPadding;
+			global::Lottie.Forms.Resource.Styleable.NavigationView_itemIconTint = global::WordQuiz.Droid.Resource.Styleable.NavigationView_itemIconTint;
+			global::Lottie.Forms.Resource.Styleable.NavigationView_itemTextAppearance = global::WordQuiz.Droid.Resource.Styleable.NavigationView_itemTextAppearance;
+			global::Lottie.Forms.Resource.Styleable.NavigationView_itemTextColor = global::WordQuiz.Droid.Resource.Styleable.NavigationView_itemTextColor;
+			global::Lottie.Forms.Resource.Styleable.NavigationView_menu = global::WordQuiz.Droid.Resource.Styleable.NavigationView_menu;
+			global::Lottie.Forms.Resource.Styleable.PopupWindow = global::WordQuiz.Droid.Resource.Styleable.PopupWindow;
+			global::Lottie.Forms.Resource.Styleable.PopupWindowBackgroundState = global::WordQuiz.Droid.Resource.Styleable.PopupWindowBackgroundState;
+			global::Lottie.Forms.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor = global::WordQuiz.Droid.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor;
+			global::Lottie.Forms.Resource.Styleable.PopupWindow_android_popupAnimationStyle = global::WordQuiz.Droid.Resource.Styleable.PopupWindow_android_popupAnimationStyle;
+			global::Lottie.Forms.Resource.Styleable.PopupWindow_android_popupBackground = global::WordQuiz.Droid.Resource.Styleable.PopupWindow_android_popupBackground;
+			global::Lottie.Forms.Resource.Styleable.PopupWindow_overlapAnchor = global::WordQuiz.Droid.Resource.Styleable.PopupWindow_overlapAnchor;
+			global::Lottie.Forms.Resource.Styleable.RecycleListView = global::WordQuiz.Droid.Resource.Styleable.RecycleListView;
+			global::Lottie.Forms.Resource.Styleable.RecycleListView_paddingBottomNoButtons = global::WordQuiz.Droid.Resource.Styleable.RecycleListView_paddingBottomNoButtons;
+			global::Lottie.Forms.Resource.Styleable.RecycleListView_paddingTopNoTitle = global::WordQuiz.Droid.Resource.Styleable.RecycleListView_paddingTopNoTitle;
+			global::Lottie.Forms.Resource.Styleable.RecyclerView = global::WordQuiz.Droid.Resource.Styleable.RecyclerView;
+			global::Lottie.Forms.Resource.Styleable.RecyclerView_android_clipToPadding = global::WordQuiz.Droid.Resource.Styleable.RecyclerView_android_clipToPadding;
+			global::Lottie.Forms.Resource.Styleable.RecyclerView_android_descendantFocusability = global::WordQuiz.Droid.Resource.Styleable.RecyclerView_android_descendantFocusability;
+			global::Lottie.Forms.Resource.Styleable.RecyclerView_android_orientation = global::WordQuiz.Droid.Resource.Styleable.RecyclerView_android_orientation;
+			global::Lottie.Forms.Resource.Styleable.RecyclerView_fastScrollEnabled = global::WordQuiz.Droid.Resource.Styleable.RecyclerView_fastScrollEnabled;
+			global::Lottie.Forms.Resource.Styleable.RecyclerView_fastScrollHorizontalThumbDrawable = global::WordQuiz.Droid.Resource.Styleable.RecyclerView_fastScrollHorizontalThumbDrawable;
+			global::Lottie.Forms.Resource.Styleable.RecyclerView_fastScrollHorizontalTrackDrawable = global::WordQuiz.Droid.Resource.Styleable.RecyclerView_fastScrollHorizontalTrackDrawable;
+			global::Lottie.Forms.Resource.Styleable.RecyclerView_fastScrollVerticalThumbDrawable = global::WordQuiz.Droid.Resource.Styleable.RecyclerView_fastScrollVerticalThumbDrawable;
+			global::Lottie.Forms.Resource.Styleable.RecyclerView_fastScrollVerticalTrackDrawable = global::WordQuiz.Droid.Resource.Styleable.RecyclerView_fastScrollVerticalTrackDrawable;
+			global::Lottie.Forms.Resource.Styleable.RecyclerView_layoutManager = global::WordQuiz.Droid.Resource.Styleable.RecyclerView_layoutManager;
+			global::Lottie.Forms.Resource.Styleable.RecyclerView_reverseLayout = global::WordQuiz.Droid.Resource.Styleable.RecyclerView_reverseLayout;
+			global::Lottie.Forms.Resource.Styleable.RecyclerView_spanCount = global::WordQuiz.Droid.Resource.Styleable.RecyclerView_spanCount;
+			global::Lottie.Forms.Resource.Styleable.RecyclerView_stackFromEnd = global::WordQuiz.Droid.Resource.Styleable.RecyclerView_stackFromEnd;
+			global::Lottie.Forms.Resource.Styleable.ScrimInsetsFrameLayout = global::WordQuiz.Droid.Resource.Styleable.ScrimInsetsFrameLayout;
+			global::Lottie.Forms.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground = global::WordQuiz.Droid.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground;
+			global::Lottie.Forms.Resource.Styleable.ScrollingViewBehavior_Layout = global::WordQuiz.Droid.Resource.Styleable.ScrollingViewBehavior_Layout;
+			global::Lottie.Forms.Resource.Styleable.ScrollingViewBehavior_Layout_behavior_overlapTop = global::WordQuiz.Droid.Resource.Styleable.ScrollingViewBehavior_Layout_behavior_overlapTop;
+			global::Lottie.Forms.Resource.Styleable.SearchView = global::WordQuiz.Droid.Resource.Styleable.SearchView;
+			global::Lottie.Forms.Resource.Styleable.SearchView_android_focusable = global::WordQuiz.Droid.Resource.Styleable.SearchView_android_focusable;
+			global::Lottie.Forms.Resource.Styleable.SearchView_android_imeOptions = global::WordQuiz.Droid.Resource.Styleable.SearchView_android_imeOptions;
+			global::Lottie.Forms.Resource.Styleable.SearchView_android_inputType = global::WordQuiz.Droid.Resource.Styleable.SearchView_android_inputType;
+			global::Lottie.Forms.Resource.Styleable.SearchView_android_maxWidth = global::WordQuiz.Droid.Resource.Styleable.SearchView_android_maxWidth;
+			global::Lottie.Forms.Resource.Styleable.SearchView_closeIcon = global::WordQuiz.Droid.Resource.Styleable.SearchView_closeIcon;
+			global::Lottie.Forms.Resource.Styleable.SearchView_commitIcon = global::WordQuiz.Droid.Resource.Styleable.SearchView_commitIcon;
+			global::Lottie.Forms.Resource.Styleable.SearchView_defaultQueryHint = global::WordQuiz.Droid.Resource.Styleable.SearchView_defaultQueryHint;
+			global::Lottie.Forms.Resource.Styleable.SearchView_goIcon = global::WordQuiz.Droid.Resource.Styleable.SearchView_goIcon;
+			global::Lottie.Forms.Resource.Styleable.SearchView_iconifiedByDefault = global::WordQuiz.Droid.Resource.Styleable.SearchView_iconifiedByDefault;
+			global::Lottie.Forms.Resource.Styleable.SearchView_layout = global::WordQuiz.Droid.Resource.Styleable.SearchView_layout;
+			global::Lottie.Forms.Resource.Styleable.SearchView_queryBackground = global::WordQuiz.Droid.Resource.Styleable.SearchView_queryBackground;
+			global::Lottie.Forms.Resource.Styleable.SearchView_queryHint = global::WordQuiz.Droid.Resource.Styleable.SearchView_queryHint;
+			global::Lottie.Forms.Resource.Styleable.SearchView_searchHintIcon = global::WordQuiz.Droid.Resource.Styleable.SearchView_searchHintIcon;
+			global::Lottie.Forms.Resource.Styleable.SearchView_searchIcon = global::WordQuiz.Droid.Resource.Styleable.SearchView_searchIcon;
+			global::Lottie.Forms.Resource.Styleable.SearchView_submitBackground = global::WordQuiz.Droid.Resource.Styleable.SearchView_submitBackground;
+			global::Lottie.Forms.Resource.Styleable.SearchView_suggestionRowLayout = global::WordQuiz.Droid.Resource.Styleable.SearchView_suggestionRowLayout;
+			global::Lottie.Forms.Resource.Styleable.SearchView_voiceIcon = global::WordQuiz.Droid.Resource.Styleable.SearchView_voiceIcon;
+			global::Lottie.Forms.Resource.Styleable.Snackbar = global::WordQuiz.Droid.Resource.Styleable.Snackbar;
+			global::Lottie.Forms.Resource.Styleable.SnackbarLayout = global::WordQuiz.Droid.Resource.Styleable.SnackbarLayout;
+			global::Lottie.Forms.Resource.Styleable.SnackbarLayout_android_maxWidth = global::WordQuiz.Droid.Resource.Styleable.SnackbarLayout_android_maxWidth;
+			global::Lottie.Forms.Resource.Styleable.SnackbarLayout_elevation = global::WordQuiz.Droid.Resource.Styleable.SnackbarLayout_elevation;
+			global::Lottie.Forms.Resource.Styleable.SnackbarLayout_maxActionInlineWidth = global::WordQuiz.Droid.Resource.Styleable.SnackbarLayout_maxActionInlineWidth;
+			global::Lottie.Forms.Resource.Styleable.Snackbar_snackbarButtonStyle = global::WordQuiz.Droid.Resource.Styleable.Snackbar_snackbarButtonStyle;
+			global::Lottie.Forms.Resource.Styleable.Snackbar_snackbarStyle = global::WordQuiz.Droid.Resource.Styleable.Snackbar_snackbarStyle;
+			global::Lottie.Forms.Resource.Styleable.Spinner = global::WordQuiz.Droid.Resource.Styleable.Spinner;
+			global::Lottie.Forms.Resource.Styleable.Spinner_android_dropDownWidth = global::WordQuiz.Droid.Resource.Styleable.Spinner_android_dropDownWidth;
+			global::Lottie.Forms.Resource.Styleable.Spinner_android_entries = global::WordQuiz.Droid.Resource.Styleable.Spinner_android_entries;
+			global::Lottie.Forms.Resource.Styleable.Spinner_android_popupBackground = global::WordQuiz.Droid.Resource.Styleable.Spinner_android_popupBackground;
+			global::Lottie.Forms.Resource.Styleable.Spinner_android_prompt = global::WordQuiz.Droid.Resource.Styleable.Spinner_android_prompt;
+			global::Lottie.Forms.Resource.Styleable.Spinner_popupTheme = global::WordQuiz.Droid.Resource.Styleable.Spinner_popupTheme;
+			global::Lottie.Forms.Resource.Styleable.StateListDrawable = global::WordQuiz.Droid.Resource.Styleable.StateListDrawable;
+			global::Lottie.Forms.Resource.Styleable.StateListDrawableItem = global::WordQuiz.Droid.Resource.Styleable.StateListDrawableItem;
+			global::Lottie.Forms.Resource.Styleable.StateListDrawableItem_android_drawable = global::WordQuiz.Droid.Resource.Styleable.StateListDrawableItem_android_drawable;
+			global::Lottie.Forms.Resource.Styleable.StateListDrawable_android_constantSize = global::WordQuiz.Droid.Resource.Styleable.StateListDrawable_android_constantSize;
+			global::Lottie.Forms.Resource.Styleable.StateListDrawable_android_dither = global::WordQuiz.Droid.Resource.Styleable.StateListDrawable_android_dither;
+			global::Lottie.Forms.Resource.Styleable.StateListDrawable_android_enterFadeDuration = global::WordQuiz.Droid.Resource.Styleable.StateListDrawable_android_enterFadeDuration;
+			global::Lottie.Forms.Resource.Styleable.StateListDrawable_android_exitFadeDuration = global::WordQuiz.Droid.Resource.Styleable.StateListDrawable_android_exitFadeDuration;
+			global::Lottie.Forms.Resource.Styleable.StateListDrawable_android_variablePadding = global::WordQuiz.Droid.Resource.Styleable.StateListDrawable_android_variablePadding;
+			global::Lottie.Forms.Resource.Styleable.StateListDrawable_android_visible = global::WordQuiz.Droid.Resource.Styleable.StateListDrawable_android_visible;
+			global::Lottie.Forms.Resource.Styleable.SwitchCompat = global::WordQuiz.Droid.Resource.Styleable.SwitchCompat;
+			global::Lottie.Forms.Resource.Styleable.SwitchCompat_android_textOff = global::WordQuiz.Droid.Resource.Styleable.SwitchCompat_android_textOff;
+			global::Lottie.Forms.Resource.Styleable.SwitchCompat_android_textOn = global::WordQuiz.Droid.Resource.Styleable.SwitchCompat_android_textOn;
+			global::Lottie.Forms.Resource.Styleable.SwitchCompat_android_thumb = global::WordQuiz.Droid.Resource.Styleable.SwitchCompat_android_thumb;
+			global::Lottie.Forms.Resource.Styleable.SwitchCompat_showText = global::WordQuiz.Droid.Resource.Styleable.SwitchCompat_showText;
+			global::Lottie.Forms.Resource.Styleable.SwitchCompat_splitTrack = global::WordQuiz.Droid.Resource.Styleable.SwitchCompat_splitTrack;
+			global::Lottie.Forms.Resource.Styleable.SwitchCompat_switchMinWidth = global::WordQuiz.Droid.Resource.Styleable.SwitchCompat_switchMinWidth;
+			global::Lottie.Forms.Resource.Styleable.SwitchCompat_switchPadding = global::WordQuiz.Droid.Resource.Styleable.SwitchCompat_switchPadding;
+			global::Lottie.Forms.Resource.Styleable.SwitchCompat_switchTextAppearance = global::WordQuiz.Droid.Resource.Styleable.SwitchCompat_switchTextAppearance;
+			global::Lottie.Forms.Resource.Styleable.SwitchCompat_thumbTextPadding = global::WordQuiz.Droid.Resource.Styleable.SwitchCompat_thumbTextPadding;
+			global::Lottie.Forms.Resource.Styleable.SwitchCompat_thumbTint = global::WordQuiz.Droid.Resource.Styleable.SwitchCompat_thumbTint;
+			global::Lottie.Forms.Resource.Styleable.SwitchCompat_thumbTintMode = global::WordQuiz.Droid.Resource.Styleable.SwitchCompat_thumbTintMode;
+			global::Lottie.Forms.Resource.Styleable.SwitchCompat_track = global::WordQuiz.Droid.Resource.Styleable.SwitchCompat_track;
+			global::Lottie.Forms.Resource.Styleable.SwitchCompat_trackTint = global::WordQuiz.Droid.Resource.Styleable.SwitchCompat_trackTint;
+			global::Lottie.Forms.Resource.Styleable.SwitchCompat_trackTintMode = global::WordQuiz.Droid.Resource.Styleable.SwitchCompat_trackTintMode;
+			global::Lottie.Forms.Resource.Styleable.TabItem = global::WordQuiz.Droid.Resource.Styleable.TabItem;
+			global::Lottie.Forms.Resource.Styleable.TabItem_android_icon = global::WordQuiz.Droid.Resource.Styleable.TabItem_android_icon;
+			global::Lottie.Forms.Resource.Styleable.TabItem_android_layout = global::WordQuiz.Droid.Resource.Styleable.TabItem_android_layout;
+			global::Lottie.Forms.Resource.Styleable.TabItem_android_text = global::WordQuiz.Droid.Resource.Styleable.TabItem_android_text;
+			global::Lottie.Forms.Resource.Styleable.TabLayout = global::WordQuiz.Droid.Resource.Styleable.TabLayout;
+			global::Lottie.Forms.Resource.Styleable.TabLayout_tabBackground = global::WordQuiz.Droid.Resource.Styleable.TabLayout_tabBackground;
+			global::Lottie.Forms.Resource.Styleable.TabLayout_tabContentStart = global::WordQuiz.Droid.Resource.Styleable.TabLayout_tabContentStart;
+			global::Lottie.Forms.Resource.Styleable.TabLayout_tabGravity = global::WordQuiz.Droid.Resource.Styleable.TabLayout_tabGravity;
+			global::Lottie.Forms.Resource.Styleable.TabLayout_tabIconTint = global::WordQuiz.Droid.Resource.Styleable.TabLayout_tabIconTint;
+			global::Lottie.Forms.Resource.Styleable.TabLayout_tabIconTintMode = global::WordQuiz.Droid.Resource.Styleable.TabLayout_tabIconTintMode;
+			global::Lottie.Forms.Resource.Styleable.TabLayout_tabIndicator = global::WordQuiz.Droid.Resource.Styleable.TabLayout_tabIndicator;
+			global::Lottie.Forms.Resource.Styleable.TabLayout_tabIndicatorAnimationDuration = global::WordQuiz.Droid.Resource.Styleable.TabLayout_tabIndicatorAnimationDuration;
+			global::Lottie.Forms.Resource.Styleable.TabLayout_tabIndicatorColor = global::WordQuiz.Droid.Resource.Styleable.TabLayout_tabIndicatorColor;
+			global::Lottie.Forms.Resource.Styleable.TabLayout_tabIndicatorFullWidth = global::WordQuiz.Droid.Resource.Styleable.TabLayout_tabIndicatorFullWidth;
+			global::Lottie.Forms.Resource.Styleable.TabLayout_tabIndicatorGravity = global::WordQuiz.Droid.Resource.Styleable.TabLayout_tabIndicatorGravity;
+			global::Lottie.Forms.Resource.Styleable.TabLayout_tabIndicatorHeight = global::WordQuiz.Droid.Resource.Styleable.TabLayout_tabIndicatorHeight;
+			global::Lottie.Forms.Resource.Styleable.TabLayout_tabInlineLabel = global::WordQuiz.Droid.Resource.Styleable.TabLayout_tabInlineLabel;
+			global::Lottie.Forms.Resource.Styleable.TabLayout_tabMaxWidth = global::WordQuiz.Droid.Resource.Styleable.TabLayout_tabMaxWidth;
+			global::Lottie.Forms.Resource.Styleable.TabLayout_tabMinWidth = global::WordQuiz.Droid.Resource.Styleable.TabLayout_tabMinWidth;
+			global::Lottie.Forms.Resource.Styleable.TabLayout_tabMode = global::WordQuiz.Droid.Resource.Styleable.TabLayout_tabMode;
+			global::Lottie.Forms.Resource.Styleable.TabLayout_tabPadding = global::WordQuiz.Droid.Resource.Styleable.TabLayout_tabPadding;
+			global::Lottie.Forms.Resource.Styleable.TabLayout_tabPaddingBottom = global::WordQuiz.Droid.Resource.Styleable.TabLayout_tabPaddingBottom;
+			global::Lottie.Forms.Resource.Styleable.TabLayout_tabPaddingEnd = global::WordQuiz.Droid.Resource.Styleable.TabLayout_tabPaddingEnd;
+			global::Lottie.Forms.Resource.Styleable.TabLayout_tabPaddingStart = global::WordQuiz.Droid.Resource.Styleable.TabLayout_tabPaddingStart;
+			global::Lottie.Forms.Resource.Styleable.TabLayout_tabPaddingTop = global::WordQuiz.Droid.Resource.Styleable.TabLayout_tabPaddingTop;
+			global::Lottie.Forms.Resource.Styleable.TabLayout_tabRippleColor = global::WordQuiz.Droid.Resource.Styleable.TabLayout_tabRippleColor;
+			global::Lottie.Forms.Resource.Styleable.TabLayout_tabSelectedTextColor = global::WordQuiz.Droid.Resource.Styleable.TabLayout_tabSelectedTextColor;
+			global::Lottie.Forms.Resource.Styleable.TabLayout_tabTextAppearance = global::WordQuiz.Droid.Resource.Styleable.TabLayout_tabTextAppearance;
+			global::Lottie.Forms.Resource.Styleable.TabLayout_tabTextColor = global::WordQuiz.Droid.Resource.Styleable.TabLayout_tabTextColor;
+			global::Lottie.Forms.Resource.Styleable.TabLayout_tabUnboundedRipple = global::WordQuiz.Droid.Resource.Styleable.TabLayout_tabUnboundedRipple;
+			global::Lottie.Forms.Resource.Styleable.TextAppearance = global::WordQuiz.Droid.Resource.Styleable.TextAppearance;
+			global::Lottie.Forms.Resource.Styleable.TextAppearance_android_fontFamily = global::WordQuiz.Droid.Resource.Styleable.TextAppearance_android_fontFamily;
+			global::Lottie.Forms.Resource.Styleable.TextAppearance_android_shadowColor = global::WordQuiz.Droid.Resource.Styleable.TextAppearance_android_shadowColor;
+			global::Lottie.Forms.Resource.Styleable.TextAppearance_android_shadowDx = global::WordQuiz.Droid.Resource.Styleable.TextAppearance_android_shadowDx;
+			global::Lottie.Forms.Resource.Styleable.TextAppearance_android_shadowDy = global::WordQuiz.Droid.Resource.Styleable.TextAppearance_android_shadowDy;
+			global::Lottie.Forms.Resource.Styleable.TextAppearance_android_shadowRadius = global::WordQuiz.Droid.Resource.Styleable.TextAppearance_android_shadowRadius;
+			global::Lottie.Forms.Resource.Styleable.TextAppearance_android_textColor = global::WordQuiz.Droid.Resource.Styleable.TextAppearance_android_textColor;
+			global::Lottie.Forms.Resource.Styleable.TextAppearance_android_textColorHint = global::WordQuiz.Droid.Resource.Styleable.TextAppearance_android_textColorHint;
+			global::Lottie.Forms.Resource.Styleable.TextAppearance_android_textColorLink = global::WordQuiz.Droid.Resource.Styleable.TextAppearance_android_textColorLink;
+			global::Lottie.Forms.Resource.Styleable.TextAppearance_android_textFontWeight = global::WordQuiz.Droid.Resource.Styleable.TextAppearance_android_textFontWeight;
+			global::Lottie.Forms.Resource.Styleable.TextAppearance_android_textSize = global::WordQuiz.Droid.Resource.Styleable.TextAppearance_android_textSize;
+			global::Lottie.Forms.Resource.Styleable.TextAppearance_android_textStyle = global::WordQuiz.Droid.Resource.Styleable.TextAppearance_android_textStyle;
+			global::Lottie.Forms.Resource.Styleable.TextAppearance_android_typeface = global::WordQuiz.Droid.Resource.Styleable.TextAppearance_android_typeface;
+			global::Lottie.Forms.Resource.Styleable.TextAppearance_fontFamily = global::WordQuiz.Droid.Resource.Styleable.TextAppearance_fontFamily;
+			global::Lottie.Forms.Resource.Styleable.TextAppearance_fontVariationSettings = global::WordQuiz.Droid.Resource.Styleable.TextAppearance_fontVariationSettings;
+			global::Lottie.Forms.Resource.Styleable.TextAppearance_textAllCaps = global::WordQuiz.Droid.Resource.Styleable.TextAppearance_textAllCaps;
+			global::Lottie.Forms.Resource.Styleable.TextAppearance_textLocale = global::WordQuiz.Droid.Resource.Styleable.TextAppearance_textLocale;
+			global::Lottie.Forms.Resource.Styleable.TextInputLayout = global::WordQuiz.Droid.Resource.Styleable.TextInputLayout;
+			global::Lottie.Forms.Resource.Styleable.TextInputLayout_android_hint = global::WordQuiz.Droid.Resource.Styleable.TextInputLayout_android_hint;
+			global::Lottie.Forms.Resource.Styleable.TextInputLayout_android_textColorHint = global::WordQuiz.Droid.Resource.Styleable.TextInputLayout_android_textColorHint;
+			global::Lottie.Forms.Resource.Styleable.TextInputLayout_boxBackgroundColor = global::WordQuiz.Droid.Resource.Styleable.TextInputLayout_boxBackgroundColor;
+			global::Lottie.Forms.Resource.Styleable.TextInputLayout_boxBackgroundMode = global::WordQuiz.Droid.Resource.Styleable.TextInputLayout_boxBackgroundMode;
+			global::Lottie.Forms.Resource.Styleable.TextInputLayout_boxCollapsedPaddingTop = global::WordQuiz.Droid.Resource.Styleable.TextInputLayout_boxCollapsedPaddingTop;
+			global::Lottie.Forms.Resource.Styleable.TextInputLayout_boxCornerRadiusBottomEnd = global::WordQuiz.Droid.Resource.Styleable.TextInputLayout_boxCornerRadiusBottomEnd;
+			global::Lottie.Forms.Resource.Styleable.TextInputLayout_boxCornerRadiusBottomStart = global::WordQuiz.Droid.Resource.Styleable.TextInputLayout_boxCornerRadiusBottomStart;
+			global::Lottie.Forms.Resource.Styleable.TextInputLayout_boxCornerRadiusTopEnd = global::WordQuiz.Droid.Resource.Styleable.TextInputLayout_boxCornerRadiusTopEnd;
+			global::Lottie.Forms.Resource.Styleable.TextInputLayout_boxCornerRadiusTopStart = global::WordQuiz.Droid.Resource.Styleable.TextInputLayout_boxCornerRadiusTopStart;
+			global::Lottie.Forms.Resource.Styleable.TextInputLayout_boxStrokeColor = global::WordQuiz.Droid.Resource.Styleable.TextInputLayout_boxStrokeColor;
+			global::Lottie.Forms.Resource.Styleable.TextInputLayout_boxStrokeWidth = global::WordQuiz.Droid.Resource.Styleable.TextInputLayout_boxStrokeWidth;
+			global::Lottie.Forms.Resource.Styleable.TextInputLayout_counterEnabled = global::WordQuiz.Droid.Resource.Styleable.TextInputLayout_counterEnabled;
+			global::Lottie.Forms.Resource.Styleable.TextInputLayout_counterMaxLength = global::WordQuiz.Droid.Resource.Styleable.TextInputLayout_counterMaxLength;
+			global::Lottie.Forms.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance = global::WordQuiz.Droid.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance;
+			global::Lottie.Forms.Resource.Styleable.TextInputLayout_counterTextAppearance = global::WordQuiz.Droid.Resource.Styleable.TextInputLayout_counterTextAppearance;
+			global::Lottie.Forms.Resource.Styleable.TextInputLayout_errorEnabled = global::WordQuiz.Droid.Resource.Styleable.TextInputLayout_errorEnabled;
+			global::Lottie.Forms.Resource.Styleable.TextInputLayout_errorTextAppearance = global::WordQuiz.Droid.Resource.Styleable.TextInputLayout_errorTextAppearance;
+			global::Lottie.Forms.Resource.Styleable.TextInputLayout_helperText = global::WordQuiz.Droid.Resource.Styleable.TextInputLayout_helperText;
+			global::Lottie.Forms.Resource.Styleable.TextInputLayout_helperTextEnabled = global::WordQuiz.Droid.Resource.Styleable.TextInputLayout_helperTextEnabled;
+			global::Lottie.Forms.Resource.Styleable.TextInputLayout_helperTextTextAppearance = global::WordQuiz.Droid.Resource.Styleable.TextInputLayout_helperTextTextAppearance;
+			global::Lottie.Forms.Resource.Styleable.TextInputLayout_hintAnimationEnabled = global::WordQuiz.Droid.Resource.Styleable.TextInputLayout_hintAnimationEnabled;
+			global::Lottie.Forms.Resource.Styleable.TextInputLayout_hintEnabled = global::WordQuiz.Droid.Resource.Styleable.TextInputLayout_hintEnabled;
+			global::Lottie.Forms.Resource.Styleable.TextInputLayout_hintTextAppearance = global::WordQuiz.Droid.Resource.Styleable.TextInputLayout_hintTextAppearance;
+			global::Lottie.Forms.Resource.Styleable.TextInputLayout_passwordToggleContentDescription = global::WordQuiz.Droid.Resource.Styleable.TextInputLayout_passwordToggleContentDescription;
+			global::Lottie.Forms.Resource.Styleable.TextInputLayout_passwordToggleDrawable = global::WordQuiz.Droid.Resource.Styleable.TextInputLayout_passwordToggleDrawable;
+			global::Lottie.Forms.Resource.Styleable.TextInputLayout_passwordToggleEnabled = global::WordQuiz.Droid.Resource.Styleable.TextInputLayout_passwordToggleEnabled;
+			global::Lottie.Forms.Resource.Styleable.TextInputLayout_passwordToggleTint = global::WordQuiz.Droid.Resource.Styleable.TextInputLayout_passwordToggleTint;
+			global::Lottie.Forms.Resource.Styleable.TextInputLayout_passwordToggleTintMode = global::WordQuiz.Droid.Resource.Styleable.TextInputLayout_passwordToggleTintMode;
+			global::Lottie.Forms.Resource.Styleable.ThemeEnforcement = global::WordQuiz.Droid.Resource.Styleable.ThemeEnforcement;
+			global::Lottie.Forms.Resource.Styleable.ThemeEnforcement_android_textAppearance = global::WordQuiz.Droid.Resource.Styleable.ThemeEnforcement_android_textAppearance;
+			global::Lottie.Forms.Resource.Styleable.ThemeEnforcement_enforceMaterialTheme = global::WordQuiz.Droid.Resource.Styleable.ThemeEnforcement_enforceMaterialTheme;
+			global::Lottie.Forms.Resource.Styleable.ThemeEnforcement_enforceTextAppearance = global::WordQuiz.Droid.Resource.Styleable.ThemeEnforcement_enforceTextAppearance;
+			global::Lottie.Forms.Resource.Styleable.Toolbar = global::WordQuiz.Droid.Resource.Styleable.Toolbar;
+			global::Lottie.Forms.Resource.Styleable.Toolbar_android_gravity = global::WordQuiz.Droid.Resource.Styleable.Toolbar_android_gravity;
+			global::Lottie.Forms.Resource.Styleable.Toolbar_android_minHeight = global::WordQuiz.Droid.Resource.Styleable.Toolbar_android_minHeight;
+			global::Lottie.Forms.Resource.Styleable.Toolbar_buttonGravity = global::WordQuiz.Droid.Resource.Styleable.Toolbar_buttonGravity;
+			global::Lottie.Forms.Resource.Styleable.Toolbar_collapseContentDescription = global::WordQuiz.Droid.Resource.Styleable.Toolbar_collapseContentDescription;
+			global::Lottie.Forms.Resource.Styleable.Toolbar_collapseIcon = global::WordQuiz.Droid.Resource.Styleable.Toolbar_collapseIcon;
+			global::Lottie.Forms.Resource.Styleable.Toolbar_contentInsetEnd = global::WordQuiz.Droid.Resource.Styleable.Toolbar_contentInsetEnd;
+			global::Lottie.Forms.Resource.Styleable.Toolbar_contentInsetEndWithActions = global::WordQuiz.Droid.Resource.Styleable.Toolbar_contentInsetEndWithActions;
+			global::Lottie.Forms.Resource.Styleable.Toolbar_contentInsetLeft = global::WordQuiz.Droid.Resource.Styleable.Toolbar_contentInsetLeft;
+			global::Lottie.Forms.Resource.Styleable.Toolbar_contentInsetRight = global::WordQuiz.Droid.Resource.Styleable.Toolbar_contentInsetRight;
+			global::Lottie.Forms.Resource.Styleable.Toolbar_contentInsetStart = global::WordQuiz.Droid.Resource.Styleable.Toolbar_contentInsetStart;
+			global::Lottie.Forms.Resource.Styleable.Toolbar_contentInsetStartWithNavigation = global::WordQuiz.Droid.Resource.Styleable.Toolbar_contentInsetStartWithNavigation;
+			global::Lottie.Forms.Resource.Styleable.Toolbar_logo = global::WordQuiz.Droid.Resource.Styleable.Toolbar_logo;
+			global::Lottie.Forms.Resource.Styleable.Toolbar_logoDescription = global::WordQuiz.Droid.Resource.Styleable.Toolbar_logoDescription;
+			global::Lottie.Forms.Resource.Styleable.Toolbar_maxButtonHeight = global::WordQuiz.Droid.Resource.Styleable.Toolbar_maxButtonHeight;
+			global::Lottie.Forms.Resource.Styleable.Toolbar_menu = global::WordQuiz.Droid.Resource.Styleable.Toolbar_menu;
+			global::Lottie.Forms.Resource.Styleable.Toolbar_navigationContentDescription = global::WordQuiz.Droid.Resource.Styleable.Toolbar_navigationContentDescription;
+			global::Lottie.Forms.Resource.Styleable.Toolbar_navigationIcon = global::WordQuiz.Droid.Resource.Styleable.Toolbar_navigationIcon;
+			global::Lottie.Forms.Resource.Styleable.Toolbar_popupTheme = global::WordQuiz.Droid.Resource.Styleable.Toolbar_popupTheme;
+			global::Lottie.Forms.Resource.Styleable.Toolbar_subtitle = global::WordQuiz.Droid.Resource.Styleable.Toolbar_subtitle;
+			global::Lottie.Forms.Resource.Styleable.Toolbar_subtitleTextAppearance = global::WordQuiz.Droid.Resource.Styleable.Toolbar_subtitleTextAppearance;
+			global::Lottie.Forms.Resource.Styleable.Toolbar_subtitleTextColor = global::WordQuiz.Droid.Resource.Styleable.Toolbar_subtitleTextColor;
+			global::Lottie.Forms.Resource.Styleable.Toolbar_title = global::WordQuiz.Droid.Resource.Styleable.Toolbar_title;
+			global::Lottie.Forms.Resource.Styleable.Toolbar_titleMargin = global::WordQuiz.Droid.Resource.Styleable.Toolbar_titleMargin;
+			global::Lottie.Forms.Resource.Styleable.Toolbar_titleMarginBottom = global::WordQuiz.Droid.Resource.Styleable.Toolbar_titleMarginBottom;
+			global::Lottie.Forms.Resource.Styleable.Toolbar_titleMarginEnd = global::WordQuiz.Droid.Resource.Styleable.Toolbar_titleMarginEnd;
+			global::Lottie.Forms.Resource.Styleable.Toolbar_titleMargins = global::WordQuiz.Droid.Resource.Styleable.Toolbar_titleMargins;
+			global::Lottie.Forms.Resource.Styleable.Toolbar_titleMarginStart = global::WordQuiz.Droid.Resource.Styleable.Toolbar_titleMarginStart;
+			global::Lottie.Forms.Resource.Styleable.Toolbar_titleMarginTop = global::WordQuiz.Droid.Resource.Styleable.Toolbar_titleMarginTop;
+			global::Lottie.Forms.Resource.Styleable.Toolbar_titleTextAppearance = global::WordQuiz.Droid.Resource.Styleable.Toolbar_titleTextAppearance;
+			global::Lottie.Forms.Resource.Styleable.Toolbar_titleTextColor = global::WordQuiz.Droid.Resource.Styleable.Toolbar_titleTextColor;
+			global::Lottie.Forms.Resource.Styleable.View = global::WordQuiz.Droid.Resource.Styleable.View;
+			global::Lottie.Forms.Resource.Styleable.ViewBackgroundHelper = global::WordQuiz.Droid.Resource.Styleable.ViewBackgroundHelper;
+			global::Lottie.Forms.Resource.Styleable.ViewBackgroundHelper_android_background = global::WordQuiz.Droid.Resource.Styleable.ViewBackgroundHelper_android_background;
+			global::Lottie.Forms.Resource.Styleable.ViewBackgroundHelper_backgroundTint = global::WordQuiz.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTint;
+			global::Lottie.Forms.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode = global::WordQuiz.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode;
+			global::Lottie.Forms.Resource.Styleable.ViewStubCompat = global::WordQuiz.Droid.Resource.Styleable.ViewStubCompat;
+			global::Lottie.Forms.Resource.Styleable.ViewStubCompat_android_id = global::WordQuiz.Droid.Resource.Styleable.ViewStubCompat_android_id;
+			global::Lottie.Forms.Resource.Styleable.ViewStubCompat_android_inflatedId = global::WordQuiz.Droid.Resource.Styleable.ViewStubCompat_android_inflatedId;
+			global::Lottie.Forms.Resource.Styleable.ViewStubCompat_android_layout = global::WordQuiz.Droid.Resource.Styleable.ViewStubCompat_android_layout;
+			global::Lottie.Forms.Resource.Styleable.View_android_focusable = global::WordQuiz.Droid.Resource.Styleable.View_android_focusable;
+			global::Lottie.Forms.Resource.Styleable.View_android_theme = global::WordQuiz.Droid.Resource.Styleable.View_android_theme;
+			global::Lottie.Forms.Resource.Styleable.View_paddingEnd = global::WordQuiz.Droid.Resource.Styleable.View_paddingEnd;
+			global::Lottie.Forms.Resource.Styleable.View_paddingStart = global::WordQuiz.Droid.Resource.Styleable.View_paddingStart;
+			global::Lottie.Forms.Resource.Styleable.View_theme = global::WordQuiz.Droid.Resource.Styleable.View_theme;
 			global::MediaManager.Resource.Attribute.ad_marker_color = global::WordQuiz.Droid.Resource.Attribute.ad_marker_color;
 			global::MediaManager.Resource.Attribute.ad_marker_width = global::WordQuiz.Droid.Resource.Attribute.ad_marker_width;
 			global::MediaManager.Resource.Attribute.alpha = global::WordQuiz.Droid.Resource.Attribute.alpha;
@@ -3398,6 +6122,2690 @@ namespace WordQuiz.Droid
 			global::MediaManager.Forms.Resource.Styleable.View_paddingEnd = global::WordQuiz.Droid.Resource.Styleable.View_paddingEnd;
 			global::MediaManager.Forms.Resource.Styleable.View_paddingStart = global::WordQuiz.Droid.Resource.Styleable.View_paddingStart;
 			global::MediaManager.Forms.Resource.Styleable.View_theme = global::WordQuiz.Droid.Resource.Styleable.View_theme;
+			global::Rg.Plugins.Popup.Resource.Animation.abc_fade_in = global::WordQuiz.Droid.Resource.Animation.abc_fade_in;
+			global::Rg.Plugins.Popup.Resource.Animation.abc_fade_out = global::WordQuiz.Droid.Resource.Animation.abc_fade_out;
+			global::Rg.Plugins.Popup.Resource.Animation.abc_grow_fade_in_from_bottom = global::WordQuiz.Droid.Resource.Animation.abc_grow_fade_in_from_bottom;
+			global::Rg.Plugins.Popup.Resource.Animation.abc_popup_enter = global::WordQuiz.Droid.Resource.Animation.abc_popup_enter;
+			global::Rg.Plugins.Popup.Resource.Animation.abc_popup_exit = global::WordQuiz.Droid.Resource.Animation.abc_popup_exit;
+			global::Rg.Plugins.Popup.Resource.Animation.abc_shrink_fade_out_from_bottom = global::WordQuiz.Droid.Resource.Animation.abc_shrink_fade_out_from_bottom;
+			global::Rg.Plugins.Popup.Resource.Animation.abc_slide_in_bottom = global::WordQuiz.Droid.Resource.Animation.abc_slide_in_bottom;
+			global::Rg.Plugins.Popup.Resource.Animation.abc_slide_in_top = global::WordQuiz.Droid.Resource.Animation.abc_slide_in_top;
+			global::Rg.Plugins.Popup.Resource.Animation.abc_slide_out_bottom = global::WordQuiz.Droid.Resource.Animation.abc_slide_out_bottom;
+			global::Rg.Plugins.Popup.Resource.Animation.abc_slide_out_top = global::WordQuiz.Droid.Resource.Animation.abc_slide_out_top;
+			global::Rg.Plugins.Popup.Resource.Animation.abc_tooltip_enter = global::WordQuiz.Droid.Resource.Animation.abc_tooltip_enter;
+			global::Rg.Plugins.Popup.Resource.Animation.abc_tooltip_exit = global::WordQuiz.Droid.Resource.Animation.abc_tooltip_exit;
+			global::Rg.Plugins.Popup.Resource.Animation.btn_checkbox_to_checked_box_inner_merged_animation = global::WordQuiz.Droid.Resource.Animation.btn_checkbox_to_checked_box_inner_merged_animation;
+			global::Rg.Plugins.Popup.Resource.Animation.btn_checkbox_to_checked_box_outer_merged_animation = global::WordQuiz.Droid.Resource.Animation.btn_checkbox_to_checked_box_outer_merged_animation;
+			global::Rg.Plugins.Popup.Resource.Animation.btn_checkbox_to_checked_icon_null_animation = global::WordQuiz.Droid.Resource.Animation.btn_checkbox_to_checked_icon_null_animation;
+			global::Rg.Plugins.Popup.Resource.Animation.btn_checkbox_to_unchecked_box_inner_merged_animation = global::WordQuiz.Droid.Resource.Animation.btn_checkbox_to_unchecked_box_inner_merged_animation;
+			global::Rg.Plugins.Popup.Resource.Animation.btn_checkbox_to_unchecked_check_path_merged_animation = global::WordQuiz.Droid.Resource.Animation.btn_checkbox_to_unchecked_check_path_merged_animation;
+			global::Rg.Plugins.Popup.Resource.Animation.btn_checkbox_to_unchecked_icon_null_animation = global::WordQuiz.Droid.Resource.Animation.btn_checkbox_to_unchecked_icon_null_animation;
+			global::Rg.Plugins.Popup.Resource.Animation.btn_radio_to_off_mtrl_dot_group_animation = global::WordQuiz.Droid.Resource.Animation.btn_radio_to_off_mtrl_dot_group_animation;
+			global::Rg.Plugins.Popup.Resource.Animation.btn_radio_to_off_mtrl_ring_outer_animation = global::WordQuiz.Droid.Resource.Animation.btn_radio_to_off_mtrl_ring_outer_animation;
+			global::Rg.Plugins.Popup.Resource.Animation.btn_radio_to_off_mtrl_ring_outer_path_animation = global::WordQuiz.Droid.Resource.Animation.btn_radio_to_off_mtrl_ring_outer_path_animation;
+			global::Rg.Plugins.Popup.Resource.Animation.btn_radio_to_on_mtrl_dot_group_animation = global::WordQuiz.Droid.Resource.Animation.btn_radio_to_on_mtrl_dot_group_animation;
+			global::Rg.Plugins.Popup.Resource.Animation.btn_radio_to_on_mtrl_ring_outer_animation = global::WordQuiz.Droid.Resource.Animation.btn_radio_to_on_mtrl_ring_outer_animation;
+			global::Rg.Plugins.Popup.Resource.Animation.btn_radio_to_on_mtrl_ring_outer_path_animation = global::WordQuiz.Droid.Resource.Animation.btn_radio_to_on_mtrl_ring_outer_path_animation;
+			global::Rg.Plugins.Popup.Resource.Animation.design_bottom_sheet_slide_in = global::WordQuiz.Droid.Resource.Animation.design_bottom_sheet_slide_in;
+			global::Rg.Plugins.Popup.Resource.Animation.design_bottom_sheet_slide_out = global::WordQuiz.Droid.Resource.Animation.design_bottom_sheet_slide_out;
+			global::Rg.Plugins.Popup.Resource.Animation.design_snackbar_in = global::WordQuiz.Droid.Resource.Animation.design_snackbar_in;
+			global::Rg.Plugins.Popup.Resource.Animation.design_snackbar_out = global::WordQuiz.Droid.Resource.Animation.design_snackbar_out;
+			global::Rg.Plugins.Popup.Resource.Animation.EnterFromLeft = global::WordQuiz.Droid.Resource.Animation.EnterFromLeft;
+			global::Rg.Plugins.Popup.Resource.Animation.EnterFromRight = global::WordQuiz.Droid.Resource.Animation.EnterFromRight;
+			global::Rg.Plugins.Popup.Resource.Animation.ExitToLeft = global::WordQuiz.Droid.Resource.Animation.ExitToLeft;
+			global::Rg.Plugins.Popup.Resource.Animation.ExitToRight = global::WordQuiz.Droid.Resource.Animation.ExitToRight;
+			global::Rg.Plugins.Popup.Resource.Animator.design_appbar_state_list_animator = global::WordQuiz.Droid.Resource.Animator.design_appbar_state_list_animator;
+			global::Rg.Plugins.Popup.Resource.Animator.design_fab_hide_motion_spec = global::WordQuiz.Droid.Resource.Animator.design_fab_hide_motion_spec;
+			global::Rg.Plugins.Popup.Resource.Animator.design_fab_show_motion_spec = global::WordQuiz.Droid.Resource.Animator.design_fab_show_motion_spec;
+			global::Rg.Plugins.Popup.Resource.Animator.mtrl_btn_state_list_anim = global::WordQuiz.Droid.Resource.Animator.mtrl_btn_state_list_anim;
+			global::Rg.Plugins.Popup.Resource.Animator.mtrl_btn_unelevated_state_list_anim = global::WordQuiz.Droid.Resource.Animator.mtrl_btn_unelevated_state_list_anim;
+			global::Rg.Plugins.Popup.Resource.Animator.mtrl_chip_state_list_anim = global::WordQuiz.Droid.Resource.Animator.mtrl_chip_state_list_anim;
+			global::Rg.Plugins.Popup.Resource.Animator.mtrl_fab_hide_motion_spec = global::WordQuiz.Droid.Resource.Animator.mtrl_fab_hide_motion_spec;
+			global::Rg.Plugins.Popup.Resource.Animator.mtrl_fab_show_motion_spec = global::WordQuiz.Droid.Resource.Animator.mtrl_fab_show_motion_spec;
+			global::Rg.Plugins.Popup.Resource.Animator.mtrl_fab_transformation_sheet_collapse_spec = global::WordQuiz.Droid.Resource.Animator.mtrl_fab_transformation_sheet_collapse_spec;
+			global::Rg.Plugins.Popup.Resource.Animator.mtrl_fab_transformation_sheet_expand_spec = global::WordQuiz.Droid.Resource.Animator.mtrl_fab_transformation_sheet_expand_spec;
+			global::Rg.Plugins.Popup.Resource.Attribute.actionBarDivider = global::WordQuiz.Droid.Resource.Attribute.actionBarDivider;
+			global::Rg.Plugins.Popup.Resource.Attribute.actionBarItemBackground = global::WordQuiz.Droid.Resource.Attribute.actionBarItemBackground;
+			global::Rg.Plugins.Popup.Resource.Attribute.actionBarPopupTheme = global::WordQuiz.Droid.Resource.Attribute.actionBarPopupTheme;
+			global::Rg.Plugins.Popup.Resource.Attribute.actionBarSize = global::WordQuiz.Droid.Resource.Attribute.actionBarSize;
+			global::Rg.Plugins.Popup.Resource.Attribute.actionBarSplitStyle = global::WordQuiz.Droid.Resource.Attribute.actionBarSplitStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.actionBarStyle = global::WordQuiz.Droid.Resource.Attribute.actionBarStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.actionBarTabBarStyle = global::WordQuiz.Droid.Resource.Attribute.actionBarTabBarStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.actionBarTabStyle = global::WordQuiz.Droid.Resource.Attribute.actionBarTabStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.actionBarTabTextStyle = global::WordQuiz.Droid.Resource.Attribute.actionBarTabTextStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.actionBarTheme = global::WordQuiz.Droid.Resource.Attribute.actionBarTheme;
+			global::Rg.Plugins.Popup.Resource.Attribute.actionBarWidgetTheme = global::WordQuiz.Droid.Resource.Attribute.actionBarWidgetTheme;
+			global::Rg.Plugins.Popup.Resource.Attribute.actionButtonStyle = global::WordQuiz.Droid.Resource.Attribute.actionButtonStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.actionDropDownStyle = global::WordQuiz.Droid.Resource.Attribute.actionDropDownStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.actionLayout = global::WordQuiz.Droid.Resource.Attribute.actionLayout;
+			global::Rg.Plugins.Popup.Resource.Attribute.actionMenuTextAppearance = global::WordQuiz.Droid.Resource.Attribute.actionMenuTextAppearance;
+			global::Rg.Plugins.Popup.Resource.Attribute.actionMenuTextColor = global::WordQuiz.Droid.Resource.Attribute.actionMenuTextColor;
+			global::Rg.Plugins.Popup.Resource.Attribute.actionModeBackground = global::WordQuiz.Droid.Resource.Attribute.actionModeBackground;
+			global::Rg.Plugins.Popup.Resource.Attribute.actionModeCloseButtonStyle = global::WordQuiz.Droid.Resource.Attribute.actionModeCloseButtonStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.actionModeCloseDrawable = global::WordQuiz.Droid.Resource.Attribute.actionModeCloseDrawable;
+			global::Rg.Plugins.Popup.Resource.Attribute.actionModeCopyDrawable = global::WordQuiz.Droid.Resource.Attribute.actionModeCopyDrawable;
+			global::Rg.Plugins.Popup.Resource.Attribute.actionModeCutDrawable = global::WordQuiz.Droid.Resource.Attribute.actionModeCutDrawable;
+			global::Rg.Plugins.Popup.Resource.Attribute.actionModeFindDrawable = global::WordQuiz.Droid.Resource.Attribute.actionModeFindDrawable;
+			global::Rg.Plugins.Popup.Resource.Attribute.actionModePasteDrawable = global::WordQuiz.Droid.Resource.Attribute.actionModePasteDrawable;
+			global::Rg.Plugins.Popup.Resource.Attribute.actionModePopupWindowStyle = global::WordQuiz.Droid.Resource.Attribute.actionModePopupWindowStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.actionModeSelectAllDrawable = global::WordQuiz.Droid.Resource.Attribute.actionModeSelectAllDrawable;
+			global::Rg.Plugins.Popup.Resource.Attribute.actionModeShareDrawable = global::WordQuiz.Droid.Resource.Attribute.actionModeShareDrawable;
+			global::Rg.Plugins.Popup.Resource.Attribute.actionModeSplitBackground = global::WordQuiz.Droid.Resource.Attribute.actionModeSplitBackground;
+			global::Rg.Plugins.Popup.Resource.Attribute.actionModeStyle = global::WordQuiz.Droid.Resource.Attribute.actionModeStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.actionModeWebSearchDrawable = global::WordQuiz.Droid.Resource.Attribute.actionModeWebSearchDrawable;
+			global::Rg.Plugins.Popup.Resource.Attribute.actionOverflowButtonStyle = global::WordQuiz.Droid.Resource.Attribute.actionOverflowButtonStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.actionOverflowMenuStyle = global::WordQuiz.Droid.Resource.Attribute.actionOverflowMenuStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.actionProviderClass = global::WordQuiz.Droid.Resource.Attribute.actionProviderClass;
+			global::Rg.Plugins.Popup.Resource.Attribute.actionViewClass = global::WordQuiz.Droid.Resource.Attribute.actionViewClass;
+			global::Rg.Plugins.Popup.Resource.Attribute.activityChooserViewStyle = global::WordQuiz.Droid.Resource.Attribute.activityChooserViewStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.alertDialogButtonGroupStyle = global::WordQuiz.Droid.Resource.Attribute.alertDialogButtonGroupStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.alertDialogCenterButtons = global::WordQuiz.Droid.Resource.Attribute.alertDialogCenterButtons;
+			global::Rg.Plugins.Popup.Resource.Attribute.alertDialogStyle = global::WordQuiz.Droid.Resource.Attribute.alertDialogStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.alertDialogTheme = global::WordQuiz.Droid.Resource.Attribute.alertDialogTheme;
+			global::Rg.Plugins.Popup.Resource.Attribute.allowStacking = global::WordQuiz.Droid.Resource.Attribute.allowStacking;
+			global::Rg.Plugins.Popup.Resource.Attribute.alpha = global::WordQuiz.Droid.Resource.Attribute.alpha;
+			global::Rg.Plugins.Popup.Resource.Attribute.alphabeticModifiers = global::WordQuiz.Droid.Resource.Attribute.alphabeticModifiers;
+			global::Rg.Plugins.Popup.Resource.Attribute.arrowHeadLength = global::WordQuiz.Droid.Resource.Attribute.arrowHeadLength;
+			global::Rg.Plugins.Popup.Resource.Attribute.arrowShaftLength = global::WordQuiz.Droid.Resource.Attribute.arrowShaftLength;
+			global::Rg.Plugins.Popup.Resource.Attribute.autoCompleteTextViewStyle = global::WordQuiz.Droid.Resource.Attribute.autoCompleteTextViewStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.autoSizeMaxTextSize = global::WordQuiz.Droid.Resource.Attribute.autoSizeMaxTextSize;
+			global::Rg.Plugins.Popup.Resource.Attribute.autoSizeMinTextSize = global::WordQuiz.Droid.Resource.Attribute.autoSizeMinTextSize;
+			global::Rg.Plugins.Popup.Resource.Attribute.autoSizePresetSizes = global::WordQuiz.Droid.Resource.Attribute.autoSizePresetSizes;
+			global::Rg.Plugins.Popup.Resource.Attribute.autoSizeStepGranularity = global::WordQuiz.Droid.Resource.Attribute.autoSizeStepGranularity;
+			global::Rg.Plugins.Popup.Resource.Attribute.autoSizeTextType = global::WordQuiz.Droid.Resource.Attribute.autoSizeTextType;
+			global::Rg.Plugins.Popup.Resource.Attribute.background = global::WordQuiz.Droid.Resource.Attribute.background;
+			global::Rg.Plugins.Popup.Resource.Attribute.backgroundSplit = global::WordQuiz.Droid.Resource.Attribute.backgroundSplit;
+			global::Rg.Plugins.Popup.Resource.Attribute.backgroundStacked = global::WordQuiz.Droid.Resource.Attribute.backgroundStacked;
+			global::Rg.Plugins.Popup.Resource.Attribute.backgroundTint = global::WordQuiz.Droid.Resource.Attribute.backgroundTint;
+			global::Rg.Plugins.Popup.Resource.Attribute.backgroundTintMode = global::WordQuiz.Droid.Resource.Attribute.backgroundTintMode;
+			global::Rg.Plugins.Popup.Resource.Attribute.barLength = global::WordQuiz.Droid.Resource.Attribute.barLength;
+			global::Rg.Plugins.Popup.Resource.Attribute.behavior_autoHide = global::WordQuiz.Droid.Resource.Attribute.behavior_autoHide;
+			global::Rg.Plugins.Popup.Resource.Attribute.behavior_fitToContents = global::WordQuiz.Droid.Resource.Attribute.behavior_fitToContents;
+			global::Rg.Plugins.Popup.Resource.Attribute.behavior_hideable = global::WordQuiz.Droid.Resource.Attribute.behavior_hideable;
+			global::Rg.Plugins.Popup.Resource.Attribute.behavior_overlapTop = global::WordQuiz.Droid.Resource.Attribute.behavior_overlapTop;
+			global::Rg.Plugins.Popup.Resource.Attribute.behavior_peekHeight = global::WordQuiz.Droid.Resource.Attribute.behavior_peekHeight;
+			global::Rg.Plugins.Popup.Resource.Attribute.behavior_skipCollapsed = global::WordQuiz.Droid.Resource.Attribute.behavior_skipCollapsed;
+			global::Rg.Plugins.Popup.Resource.Attribute.borderlessButtonStyle = global::WordQuiz.Droid.Resource.Attribute.borderlessButtonStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.borderWidth = global::WordQuiz.Droid.Resource.Attribute.borderWidth;
+			global::Rg.Plugins.Popup.Resource.Attribute.bottomAppBarStyle = global::WordQuiz.Droid.Resource.Attribute.bottomAppBarStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.bottomNavigationStyle = global::WordQuiz.Droid.Resource.Attribute.bottomNavigationStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.bottomSheetDialogTheme = global::WordQuiz.Droid.Resource.Attribute.bottomSheetDialogTheme;
+			global::Rg.Plugins.Popup.Resource.Attribute.bottomSheetStyle = global::WordQuiz.Droid.Resource.Attribute.bottomSheetStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.boxBackgroundColor = global::WordQuiz.Droid.Resource.Attribute.boxBackgroundColor;
+			global::Rg.Plugins.Popup.Resource.Attribute.boxBackgroundMode = global::WordQuiz.Droid.Resource.Attribute.boxBackgroundMode;
+			global::Rg.Plugins.Popup.Resource.Attribute.boxCollapsedPaddingTop = global::WordQuiz.Droid.Resource.Attribute.boxCollapsedPaddingTop;
+			global::Rg.Plugins.Popup.Resource.Attribute.boxCornerRadiusBottomEnd = global::WordQuiz.Droid.Resource.Attribute.boxCornerRadiusBottomEnd;
+			global::Rg.Plugins.Popup.Resource.Attribute.boxCornerRadiusBottomStart = global::WordQuiz.Droid.Resource.Attribute.boxCornerRadiusBottomStart;
+			global::Rg.Plugins.Popup.Resource.Attribute.boxCornerRadiusTopEnd = global::WordQuiz.Droid.Resource.Attribute.boxCornerRadiusTopEnd;
+			global::Rg.Plugins.Popup.Resource.Attribute.boxCornerRadiusTopStart = global::WordQuiz.Droid.Resource.Attribute.boxCornerRadiusTopStart;
+			global::Rg.Plugins.Popup.Resource.Attribute.boxStrokeColor = global::WordQuiz.Droid.Resource.Attribute.boxStrokeColor;
+			global::Rg.Plugins.Popup.Resource.Attribute.boxStrokeWidth = global::WordQuiz.Droid.Resource.Attribute.boxStrokeWidth;
+			global::Rg.Plugins.Popup.Resource.Attribute.buttonBarButtonStyle = global::WordQuiz.Droid.Resource.Attribute.buttonBarButtonStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.buttonBarNegativeButtonStyle = global::WordQuiz.Droid.Resource.Attribute.buttonBarNegativeButtonStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.buttonBarNeutralButtonStyle = global::WordQuiz.Droid.Resource.Attribute.buttonBarNeutralButtonStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.buttonBarPositiveButtonStyle = global::WordQuiz.Droid.Resource.Attribute.buttonBarPositiveButtonStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.buttonBarStyle = global::WordQuiz.Droid.Resource.Attribute.buttonBarStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.buttonCompat = global::WordQuiz.Droid.Resource.Attribute.buttonCompat;
+			global::Rg.Plugins.Popup.Resource.Attribute.buttonGravity = global::WordQuiz.Droid.Resource.Attribute.buttonGravity;
+			global::Rg.Plugins.Popup.Resource.Attribute.buttonIconDimen = global::WordQuiz.Droid.Resource.Attribute.buttonIconDimen;
+			global::Rg.Plugins.Popup.Resource.Attribute.buttonPanelSideLayout = global::WordQuiz.Droid.Resource.Attribute.buttonPanelSideLayout;
+			global::Rg.Plugins.Popup.Resource.Attribute.buttonStyle = global::WordQuiz.Droid.Resource.Attribute.buttonStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.buttonStyleSmall = global::WordQuiz.Droid.Resource.Attribute.buttonStyleSmall;
+			global::Rg.Plugins.Popup.Resource.Attribute.buttonTint = global::WordQuiz.Droid.Resource.Attribute.buttonTint;
+			global::Rg.Plugins.Popup.Resource.Attribute.buttonTintMode = global::WordQuiz.Droid.Resource.Attribute.buttonTintMode;
+			global::Rg.Plugins.Popup.Resource.Attribute.cardBackgroundColor = global::WordQuiz.Droid.Resource.Attribute.cardBackgroundColor;
+			global::Rg.Plugins.Popup.Resource.Attribute.cardCornerRadius = global::WordQuiz.Droid.Resource.Attribute.cardCornerRadius;
+			global::Rg.Plugins.Popup.Resource.Attribute.cardElevation = global::WordQuiz.Droid.Resource.Attribute.cardElevation;
+			global::Rg.Plugins.Popup.Resource.Attribute.cardMaxElevation = global::WordQuiz.Droid.Resource.Attribute.cardMaxElevation;
+			global::Rg.Plugins.Popup.Resource.Attribute.cardPreventCornerOverlap = global::WordQuiz.Droid.Resource.Attribute.cardPreventCornerOverlap;
+			global::Rg.Plugins.Popup.Resource.Attribute.cardUseCompatPadding = global::WordQuiz.Droid.Resource.Attribute.cardUseCompatPadding;
+			global::Rg.Plugins.Popup.Resource.Attribute.cardViewStyle = global::WordQuiz.Droid.Resource.Attribute.cardViewStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.checkboxStyle = global::WordQuiz.Droid.Resource.Attribute.checkboxStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.checkedChip = global::WordQuiz.Droid.Resource.Attribute.checkedChip;
+			global::Rg.Plugins.Popup.Resource.Attribute.checkedIcon = global::WordQuiz.Droid.Resource.Attribute.checkedIcon;
+			global::Rg.Plugins.Popup.Resource.Attribute.checkedIconEnabled = global::WordQuiz.Droid.Resource.Attribute.checkedIconEnabled;
+			global::Rg.Plugins.Popup.Resource.Attribute.checkedIconVisible = global::WordQuiz.Droid.Resource.Attribute.checkedIconVisible;
+			global::Rg.Plugins.Popup.Resource.Attribute.checkedTextViewStyle = global::WordQuiz.Droid.Resource.Attribute.checkedTextViewStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.chipBackgroundColor = global::WordQuiz.Droid.Resource.Attribute.chipBackgroundColor;
+			global::Rg.Plugins.Popup.Resource.Attribute.chipCornerRadius = global::WordQuiz.Droid.Resource.Attribute.chipCornerRadius;
+			global::Rg.Plugins.Popup.Resource.Attribute.chipEndPadding = global::WordQuiz.Droid.Resource.Attribute.chipEndPadding;
+			global::Rg.Plugins.Popup.Resource.Attribute.chipGroupStyle = global::WordQuiz.Droid.Resource.Attribute.chipGroupStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.chipIcon = global::WordQuiz.Droid.Resource.Attribute.chipIcon;
+			global::Rg.Plugins.Popup.Resource.Attribute.chipIconEnabled = global::WordQuiz.Droid.Resource.Attribute.chipIconEnabled;
+			global::Rg.Plugins.Popup.Resource.Attribute.chipIconSize = global::WordQuiz.Droid.Resource.Attribute.chipIconSize;
+			global::Rg.Plugins.Popup.Resource.Attribute.chipIconTint = global::WordQuiz.Droid.Resource.Attribute.chipIconTint;
+			global::Rg.Plugins.Popup.Resource.Attribute.chipIconVisible = global::WordQuiz.Droid.Resource.Attribute.chipIconVisible;
+			global::Rg.Plugins.Popup.Resource.Attribute.chipMinHeight = global::WordQuiz.Droid.Resource.Attribute.chipMinHeight;
+			global::Rg.Plugins.Popup.Resource.Attribute.chipSpacing = global::WordQuiz.Droid.Resource.Attribute.chipSpacing;
+			global::Rg.Plugins.Popup.Resource.Attribute.chipSpacingHorizontal = global::WordQuiz.Droid.Resource.Attribute.chipSpacingHorizontal;
+			global::Rg.Plugins.Popup.Resource.Attribute.chipSpacingVertical = global::WordQuiz.Droid.Resource.Attribute.chipSpacingVertical;
+			global::Rg.Plugins.Popup.Resource.Attribute.chipStandaloneStyle = global::WordQuiz.Droid.Resource.Attribute.chipStandaloneStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.chipStartPadding = global::WordQuiz.Droid.Resource.Attribute.chipStartPadding;
+			global::Rg.Plugins.Popup.Resource.Attribute.chipStrokeColor = global::WordQuiz.Droid.Resource.Attribute.chipStrokeColor;
+			global::Rg.Plugins.Popup.Resource.Attribute.chipStrokeWidth = global::WordQuiz.Droid.Resource.Attribute.chipStrokeWidth;
+			global::Rg.Plugins.Popup.Resource.Attribute.chipStyle = global::WordQuiz.Droid.Resource.Attribute.chipStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.closeIcon = global::WordQuiz.Droid.Resource.Attribute.closeIcon;
+			global::Rg.Plugins.Popup.Resource.Attribute.closeIconEnabled = global::WordQuiz.Droid.Resource.Attribute.closeIconEnabled;
+			global::Rg.Plugins.Popup.Resource.Attribute.closeIconEndPadding = global::WordQuiz.Droid.Resource.Attribute.closeIconEndPadding;
+			global::Rg.Plugins.Popup.Resource.Attribute.closeIconSize = global::WordQuiz.Droid.Resource.Attribute.closeIconSize;
+			global::Rg.Plugins.Popup.Resource.Attribute.closeIconStartPadding = global::WordQuiz.Droid.Resource.Attribute.closeIconStartPadding;
+			global::Rg.Plugins.Popup.Resource.Attribute.closeIconTint = global::WordQuiz.Droid.Resource.Attribute.closeIconTint;
+			global::Rg.Plugins.Popup.Resource.Attribute.closeIconVisible = global::WordQuiz.Droid.Resource.Attribute.closeIconVisible;
+			global::Rg.Plugins.Popup.Resource.Attribute.closeItemLayout = global::WordQuiz.Droid.Resource.Attribute.closeItemLayout;
+			global::Rg.Plugins.Popup.Resource.Attribute.collapseContentDescription = global::WordQuiz.Droid.Resource.Attribute.collapseContentDescription;
+			global::Rg.Plugins.Popup.Resource.Attribute.collapsedTitleGravity = global::WordQuiz.Droid.Resource.Attribute.collapsedTitleGravity;
+			global::Rg.Plugins.Popup.Resource.Attribute.collapsedTitleTextAppearance = global::WordQuiz.Droid.Resource.Attribute.collapsedTitleTextAppearance;
+			global::Rg.Plugins.Popup.Resource.Attribute.collapseIcon = global::WordQuiz.Droid.Resource.Attribute.collapseIcon;
+			global::Rg.Plugins.Popup.Resource.Attribute.color = global::WordQuiz.Droid.Resource.Attribute.color;
+			global::Rg.Plugins.Popup.Resource.Attribute.colorAccent = global::WordQuiz.Droid.Resource.Attribute.colorAccent;
+			global::Rg.Plugins.Popup.Resource.Attribute.colorBackgroundFloating = global::WordQuiz.Droid.Resource.Attribute.colorBackgroundFloating;
+			global::Rg.Plugins.Popup.Resource.Attribute.colorButtonNormal = global::WordQuiz.Droid.Resource.Attribute.colorButtonNormal;
+			global::Rg.Plugins.Popup.Resource.Attribute.colorControlActivated = global::WordQuiz.Droid.Resource.Attribute.colorControlActivated;
+			global::Rg.Plugins.Popup.Resource.Attribute.colorControlHighlight = global::WordQuiz.Droid.Resource.Attribute.colorControlHighlight;
+			global::Rg.Plugins.Popup.Resource.Attribute.colorControlNormal = global::WordQuiz.Droid.Resource.Attribute.colorControlNormal;
+			global::Rg.Plugins.Popup.Resource.Attribute.colorError = global::WordQuiz.Droid.Resource.Attribute.colorError;
+			global::Rg.Plugins.Popup.Resource.Attribute.colorPrimary = global::WordQuiz.Droid.Resource.Attribute.colorPrimary;
+			global::Rg.Plugins.Popup.Resource.Attribute.colorPrimaryDark = global::WordQuiz.Droid.Resource.Attribute.colorPrimaryDark;
+			global::Rg.Plugins.Popup.Resource.Attribute.colorSecondary = global::WordQuiz.Droid.Resource.Attribute.colorSecondary;
+			global::Rg.Plugins.Popup.Resource.Attribute.colorSwitchThumbNormal = global::WordQuiz.Droid.Resource.Attribute.colorSwitchThumbNormal;
+			global::Rg.Plugins.Popup.Resource.Attribute.commitIcon = global::WordQuiz.Droid.Resource.Attribute.commitIcon;
+			global::Rg.Plugins.Popup.Resource.Attribute.contentDescription = global::WordQuiz.Droid.Resource.Attribute.contentDescription;
+			global::Rg.Plugins.Popup.Resource.Attribute.contentInsetEnd = global::WordQuiz.Droid.Resource.Attribute.contentInsetEnd;
+			global::Rg.Plugins.Popup.Resource.Attribute.contentInsetEndWithActions = global::WordQuiz.Droid.Resource.Attribute.contentInsetEndWithActions;
+			global::Rg.Plugins.Popup.Resource.Attribute.contentInsetLeft = global::WordQuiz.Droid.Resource.Attribute.contentInsetLeft;
+			global::Rg.Plugins.Popup.Resource.Attribute.contentInsetRight = global::WordQuiz.Droid.Resource.Attribute.contentInsetRight;
+			global::Rg.Plugins.Popup.Resource.Attribute.contentInsetStart = global::WordQuiz.Droid.Resource.Attribute.contentInsetStart;
+			global::Rg.Plugins.Popup.Resource.Attribute.contentInsetStartWithNavigation = global::WordQuiz.Droid.Resource.Attribute.contentInsetStartWithNavigation;
+			global::Rg.Plugins.Popup.Resource.Attribute.contentPadding = global::WordQuiz.Droid.Resource.Attribute.contentPadding;
+			global::Rg.Plugins.Popup.Resource.Attribute.contentPaddingBottom = global::WordQuiz.Droid.Resource.Attribute.contentPaddingBottom;
+			global::Rg.Plugins.Popup.Resource.Attribute.contentPaddingLeft = global::WordQuiz.Droid.Resource.Attribute.contentPaddingLeft;
+			global::Rg.Plugins.Popup.Resource.Attribute.contentPaddingRight = global::WordQuiz.Droid.Resource.Attribute.contentPaddingRight;
+			global::Rg.Plugins.Popup.Resource.Attribute.contentPaddingTop = global::WordQuiz.Droid.Resource.Attribute.contentPaddingTop;
+			global::Rg.Plugins.Popup.Resource.Attribute.contentScrim = global::WordQuiz.Droid.Resource.Attribute.contentScrim;
+			global::Rg.Plugins.Popup.Resource.Attribute.controlBackground = global::WordQuiz.Droid.Resource.Attribute.controlBackground;
+			global::Rg.Plugins.Popup.Resource.Attribute.coordinatorLayoutStyle = global::WordQuiz.Droid.Resource.Attribute.coordinatorLayoutStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.cornerRadius = global::WordQuiz.Droid.Resource.Attribute.cornerRadius;
+			global::Rg.Plugins.Popup.Resource.Attribute.counterEnabled = global::WordQuiz.Droid.Resource.Attribute.counterEnabled;
+			global::Rg.Plugins.Popup.Resource.Attribute.counterMaxLength = global::WordQuiz.Droid.Resource.Attribute.counterMaxLength;
+			global::Rg.Plugins.Popup.Resource.Attribute.counterOverflowTextAppearance = global::WordQuiz.Droid.Resource.Attribute.counterOverflowTextAppearance;
+			global::Rg.Plugins.Popup.Resource.Attribute.counterTextAppearance = global::WordQuiz.Droid.Resource.Attribute.counterTextAppearance;
+			global::Rg.Plugins.Popup.Resource.Attribute.customNavigationLayout = global::WordQuiz.Droid.Resource.Attribute.customNavigationLayout;
+			global::Rg.Plugins.Popup.Resource.Attribute.defaultQueryHint = global::WordQuiz.Droid.Resource.Attribute.defaultQueryHint;
+			global::Rg.Plugins.Popup.Resource.Attribute.dialogCornerRadius = global::WordQuiz.Droid.Resource.Attribute.dialogCornerRadius;
+			global::Rg.Plugins.Popup.Resource.Attribute.dialogPreferredPadding = global::WordQuiz.Droid.Resource.Attribute.dialogPreferredPadding;
+			global::Rg.Plugins.Popup.Resource.Attribute.dialogTheme = global::WordQuiz.Droid.Resource.Attribute.dialogTheme;
+			global::Rg.Plugins.Popup.Resource.Attribute.displayOptions = global::WordQuiz.Droid.Resource.Attribute.displayOptions;
+			global::Rg.Plugins.Popup.Resource.Attribute.divider = global::WordQuiz.Droid.Resource.Attribute.divider;
+			global::Rg.Plugins.Popup.Resource.Attribute.dividerHorizontal = global::WordQuiz.Droid.Resource.Attribute.dividerHorizontal;
+			global::Rg.Plugins.Popup.Resource.Attribute.dividerPadding = global::WordQuiz.Droid.Resource.Attribute.dividerPadding;
+			global::Rg.Plugins.Popup.Resource.Attribute.dividerVertical = global::WordQuiz.Droid.Resource.Attribute.dividerVertical;
+			global::Rg.Plugins.Popup.Resource.Attribute.drawableBottomCompat = global::WordQuiz.Droid.Resource.Attribute.drawableBottomCompat;
+			global::Rg.Plugins.Popup.Resource.Attribute.drawableEndCompat = global::WordQuiz.Droid.Resource.Attribute.drawableEndCompat;
+			global::Rg.Plugins.Popup.Resource.Attribute.drawableLeftCompat = global::WordQuiz.Droid.Resource.Attribute.drawableLeftCompat;
+			global::Rg.Plugins.Popup.Resource.Attribute.drawableRightCompat = global::WordQuiz.Droid.Resource.Attribute.drawableRightCompat;
+			global::Rg.Plugins.Popup.Resource.Attribute.drawableSize = global::WordQuiz.Droid.Resource.Attribute.drawableSize;
+			global::Rg.Plugins.Popup.Resource.Attribute.drawableStartCompat = global::WordQuiz.Droid.Resource.Attribute.drawableStartCompat;
+			global::Rg.Plugins.Popup.Resource.Attribute.drawableTint = global::WordQuiz.Droid.Resource.Attribute.drawableTint;
+			global::Rg.Plugins.Popup.Resource.Attribute.drawableTintMode = global::WordQuiz.Droid.Resource.Attribute.drawableTintMode;
+			global::Rg.Plugins.Popup.Resource.Attribute.drawableTopCompat = global::WordQuiz.Droid.Resource.Attribute.drawableTopCompat;
+			global::Rg.Plugins.Popup.Resource.Attribute.drawerArrowStyle = global::WordQuiz.Droid.Resource.Attribute.drawerArrowStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.dropdownListPreferredItemHeight = global::WordQuiz.Droid.Resource.Attribute.dropdownListPreferredItemHeight;
+			global::Rg.Plugins.Popup.Resource.Attribute.dropDownListViewStyle = global::WordQuiz.Droid.Resource.Attribute.dropDownListViewStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.editTextBackground = global::WordQuiz.Droid.Resource.Attribute.editTextBackground;
+			global::Rg.Plugins.Popup.Resource.Attribute.editTextColor = global::WordQuiz.Droid.Resource.Attribute.editTextColor;
+			global::Rg.Plugins.Popup.Resource.Attribute.editTextStyle = global::WordQuiz.Droid.Resource.Attribute.editTextStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.elevation = global::WordQuiz.Droid.Resource.Attribute.elevation;
+			global::Rg.Plugins.Popup.Resource.Attribute.enforceMaterialTheme = global::WordQuiz.Droid.Resource.Attribute.enforceMaterialTheme;
+			global::Rg.Plugins.Popup.Resource.Attribute.enforceTextAppearance = global::WordQuiz.Droid.Resource.Attribute.enforceTextAppearance;
+			global::Rg.Plugins.Popup.Resource.Attribute.errorEnabled = global::WordQuiz.Droid.Resource.Attribute.errorEnabled;
+			global::Rg.Plugins.Popup.Resource.Attribute.errorTextAppearance = global::WordQuiz.Droid.Resource.Attribute.errorTextAppearance;
+			global::Rg.Plugins.Popup.Resource.Attribute.expandActivityOverflowButtonDrawable = global::WordQuiz.Droid.Resource.Attribute.expandActivityOverflowButtonDrawable;
+			global::Rg.Plugins.Popup.Resource.Attribute.expanded = global::WordQuiz.Droid.Resource.Attribute.expanded;
+			global::Rg.Plugins.Popup.Resource.Attribute.expandedTitleGravity = global::WordQuiz.Droid.Resource.Attribute.expandedTitleGravity;
+			global::Rg.Plugins.Popup.Resource.Attribute.expandedTitleMargin = global::WordQuiz.Droid.Resource.Attribute.expandedTitleMargin;
+			global::Rg.Plugins.Popup.Resource.Attribute.expandedTitleMarginBottom = global::WordQuiz.Droid.Resource.Attribute.expandedTitleMarginBottom;
+			global::Rg.Plugins.Popup.Resource.Attribute.expandedTitleMarginEnd = global::WordQuiz.Droid.Resource.Attribute.expandedTitleMarginEnd;
+			global::Rg.Plugins.Popup.Resource.Attribute.expandedTitleMarginStart = global::WordQuiz.Droid.Resource.Attribute.expandedTitleMarginStart;
+			global::Rg.Plugins.Popup.Resource.Attribute.expandedTitleMarginTop = global::WordQuiz.Droid.Resource.Attribute.expandedTitleMarginTop;
+			global::Rg.Plugins.Popup.Resource.Attribute.expandedTitleTextAppearance = global::WordQuiz.Droid.Resource.Attribute.expandedTitleTextAppearance;
+			global::Rg.Plugins.Popup.Resource.Attribute.fabAlignmentMode = global::WordQuiz.Droid.Resource.Attribute.fabAlignmentMode;
+			global::Rg.Plugins.Popup.Resource.Attribute.fabCradleMargin = global::WordQuiz.Droid.Resource.Attribute.fabCradleMargin;
+			global::Rg.Plugins.Popup.Resource.Attribute.fabCradleRoundedCornerRadius = global::WordQuiz.Droid.Resource.Attribute.fabCradleRoundedCornerRadius;
+			global::Rg.Plugins.Popup.Resource.Attribute.fabCradleVerticalOffset = global::WordQuiz.Droid.Resource.Attribute.fabCradleVerticalOffset;
+			global::Rg.Plugins.Popup.Resource.Attribute.fabCustomSize = global::WordQuiz.Droid.Resource.Attribute.fabCustomSize;
+			global::Rg.Plugins.Popup.Resource.Attribute.fabSize = global::WordQuiz.Droid.Resource.Attribute.fabSize;
+			global::Rg.Plugins.Popup.Resource.Attribute.fastScrollEnabled = global::WordQuiz.Droid.Resource.Attribute.fastScrollEnabled;
+			global::Rg.Plugins.Popup.Resource.Attribute.fastScrollHorizontalThumbDrawable = global::WordQuiz.Droid.Resource.Attribute.fastScrollHorizontalThumbDrawable;
+			global::Rg.Plugins.Popup.Resource.Attribute.fastScrollHorizontalTrackDrawable = global::WordQuiz.Droid.Resource.Attribute.fastScrollHorizontalTrackDrawable;
+			global::Rg.Plugins.Popup.Resource.Attribute.fastScrollVerticalThumbDrawable = global::WordQuiz.Droid.Resource.Attribute.fastScrollVerticalThumbDrawable;
+			global::Rg.Plugins.Popup.Resource.Attribute.fastScrollVerticalTrackDrawable = global::WordQuiz.Droid.Resource.Attribute.fastScrollVerticalTrackDrawable;
+			global::Rg.Plugins.Popup.Resource.Attribute.firstBaselineToTopHeight = global::WordQuiz.Droid.Resource.Attribute.firstBaselineToTopHeight;
+			global::Rg.Plugins.Popup.Resource.Attribute.floatingActionButtonStyle = global::WordQuiz.Droid.Resource.Attribute.floatingActionButtonStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.font = global::WordQuiz.Droid.Resource.Attribute.font;
+			global::Rg.Plugins.Popup.Resource.Attribute.fontFamily = global::WordQuiz.Droid.Resource.Attribute.fontFamily;
+			global::Rg.Plugins.Popup.Resource.Attribute.fontProviderAuthority = global::WordQuiz.Droid.Resource.Attribute.fontProviderAuthority;
+			global::Rg.Plugins.Popup.Resource.Attribute.fontProviderCerts = global::WordQuiz.Droid.Resource.Attribute.fontProviderCerts;
+			global::Rg.Plugins.Popup.Resource.Attribute.fontProviderFetchStrategy = global::WordQuiz.Droid.Resource.Attribute.fontProviderFetchStrategy;
+			global::Rg.Plugins.Popup.Resource.Attribute.fontProviderFetchTimeout = global::WordQuiz.Droid.Resource.Attribute.fontProviderFetchTimeout;
+			global::Rg.Plugins.Popup.Resource.Attribute.fontProviderPackage = global::WordQuiz.Droid.Resource.Attribute.fontProviderPackage;
+			global::Rg.Plugins.Popup.Resource.Attribute.fontProviderQuery = global::WordQuiz.Droid.Resource.Attribute.fontProviderQuery;
+			global::Rg.Plugins.Popup.Resource.Attribute.fontStyle = global::WordQuiz.Droid.Resource.Attribute.fontStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.fontVariationSettings = global::WordQuiz.Droid.Resource.Attribute.fontVariationSettings;
+			global::Rg.Plugins.Popup.Resource.Attribute.fontWeight = global::WordQuiz.Droid.Resource.Attribute.fontWeight;
+			global::Rg.Plugins.Popup.Resource.Attribute.foregroundInsidePadding = global::WordQuiz.Droid.Resource.Attribute.foregroundInsidePadding;
+			global::Rg.Plugins.Popup.Resource.Attribute.gapBetweenBars = global::WordQuiz.Droid.Resource.Attribute.gapBetweenBars;
+			global::Rg.Plugins.Popup.Resource.Attribute.goIcon = global::WordQuiz.Droid.Resource.Attribute.goIcon;
+			global::Rg.Plugins.Popup.Resource.Attribute.headerLayout = global::WordQuiz.Droid.Resource.Attribute.headerLayout;
+			global::Rg.Plugins.Popup.Resource.Attribute.height = global::WordQuiz.Droid.Resource.Attribute.height;
+			global::Rg.Plugins.Popup.Resource.Attribute.helperText = global::WordQuiz.Droid.Resource.Attribute.helperText;
+			global::Rg.Plugins.Popup.Resource.Attribute.helperTextEnabled = global::WordQuiz.Droid.Resource.Attribute.helperTextEnabled;
+			global::Rg.Plugins.Popup.Resource.Attribute.helperTextTextAppearance = global::WordQuiz.Droid.Resource.Attribute.helperTextTextAppearance;
+			global::Rg.Plugins.Popup.Resource.Attribute.hideMotionSpec = global::WordQuiz.Droid.Resource.Attribute.hideMotionSpec;
+			global::Rg.Plugins.Popup.Resource.Attribute.hideOnContentScroll = global::WordQuiz.Droid.Resource.Attribute.hideOnContentScroll;
+			global::Rg.Plugins.Popup.Resource.Attribute.hideOnScroll = global::WordQuiz.Droid.Resource.Attribute.hideOnScroll;
+			global::Rg.Plugins.Popup.Resource.Attribute.hintAnimationEnabled = global::WordQuiz.Droid.Resource.Attribute.hintAnimationEnabled;
+			global::Rg.Plugins.Popup.Resource.Attribute.hintEnabled = global::WordQuiz.Droid.Resource.Attribute.hintEnabled;
+			global::Rg.Plugins.Popup.Resource.Attribute.hintTextAppearance = global::WordQuiz.Droid.Resource.Attribute.hintTextAppearance;
+			global::Rg.Plugins.Popup.Resource.Attribute.homeAsUpIndicator = global::WordQuiz.Droid.Resource.Attribute.homeAsUpIndicator;
+			global::Rg.Plugins.Popup.Resource.Attribute.homeLayout = global::WordQuiz.Droid.Resource.Attribute.homeLayout;
+			global::Rg.Plugins.Popup.Resource.Attribute.hoveredFocusedTranslationZ = global::WordQuiz.Droid.Resource.Attribute.hoveredFocusedTranslationZ;
+			global::Rg.Plugins.Popup.Resource.Attribute.icon = global::WordQuiz.Droid.Resource.Attribute.icon;
+			global::Rg.Plugins.Popup.Resource.Attribute.iconEndPadding = global::WordQuiz.Droid.Resource.Attribute.iconEndPadding;
+			global::Rg.Plugins.Popup.Resource.Attribute.iconGravity = global::WordQuiz.Droid.Resource.Attribute.iconGravity;
+			global::Rg.Plugins.Popup.Resource.Attribute.iconifiedByDefault = global::WordQuiz.Droid.Resource.Attribute.iconifiedByDefault;
+			global::Rg.Plugins.Popup.Resource.Attribute.iconPadding = global::WordQuiz.Droid.Resource.Attribute.iconPadding;
+			global::Rg.Plugins.Popup.Resource.Attribute.iconSize = global::WordQuiz.Droid.Resource.Attribute.iconSize;
+			global::Rg.Plugins.Popup.Resource.Attribute.iconStartPadding = global::WordQuiz.Droid.Resource.Attribute.iconStartPadding;
+			global::Rg.Plugins.Popup.Resource.Attribute.iconTint = global::WordQuiz.Droid.Resource.Attribute.iconTint;
+			global::Rg.Plugins.Popup.Resource.Attribute.iconTintMode = global::WordQuiz.Droid.Resource.Attribute.iconTintMode;
+			global::Rg.Plugins.Popup.Resource.Attribute.imageButtonStyle = global::WordQuiz.Droid.Resource.Attribute.imageButtonStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.indeterminateProgressStyle = global::WordQuiz.Droid.Resource.Attribute.indeterminateProgressStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.initialActivityCount = global::WordQuiz.Droid.Resource.Attribute.initialActivityCount;
+			global::Rg.Plugins.Popup.Resource.Attribute.insetForeground = global::WordQuiz.Droid.Resource.Attribute.insetForeground;
+			global::Rg.Plugins.Popup.Resource.Attribute.isLightTheme = global::WordQuiz.Droid.Resource.Attribute.isLightTheme;
+			global::Rg.Plugins.Popup.Resource.Attribute.itemBackground = global::WordQuiz.Droid.Resource.Attribute.itemBackground;
+			global::Rg.Plugins.Popup.Resource.Attribute.itemHorizontalPadding = global::WordQuiz.Droid.Resource.Attribute.itemHorizontalPadding;
+			global::Rg.Plugins.Popup.Resource.Attribute.itemHorizontalTranslationEnabled = global::WordQuiz.Droid.Resource.Attribute.itemHorizontalTranslationEnabled;
+			global::Rg.Plugins.Popup.Resource.Attribute.itemIconPadding = global::WordQuiz.Droid.Resource.Attribute.itemIconPadding;
+			global::Rg.Plugins.Popup.Resource.Attribute.itemIconSize = global::WordQuiz.Droid.Resource.Attribute.itemIconSize;
+			global::Rg.Plugins.Popup.Resource.Attribute.itemIconTint = global::WordQuiz.Droid.Resource.Attribute.itemIconTint;
+			global::Rg.Plugins.Popup.Resource.Attribute.itemPadding = global::WordQuiz.Droid.Resource.Attribute.itemPadding;
+			global::Rg.Plugins.Popup.Resource.Attribute.itemSpacing = global::WordQuiz.Droid.Resource.Attribute.itemSpacing;
+			global::Rg.Plugins.Popup.Resource.Attribute.itemTextAppearance = global::WordQuiz.Droid.Resource.Attribute.itemTextAppearance;
+			global::Rg.Plugins.Popup.Resource.Attribute.itemTextAppearanceActive = global::WordQuiz.Droid.Resource.Attribute.itemTextAppearanceActive;
+			global::Rg.Plugins.Popup.Resource.Attribute.itemTextAppearanceInactive = global::WordQuiz.Droid.Resource.Attribute.itemTextAppearanceInactive;
+			global::Rg.Plugins.Popup.Resource.Attribute.itemTextColor = global::WordQuiz.Droid.Resource.Attribute.itemTextColor;
+			global::Rg.Plugins.Popup.Resource.Attribute.keylines = global::WordQuiz.Droid.Resource.Attribute.keylines;
+			global::Rg.Plugins.Popup.Resource.Attribute.labelVisibilityMode = global::WordQuiz.Droid.Resource.Attribute.labelVisibilityMode;
+			global::Rg.Plugins.Popup.Resource.Attribute.lastBaselineToBottomHeight = global::WordQuiz.Droid.Resource.Attribute.lastBaselineToBottomHeight;
+			global::Rg.Plugins.Popup.Resource.Attribute.layout = global::WordQuiz.Droid.Resource.Attribute.layout;
+			global::Rg.Plugins.Popup.Resource.Attribute.layoutManager = global::WordQuiz.Droid.Resource.Attribute.layoutManager;
+			global::Rg.Plugins.Popup.Resource.Attribute.layout_anchor = global::WordQuiz.Droid.Resource.Attribute.layout_anchor;
+			global::Rg.Plugins.Popup.Resource.Attribute.layout_anchorGravity = global::WordQuiz.Droid.Resource.Attribute.layout_anchorGravity;
+			global::Rg.Plugins.Popup.Resource.Attribute.layout_behavior = global::WordQuiz.Droid.Resource.Attribute.layout_behavior;
+			global::Rg.Plugins.Popup.Resource.Attribute.layout_collapseMode = global::WordQuiz.Droid.Resource.Attribute.layout_collapseMode;
+			global::Rg.Plugins.Popup.Resource.Attribute.layout_collapseParallaxMultiplier = global::WordQuiz.Droid.Resource.Attribute.layout_collapseParallaxMultiplier;
+			global::Rg.Plugins.Popup.Resource.Attribute.layout_dodgeInsetEdges = global::WordQuiz.Droid.Resource.Attribute.layout_dodgeInsetEdges;
+			global::Rg.Plugins.Popup.Resource.Attribute.layout_insetEdge = global::WordQuiz.Droid.Resource.Attribute.layout_insetEdge;
+			global::Rg.Plugins.Popup.Resource.Attribute.layout_keyline = global::WordQuiz.Droid.Resource.Attribute.layout_keyline;
+			global::Rg.Plugins.Popup.Resource.Attribute.layout_scrollFlags = global::WordQuiz.Droid.Resource.Attribute.layout_scrollFlags;
+			global::Rg.Plugins.Popup.Resource.Attribute.layout_scrollInterpolator = global::WordQuiz.Droid.Resource.Attribute.layout_scrollInterpolator;
+			global::Rg.Plugins.Popup.Resource.Attribute.liftOnScroll = global::WordQuiz.Droid.Resource.Attribute.liftOnScroll;
+			global::Rg.Plugins.Popup.Resource.Attribute.lineHeight = global::WordQuiz.Droid.Resource.Attribute.lineHeight;
+			global::Rg.Plugins.Popup.Resource.Attribute.lineSpacing = global::WordQuiz.Droid.Resource.Attribute.lineSpacing;
+			global::Rg.Plugins.Popup.Resource.Attribute.listChoiceBackgroundIndicator = global::WordQuiz.Droid.Resource.Attribute.listChoiceBackgroundIndicator;
+			global::Rg.Plugins.Popup.Resource.Attribute.listChoiceIndicatorMultipleAnimated = global::WordQuiz.Droid.Resource.Attribute.listChoiceIndicatorMultipleAnimated;
+			global::Rg.Plugins.Popup.Resource.Attribute.listChoiceIndicatorSingleAnimated = global::WordQuiz.Droid.Resource.Attribute.listChoiceIndicatorSingleAnimated;
+			global::Rg.Plugins.Popup.Resource.Attribute.listDividerAlertDialog = global::WordQuiz.Droid.Resource.Attribute.listDividerAlertDialog;
+			global::Rg.Plugins.Popup.Resource.Attribute.listItemLayout = global::WordQuiz.Droid.Resource.Attribute.listItemLayout;
+			global::Rg.Plugins.Popup.Resource.Attribute.listLayout = global::WordQuiz.Droid.Resource.Attribute.listLayout;
+			global::Rg.Plugins.Popup.Resource.Attribute.listMenuViewStyle = global::WordQuiz.Droid.Resource.Attribute.listMenuViewStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.listPopupWindowStyle = global::WordQuiz.Droid.Resource.Attribute.listPopupWindowStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.listPreferredItemHeight = global::WordQuiz.Droid.Resource.Attribute.listPreferredItemHeight;
+			global::Rg.Plugins.Popup.Resource.Attribute.listPreferredItemHeightLarge = global::WordQuiz.Droid.Resource.Attribute.listPreferredItemHeightLarge;
+			global::Rg.Plugins.Popup.Resource.Attribute.listPreferredItemHeightSmall = global::WordQuiz.Droid.Resource.Attribute.listPreferredItemHeightSmall;
+			global::Rg.Plugins.Popup.Resource.Attribute.listPreferredItemPaddingEnd = global::WordQuiz.Droid.Resource.Attribute.listPreferredItemPaddingEnd;
+			global::Rg.Plugins.Popup.Resource.Attribute.listPreferredItemPaddingLeft = global::WordQuiz.Droid.Resource.Attribute.listPreferredItemPaddingLeft;
+			global::Rg.Plugins.Popup.Resource.Attribute.listPreferredItemPaddingRight = global::WordQuiz.Droid.Resource.Attribute.listPreferredItemPaddingRight;
+			global::Rg.Plugins.Popup.Resource.Attribute.listPreferredItemPaddingStart = global::WordQuiz.Droid.Resource.Attribute.listPreferredItemPaddingStart;
+			global::Rg.Plugins.Popup.Resource.Attribute.logo = global::WordQuiz.Droid.Resource.Attribute.logo;
+			global::Rg.Plugins.Popup.Resource.Attribute.logoDescription = global::WordQuiz.Droid.Resource.Attribute.logoDescription;
+			global::Rg.Plugins.Popup.Resource.Attribute.materialButtonStyle = global::WordQuiz.Droid.Resource.Attribute.materialButtonStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.materialCardViewStyle = global::WordQuiz.Droid.Resource.Attribute.materialCardViewStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.maxActionInlineWidth = global::WordQuiz.Droid.Resource.Attribute.maxActionInlineWidth;
+			global::Rg.Plugins.Popup.Resource.Attribute.maxButtonHeight = global::WordQuiz.Droid.Resource.Attribute.maxButtonHeight;
+			global::Rg.Plugins.Popup.Resource.Attribute.maxImageSize = global::WordQuiz.Droid.Resource.Attribute.maxImageSize;
+			global::Rg.Plugins.Popup.Resource.Attribute.measureWithLargestChild = global::WordQuiz.Droid.Resource.Attribute.measureWithLargestChild;
+			global::Rg.Plugins.Popup.Resource.Attribute.menu = global::WordQuiz.Droid.Resource.Attribute.menu;
+			global::Rg.Plugins.Popup.Resource.Attribute.multiChoiceItemLayout = global::WordQuiz.Droid.Resource.Attribute.multiChoiceItemLayout;
+			global::Rg.Plugins.Popup.Resource.Attribute.navigationContentDescription = global::WordQuiz.Droid.Resource.Attribute.navigationContentDescription;
+			global::Rg.Plugins.Popup.Resource.Attribute.navigationIcon = global::WordQuiz.Droid.Resource.Attribute.navigationIcon;
+			global::Rg.Plugins.Popup.Resource.Attribute.navigationMode = global::WordQuiz.Droid.Resource.Attribute.navigationMode;
+			global::Rg.Plugins.Popup.Resource.Attribute.navigationViewStyle = global::WordQuiz.Droid.Resource.Attribute.navigationViewStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.numericModifiers = global::WordQuiz.Droid.Resource.Attribute.numericModifiers;
+			global::Rg.Plugins.Popup.Resource.Attribute.overlapAnchor = global::WordQuiz.Droid.Resource.Attribute.overlapAnchor;
+			global::Rg.Plugins.Popup.Resource.Attribute.paddingBottomNoButtons = global::WordQuiz.Droid.Resource.Attribute.paddingBottomNoButtons;
+			global::Rg.Plugins.Popup.Resource.Attribute.paddingEnd = global::WordQuiz.Droid.Resource.Attribute.paddingEnd;
+			global::Rg.Plugins.Popup.Resource.Attribute.paddingStart = global::WordQuiz.Droid.Resource.Attribute.paddingStart;
+			global::Rg.Plugins.Popup.Resource.Attribute.paddingTopNoTitle = global::WordQuiz.Droid.Resource.Attribute.paddingTopNoTitle;
+			global::Rg.Plugins.Popup.Resource.Attribute.panelBackground = global::WordQuiz.Droid.Resource.Attribute.panelBackground;
+			global::Rg.Plugins.Popup.Resource.Attribute.panelMenuListTheme = global::WordQuiz.Droid.Resource.Attribute.panelMenuListTheme;
+			global::Rg.Plugins.Popup.Resource.Attribute.panelMenuListWidth = global::WordQuiz.Droid.Resource.Attribute.panelMenuListWidth;
+			global::Rg.Plugins.Popup.Resource.Attribute.passwordToggleContentDescription = global::WordQuiz.Droid.Resource.Attribute.passwordToggleContentDescription;
+			global::Rg.Plugins.Popup.Resource.Attribute.passwordToggleDrawable = global::WordQuiz.Droid.Resource.Attribute.passwordToggleDrawable;
+			global::Rg.Plugins.Popup.Resource.Attribute.passwordToggleEnabled = global::WordQuiz.Droid.Resource.Attribute.passwordToggleEnabled;
+			global::Rg.Plugins.Popup.Resource.Attribute.passwordToggleTint = global::WordQuiz.Droid.Resource.Attribute.passwordToggleTint;
+			global::Rg.Plugins.Popup.Resource.Attribute.passwordToggleTintMode = global::WordQuiz.Droid.Resource.Attribute.passwordToggleTintMode;
+			global::Rg.Plugins.Popup.Resource.Attribute.popupMenuStyle = global::WordQuiz.Droid.Resource.Attribute.popupMenuStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.popupTheme = global::WordQuiz.Droid.Resource.Attribute.popupTheme;
+			global::Rg.Plugins.Popup.Resource.Attribute.popupWindowStyle = global::WordQuiz.Droid.Resource.Attribute.popupWindowStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.preserveIconSpacing = global::WordQuiz.Droid.Resource.Attribute.preserveIconSpacing;
+			global::Rg.Plugins.Popup.Resource.Attribute.pressedTranslationZ = global::WordQuiz.Droid.Resource.Attribute.pressedTranslationZ;
+			global::Rg.Plugins.Popup.Resource.Attribute.progressBarPadding = global::WordQuiz.Droid.Resource.Attribute.progressBarPadding;
+			global::Rg.Plugins.Popup.Resource.Attribute.progressBarStyle = global::WordQuiz.Droid.Resource.Attribute.progressBarStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.queryBackground = global::WordQuiz.Droid.Resource.Attribute.queryBackground;
+			global::Rg.Plugins.Popup.Resource.Attribute.queryHint = global::WordQuiz.Droid.Resource.Attribute.queryHint;
+			global::Rg.Plugins.Popup.Resource.Attribute.radioButtonStyle = global::WordQuiz.Droid.Resource.Attribute.radioButtonStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.ratingBarStyle = global::WordQuiz.Droid.Resource.Attribute.ratingBarStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.ratingBarStyleIndicator = global::WordQuiz.Droid.Resource.Attribute.ratingBarStyleIndicator;
+			global::Rg.Plugins.Popup.Resource.Attribute.ratingBarStyleSmall = global::WordQuiz.Droid.Resource.Attribute.ratingBarStyleSmall;
+			global::Rg.Plugins.Popup.Resource.Attribute.recyclerViewStyle = global::WordQuiz.Droid.Resource.Attribute.recyclerViewStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.reverseLayout = global::WordQuiz.Droid.Resource.Attribute.reverseLayout;
+			global::Rg.Plugins.Popup.Resource.Attribute.rippleColor = global::WordQuiz.Droid.Resource.Attribute.rippleColor;
+			global::Rg.Plugins.Popup.Resource.Attribute.scrimAnimationDuration = global::WordQuiz.Droid.Resource.Attribute.scrimAnimationDuration;
+			global::Rg.Plugins.Popup.Resource.Attribute.scrimBackground = global::WordQuiz.Droid.Resource.Attribute.scrimBackground;
+			global::Rg.Plugins.Popup.Resource.Attribute.scrimVisibleHeightTrigger = global::WordQuiz.Droid.Resource.Attribute.scrimVisibleHeightTrigger;
+			global::Rg.Plugins.Popup.Resource.Attribute.searchHintIcon = global::WordQuiz.Droid.Resource.Attribute.searchHintIcon;
+			global::Rg.Plugins.Popup.Resource.Attribute.searchIcon = global::WordQuiz.Droid.Resource.Attribute.searchIcon;
+			global::Rg.Plugins.Popup.Resource.Attribute.searchViewStyle = global::WordQuiz.Droid.Resource.Attribute.searchViewStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.seekBarStyle = global::WordQuiz.Droid.Resource.Attribute.seekBarStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.selectableItemBackground = global::WordQuiz.Droid.Resource.Attribute.selectableItemBackground;
+			global::Rg.Plugins.Popup.Resource.Attribute.selectableItemBackgroundBorderless = global::WordQuiz.Droid.Resource.Attribute.selectableItemBackgroundBorderless;
+			global::Rg.Plugins.Popup.Resource.Attribute.showAsAction = global::WordQuiz.Droid.Resource.Attribute.showAsAction;
+			global::Rg.Plugins.Popup.Resource.Attribute.showDividers = global::WordQuiz.Droid.Resource.Attribute.showDividers;
+			global::Rg.Plugins.Popup.Resource.Attribute.showMotionSpec = global::WordQuiz.Droid.Resource.Attribute.showMotionSpec;
+			global::Rg.Plugins.Popup.Resource.Attribute.showText = global::WordQuiz.Droid.Resource.Attribute.showText;
+			global::Rg.Plugins.Popup.Resource.Attribute.showTitle = global::WordQuiz.Droid.Resource.Attribute.showTitle;
+			global::Rg.Plugins.Popup.Resource.Attribute.singleChoiceItemLayout = global::WordQuiz.Droid.Resource.Attribute.singleChoiceItemLayout;
+			global::Rg.Plugins.Popup.Resource.Attribute.singleLine = global::WordQuiz.Droid.Resource.Attribute.singleLine;
+			global::Rg.Plugins.Popup.Resource.Attribute.singleSelection = global::WordQuiz.Droid.Resource.Attribute.singleSelection;
+			global::Rg.Plugins.Popup.Resource.Attribute.snackbarButtonStyle = global::WordQuiz.Droid.Resource.Attribute.snackbarButtonStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.snackbarStyle = global::WordQuiz.Droid.Resource.Attribute.snackbarStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.spanCount = global::WordQuiz.Droid.Resource.Attribute.spanCount;
+			global::Rg.Plugins.Popup.Resource.Attribute.spinBars = global::WordQuiz.Droid.Resource.Attribute.spinBars;
+			global::Rg.Plugins.Popup.Resource.Attribute.spinnerDropDownItemStyle = global::WordQuiz.Droid.Resource.Attribute.spinnerDropDownItemStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.spinnerStyle = global::WordQuiz.Droid.Resource.Attribute.spinnerStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.splitTrack = global::WordQuiz.Droid.Resource.Attribute.splitTrack;
+			global::Rg.Plugins.Popup.Resource.Attribute.srcCompat = global::WordQuiz.Droid.Resource.Attribute.srcCompat;
+			global::Rg.Plugins.Popup.Resource.Attribute.stackFromEnd = global::WordQuiz.Droid.Resource.Attribute.stackFromEnd;
+			global::Rg.Plugins.Popup.Resource.Attribute.state_above_anchor = global::WordQuiz.Droid.Resource.Attribute.state_above_anchor;
+			global::Rg.Plugins.Popup.Resource.Attribute.state_collapsed = global::WordQuiz.Droid.Resource.Attribute.state_collapsed;
+			global::Rg.Plugins.Popup.Resource.Attribute.state_collapsible = global::WordQuiz.Droid.Resource.Attribute.state_collapsible;
+			global::Rg.Plugins.Popup.Resource.Attribute.state_liftable = global::WordQuiz.Droid.Resource.Attribute.state_liftable;
+			global::Rg.Plugins.Popup.Resource.Attribute.state_lifted = global::WordQuiz.Droid.Resource.Attribute.state_lifted;
+			global::Rg.Plugins.Popup.Resource.Attribute.statusBarBackground = global::WordQuiz.Droid.Resource.Attribute.statusBarBackground;
+			global::Rg.Plugins.Popup.Resource.Attribute.statusBarScrim = global::WordQuiz.Droid.Resource.Attribute.statusBarScrim;
+			global::Rg.Plugins.Popup.Resource.Attribute.strokeColor = global::WordQuiz.Droid.Resource.Attribute.strokeColor;
+			global::Rg.Plugins.Popup.Resource.Attribute.strokeWidth = global::WordQuiz.Droid.Resource.Attribute.strokeWidth;
+			global::Rg.Plugins.Popup.Resource.Attribute.subMenuArrow = global::WordQuiz.Droid.Resource.Attribute.subMenuArrow;
+			global::Rg.Plugins.Popup.Resource.Attribute.submitBackground = global::WordQuiz.Droid.Resource.Attribute.submitBackground;
+			global::Rg.Plugins.Popup.Resource.Attribute.subtitle = global::WordQuiz.Droid.Resource.Attribute.subtitle;
+			global::Rg.Plugins.Popup.Resource.Attribute.subtitleTextAppearance = global::WordQuiz.Droid.Resource.Attribute.subtitleTextAppearance;
+			global::Rg.Plugins.Popup.Resource.Attribute.subtitleTextColor = global::WordQuiz.Droid.Resource.Attribute.subtitleTextColor;
+			global::Rg.Plugins.Popup.Resource.Attribute.subtitleTextStyle = global::WordQuiz.Droid.Resource.Attribute.subtitleTextStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.suggestionRowLayout = global::WordQuiz.Droid.Resource.Attribute.suggestionRowLayout;
+			global::Rg.Plugins.Popup.Resource.Attribute.switchMinWidth = global::WordQuiz.Droid.Resource.Attribute.switchMinWidth;
+			global::Rg.Plugins.Popup.Resource.Attribute.switchPadding = global::WordQuiz.Droid.Resource.Attribute.switchPadding;
+			global::Rg.Plugins.Popup.Resource.Attribute.switchStyle = global::WordQuiz.Droid.Resource.Attribute.switchStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.switchTextAppearance = global::WordQuiz.Droid.Resource.Attribute.switchTextAppearance;
+			global::Rg.Plugins.Popup.Resource.Attribute.tabBackground = global::WordQuiz.Droid.Resource.Attribute.tabBackground;
+			global::Rg.Plugins.Popup.Resource.Attribute.tabContentStart = global::WordQuiz.Droid.Resource.Attribute.tabContentStart;
+			global::Rg.Plugins.Popup.Resource.Attribute.tabGravity = global::WordQuiz.Droid.Resource.Attribute.tabGravity;
+			global::Rg.Plugins.Popup.Resource.Attribute.tabIconTint = global::WordQuiz.Droid.Resource.Attribute.tabIconTint;
+			global::Rg.Plugins.Popup.Resource.Attribute.tabIconTintMode = global::WordQuiz.Droid.Resource.Attribute.tabIconTintMode;
+			global::Rg.Plugins.Popup.Resource.Attribute.tabIndicator = global::WordQuiz.Droid.Resource.Attribute.tabIndicator;
+			global::Rg.Plugins.Popup.Resource.Attribute.tabIndicatorAnimationDuration = global::WordQuiz.Droid.Resource.Attribute.tabIndicatorAnimationDuration;
+			global::Rg.Plugins.Popup.Resource.Attribute.tabIndicatorColor = global::WordQuiz.Droid.Resource.Attribute.tabIndicatorColor;
+			global::Rg.Plugins.Popup.Resource.Attribute.tabIndicatorFullWidth = global::WordQuiz.Droid.Resource.Attribute.tabIndicatorFullWidth;
+			global::Rg.Plugins.Popup.Resource.Attribute.tabIndicatorGravity = global::WordQuiz.Droid.Resource.Attribute.tabIndicatorGravity;
+			global::Rg.Plugins.Popup.Resource.Attribute.tabIndicatorHeight = global::WordQuiz.Droid.Resource.Attribute.tabIndicatorHeight;
+			global::Rg.Plugins.Popup.Resource.Attribute.tabInlineLabel = global::WordQuiz.Droid.Resource.Attribute.tabInlineLabel;
+			global::Rg.Plugins.Popup.Resource.Attribute.tabMaxWidth = global::WordQuiz.Droid.Resource.Attribute.tabMaxWidth;
+			global::Rg.Plugins.Popup.Resource.Attribute.tabMinWidth = global::WordQuiz.Droid.Resource.Attribute.tabMinWidth;
+			global::Rg.Plugins.Popup.Resource.Attribute.tabMode = global::WordQuiz.Droid.Resource.Attribute.tabMode;
+			global::Rg.Plugins.Popup.Resource.Attribute.tabPadding = global::WordQuiz.Droid.Resource.Attribute.tabPadding;
+			global::Rg.Plugins.Popup.Resource.Attribute.tabPaddingBottom = global::WordQuiz.Droid.Resource.Attribute.tabPaddingBottom;
+			global::Rg.Plugins.Popup.Resource.Attribute.tabPaddingEnd = global::WordQuiz.Droid.Resource.Attribute.tabPaddingEnd;
+			global::Rg.Plugins.Popup.Resource.Attribute.tabPaddingStart = global::WordQuiz.Droid.Resource.Attribute.tabPaddingStart;
+			global::Rg.Plugins.Popup.Resource.Attribute.tabPaddingTop = global::WordQuiz.Droid.Resource.Attribute.tabPaddingTop;
+			global::Rg.Plugins.Popup.Resource.Attribute.tabRippleColor = global::WordQuiz.Droid.Resource.Attribute.tabRippleColor;
+			global::Rg.Plugins.Popup.Resource.Attribute.tabSelectedTextColor = global::WordQuiz.Droid.Resource.Attribute.tabSelectedTextColor;
+			global::Rg.Plugins.Popup.Resource.Attribute.tabStyle = global::WordQuiz.Droid.Resource.Attribute.tabStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.tabTextAppearance = global::WordQuiz.Droid.Resource.Attribute.tabTextAppearance;
+			global::Rg.Plugins.Popup.Resource.Attribute.tabTextColor = global::WordQuiz.Droid.Resource.Attribute.tabTextColor;
+			global::Rg.Plugins.Popup.Resource.Attribute.tabUnboundedRipple = global::WordQuiz.Droid.Resource.Attribute.tabUnboundedRipple;
+			global::Rg.Plugins.Popup.Resource.Attribute.textAllCaps = global::WordQuiz.Droid.Resource.Attribute.textAllCaps;
+			global::Rg.Plugins.Popup.Resource.Attribute.textAppearanceBody1 = global::WordQuiz.Droid.Resource.Attribute.textAppearanceBody1;
+			global::Rg.Plugins.Popup.Resource.Attribute.textAppearanceBody2 = global::WordQuiz.Droid.Resource.Attribute.textAppearanceBody2;
+			global::Rg.Plugins.Popup.Resource.Attribute.textAppearanceButton = global::WordQuiz.Droid.Resource.Attribute.textAppearanceButton;
+			global::Rg.Plugins.Popup.Resource.Attribute.textAppearanceCaption = global::WordQuiz.Droid.Resource.Attribute.textAppearanceCaption;
+			global::Rg.Plugins.Popup.Resource.Attribute.textAppearanceHeadline1 = global::WordQuiz.Droid.Resource.Attribute.textAppearanceHeadline1;
+			global::Rg.Plugins.Popup.Resource.Attribute.textAppearanceHeadline2 = global::WordQuiz.Droid.Resource.Attribute.textAppearanceHeadline2;
+			global::Rg.Plugins.Popup.Resource.Attribute.textAppearanceHeadline3 = global::WordQuiz.Droid.Resource.Attribute.textAppearanceHeadline3;
+			global::Rg.Plugins.Popup.Resource.Attribute.textAppearanceHeadline4 = global::WordQuiz.Droid.Resource.Attribute.textAppearanceHeadline4;
+			global::Rg.Plugins.Popup.Resource.Attribute.textAppearanceHeadline5 = global::WordQuiz.Droid.Resource.Attribute.textAppearanceHeadline5;
+			global::Rg.Plugins.Popup.Resource.Attribute.textAppearanceHeadline6 = global::WordQuiz.Droid.Resource.Attribute.textAppearanceHeadline6;
+			global::Rg.Plugins.Popup.Resource.Attribute.textAppearanceLargePopupMenu = global::WordQuiz.Droid.Resource.Attribute.textAppearanceLargePopupMenu;
+			global::Rg.Plugins.Popup.Resource.Attribute.textAppearanceListItem = global::WordQuiz.Droid.Resource.Attribute.textAppearanceListItem;
+			global::Rg.Plugins.Popup.Resource.Attribute.textAppearanceListItemSecondary = global::WordQuiz.Droid.Resource.Attribute.textAppearanceListItemSecondary;
+			global::Rg.Plugins.Popup.Resource.Attribute.textAppearanceListItemSmall = global::WordQuiz.Droid.Resource.Attribute.textAppearanceListItemSmall;
+			global::Rg.Plugins.Popup.Resource.Attribute.textAppearanceOverline = global::WordQuiz.Droid.Resource.Attribute.textAppearanceOverline;
+			global::Rg.Plugins.Popup.Resource.Attribute.textAppearancePopupMenuHeader = global::WordQuiz.Droid.Resource.Attribute.textAppearancePopupMenuHeader;
+			global::Rg.Plugins.Popup.Resource.Attribute.textAppearanceSearchResultSubtitle = global::WordQuiz.Droid.Resource.Attribute.textAppearanceSearchResultSubtitle;
+			global::Rg.Plugins.Popup.Resource.Attribute.textAppearanceSearchResultTitle = global::WordQuiz.Droid.Resource.Attribute.textAppearanceSearchResultTitle;
+			global::Rg.Plugins.Popup.Resource.Attribute.textAppearanceSmallPopupMenu = global::WordQuiz.Droid.Resource.Attribute.textAppearanceSmallPopupMenu;
+			global::Rg.Plugins.Popup.Resource.Attribute.textAppearanceSubtitle1 = global::WordQuiz.Droid.Resource.Attribute.textAppearanceSubtitle1;
+			global::Rg.Plugins.Popup.Resource.Attribute.textAppearanceSubtitle2 = global::WordQuiz.Droid.Resource.Attribute.textAppearanceSubtitle2;
+			global::Rg.Plugins.Popup.Resource.Attribute.textColorAlertDialogListItem = global::WordQuiz.Droid.Resource.Attribute.textColorAlertDialogListItem;
+			global::Rg.Plugins.Popup.Resource.Attribute.textColorSearchUrl = global::WordQuiz.Droid.Resource.Attribute.textColorSearchUrl;
+			global::Rg.Plugins.Popup.Resource.Attribute.textEndPadding = global::WordQuiz.Droid.Resource.Attribute.textEndPadding;
+			global::Rg.Plugins.Popup.Resource.Attribute.textInputStyle = global::WordQuiz.Droid.Resource.Attribute.textInputStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.textLocale = global::WordQuiz.Droid.Resource.Attribute.textLocale;
+			global::Rg.Plugins.Popup.Resource.Attribute.textStartPadding = global::WordQuiz.Droid.Resource.Attribute.textStartPadding;
+			global::Rg.Plugins.Popup.Resource.Attribute.theme = global::WordQuiz.Droid.Resource.Attribute.theme;
+			global::Rg.Plugins.Popup.Resource.Attribute.thickness = global::WordQuiz.Droid.Resource.Attribute.thickness;
+			global::Rg.Plugins.Popup.Resource.Attribute.thumbTextPadding = global::WordQuiz.Droid.Resource.Attribute.thumbTextPadding;
+			global::Rg.Plugins.Popup.Resource.Attribute.thumbTint = global::WordQuiz.Droid.Resource.Attribute.thumbTint;
+			global::Rg.Plugins.Popup.Resource.Attribute.thumbTintMode = global::WordQuiz.Droid.Resource.Attribute.thumbTintMode;
+			global::Rg.Plugins.Popup.Resource.Attribute.tickMark = global::WordQuiz.Droid.Resource.Attribute.tickMark;
+			global::Rg.Plugins.Popup.Resource.Attribute.tickMarkTint = global::WordQuiz.Droid.Resource.Attribute.tickMarkTint;
+			global::Rg.Plugins.Popup.Resource.Attribute.tickMarkTintMode = global::WordQuiz.Droid.Resource.Attribute.tickMarkTintMode;
+			global::Rg.Plugins.Popup.Resource.Attribute.tint = global::WordQuiz.Droid.Resource.Attribute.tint;
+			global::Rg.Plugins.Popup.Resource.Attribute.tintMode = global::WordQuiz.Droid.Resource.Attribute.tintMode;
+			global::Rg.Plugins.Popup.Resource.Attribute.title = global::WordQuiz.Droid.Resource.Attribute.title;
+			global::Rg.Plugins.Popup.Resource.Attribute.titleEnabled = global::WordQuiz.Droid.Resource.Attribute.titleEnabled;
+			global::Rg.Plugins.Popup.Resource.Attribute.titleMargin = global::WordQuiz.Droid.Resource.Attribute.titleMargin;
+			global::Rg.Plugins.Popup.Resource.Attribute.titleMarginBottom = global::WordQuiz.Droid.Resource.Attribute.titleMarginBottom;
+			global::Rg.Plugins.Popup.Resource.Attribute.titleMarginEnd = global::WordQuiz.Droid.Resource.Attribute.titleMarginEnd;
+			global::Rg.Plugins.Popup.Resource.Attribute.titleMargins = global::WordQuiz.Droid.Resource.Attribute.titleMargins;
+			global::Rg.Plugins.Popup.Resource.Attribute.titleMarginStart = global::WordQuiz.Droid.Resource.Attribute.titleMarginStart;
+			global::Rg.Plugins.Popup.Resource.Attribute.titleMarginTop = global::WordQuiz.Droid.Resource.Attribute.titleMarginTop;
+			global::Rg.Plugins.Popup.Resource.Attribute.titleTextAppearance = global::WordQuiz.Droid.Resource.Attribute.titleTextAppearance;
+			global::Rg.Plugins.Popup.Resource.Attribute.titleTextColor = global::WordQuiz.Droid.Resource.Attribute.titleTextColor;
+			global::Rg.Plugins.Popup.Resource.Attribute.titleTextStyle = global::WordQuiz.Droid.Resource.Attribute.titleTextStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.toolbarId = global::WordQuiz.Droid.Resource.Attribute.toolbarId;
+			global::Rg.Plugins.Popup.Resource.Attribute.toolbarNavigationButtonStyle = global::WordQuiz.Droid.Resource.Attribute.toolbarNavigationButtonStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.toolbarStyle = global::WordQuiz.Droid.Resource.Attribute.toolbarStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.tooltipForegroundColor = global::WordQuiz.Droid.Resource.Attribute.tooltipForegroundColor;
+			global::Rg.Plugins.Popup.Resource.Attribute.tooltipFrameBackground = global::WordQuiz.Droid.Resource.Attribute.tooltipFrameBackground;
+			global::Rg.Plugins.Popup.Resource.Attribute.tooltipText = global::WordQuiz.Droid.Resource.Attribute.tooltipText;
+			global::Rg.Plugins.Popup.Resource.Attribute.track = global::WordQuiz.Droid.Resource.Attribute.track;
+			global::Rg.Plugins.Popup.Resource.Attribute.trackTint = global::WordQuiz.Droid.Resource.Attribute.trackTint;
+			global::Rg.Plugins.Popup.Resource.Attribute.trackTintMode = global::WordQuiz.Droid.Resource.Attribute.trackTintMode;
+			global::Rg.Plugins.Popup.Resource.Attribute.ttcIndex = global::WordQuiz.Droid.Resource.Attribute.ttcIndex;
+			global::Rg.Plugins.Popup.Resource.Attribute.useCompatPadding = global::WordQuiz.Droid.Resource.Attribute.useCompatPadding;
+			global::Rg.Plugins.Popup.Resource.Attribute.viewInflaterClass = global::WordQuiz.Droid.Resource.Attribute.viewInflaterClass;
+			global::Rg.Plugins.Popup.Resource.Attribute.voiceIcon = global::WordQuiz.Droid.Resource.Attribute.voiceIcon;
+			global::Rg.Plugins.Popup.Resource.Attribute.windowActionBar = global::WordQuiz.Droid.Resource.Attribute.windowActionBar;
+			global::Rg.Plugins.Popup.Resource.Attribute.windowActionBarOverlay = global::WordQuiz.Droid.Resource.Attribute.windowActionBarOverlay;
+			global::Rg.Plugins.Popup.Resource.Attribute.windowActionModeOverlay = global::WordQuiz.Droid.Resource.Attribute.windowActionModeOverlay;
+			global::Rg.Plugins.Popup.Resource.Attribute.windowFixedHeightMajor = global::WordQuiz.Droid.Resource.Attribute.windowFixedHeightMajor;
+			global::Rg.Plugins.Popup.Resource.Attribute.windowFixedHeightMinor = global::WordQuiz.Droid.Resource.Attribute.windowFixedHeightMinor;
+			global::Rg.Plugins.Popup.Resource.Attribute.windowFixedWidthMajor = global::WordQuiz.Droid.Resource.Attribute.windowFixedWidthMajor;
+			global::Rg.Plugins.Popup.Resource.Attribute.windowFixedWidthMinor = global::WordQuiz.Droid.Resource.Attribute.windowFixedWidthMinor;
+			global::Rg.Plugins.Popup.Resource.Attribute.windowMinWidthMajor = global::WordQuiz.Droid.Resource.Attribute.windowMinWidthMajor;
+			global::Rg.Plugins.Popup.Resource.Attribute.windowMinWidthMinor = global::WordQuiz.Droid.Resource.Attribute.windowMinWidthMinor;
+			global::Rg.Plugins.Popup.Resource.Attribute.windowNoTitle = global::WordQuiz.Droid.Resource.Attribute.windowNoTitle;
+			global::Rg.Plugins.Popup.Resource.Boolean.abc_action_bar_embed_tabs = global::WordQuiz.Droid.Resource.Boolean.abc_action_bar_embed_tabs;
+			global::Rg.Plugins.Popup.Resource.Boolean.abc_allow_stacked_button_bar = global::WordQuiz.Droid.Resource.Boolean.abc_allow_stacked_button_bar;
+			global::Rg.Plugins.Popup.Resource.Boolean.abc_config_actionMenuItemAllCaps = global::WordQuiz.Droid.Resource.Boolean.abc_config_actionMenuItemAllCaps;
+			global::Rg.Plugins.Popup.Resource.Boolean.mtrl_btn_textappearance_all_caps = global::WordQuiz.Droid.Resource.Boolean.mtrl_btn_textappearance_all_caps;
+			global::Rg.Plugins.Popup.Resource.Color.abc_background_cache_hint_selector_material_dark = global::WordQuiz.Droid.Resource.Color.abc_background_cache_hint_selector_material_dark;
+			global::Rg.Plugins.Popup.Resource.Color.abc_background_cache_hint_selector_material_light = global::WordQuiz.Droid.Resource.Color.abc_background_cache_hint_selector_material_light;
+			global::Rg.Plugins.Popup.Resource.Color.abc_btn_colored_borderless_text_material = global::WordQuiz.Droid.Resource.Color.abc_btn_colored_borderless_text_material;
+			global::Rg.Plugins.Popup.Resource.Color.abc_btn_colored_text_material = global::WordQuiz.Droid.Resource.Color.abc_btn_colored_text_material;
+			global::Rg.Plugins.Popup.Resource.Color.abc_color_highlight_material = global::WordQuiz.Droid.Resource.Color.abc_color_highlight_material;
+			global::Rg.Plugins.Popup.Resource.Color.abc_hint_foreground_material_dark = global::WordQuiz.Droid.Resource.Color.abc_hint_foreground_material_dark;
+			global::Rg.Plugins.Popup.Resource.Color.abc_hint_foreground_material_light = global::WordQuiz.Droid.Resource.Color.abc_hint_foreground_material_light;
+			global::Rg.Plugins.Popup.Resource.Color.abc_input_method_navigation_guard = global::WordQuiz.Droid.Resource.Color.abc_input_method_navigation_guard;
+			global::Rg.Plugins.Popup.Resource.Color.abc_primary_text_disable_only_material_dark = global::WordQuiz.Droid.Resource.Color.abc_primary_text_disable_only_material_dark;
+			global::Rg.Plugins.Popup.Resource.Color.abc_primary_text_disable_only_material_light = global::WordQuiz.Droid.Resource.Color.abc_primary_text_disable_only_material_light;
+			global::Rg.Plugins.Popup.Resource.Color.abc_primary_text_material_dark = global::WordQuiz.Droid.Resource.Color.abc_primary_text_material_dark;
+			global::Rg.Plugins.Popup.Resource.Color.abc_primary_text_material_light = global::WordQuiz.Droid.Resource.Color.abc_primary_text_material_light;
+			global::Rg.Plugins.Popup.Resource.Color.abc_search_url_text = global::WordQuiz.Droid.Resource.Color.abc_search_url_text;
+			global::Rg.Plugins.Popup.Resource.Color.abc_search_url_text_normal = global::WordQuiz.Droid.Resource.Color.abc_search_url_text_normal;
+			global::Rg.Plugins.Popup.Resource.Color.abc_search_url_text_pressed = global::WordQuiz.Droid.Resource.Color.abc_search_url_text_pressed;
+			global::Rg.Plugins.Popup.Resource.Color.abc_search_url_text_selected = global::WordQuiz.Droid.Resource.Color.abc_search_url_text_selected;
+			global::Rg.Plugins.Popup.Resource.Color.abc_secondary_text_material_dark = global::WordQuiz.Droid.Resource.Color.abc_secondary_text_material_dark;
+			global::Rg.Plugins.Popup.Resource.Color.abc_secondary_text_material_light = global::WordQuiz.Droid.Resource.Color.abc_secondary_text_material_light;
+			global::Rg.Plugins.Popup.Resource.Color.abc_tint_btn_checkable = global::WordQuiz.Droid.Resource.Color.abc_tint_btn_checkable;
+			global::Rg.Plugins.Popup.Resource.Color.abc_tint_default = global::WordQuiz.Droid.Resource.Color.abc_tint_default;
+			global::Rg.Plugins.Popup.Resource.Color.abc_tint_edittext = global::WordQuiz.Droid.Resource.Color.abc_tint_edittext;
+			global::Rg.Plugins.Popup.Resource.Color.abc_tint_seek_thumb = global::WordQuiz.Droid.Resource.Color.abc_tint_seek_thumb;
+			global::Rg.Plugins.Popup.Resource.Color.abc_tint_spinner = global::WordQuiz.Droid.Resource.Color.abc_tint_spinner;
+			global::Rg.Plugins.Popup.Resource.Color.abc_tint_switch_track = global::WordQuiz.Droid.Resource.Color.abc_tint_switch_track;
+			global::Rg.Plugins.Popup.Resource.Color.accent_material_dark = global::WordQuiz.Droid.Resource.Color.accent_material_dark;
+			global::Rg.Plugins.Popup.Resource.Color.accent_material_light = global::WordQuiz.Droid.Resource.Color.accent_material_light;
+			global::Rg.Plugins.Popup.Resource.Color.background_floating_material_dark = global::WordQuiz.Droid.Resource.Color.background_floating_material_dark;
+			global::Rg.Plugins.Popup.Resource.Color.background_floating_material_light = global::WordQuiz.Droid.Resource.Color.background_floating_material_light;
+			global::Rg.Plugins.Popup.Resource.Color.background_material_dark = global::WordQuiz.Droid.Resource.Color.background_material_dark;
+			global::Rg.Plugins.Popup.Resource.Color.background_material_light = global::WordQuiz.Droid.Resource.Color.background_material_light;
+			global::Rg.Plugins.Popup.Resource.Color.bright_foreground_disabled_material_dark = global::WordQuiz.Droid.Resource.Color.bright_foreground_disabled_material_dark;
+			global::Rg.Plugins.Popup.Resource.Color.bright_foreground_disabled_material_light = global::WordQuiz.Droid.Resource.Color.bright_foreground_disabled_material_light;
+			global::Rg.Plugins.Popup.Resource.Color.bright_foreground_inverse_material_dark = global::WordQuiz.Droid.Resource.Color.bright_foreground_inverse_material_dark;
+			global::Rg.Plugins.Popup.Resource.Color.bright_foreground_inverse_material_light = global::WordQuiz.Droid.Resource.Color.bright_foreground_inverse_material_light;
+			global::Rg.Plugins.Popup.Resource.Color.bright_foreground_material_dark = global::WordQuiz.Droid.Resource.Color.bright_foreground_material_dark;
+			global::Rg.Plugins.Popup.Resource.Color.bright_foreground_material_light = global::WordQuiz.Droid.Resource.Color.bright_foreground_material_light;
+			global::Rg.Plugins.Popup.Resource.Color.browser_actions_bg_grey = global::WordQuiz.Droid.Resource.Color.browser_actions_bg_grey;
+			global::Rg.Plugins.Popup.Resource.Color.browser_actions_divider_color = global::WordQuiz.Droid.Resource.Color.browser_actions_divider_color;
+			global::Rg.Plugins.Popup.Resource.Color.browser_actions_text_color = global::WordQuiz.Droid.Resource.Color.browser_actions_text_color;
+			global::Rg.Plugins.Popup.Resource.Color.browser_actions_title_color = global::WordQuiz.Droid.Resource.Color.browser_actions_title_color;
+			global::Rg.Plugins.Popup.Resource.Color.button_material_dark = global::WordQuiz.Droid.Resource.Color.button_material_dark;
+			global::Rg.Plugins.Popup.Resource.Color.button_material_light = global::WordQuiz.Droid.Resource.Color.button_material_light;
+			global::Rg.Plugins.Popup.Resource.Color.cardview_dark_background = global::WordQuiz.Droid.Resource.Color.cardview_dark_background;
+			global::Rg.Plugins.Popup.Resource.Color.cardview_light_background = global::WordQuiz.Droid.Resource.Color.cardview_light_background;
+			global::Rg.Plugins.Popup.Resource.Color.cardview_shadow_end_color = global::WordQuiz.Droid.Resource.Color.cardview_shadow_end_color;
+			global::Rg.Plugins.Popup.Resource.Color.cardview_shadow_start_color = global::WordQuiz.Droid.Resource.Color.cardview_shadow_start_color;
+			global::Rg.Plugins.Popup.Resource.Color.design_bottom_navigation_shadow_color = global::WordQuiz.Droid.Resource.Color.design_bottom_navigation_shadow_color;
+			global::Rg.Plugins.Popup.Resource.Color.design_default_color_primary = global::WordQuiz.Droid.Resource.Color.design_default_color_primary;
+			global::Rg.Plugins.Popup.Resource.Color.design_default_color_primary_dark = global::WordQuiz.Droid.Resource.Color.design_default_color_primary_dark;
+			global::Rg.Plugins.Popup.Resource.Color.design_error = global::WordQuiz.Droid.Resource.Color.design_error;
+			global::Rg.Plugins.Popup.Resource.Color.design_fab_shadow_end_color = global::WordQuiz.Droid.Resource.Color.design_fab_shadow_end_color;
+			global::Rg.Plugins.Popup.Resource.Color.design_fab_shadow_mid_color = global::WordQuiz.Droid.Resource.Color.design_fab_shadow_mid_color;
+			global::Rg.Plugins.Popup.Resource.Color.design_fab_shadow_start_color = global::WordQuiz.Droid.Resource.Color.design_fab_shadow_start_color;
+			global::Rg.Plugins.Popup.Resource.Color.design_fab_stroke_end_inner_color = global::WordQuiz.Droid.Resource.Color.design_fab_stroke_end_inner_color;
+			global::Rg.Plugins.Popup.Resource.Color.design_fab_stroke_end_outer_color = global::WordQuiz.Droid.Resource.Color.design_fab_stroke_end_outer_color;
+			global::Rg.Plugins.Popup.Resource.Color.design_fab_stroke_top_inner_color = global::WordQuiz.Droid.Resource.Color.design_fab_stroke_top_inner_color;
+			global::Rg.Plugins.Popup.Resource.Color.design_fab_stroke_top_outer_color = global::WordQuiz.Droid.Resource.Color.design_fab_stroke_top_outer_color;
+			global::Rg.Plugins.Popup.Resource.Color.design_snackbar_background_color = global::WordQuiz.Droid.Resource.Color.design_snackbar_background_color;
+			global::Rg.Plugins.Popup.Resource.Color.design_tint_password_toggle = global::WordQuiz.Droid.Resource.Color.design_tint_password_toggle;
+			global::Rg.Plugins.Popup.Resource.Color.dim_foreground_disabled_material_dark = global::WordQuiz.Droid.Resource.Color.dim_foreground_disabled_material_dark;
+			global::Rg.Plugins.Popup.Resource.Color.dim_foreground_disabled_material_light = global::WordQuiz.Droid.Resource.Color.dim_foreground_disabled_material_light;
+			global::Rg.Plugins.Popup.Resource.Color.dim_foreground_material_dark = global::WordQuiz.Droid.Resource.Color.dim_foreground_material_dark;
+			global::Rg.Plugins.Popup.Resource.Color.dim_foreground_material_light = global::WordQuiz.Droid.Resource.Color.dim_foreground_material_light;
+			global::Rg.Plugins.Popup.Resource.Color.error_color_material_dark = global::WordQuiz.Droid.Resource.Color.error_color_material_dark;
+			global::Rg.Plugins.Popup.Resource.Color.error_color_material_light = global::WordQuiz.Droid.Resource.Color.error_color_material_light;
+			global::Rg.Plugins.Popup.Resource.Color.foreground_material_dark = global::WordQuiz.Droid.Resource.Color.foreground_material_dark;
+			global::Rg.Plugins.Popup.Resource.Color.foreground_material_light = global::WordQuiz.Droid.Resource.Color.foreground_material_light;
+			global::Rg.Plugins.Popup.Resource.Color.highlighted_text_material_dark = global::WordQuiz.Droid.Resource.Color.highlighted_text_material_dark;
+			global::Rg.Plugins.Popup.Resource.Color.highlighted_text_material_light = global::WordQuiz.Droid.Resource.Color.highlighted_text_material_light;
+			global::Rg.Plugins.Popup.Resource.Color.material_blue_grey_800 = global::WordQuiz.Droid.Resource.Color.material_blue_grey_800;
+			global::Rg.Plugins.Popup.Resource.Color.material_blue_grey_900 = global::WordQuiz.Droid.Resource.Color.material_blue_grey_900;
+			global::Rg.Plugins.Popup.Resource.Color.material_blue_grey_950 = global::WordQuiz.Droid.Resource.Color.material_blue_grey_950;
+			global::Rg.Plugins.Popup.Resource.Color.material_deep_teal_200 = global::WordQuiz.Droid.Resource.Color.material_deep_teal_200;
+			global::Rg.Plugins.Popup.Resource.Color.material_deep_teal_500 = global::WordQuiz.Droid.Resource.Color.material_deep_teal_500;
+			global::Rg.Plugins.Popup.Resource.Color.material_grey_100 = global::WordQuiz.Droid.Resource.Color.material_grey_100;
+			global::Rg.Plugins.Popup.Resource.Color.material_grey_300 = global::WordQuiz.Droid.Resource.Color.material_grey_300;
+			global::Rg.Plugins.Popup.Resource.Color.material_grey_50 = global::WordQuiz.Droid.Resource.Color.material_grey_50;
+			global::Rg.Plugins.Popup.Resource.Color.material_grey_600 = global::WordQuiz.Droid.Resource.Color.material_grey_600;
+			global::Rg.Plugins.Popup.Resource.Color.material_grey_800 = global::WordQuiz.Droid.Resource.Color.material_grey_800;
+			global::Rg.Plugins.Popup.Resource.Color.material_grey_850 = global::WordQuiz.Droid.Resource.Color.material_grey_850;
+			global::Rg.Plugins.Popup.Resource.Color.material_grey_900 = global::WordQuiz.Droid.Resource.Color.material_grey_900;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_bottom_nav_colored_item_tint = global::WordQuiz.Droid.Resource.Color.mtrl_bottom_nav_colored_item_tint;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_bottom_nav_item_tint = global::WordQuiz.Droid.Resource.Color.mtrl_bottom_nav_item_tint;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_btn_bg_color_disabled = global::WordQuiz.Droid.Resource.Color.mtrl_btn_bg_color_disabled;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_btn_bg_color_selector = global::WordQuiz.Droid.Resource.Color.mtrl_btn_bg_color_selector;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_btn_ripple_color = global::WordQuiz.Droid.Resource.Color.mtrl_btn_ripple_color;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_btn_stroke_color_selector = global::WordQuiz.Droid.Resource.Color.mtrl_btn_stroke_color_selector;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_btn_text_btn_ripple_color = global::WordQuiz.Droid.Resource.Color.mtrl_btn_text_btn_ripple_color;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_btn_text_color_disabled = global::WordQuiz.Droid.Resource.Color.mtrl_btn_text_color_disabled;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_btn_text_color_selector = global::WordQuiz.Droid.Resource.Color.mtrl_btn_text_color_selector;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_btn_transparent_bg_color = global::WordQuiz.Droid.Resource.Color.mtrl_btn_transparent_bg_color;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_chip_background_color = global::WordQuiz.Droid.Resource.Color.mtrl_chip_background_color;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_chip_close_icon_tint = global::WordQuiz.Droid.Resource.Color.mtrl_chip_close_icon_tint;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_chip_ripple_color = global::WordQuiz.Droid.Resource.Color.mtrl_chip_ripple_color;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_chip_text_color = global::WordQuiz.Droid.Resource.Color.mtrl_chip_text_color;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_fab_ripple_color = global::WordQuiz.Droid.Resource.Color.mtrl_fab_ripple_color;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_scrim_color = global::WordQuiz.Droid.Resource.Color.mtrl_scrim_color;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_tabs_colored_ripple_color = global::WordQuiz.Droid.Resource.Color.mtrl_tabs_colored_ripple_color;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_tabs_icon_color_selector = global::WordQuiz.Droid.Resource.Color.mtrl_tabs_icon_color_selector;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_tabs_icon_color_selector_colored = global::WordQuiz.Droid.Resource.Color.mtrl_tabs_icon_color_selector_colored;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_tabs_legacy_text_color_selector = global::WordQuiz.Droid.Resource.Color.mtrl_tabs_legacy_text_color_selector;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_tabs_ripple_color = global::WordQuiz.Droid.Resource.Color.mtrl_tabs_ripple_color;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_textinput_default_box_stroke_color = global::WordQuiz.Droid.Resource.Color.mtrl_textinput_default_box_stroke_color;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_textinput_disabled_color = global::WordQuiz.Droid.Resource.Color.mtrl_textinput_disabled_color;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_textinput_filled_box_default_background_color = global::WordQuiz.Droid.Resource.Color.mtrl_textinput_filled_box_default_background_color;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_textinput_hovered_box_stroke_color = global::WordQuiz.Droid.Resource.Color.mtrl_textinput_hovered_box_stroke_color;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_text_btn_text_color_selector = global::WordQuiz.Droid.Resource.Color.mtrl_text_btn_text_color_selector;
+			global::Rg.Plugins.Popup.Resource.Color.notification_action_color_filter = global::WordQuiz.Droid.Resource.Color.notification_action_color_filter;
+			global::Rg.Plugins.Popup.Resource.Color.notification_icon_bg_color = global::WordQuiz.Droid.Resource.Color.notification_icon_bg_color;
+			global::Rg.Plugins.Popup.Resource.Color.notification_material_background_media_default_color = global::WordQuiz.Droid.Resource.Color.notification_material_background_media_default_color;
+			global::Rg.Plugins.Popup.Resource.Color.primary_dark_material_dark = global::WordQuiz.Droid.Resource.Color.primary_dark_material_dark;
+			global::Rg.Plugins.Popup.Resource.Color.primary_dark_material_light = global::WordQuiz.Droid.Resource.Color.primary_dark_material_light;
+			global::Rg.Plugins.Popup.Resource.Color.primary_material_dark = global::WordQuiz.Droid.Resource.Color.primary_material_dark;
+			global::Rg.Plugins.Popup.Resource.Color.primary_material_light = global::WordQuiz.Droid.Resource.Color.primary_material_light;
+			global::Rg.Plugins.Popup.Resource.Color.primary_text_default_material_dark = global::WordQuiz.Droid.Resource.Color.primary_text_default_material_dark;
+			global::Rg.Plugins.Popup.Resource.Color.primary_text_default_material_light = global::WordQuiz.Droid.Resource.Color.primary_text_default_material_light;
+			global::Rg.Plugins.Popup.Resource.Color.primary_text_disabled_material_dark = global::WordQuiz.Droid.Resource.Color.primary_text_disabled_material_dark;
+			global::Rg.Plugins.Popup.Resource.Color.primary_text_disabled_material_light = global::WordQuiz.Droid.Resource.Color.primary_text_disabled_material_light;
+			global::Rg.Plugins.Popup.Resource.Color.ripple_material_dark = global::WordQuiz.Droid.Resource.Color.ripple_material_dark;
+			global::Rg.Plugins.Popup.Resource.Color.ripple_material_light = global::WordQuiz.Droid.Resource.Color.ripple_material_light;
+			global::Rg.Plugins.Popup.Resource.Color.secondary_text_default_material_dark = global::WordQuiz.Droid.Resource.Color.secondary_text_default_material_dark;
+			global::Rg.Plugins.Popup.Resource.Color.secondary_text_default_material_light = global::WordQuiz.Droid.Resource.Color.secondary_text_default_material_light;
+			global::Rg.Plugins.Popup.Resource.Color.secondary_text_disabled_material_dark = global::WordQuiz.Droid.Resource.Color.secondary_text_disabled_material_dark;
+			global::Rg.Plugins.Popup.Resource.Color.secondary_text_disabled_material_light = global::WordQuiz.Droid.Resource.Color.secondary_text_disabled_material_light;
+			global::Rg.Plugins.Popup.Resource.Color.switch_thumb_disabled_material_dark = global::WordQuiz.Droid.Resource.Color.switch_thumb_disabled_material_dark;
+			global::Rg.Plugins.Popup.Resource.Color.switch_thumb_disabled_material_light = global::WordQuiz.Droid.Resource.Color.switch_thumb_disabled_material_light;
+			global::Rg.Plugins.Popup.Resource.Color.switch_thumb_material_dark = global::WordQuiz.Droid.Resource.Color.switch_thumb_material_dark;
+			global::Rg.Plugins.Popup.Resource.Color.switch_thumb_material_light = global::WordQuiz.Droid.Resource.Color.switch_thumb_material_light;
+			global::Rg.Plugins.Popup.Resource.Color.switch_thumb_normal_material_dark = global::WordQuiz.Droid.Resource.Color.switch_thumb_normal_material_dark;
+			global::Rg.Plugins.Popup.Resource.Color.switch_thumb_normal_material_light = global::WordQuiz.Droid.Resource.Color.switch_thumb_normal_material_light;
+			global::Rg.Plugins.Popup.Resource.Color.tooltip_background_dark = global::WordQuiz.Droid.Resource.Color.tooltip_background_dark;
+			global::Rg.Plugins.Popup.Resource.Color.tooltip_background_light = global::WordQuiz.Droid.Resource.Color.tooltip_background_light;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_action_bar_content_inset_material = global::WordQuiz.Droid.Resource.Dimension.abc_action_bar_content_inset_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_action_bar_content_inset_with_nav = global::WordQuiz.Droid.Resource.Dimension.abc_action_bar_content_inset_with_nav;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_action_bar_default_height_material = global::WordQuiz.Droid.Resource.Dimension.abc_action_bar_default_height_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_action_bar_default_padding_end_material = global::WordQuiz.Droid.Resource.Dimension.abc_action_bar_default_padding_end_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_action_bar_default_padding_start_material = global::WordQuiz.Droid.Resource.Dimension.abc_action_bar_default_padding_start_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_action_bar_elevation_material = global::WordQuiz.Droid.Resource.Dimension.abc_action_bar_elevation_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_action_bar_icon_vertical_padding_material = global::WordQuiz.Droid.Resource.Dimension.abc_action_bar_icon_vertical_padding_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_action_bar_overflow_padding_end_material = global::WordQuiz.Droid.Resource.Dimension.abc_action_bar_overflow_padding_end_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_action_bar_overflow_padding_start_material = global::WordQuiz.Droid.Resource.Dimension.abc_action_bar_overflow_padding_start_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_action_bar_stacked_max_height = global::WordQuiz.Droid.Resource.Dimension.abc_action_bar_stacked_max_height;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_action_bar_stacked_tab_max_width = global::WordQuiz.Droid.Resource.Dimension.abc_action_bar_stacked_tab_max_width;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material = global::WordQuiz.Droid.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_action_bar_subtitle_top_margin_material = global::WordQuiz.Droid.Resource.Dimension.abc_action_bar_subtitle_top_margin_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_action_button_min_height_material = global::WordQuiz.Droid.Resource.Dimension.abc_action_button_min_height_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_action_button_min_width_material = global::WordQuiz.Droid.Resource.Dimension.abc_action_button_min_width_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_action_button_min_width_overflow_material = global::WordQuiz.Droid.Resource.Dimension.abc_action_button_min_width_overflow_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_alert_dialog_button_bar_height = global::WordQuiz.Droid.Resource.Dimension.abc_alert_dialog_button_bar_height;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_alert_dialog_button_dimen = global::WordQuiz.Droid.Resource.Dimension.abc_alert_dialog_button_dimen;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_button_inset_horizontal_material = global::WordQuiz.Droid.Resource.Dimension.abc_button_inset_horizontal_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_button_inset_vertical_material = global::WordQuiz.Droid.Resource.Dimension.abc_button_inset_vertical_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_button_padding_horizontal_material = global::WordQuiz.Droid.Resource.Dimension.abc_button_padding_horizontal_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_button_padding_vertical_material = global::WordQuiz.Droid.Resource.Dimension.abc_button_padding_vertical_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_cascading_menus_min_smallest_width = global::WordQuiz.Droid.Resource.Dimension.abc_cascading_menus_min_smallest_width;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_config_prefDialogWidth = global::WordQuiz.Droid.Resource.Dimension.abc_config_prefDialogWidth;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_control_corner_material = global::WordQuiz.Droid.Resource.Dimension.abc_control_corner_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_control_inset_material = global::WordQuiz.Droid.Resource.Dimension.abc_control_inset_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_control_padding_material = global::WordQuiz.Droid.Resource.Dimension.abc_control_padding_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_dialog_corner_radius_material = global::WordQuiz.Droid.Resource.Dimension.abc_dialog_corner_radius_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_dialog_fixed_height_major = global::WordQuiz.Droid.Resource.Dimension.abc_dialog_fixed_height_major;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_dialog_fixed_height_minor = global::WordQuiz.Droid.Resource.Dimension.abc_dialog_fixed_height_minor;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_dialog_fixed_width_major = global::WordQuiz.Droid.Resource.Dimension.abc_dialog_fixed_width_major;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_dialog_fixed_width_minor = global::WordQuiz.Droid.Resource.Dimension.abc_dialog_fixed_width_minor;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons = global::WordQuiz.Droid.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_dialog_list_padding_top_no_title = global::WordQuiz.Droid.Resource.Dimension.abc_dialog_list_padding_top_no_title;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_dialog_min_width_major = global::WordQuiz.Droid.Resource.Dimension.abc_dialog_min_width_major;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_dialog_min_width_minor = global::WordQuiz.Droid.Resource.Dimension.abc_dialog_min_width_minor;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_dialog_padding_material = global::WordQuiz.Droid.Resource.Dimension.abc_dialog_padding_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_dialog_padding_top_material = global::WordQuiz.Droid.Resource.Dimension.abc_dialog_padding_top_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_dialog_title_divider_material = global::WordQuiz.Droid.Resource.Dimension.abc_dialog_title_divider_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_disabled_alpha_material_dark = global::WordQuiz.Droid.Resource.Dimension.abc_disabled_alpha_material_dark;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_disabled_alpha_material_light = global::WordQuiz.Droid.Resource.Dimension.abc_disabled_alpha_material_light;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_dropdownitem_icon_width = global::WordQuiz.Droid.Resource.Dimension.abc_dropdownitem_icon_width;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_dropdownitem_text_padding_left = global::WordQuiz.Droid.Resource.Dimension.abc_dropdownitem_text_padding_left;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_dropdownitem_text_padding_right = global::WordQuiz.Droid.Resource.Dimension.abc_dropdownitem_text_padding_right;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_edit_text_inset_bottom_material = global::WordQuiz.Droid.Resource.Dimension.abc_edit_text_inset_bottom_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_edit_text_inset_horizontal_material = global::WordQuiz.Droid.Resource.Dimension.abc_edit_text_inset_horizontal_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_edit_text_inset_top_material = global::WordQuiz.Droid.Resource.Dimension.abc_edit_text_inset_top_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_floating_window_z = global::WordQuiz.Droid.Resource.Dimension.abc_floating_window_z;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_list_item_height_large_material = global::WordQuiz.Droid.Resource.Dimension.abc_list_item_height_large_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_list_item_height_material = global::WordQuiz.Droid.Resource.Dimension.abc_list_item_height_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_list_item_height_small_material = global::WordQuiz.Droid.Resource.Dimension.abc_list_item_height_small_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_list_item_padding_horizontal_material = global::WordQuiz.Droid.Resource.Dimension.abc_list_item_padding_horizontal_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_panel_menu_list_width = global::WordQuiz.Droid.Resource.Dimension.abc_panel_menu_list_width;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_progress_bar_height_material = global::WordQuiz.Droid.Resource.Dimension.abc_progress_bar_height_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_search_view_preferred_height = global::WordQuiz.Droid.Resource.Dimension.abc_search_view_preferred_height;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_search_view_preferred_width = global::WordQuiz.Droid.Resource.Dimension.abc_search_view_preferred_width;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_seekbar_track_background_height_material = global::WordQuiz.Droid.Resource.Dimension.abc_seekbar_track_background_height_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_seekbar_track_progress_height_material = global::WordQuiz.Droid.Resource.Dimension.abc_seekbar_track_progress_height_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_select_dialog_padding_start_material = global::WordQuiz.Droid.Resource.Dimension.abc_select_dialog_padding_start_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_switch_padding = global::WordQuiz.Droid.Resource.Dimension.abc_switch_padding;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_text_size_body_1_material = global::WordQuiz.Droid.Resource.Dimension.abc_text_size_body_1_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_text_size_body_2_material = global::WordQuiz.Droid.Resource.Dimension.abc_text_size_body_2_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_text_size_button_material = global::WordQuiz.Droid.Resource.Dimension.abc_text_size_button_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_text_size_caption_material = global::WordQuiz.Droid.Resource.Dimension.abc_text_size_caption_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_text_size_display_1_material = global::WordQuiz.Droid.Resource.Dimension.abc_text_size_display_1_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_text_size_display_2_material = global::WordQuiz.Droid.Resource.Dimension.abc_text_size_display_2_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_text_size_display_3_material = global::WordQuiz.Droid.Resource.Dimension.abc_text_size_display_3_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_text_size_display_4_material = global::WordQuiz.Droid.Resource.Dimension.abc_text_size_display_4_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_text_size_headline_material = global::WordQuiz.Droid.Resource.Dimension.abc_text_size_headline_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_text_size_large_material = global::WordQuiz.Droid.Resource.Dimension.abc_text_size_large_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_text_size_medium_material = global::WordQuiz.Droid.Resource.Dimension.abc_text_size_medium_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_text_size_menu_header_material = global::WordQuiz.Droid.Resource.Dimension.abc_text_size_menu_header_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_text_size_menu_material = global::WordQuiz.Droid.Resource.Dimension.abc_text_size_menu_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_text_size_small_material = global::WordQuiz.Droid.Resource.Dimension.abc_text_size_small_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_text_size_subhead_material = global::WordQuiz.Droid.Resource.Dimension.abc_text_size_subhead_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_text_size_subtitle_material_toolbar = global::WordQuiz.Droid.Resource.Dimension.abc_text_size_subtitle_material_toolbar;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_text_size_title_material = global::WordQuiz.Droid.Resource.Dimension.abc_text_size_title_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_text_size_title_material_toolbar = global::WordQuiz.Droid.Resource.Dimension.abc_text_size_title_material_toolbar;
+			global::Rg.Plugins.Popup.Resource.Dimension.browser_actions_context_menu_max_width = global::WordQuiz.Droid.Resource.Dimension.browser_actions_context_menu_max_width;
+			global::Rg.Plugins.Popup.Resource.Dimension.browser_actions_context_menu_min_padding = global::WordQuiz.Droid.Resource.Dimension.browser_actions_context_menu_min_padding;
+			global::Rg.Plugins.Popup.Resource.Dimension.cardview_compat_inset_shadow = global::WordQuiz.Droid.Resource.Dimension.cardview_compat_inset_shadow;
+			global::Rg.Plugins.Popup.Resource.Dimension.cardview_default_elevation = global::WordQuiz.Droid.Resource.Dimension.cardview_default_elevation;
+			global::Rg.Plugins.Popup.Resource.Dimension.cardview_default_radius = global::WordQuiz.Droid.Resource.Dimension.cardview_default_radius;
+			global::Rg.Plugins.Popup.Resource.Dimension.compat_button_inset_horizontal_material = global::WordQuiz.Droid.Resource.Dimension.compat_button_inset_horizontal_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.compat_button_inset_vertical_material = global::WordQuiz.Droid.Resource.Dimension.compat_button_inset_vertical_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.compat_button_padding_horizontal_material = global::WordQuiz.Droid.Resource.Dimension.compat_button_padding_horizontal_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.compat_button_padding_vertical_material = global::WordQuiz.Droid.Resource.Dimension.compat_button_padding_vertical_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.compat_control_corner_material = global::WordQuiz.Droid.Resource.Dimension.compat_control_corner_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.compat_notification_large_icon_max_height = global::WordQuiz.Droid.Resource.Dimension.compat_notification_large_icon_max_height;
+			global::Rg.Plugins.Popup.Resource.Dimension.compat_notification_large_icon_max_width = global::WordQuiz.Droid.Resource.Dimension.compat_notification_large_icon_max_width;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_appbar_elevation = global::WordQuiz.Droid.Resource.Dimension.design_appbar_elevation;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_bottom_navigation_active_item_max_width = global::WordQuiz.Droid.Resource.Dimension.design_bottom_navigation_active_item_max_width;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_bottom_navigation_active_item_min_width = global::WordQuiz.Droid.Resource.Dimension.design_bottom_navigation_active_item_min_width;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_bottom_navigation_active_text_size = global::WordQuiz.Droid.Resource.Dimension.design_bottom_navigation_active_text_size;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_bottom_navigation_elevation = global::WordQuiz.Droid.Resource.Dimension.design_bottom_navigation_elevation;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_bottom_navigation_height = global::WordQuiz.Droid.Resource.Dimension.design_bottom_navigation_height;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_bottom_navigation_icon_size = global::WordQuiz.Droid.Resource.Dimension.design_bottom_navigation_icon_size;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_bottom_navigation_item_max_width = global::WordQuiz.Droid.Resource.Dimension.design_bottom_navigation_item_max_width;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_bottom_navigation_item_min_width = global::WordQuiz.Droid.Resource.Dimension.design_bottom_navigation_item_min_width;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_bottom_navigation_margin = global::WordQuiz.Droid.Resource.Dimension.design_bottom_navigation_margin;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_bottom_navigation_shadow_height = global::WordQuiz.Droid.Resource.Dimension.design_bottom_navigation_shadow_height;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_bottom_navigation_text_size = global::WordQuiz.Droid.Resource.Dimension.design_bottom_navigation_text_size;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_bottom_sheet_modal_elevation = global::WordQuiz.Droid.Resource.Dimension.design_bottom_sheet_modal_elevation;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_bottom_sheet_peek_height_min = global::WordQuiz.Droid.Resource.Dimension.design_bottom_sheet_peek_height_min;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_fab_border_width = global::WordQuiz.Droid.Resource.Dimension.design_fab_border_width;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_fab_elevation = global::WordQuiz.Droid.Resource.Dimension.design_fab_elevation;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_fab_image_size = global::WordQuiz.Droid.Resource.Dimension.design_fab_image_size;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_fab_size_mini = global::WordQuiz.Droid.Resource.Dimension.design_fab_size_mini;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_fab_size_normal = global::WordQuiz.Droid.Resource.Dimension.design_fab_size_normal;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_fab_translation_z_hovered_focused = global::WordQuiz.Droid.Resource.Dimension.design_fab_translation_z_hovered_focused;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_fab_translation_z_pressed = global::WordQuiz.Droid.Resource.Dimension.design_fab_translation_z_pressed;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_navigation_elevation = global::WordQuiz.Droid.Resource.Dimension.design_navigation_elevation;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_navigation_icon_padding = global::WordQuiz.Droid.Resource.Dimension.design_navigation_icon_padding;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_navigation_icon_size = global::WordQuiz.Droid.Resource.Dimension.design_navigation_icon_size;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_navigation_item_horizontal_padding = global::WordQuiz.Droid.Resource.Dimension.design_navigation_item_horizontal_padding;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_navigation_item_icon_padding = global::WordQuiz.Droid.Resource.Dimension.design_navigation_item_icon_padding;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_navigation_max_width = global::WordQuiz.Droid.Resource.Dimension.design_navigation_max_width;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_navigation_padding_bottom = global::WordQuiz.Droid.Resource.Dimension.design_navigation_padding_bottom;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_navigation_separator_vertical_padding = global::WordQuiz.Droid.Resource.Dimension.design_navigation_separator_vertical_padding;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_snackbar_action_inline_max_width = global::WordQuiz.Droid.Resource.Dimension.design_snackbar_action_inline_max_width;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_snackbar_background_corner_radius = global::WordQuiz.Droid.Resource.Dimension.design_snackbar_background_corner_radius;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_snackbar_elevation = global::WordQuiz.Droid.Resource.Dimension.design_snackbar_elevation;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_snackbar_extra_spacing_horizontal = global::WordQuiz.Droid.Resource.Dimension.design_snackbar_extra_spacing_horizontal;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_snackbar_max_width = global::WordQuiz.Droid.Resource.Dimension.design_snackbar_max_width;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_snackbar_min_width = global::WordQuiz.Droid.Resource.Dimension.design_snackbar_min_width;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_snackbar_padding_horizontal = global::WordQuiz.Droid.Resource.Dimension.design_snackbar_padding_horizontal;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_snackbar_padding_vertical = global::WordQuiz.Droid.Resource.Dimension.design_snackbar_padding_vertical;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_snackbar_padding_vertical_2lines = global::WordQuiz.Droid.Resource.Dimension.design_snackbar_padding_vertical_2lines;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_snackbar_text_size = global::WordQuiz.Droid.Resource.Dimension.design_snackbar_text_size;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_tab_max_width = global::WordQuiz.Droid.Resource.Dimension.design_tab_max_width;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_tab_scrollable_min_width = global::WordQuiz.Droid.Resource.Dimension.design_tab_scrollable_min_width;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_tab_text_size = global::WordQuiz.Droid.Resource.Dimension.design_tab_text_size;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_tab_text_size_2line = global::WordQuiz.Droid.Resource.Dimension.design_tab_text_size_2line;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_textinput_caption_translate_y = global::WordQuiz.Droid.Resource.Dimension.design_textinput_caption_translate_y;
+			global::Rg.Plugins.Popup.Resource.Dimension.disabled_alpha_material_dark = global::WordQuiz.Droid.Resource.Dimension.disabled_alpha_material_dark;
+			global::Rg.Plugins.Popup.Resource.Dimension.disabled_alpha_material_light = global::WordQuiz.Droid.Resource.Dimension.disabled_alpha_material_light;
+			global::Rg.Plugins.Popup.Resource.Dimension.fastscroll_default_thickness = global::WordQuiz.Droid.Resource.Dimension.fastscroll_default_thickness;
+			global::Rg.Plugins.Popup.Resource.Dimension.fastscroll_margin = global::WordQuiz.Droid.Resource.Dimension.fastscroll_margin;
+			global::Rg.Plugins.Popup.Resource.Dimension.fastscroll_minimum_range = global::WordQuiz.Droid.Resource.Dimension.fastscroll_minimum_range;
+			global::Rg.Plugins.Popup.Resource.Dimension.highlight_alpha_material_colored = global::WordQuiz.Droid.Resource.Dimension.highlight_alpha_material_colored;
+			global::Rg.Plugins.Popup.Resource.Dimension.highlight_alpha_material_dark = global::WordQuiz.Droid.Resource.Dimension.highlight_alpha_material_dark;
+			global::Rg.Plugins.Popup.Resource.Dimension.highlight_alpha_material_light = global::WordQuiz.Droid.Resource.Dimension.highlight_alpha_material_light;
+			global::Rg.Plugins.Popup.Resource.Dimension.hint_alpha_material_dark = global::WordQuiz.Droid.Resource.Dimension.hint_alpha_material_dark;
+			global::Rg.Plugins.Popup.Resource.Dimension.hint_alpha_material_light = global::WordQuiz.Droid.Resource.Dimension.hint_alpha_material_light;
+			global::Rg.Plugins.Popup.Resource.Dimension.hint_pressed_alpha_material_dark = global::WordQuiz.Droid.Resource.Dimension.hint_pressed_alpha_material_dark;
+			global::Rg.Plugins.Popup.Resource.Dimension.hint_pressed_alpha_material_light = global::WordQuiz.Droid.Resource.Dimension.hint_pressed_alpha_material_light;
+			global::Rg.Plugins.Popup.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame = global::WordQuiz.Droid.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame;
+			global::Rg.Plugins.Popup.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity = global::WordQuiz.Droid.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity;
+			global::Rg.Plugins.Popup.Resource.Dimension.item_touch_helper_swipe_escape_velocity = global::WordQuiz.Droid.Resource.Dimension.item_touch_helper_swipe_escape_velocity;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_bottomappbar_fabOffsetEndMode = global::WordQuiz.Droid.Resource.Dimension.mtrl_bottomappbar_fabOffsetEndMode;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_bottomappbar_fab_cradle_margin = global::WordQuiz.Droid.Resource.Dimension.mtrl_bottomappbar_fab_cradle_margin;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_bottomappbar_fab_cradle_rounded_corner_radius = global::WordQuiz.Droid.Resource.Dimension.mtrl_bottomappbar_fab_cradle_rounded_corner_radius;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_bottomappbar_fab_cradle_vertical_offset = global::WordQuiz.Droid.Resource.Dimension.mtrl_bottomappbar_fab_cradle_vertical_offset;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_bottomappbar_height = global::WordQuiz.Droid.Resource.Dimension.mtrl_bottomappbar_height;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_btn_corner_radius = global::WordQuiz.Droid.Resource.Dimension.mtrl_btn_corner_radius;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_btn_dialog_btn_min_width = global::WordQuiz.Droid.Resource.Dimension.mtrl_btn_dialog_btn_min_width;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_btn_disabled_elevation = global::WordQuiz.Droid.Resource.Dimension.mtrl_btn_disabled_elevation;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_btn_disabled_z = global::WordQuiz.Droid.Resource.Dimension.mtrl_btn_disabled_z;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_btn_elevation = global::WordQuiz.Droid.Resource.Dimension.mtrl_btn_elevation;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_btn_focused_z = global::WordQuiz.Droid.Resource.Dimension.mtrl_btn_focused_z;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_btn_hovered_z = global::WordQuiz.Droid.Resource.Dimension.mtrl_btn_hovered_z;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_btn_icon_btn_padding_left = global::WordQuiz.Droid.Resource.Dimension.mtrl_btn_icon_btn_padding_left;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_btn_icon_padding = global::WordQuiz.Droid.Resource.Dimension.mtrl_btn_icon_padding;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_btn_inset = global::WordQuiz.Droid.Resource.Dimension.mtrl_btn_inset;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_btn_letter_spacing = global::WordQuiz.Droid.Resource.Dimension.mtrl_btn_letter_spacing;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_btn_padding_bottom = global::WordQuiz.Droid.Resource.Dimension.mtrl_btn_padding_bottom;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_btn_padding_left = global::WordQuiz.Droid.Resource.Dimension.mtrl_btn_padding_left;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_btn_padding_right = global::WordQuiz.Droid.Resource.Dimension.mtrl_btn_padding_right;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_btn_padding_top = global::WordQuiz.Droid.Resource.Dimension.mtrl_btn_padding_top;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_btn_pressed_z = global::WordQuiz.Droid.Resource.Dimension.mtrl_btn_pressed_z;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_btn_stroke_size = global::WordQuiz.Droid.Resource.Dimension.mtrl_btn_stroke_size;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_btn_text_btn_icon_padding = global::WordQuiz.Droid.Resource.Dimension.mtrl_btn_text_btn_icon_padding;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_btn_text_btn_padding_left = global::WordQuiz.Droid.Resource.Dimension.mtrl_btn_text_btn_padding_left;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_btn_text_btn_padding_right = global::WordQuiz.Droid.Resource.Dimension.mtrl_btn_text_btn_padding_right;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_btn_text_size = global::WordQuiz.Droid.Resource.Dimension.mtrl_btn_text_size;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_btn_z = global::WordQuiz.Droid.Resource.Dimension.mtrl_btn_z;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_card_elevation = global::WordQuiz.Droid.Resource.Dimension.mtrl_card_elevation;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_card_spacing = global::WordQuiz.Droid.Resource.Dimension.mtrl_card_spacing;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_chip_pressed_translation_z = global::WordQuiz.Droid.Resource.Dimension.mtrl_chip_pressed_translation_z;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_chip_text_size = global::WordQuiz.Droid.Resource.Dimension.mtrl_chip_text_size;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_fab_elevation = global::WordQuiz.Droid.Resource.Dimension.mtrl_fab_elevation;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_fab_translation_z_hovered_focused = global::WordQuiz.Droid.Resource.Dimension.mtrl_fab_translation_z_hovered_focused;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_fab_translation_z_pressed = global::WordQuiz.Droid.Resource.Dimension.mtrl_fab_translation_z_pressed;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_navigation_elevation = global::WordQuiz.Droid.Resource.Dimension.mtrl_navigation_elevation;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_navigation_item_horizontal_padding = global::WordQuiz.Droid.Resource.Dimension.mtrl_navigation_item_horizontal_padding;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_navigation_item_icon_padding = global::WordQuiz.Droid.Resource.Dimension.mtrl_navigation_item_icon_padding;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_snackbar_background_corner_radius = global::WordQuiz.Droid.Resource.Dimension.mtrl_snackbar_background_corner_radius;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_snackbar_margin = global::WordQuiz.Droid.Resource.Dimension.mtrl_snackbar_margin;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_textinput_box_bottom_offset = global::WordQuiz.Droid.Resource.Dimension.mtrl_textinput_box_bottom_offset;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_textinput_box_corner_radius_medium = global::WordQuiz.Droid.Resource.Dimension.mtrl_textinput_box_corner_radius_medium;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_textinput_box_corner_radius_small = global::WordQuiz.Droid.Resource.Dimension.mtrl_textinput_box_corner_radius_small;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_textinput_box_label_cutout_padding = global::WordQuiz.Droid.Resource.Dimension.mtrl_textinput_box_label_cutout_padding;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_textinput_box_padding_end = global::WordQuiz.Droid.Resource.Dimension.mtrl_textinput_box_padding_end;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_textinput_box_stroke_width_default = global::WordQuiz.Droid.Resource.Dimension.mtrl_textinput_box_stroke_width_default;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_textinput_box_stroke_width_focused = global::WordQuiz.Droid.Resource.Dimension.mtrl_textinput_box_stroke_width_focused;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_textinput_outline_box_expanded_padding = global::WordQuiz.Droid.Resource.Dimension.mtrl_textinput_outline_box_expanded_padding;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_toolbar_default_height = global::WordQuiz.Droid.Resource.Dimension.mtrl_toolbar_default_height;
+			global::Rg.Plugins.Popup.Resource.Dimension.notification_action_icon_size = global::WordQuiz.Droid.Resource.Dimension.notification_action_icon_size;
+			global::Rg.Plugins.Popup.Resource.Dimension.notification_action_text_size = global::WordQuiz.Droid.Resource.Dimension.notification_action_text_size;
+			global::Rg.Plugins.Popup.Resource.Dimension.notification_big_circle_margin = global::WordQuiz.Droid.Resource.Dimension.notification_big_circle_margin;
+			global::Rg.Plugins.Popup.Resource.Dimension.notification_content_margin_start = global::WordQuiz.Droid.Resource.Dimension.notification_content_margin_start;
+			global::Rg.Plugins.Popup.Resource.Dimension.notification_large_icon_height = global::WordQuiz.Droid.Resource.Dimension.notification_large_icon_height;
+			global::Rg.Plugins.Popup.Resource.Dimension.notification_large_icon_width = global::WordQuiz.Droid.Resource.Dimension.notification_large_icon_width;
+			global::Rg.Plugins.Popup.Resource.Dimension.notification_main_column_padding_top = global::WordQuiz.Droid.Resource.Dimension.notification_main_column_padding_top;
+			global::Rg.Plugins.Popup.Resource.Dimension.notification_media_narrow_margin = global::WordQuiz.Droid.Resource.Dimension.notification_media_narrow_margin;
+			global::Rg.Plugins.Popup.Resource.Dimension.notification_right_icon_size = global::WordQuiz.Droid.Resource.Dimension.notification_right_icon_size;
+			global::Rg.Plugins.Popup.Resource.Dimension.notification_right_side_padding_top = global::WordQuiz.Droid.Resource.Dimension.notification_right_side_padding_top;
+			global::Rg.Plugins.Popup.Resource.Dimension.notification_small_icon_background_padding = global::WordQuiz.Droid.Resource.Dimension.notification_small_icon_background_padding;
+			global::Rg.Plugins.Popup.Resource.Dimension.notification_small_icon_size_as_large = global::WordQuiz.Droid.Resource.Dimension.notification_small_icon_size_as_large;
+			global::Rg.Plugins.Popup.Resource.Dimension.notification_subtext_size = global::WordQuiz.Droid.Resource.Dimension.notification_subtext_size;
+			global::Rg.Plugins.Popup.Resource.Dimension.notification_top_pad = global::WordQuiz.Droid.Resource.Dimension.notification_top_pad;
+			global::Rg.Plugins.Popup.Resource.Dimension.notification_top_pad_large_text = global::WordQuiz.Droid.Resource.Dimension.notification_top_pad_large_text;
+			global::Rg.Plugins.Popup.Resource.Dimension.subtitle_corner_radius = global::WordQuiz.Droid.Resource.Dimension.subtitle_corner_radius;
+			global::Rg.Plugins.Popup.Resource.Dimension.subtitle_outline_width = global::WordQuiz.Droid.Resource.Dimension.subtitle_outline_width;
+			global::Rg.Plugins.Popup.Resource.Dimension.subtitle_shadow_offset = global::WordQuiz.Droid.Resource.Dimension.subtitle_shadow_offset;
+			global::Rg.Plugins.Popup.Resource.Dimension.subtitle_shadow_radius = global::WordQuiz.Droid.Resource.Dimension.subtitle_shadow_radius;
+			global::Rg.Plugins.Popup.Resource.Dimension.tooltip_corner_radius = global::WordQuiz.Droid.Resource.Dimension.tooltip_corner_radius;
+			global::Rg.Plugins.Popup.Resource.Dimension.tooltip_horizontal_padding = global::WordQuiz.Droid.Resource.Dimension.tooltip_horizontal_padding;
+			global::Rg.Plugins.Popup.Resource.Dimension.tooltip_margin = global::WordQuiz.Droid.Resource.Dimension.tooltip_margin;
+			global::Rg.Plugins.Popup.Resource.Dimension.tooltip_precise_anchor_extra_offset = global::WordQuiz.Droid.Resource.Dimension.tooltip_precise_anchor_extra_offset;
+			global::Rg.Plugins.Popup.Resource.Dimension.tooltip_precise_anchor_threshold = global::WordQuiz.Droid.Resource.Dimension.tooltip_precise_anchor_threshold;
+			global::Rg.Plugins.Popup.Resource.Dimension.tooltip_vertical_padding = global::WordQuiz.Droid.Resource.Dimension.tooltip_vertical_padding;
+			global::Rg.Plugins.Popup.Resource.Dimension.tooltip_y_offset_non_touch = global::WordQuiz.Droid.Resource.Dimension.tooltip_y_offset_non_touch;
+			global::Rg.Plugins.Popup.Resource.Dimension.tooltip_y_offset_touch = global::WordQuiz.Droid.Resource.Dimension.tooltip_y_offset_touch;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_ab_share_pack_mtrl_alpha = global::WordQuiz.Droid.Resource.Drawable.abc_ab_share_pack_mtrl_alpha;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_action_bar_item_background_material = global::WordQuiz.Droid.Resource.Drawable.abc_action_bar_item_background_material;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_btn_borderless_material = global::WordQuiz.Droid.Resource.Drawable.abc_btn_borderless_material;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_btn_check_material = global::WordQuiz.Droid.Resource.Drawable.abc_btn_check_material;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_btn_check_material_anim = global::WordQuiz.Droid.Resource.Drawable.abc_btn_check_material_anim;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_btn_check_to_on_mtrl_000 = global::WordQuiz.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_000;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_btn_check_to_on_mtrl_015 = global::WordQuiz.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_015;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_btn_colored_material = global::WordQuiz.Droid.Resource.Drawable.abc_btn_colored_material;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_btn_default_mtrl_shape = global::WordQuiz.Droid.Resource.Drawable.abc_btn_default_mtrl_shape;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_btn_radio_material = global::WordQuiz.Droid.Resource.Drawable.abc_btn_radio_material;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_btn_radio_material_anim = global::WordQuiz.Droid.Resource.Drawable.abc_btn_radio_material_anim;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_btn_radio_to_on_mtrl_000 = global::WordQuiz.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_000;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_btn_radio_to_on_mtrl_015 = global::WordQuiz.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_015;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001 = global::WordQuiz.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012 = global::WordQuiz.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_cab_background_internal_bg = global::WordQuiz.Droid.Resource.Drawable.abc_cab_background_internal_bg;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_cab_background_top_material = global::WordQuiz.Droid.Resource.Drawable.abc_cab_background_top_material;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_cab_background_top_mtrl_alpha = global::WordQuiz.Droid.Resource.Drawable.abc_cab_background_top_mtrl_alpha;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_control_background_material = global::WordQuiz.Droid.Resource.Drawable.abc_control_background_material;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_dialog_material_background = global::WordQuiz.Droid.Resource.Drawable.abc_dialog_material_background;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_edit_text_material = global::WordQuiz.Droid.Resource.Drawable.abc_edit_text_material;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_ic_ab_back_material = global::WordQuiz.Droid.Resource.Drawable.abc_ic_ab_back_material;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp = global::WordQuiz.Droid.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_ic_clear_material = global::WordQuiz.Droid.Resource.Drawable.abc_ic_clear_material;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha = global::WordQuiz.Droid.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_ic_go_search_api_material = global::WordQuiz.Droid.Resource.Drawable.abc_ic_go_search_api_material;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha = global::WordQuiz.Droid.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha = global::WordQuiz.Droid.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_ic_menu_overflow_material = global::WordQuiz.Droid.Resource.Drawable.abc_ic_menu_overflow_material;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha = global::WordQuiz.Droid.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha = global::WordQuiz.Droid.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_ic_menu_share_mtrl_alpha = global::WordQuiz.Droid.Resource.Drawable.abc_ic_menu_share_mtrl_alpha;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_ic_search_api_material = global::WordQuiz.Droid.Resource.Drawable.abc_ic_search_api_material;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_ic_star_black_16dp = global::WordQuiz.Droid.Resource.Drawable.abc_ic_star_black_16dp;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_ic_star_black_36dp = global::WordQuiz.Droid.Resource.Drawable.abc_ic_star_black_36dp;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_ic_star_black_48dp = global::WordQuiz.Droid.Resource.Drawable.abc_ic_star_black_48dp;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_ic_star_half_black_16dp = global::WordQuiz.Droid.Resource.Drawable.abc_ic_star_half_black_16dp;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_ic_star_half_black_36dp = global::WordQuiz.Droid.Resource.Drawable.abc_ic_star_half_black_36dp;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_ic_star_half_black_48dp = global::WordQuiz.Droid.Resource.Drawable.abc_ic_star_half_black_48dp;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_ic_voice_search_api_material = global::WordQuiz.Droid.Resource.Drawable.abc_ic_voice_search_api_material;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_item_background_holo_dark = global::WordQuiz.Droid.Resource.Drawable.abc_item_background_holo_dark;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_item_background_holo_light = global::WordQuiz.Droid.Resource.Drawable.abc_item_background_holo_light;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_list_divider_material = global::WordQuiz.Droid.Resource.Drawable.abc_list_divider_material;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_list_divider_mtrl_alpha = global::WordQuiz.Droid.Resource.Drawable.abc_list_divider_mtrl_alpha;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_list_focused_holo = global::WordQuiz.Droid.Resource.Drawable.abc_list_focused_holo;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_list_longpressed_holo = global::WordQuiz.Droid.Resource.Drawable.abc_list_longpressed_holo;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_list_pressed_holo_dark = global::WordQuiz.Droid.Resource.Drawable.abc_list_pressed_holo_dark;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_list_pressed_holo_light = global::WordQuiz.Droid.Resource.Drawable.abc_list_pressed_holo_light;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_list_selector_background_transition_holo_dark = global::WordQuiz.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_dark;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_list_selector_background_transition_holo_light = global::WordQuiz.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_light;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_list_selector_disabled_holo_dark = global::WordQuiz.Droid.Resource.Drawable.abc_list_selector_disabled_holo_dark;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_list_selector_disabled_holo_light = global::WordQuiz.Droid.Resource.Drawable.abc_list_selector_disabled_holo_light;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_list_selector_holo_dark = global::WordQuiz.Droid.Resource.Drawable.abc_list_selector_holo_dark;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_list_selector_holo_light = global::WordQuiz.Droid.Resource.Drawable.abc_list_selector_holo_light;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult = global::WordQuiz.Droid.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_popup_background_mtrl_mult = global::WordQuiz.Droid.Resource.Drawable.abc_popup_background_mtrl_mult;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_ratingbar_indicator_material = global::WordQuiz.Droid.Resource.Drawable.abc_ratingbar_indicator_material;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_ratingbar_material = global::WordQuiz.Droid.Resource.Drawable.abc_ratingbar_material;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_ratingbar_small_material = global::WordQuiz.Droid.Resource.Drawable.abc_ratingbar_small_material;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha = global::WordQuiz.Droid.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000 = global::WordQuiz.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005 = global::WordQuiz.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_scrubber_primary_mtrl_alpha = global::WordQuiz.Droid.Resource.Drawable.abc_scrubber_primary_mtrl_alpha;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_scrubber_track_mtrl_alpha = global::WordQuiz.Droid.Resource.Drawable.abc_scrubber_track_mtrl_alpha;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_seekbar_thumb_material = global::WordQuiz.Droid.Resource.Drawable.abc_seekbar_thumb_material;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_seekbar_tick_mark_material = global::WordQuiz.Droid.Resource.Drawable.abc_seekbar_tick_mark_material;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_seekbar_track_material = global::WordQuiz.Droid.Resource.Drawable.abc_seekbar_track_material;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_spinner_mtrl_am_alpha = global::WordQuiz.Droid.Resource.Drawable.abc_spinner_mtrl_am_alpha;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_spinner_textfield_background_material = global::WordQuiz.Droid.Resource.Drawable.abc_spinner_textfield_background_material;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_switch_thumb_material = global::WordQuiz.Droid.Resource.Drawable.abc_switch_thumb_material;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_switch_track_mtrl_alpha = global::WordQuiz.Droid.Resource.Drawable.abc_switch_track_mtrl_alpha;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_tab_indicator_material = global::WordQuiz.Droid.Resource.Drawable.abc_tab_indicator_material;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_tab_indicator_mtrl_alpha = global::WordQuiz.Droid.Resource.Drawable.abc_tab_indicator_mtrl_alpha;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_textfield_activated_mtrl_alpha = global::WordQuiz.Droid.Resource.Drawable.abc_textfield_activated_mtrl_alpha;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_textfield_default_mtrl_alpha = global::WordQuiz.Droid.Resource.Drawable.abc_textfield_default_mtrl_alpha;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha = global::WordQuiz.Droid.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_textfield_search_default_mtrl_alpha = global::WordQuiz.Droid.Resource.Drawable.abc_textfield_search_default_mtrl_alpha;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_textfield_search_material = global::WordQuiz.Droid.Resource.Drawable.abc_textfield_search_material;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_text_cursor_material = global::WordQuiz.Droid.Resource.Drawable.abc_text_cursor_material;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_text_select_handle_left_mtrl_dark = global::WordQuiz.Droid.Resource.Drawable.abc_text_select_handle_left_mtrl_dark;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_text_select_handle_left_mtrl_light = global::WordQuiz.Droid.Resource.Drawable.abc_text_select_handle_left_mtrl_light;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_text_select_handle_middle_mtrl_dark = global::WordQuiz.Droid.Resource.Drawable.abc_text_select_handle_middle_mtrl_dark;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_text_select_handle_middle_mtrl_light = global::WordQuiz.Droid.Resource.Drawable.abc_text_select_handle_middle_mtrl_light;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_text_select_handle_right_mtrl_dark = global::WordQuiz.Droid.Resource.Drawable.abc_text_select_handle_right_mtrl_dark;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_text_select_handle_right_mtrl_light = global::WordQuiz.Droid.Resource.Drawable.abc_text_select_handle_right_mtrl_light;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_vector_test = global::WordQuiz.Droid.Resource.Drawable.abc_vector_test;
+			global::Rg.Plugins.Popup.Resource.Drawable.avd_hide_password = global::WordQuiz.Droid.Resource.Drawable.avd_hide_password;
+			global::Rg.Plugins.Popup.Resource.Drawable.avd_show_password = global::WordQuiz.Droid.Resource.Drawable.avd_show_password;
+			global::Rg.Plugins.Popup.Resource.Drawable.btn_checkbox_checked_mtrl = global::WordQuiz.Droid.Resource.Drawable.btn_checkbox_checked_mtrl;
+			global::Rg.Plugins.Popup.Resource.Drawable.btn_checkbox_checked_to_unchecked_mtrl_animation = global::WordQuiz.Droid.Resource.Drawable.btn_checkbox_checked_to_unchecked_mtrl_animation;
+			global::Rg.Plugins.Popup.Resource.Drawable.btn_checkbox_unchecked_mtrl = global::WordQuiz.Droid.Resource.Drawable.btn_checkbox_unchecked_mtrl;
+			global::Rg.Plugins.Popup.Resource.Drawable.btn_checkbox_unchecked_to_checked_mtrl_animation = global::WordQuiz.Droid.Resource.Drawable.btn_checkbox_unchecked_to_checked_mtrl_animation;
+			global::Rg.Plugins.Popup.Resource.Drawable.btn_radio_off_mtrl = global::WordQuiz.Droid.Resource.Drawable.btn_radio_off_mtrl;
+			global::Rg.Plugins.Popup.Resource.Drawable.btn_radio_off_to_on_mtrl_animation = global::WordQuiz.Droid.Resource.Drawable.btn_radio_off_to_on_mtrl_animation;
+			global::Rg.Plugins.Popup.Resource.Drawable.btn_radio_on_mtrl = global::WordQuiz.Droid.Resource.Drawable.btn_radio_on_mtrl;
+			global::Rg.Plugins.Popup.Resource.Drawable.btn_radio_on_to_off_mtrl_animation = global::WordQuiz.Droid.Resource.Drawable.btn_radio_on_to_off_mtrl_animation;
+			global::Rg.Plugins.Popup.Resource.Drawable.design_bottom_navigation_item_background = global::WordQuiz.Droid.Resource.Drawable.design_bottom_navigation_item_background;
+			global::Rg.Plugins.Popup.Resource.Drawable.design_fab_background = global::WordQuiz.Droid.Resource.Drawable.design_fab_background;
+			global::Rg.Plugins.Popup.Resource.Drawable.design_ic_visibility = global::WordQuiz.Droid.Resource.Drawable.design_ic_visibility;
+			global::Rg.Plugins.Popup.Resource.Drawable.design_ic_visibility_off = global::WordQuiz.Droid.Resource.Drawable.design_ic_visibility_off;
+			global::Rg.Plugins.Popup.Resource.Drawable.design_password_eye = global::WordQuiz.Droid.Resource.Drawable.design_password_eye;
+			global::Rg.Plugins.Popup.Resource.Drawable.design_snackbar_background = global::WordQuiz.Droid.Resource.Drawable.design_snackbar_background;
+			global::Rg.Plugins.Popup.Resource.Drawable.ic_mtrl_chip_checked_black = global::WordQuiz.Droid.Resource.Drawable.ic_mtrl_chip_checked_black;
+			global::Rg.Plugins.Popup.Resource.Drawable.ic_mtrl_chip_checked_circle = global::WordQuiz.Droid.Resource.Drawable.ic_mtrl_chip_checked_circle;
+			global::Rg.Plugins.Popup.Resource.Drawable.ic_mtrl_chip_close_circle = global::WordQuiz.Droid.Resource.Drawable.ic_mtrl_chip_close_circle;
+			global::Rg.Plugins.Popup.Resource.Drawable.mtrl_snackbar_background = global::WordQuiz.Droid.Resource.Drawable.mtrl_snackbar_background;
+			global::Rg.Plugins.Popup.Resource.Drawable.mtrl_tabs_default_indicator = global::WordQuiz.Droid.Resource.Drawable.mtrl_tabs_default_indicator;
+			global::Rg.Plugins.Popup.Resource.Drawable.navigation_empty_icon = global::WordQuiz.Droid.Resource.Drawable.navigation_empty_icon;
+			global::Rg.Plugins.Popup.Resource.Drawable.notification_action_background = global::WordQuiz.Droid.Resource.Drawable.notification_action_background;
+			global::Rg.Plugins.Popup.Resource.Drawable.notification_bg = global::WordQuiz.Droid.Resource.Drawable.notification_bg;
+			global::Rg.Plugins.Popup.Resource.Drawable.notification_bg_low = global::WordQuiz.Droid.Resource.Drawable.notification_bg_low;
+			global::Rg.Plugins.Popup.Resource.Drawable.notification_bg_low_normal = global::WordQuiz.Droid.Resource.Drawable.notification_bg_low_normal;
+			global::Rg.Plugins.Popup.Resource.Drawable.notification_bg_low_pressed = global::WordQuiz.Droid.Resource.Drawable.notification_bg_low_pressed;
+			global::Rg.Plugins.Popup.Resource.Drawable.notification_bg_normal = global::WordQuiz.Droid.Resource.Drawable.notification_bg_normal;
+			global::Rg.Plugins.Popup.Resource.Drawable.notification_bg_normal_pressed = global::WordQuiz.Droid.Resource.Drawable.notification_bg_normal_pressed;
+			global::Rg.Plugins.Popup.Resource.Drawable.notification_icon_background = global::WordQuiz.Droid.Resource.Drawable.notification_icon_background;
+			global::Rg.Plugins.Popup.Resource.Drawable.notification_template_icon_bg = global::WordQuiz.Droid.Resource.Drawable.notification_template_icon_bg;
+			global::Rg.Plugins.Popup.Resource.Drawable.notification_template_icon_low_bg = global::WordQuiz.Droid.Resource.Drawable.notification_template_icon_low_bg;
+			global::Rg.Plugins.Popup.Resource.Drawable.notification_tile_bg = global::WordQuiz.Droid.Resource.Drawable.notification_tile_bg;
+			global::Rg.Plugins.Popup.Resource.Drawable.notify_panel_notification_icon_bg = global::WordQuiz.Droid.Resource.Drawable.notify_panel_notification_icon_bg;
+			global::Rg.Plugins.Popup.Resource.Drawable.tooltip_frame_dark = global::WordQuiz.Droid.Resource.Drawable.tooltip_frame_dark;
+			global::Rg.Plugins.Popup.Resource.Drawable.tooltip_frame_light = global::WordQuiz.Droid.Resource.Drawable.tooltip_frame_light;
+			global::Rg.Plugins.Popup.Resource.Id.accessibility_action_clickable_span = global::WordQuiz.Droid.Resource.Id.accessibility_action_clickable_span;
+			global::Rg.Plugins.Popup.Resource.Id.accessibility_custom_action_0 = global::WordQuiz.Droid.Resource.Id.accessibility_custom_action_0;
+			global::Rg.Plugins.Popup.Resource.Id.accessibility_custom_action_1 = global::WordQuiz.Droid.Resource.Id.accessibility_custom_action_1;
+			global::Rg.Plugins.Popup.Resource.Id.accessibility_custom_action_10 = global::WordQuiz.Droid.Resource.Id.accessibility_custom_action_10;
+			global::Rg.Plugins.Popup.Resource.Id.accessibility_custom_action_11 = global::WordQuiz.Droid.Resource.Id.accessibility_custom_action_11;
+			global::Rg.Plugins.Popup.Resource.Id.accessibility_custom_action_12 = global::WordQuiz.Droid.Resource.Id.accessibility_custom_action_12;
+			global::Rg.Plugins.Popup.Resource.Id.accessibility_custom_action_13 = global::WordQuiz.Droid.Resource.Id.accessibility_custom_action_13;
+			global::Rg.Plugins.Popup.Resource.Id.accessibility_custom_action_14 = global::WordQuiz.Droid.Resource.Id.accessibility_custom_action_14;
+			global::Rg.Plugins.Popup.Resource.Id.accessibility_custom_action_15 = global::WordQuiz.Droid.Resource.Id.accessibility_custom_action_15;
+			global::Rg.Plugins.Popup.Resource.Id.accessibility_custom_action_16 = global::WordQuiz.Droid.Resource.Id.accessibility_custom_action_16;
+			global::Rg.Plugins.Popup.Resource.Id.accessibility_custom_action_17 = global::WordQuiz.Droid.Resource.Id.accessibility_custom_action_17;
+			global::Rg.Plugins.Popup.Resource.Id.accessibility_custom_action_18 = global::WordQuiz.Droid.Resource.Id.accessibility_custom_action_18;
+			global::Rg.Plugins.Popup.Resource.Id.accessibility_custom_action_19 = global::WordQuiz.Droid.Resource.Id.accessibility_custom_action_19;
+			global::Rg.Plugins.Popup.Resource.Id.accessibility_custom_action_2 = global::WordQuiz.Droid.Resource.Id.accessibility_custom_action_2;
+			global::Rg.Plugins.Popup.Resource.Id.accessibility_custom_action_20 = global::WordQuiz.Droid.Resource.Id.accessibility_custom_action_20;
+			global::Rg.Plugins.Popup.Resource.Id.accessibility_custom_action_21 = global::WordQuiz.Droid.Resource.Id.accessibility_custom_action_21;
+			global::Rg.Plugins.Popup.Resource.Id.accessibility_custom_action_22 = global::WordQuiz.Droid.Resource.Id.accessibility_custom_action_22;
+			global::Rg.Plugins.Popup.Resource.Id.accessibility_custom_action_23 = global::WordQuiz.Droid.Resource.Id.accessibility_custom_action_23;
+			global::Rg.Plugins.Popup.Resource.Id.accessibility_custom_action_24 = global::WordQuiz.Droid.Resource.Id.accessibility_custom_action_24;
+			global::Rg.Plugins.Popup.Resource.Id.accessibility_custom_action_25 = global::WordQuiz.Droid.Resource.Id.accessibility_custom_action_25;
+			global::Rg.Plugins.Popup.Resource.Id.accessibility_custom_action_26 = global::WordQuiz.Droid.Resource.Id.accessibility_custom_action_26;
+			global::Rg.Plugins.Popup.Resource.Id.accessibility_custom_action_27 = global::WordQuiz.Droid.Resource.Id.accessibility_custom_action_27;
+			global::Rg.Plugins.Popup.Resource.Id.accessibility_custom_action_28 = global::WordQuiz.Droid.Resource.Id.accessibility_custom_action_28;
+			global::Rg.Plugins.Popup.Resource.Id.accessibility_custom_action_29 = global::WordQuiz.Droid.Resource.Id.accessibility_custom_action_29;
+			global::Rg.Plugins.Popup.Resource.Id.accessibility_custom_action_3 = global::WordQuiz.Droid.Resource.Id.accessibility_custom_action_3;
+			global::Rg.Plugins.Popup.Resource.Id.accessibility_custom_action_30 = global::WordQuiz.Droid.Resource.Id.accessibility_custom_action_30;
+			global::Rg.Plugins.Popup.Resource.Id.accessibility_custom_action_31 = global::WordQuiz.Droid.Resource.Id.accessibility_custom_action_31;
+			global::Rg.Plugins.Popup.Resource.Id.accessibility_custom_action_4 = global::WordQuiz.Droid.Resource.Id.accessibility_custom_action_4;
+			global::Rg.Plugins.Popup.Resource.Id.accessibility_custom_action_5 = global::WordQuiz.Droid.Resource.Id.accessibility_custom_action_5;
+			global::Rg.Plugins.Popup.Resource.Id.accessibility_custom_action_6 = global::WordQuiz.Droid.Resource.Id.accessibility_custom_action_6;
+			global::Rg.Plugins.Popup.Resource.Id.accessibility_custom_action_7 = global::WordQuiz.Droid.Resource.Id.accessibility_custom_action_7;
+			global::Rg.Plugins.Popup.Resource.Id.accessibility_custom_action_8 = global::WordQuiz.Droid.Resource.Id.accessibility_custom_action_8;
+			global::Rg.Plugins.Popup.Resource.Id.accessibility_custom_action_9 = global::WordQuiz.Droid.Resource.Id.accessibility_custom_action_9;
+			global::Rg.Plugins.Popup.Resource.Id.action0 = global::WordQuiz.Droid.Resource.Id.action0;
+			global::Rg.Plugins.Popup.Resource.Id.actions = global::WordQuiz.Droid.Resource.Id.actions;
+			global::Rg.Plugins.Popup.Resource.Id.action_bar = global::WordQuiz.Droid.Resource.Id.action_bar;
+			global::Rg.Plugins.Popup.Resource.Id.action_bar_activity_content = global::WordQuiz.Droid.Resource.Id.action_bar_activity_content;
+			global::Rg.Plugins.Popup.Resource.Id.action_bar_container = global::WordQuiz.Droid.Resource.Id.action_bar_container;
+			global::Rg.Plugins.Popup.Resource.Id.action_bar_root = global::WordQuiz.Droid.Resource.Id.action_bar_root;
+			global::Rg.Plugins.Popup.Resource.Id.action_bar_spinner = global::WordQuiz.Droid.Resource.Id.action_bar_spinner;
+			global::Rg.Plugins.Popup.Resource.Id.action_bar_subtitle = global::WordQuiz.Droid.Resource.Id.action_bar_subtitle;
+			global::Rg.Plugins.Popup.Resource.Id.action_bar_title = global::WordQuiz.Droid.Resource.Id.action_bar_title;
+			global::Rg.Plugins.Popup.Resource.Id.action_container = global::WordQuiz.Droid.Resource.Id.action_container;
+			global::Rg.Plugins.Popup.Resource.Id.action_context_bar = global::WordQuiz.Droid.Resource.Id.action_context_bar;
+			global::Rg.Plugins.Popup.Resource.Id.action_divider = global::WordQuiz.Droid.Resource.Id.action_divider;
+			global::Rg.Plugins.Popup.Resource.Id.action_image = global::WordQuiz.Droid.Resource.Id.action_image;
+			global::Rg.Plugins.Popup.Resource.Id.action_menu_divider = global::WordQuiz.Droid.Resource.Id.action_menu_divider;
+			global::Rg.Plugins.Popup.Resource.Id.action_menu_presenter = global::WordQuiz.Droid.Resource.Id.action_menu_presenter;
+			global::Rg.Plugins.Popup.Resource.Id.action_mode_bar = global::WordQuiz.Droid.Resource.Id.action_mode_bar;
+			global::Rg.Plugins.Popup.Resource.Id.action_mode_bar_stub = global::WordQuiz.Droid.Resource.Id.action_mode_bar_stub;
+			global::Rg.Plugins.Popup.Resource.Id.action_mode_close_button = global::WordQuiz.Droid.Resource.Id.action_mode_close_button;
+			global::Rg.Plugins.Popup.Resource.Id.action_text = global::WordQuiz.Droid.Resource.Id.action_text;
+			global::Rg.Plugins.Popup.Resource.Id.activity_chooser_view_content = global::WordQuiz.Droid.Resource.Id.activity_chooser_view_content;
+			global::Rg.Plugins.Popup.Resource.Id.add = global::WordQuiz.Droid.Resource.Id.add;
+			global::Rg.Plugins.Popup.Resource.Id.alertTitle = global::WordQuiz.Droid.Resource.Id.alertTitle;
+			global::Rg.Plugins.Popup.Resource.Id.all = global::WordQuiz.Droid.Resource.Id.all;
+			global::Rg.Plugins.Popup.Resource.Id.ALT = global::WordQuiz.Droid.Resource.Id.ALT;
+			global::Rg.Plugins.Popup.Resource.Id.always = global::WordQuiz.Droid.Resource.Id.always;
+			global::Rg.Plugins.Popup.Resource.Id.async = global::WordQuiz.Droid.Resource.Id.async;
+			global::Rg.Plugins.Popup.Resource.Id.auto = global::WordQuiz.Droid.Resource.Id.auto;
+			global::Rg.Plugins.Popup.Resource.Id.beginning = global::WordQuiz.Droid.Resource.Id.beginning;
+			global::Rg.Plugins.Popup.Resource.Id.blocking = global::WordQuiz.Droid.Resource.Id.blocking;
+			global::Rg.Plugins.Popup.Resource.Id.bottom = global::WordQuiz.Droid.Resource.Id.bottom;
+			global::Rg.Plugins.Popup.Resource.Id.bottomtab_navarea = global::WordQuiz.Droid.Resource.Id.bottomtab_navarea;
+			global::Rg.Plugins.Popup.Resource.Id.bottomtab_tabbar = global::WordQuiz.Droid.Resource.Id.bottomtab_tabbar;
+			global::Rg.Plugins.Popup.Resource.Id.browser_actions_header_text = global::WordQuiz.Droid.Resource.Id.browser_actions_header_text;
+			global::Rg.Plugins.Popup.Resource.Id.browser_actions_menu_items = global::WordQuiz.Droid.Resource.Id.browser_actions_menu_items;
+			global::Rg.Plugins.Popup.Resource.Id.browser_actions_menu_item_icon = global::WordQuiz.Droid.Resource.Id.browser_actions_menu_item_icon;
+			global::Rg.Plugins.Popup.Resource.Id.browser_actions_menu_item_text = global::WordQuiz.Droid.Resource.Id.browser_actions_menu_item_text;
+			global::Rg.Plugins.Popup.Resource.Id.browser_actions_menu_view = global::WordQuiz.Droid.Resource.Id.browser_actions_menu_view;
+			global::Rg.Plugins.Popup.Resource.Id.buttonPanel = global::WordQuiz.Droid.Resource.Id.buttonPanel;
+			global::Rg.Plugins.Popup.Resource.Id.cancel_action = global::WordQuiz.Droid.Resource.Id.cancel_action;
+			global::Rg.Plugins.Popup.Resource.Id.center = global::WordQuiz.Droid.Resource.Id.center;
+			global::Rg.Plugins.Popup.Resource.Id.center_horizontal = global::WordQuiz.Droid.Resource.Id.center_horizontal;
+			global::Rg.Plugins.Popup.Resource.Id.center_vertical = global::WordQuiz.Droid.Resource.Id.center_vertical;
+			global::Rg.Plugins.Popup.Resource.Id.checkbox = global::WordQuiz.Droid.Resource.Id.checkbox;
+			global::Rg.Plugins.Popup.Resource.Id.@checked = global::WordQuiz.Droid.Resource.Id.@checked;
+			global::Rg.Plugins.Popup.Resource.Id.chronometer = global::WordQuiz.Droid.Resource.Id.chronometer;
+			global::Rg.Plugins.Popup.Resource.Id.clip_horizontal = global::WordQuiz.Droid.Resource.Id.clip_horizontal;
+			global::Rg.Plugins.Popup.Resource.Id.clip_vertical = global::WordQuiz.Droid.Resource.Id.clip_vertical;
+			global::Rg.Plugins.Popup.Resource.Id.collapseActionView = global::WordQuiz.Droid.Resource.Id.collapseActionView;
+			global::Rg.Plugins.Popup.Resource.Id.container = global::WordQuiz.Droid.Resource.Id.container;
+			global::Rg.Plugins.Popup.Resource.Id.content = global::WordQuiz.Droid.Resource.Id.content;
+			global::Rg.Plugins.Popup.Resource.Id.contentPanel = global::WordQuiz.Droid.Resource.Id.contentPanel;
+			global::Rg.Plugins.Popup.Resource.Id.coordinator = global::WordQuiz.Droid.Resource.Id.coordinator;
+			global::Rg.Plugins.Popup.Resource.Id.CTRL = global::WordQuiz.Droid.Resource.Id.CTRL;
+			global::Rg.Plugins.Popup.Resource.Id.custom = global::WordQuiz.Droid.Resource.Id.custom;
+			global::Rg.Plugins.Popup.Resource.Id.customPanel = global::WordQuiz.Droid.Resource.Id.customPanel;
+			global::Rg.Plugins.Popup.Resource.Id.decor_content_parent = global::WordQuiz.Droid.Resource.Id.decor_content_parent;
+			global::Rg.Plugins.Popup.Resource.Id.default_activity_button = global::WordQuiz.Droid.Resource.Id.default_activity_button;
+			global::Rg.Plugins.Popup.Resource.Id.design_bottom_sheet = global::WordQuiz.Droid.Resource.Id.design_bottom_sheet;
+			global::Rg.Plugins.Popup.Resource.Id.design_menu_item_action_area = global::WordQuiz.Droid.Resource.Id.design_menu_item_action_area;
+			global::Rg.Plugins.Popup.Resource.Id.design_menu_item_action_area_stub = global::WordQuiz.Droid.Resource.Id.design_menu_item_action_area_stub;
+			global::Rg.Plugins.Popup.Resource.Id.design_menu_item_text = global::WordQuiz.Droid.Resource.Id.design_menu_item_text;
+			global::Rg.Plugins.Popup.Resource.Id.design_navigation_view = global::WordQuiz.Droid.Resource.Id.design_navigation_view;
+			global::Rg.Plugins.Popup.Resource.Id.dialog_button = global::WordQuiz.Droid.Resource.Id.dialog_button;
+			global::Rg.Plugins.Popup.Resource.Id.disableHome = global::WordQuiz.Droid.Resource.Id.disableHome;
+			global::Rg.Plugins.Popup.Resource.Id.edit_query = global::WordQuiz.Droid.Resource.Id.edit_query;
+			global::Rg.Plugins.Popup.Resource.Id.end = global::WordQuiz.Droid.Resource.Id.end;
+			global::Rg.Plugins.Popup.Resource.Id.end_padder = global::WordQuiz.Droid.Resource.Id.end_padder;
+			global::Rg.Plugins.Popup.Resource.Id.enterAlways = global::WordQuiz.Droid.Resource.Id.enterAlways;
+			global::Rg.Plugins.Popup.Resource.Id.enterAlwaysCollapsed = global::WordQuiz.Droid.Resource.Id.enterAlwaysCollapsed;
+			global::Rg.Plugins.Popup.Resource.Id.exitUntilCollapsed = global::WordQuiz.Droid.Resource.Id.exitUntilCollapsed;
+			global::Rg.Plugins.Popup.Resource.Id.expanded_menu = global::WordQuiz.Droid.Resource.Id.expanded_menu;
+			global::Rg.Plugins.Popup.Resource.Id.expand_activities_button = global::WordQuiz.Droid.Resource.Id.expand_activities_button;
+			global::Rg.Plugins.Popup.Resource.Id.fill = global::WordQuiz.Droid.Resource.Id.fill;
+			global::Rg.Plugins.Popup.Resource.Id.filled = global::WordQuiz.Droid.Resource.Id.filled;
+			global::Rg.Plugins.Popup.Resource.Id.fill_horizontal = global::WordQuiz.Droid.Resource.Id.fill_horizontal;
+			global::Rg.Plugins.Popup.Resource.Id.fill_vertical = global::WordQuiz.Droid.Resource.Id.fill_vertical;
+			global::Rg.Plugins.Popup.Resource.Id.@fixed = global::WordQuiz.Droid.Resource.Id.@fixed;
+			global::Rg.Plugins.Popup.Resource.Id.flyoutcontent_appbar = global::WordQuiz.Droid.Resource.Id.flyoutcontent_appbar;
+			global::Rg.Plugins.Popup.Resource.Id.flyoutcontent_recycler = global::WordQuiz.Droid.Resource.Id.flyoutcontent_recycler;
+			global::Rg.Plugins.Popup.Resource.Id.forever = global::WordQuiz.Droid.Resource.Id.forever;
+			global::Rg.Plugins.Popup.Resource.Id.FUNCTION = global::WordQuiz.Droid.Resource.Id.FUNCTION;
+			global::Rg.Plugins.Popup.Resource.Id.ghost_view = global::WordQuiz.Droid.Resource.Id.ghost_view;
+			global::Rg.Plugins.Popup.Resource.Id.ghost_view_holder = global::WordQuiz.Droid.Resource.Id.ghost_view_holder;
+			global::Rg.Plugins.Popup.Resource.Id.group_divider = global::WordQuiz.Droid.Resource.Id.group_divider;
+			global::Rg.Plugins.Popup.Resource.Id.home = global::WordQuiz.Droid.Resource.Id.home;
+			global::Rg.Plugins.Popup.Resource.Id.homeAsUp = global::WordQuiz.Droid.Resource.Id.homeAsUp;
+			global::Rg.Plugins.Popup.Resource.Id.icon = global::WordQuiz.Droid.Resource.Id.icon;
+			global::Rg.Plugins.Popup.Resource.Id.icon_group = global::WordQuiz.Droid.Resource.Id.icon_group;
+			global::Rg.Plugins.Popup.Resource.Id.ifRoom = global::WordQuiz.Droid.Resource.Id.ifRoom;
+			global::Rg.Plugins.Popup.Resource.Id.image = global::WordQuiz.Droid.Resource.Id.image;
+			global::Rg.Plugins.Popup.Resource.Id.info = global::WordQuiz.Droid.Resource.Id.info;
+			global::Rg.Plugins.Popup.Resource.Id.italic = global::WordQuiz.Droid.Resource.Id.italic;
+			global::Rg.Plugins.Popup.Resource.Id.item_touch_helper_previous_elevation = global::WordQuiz.Droid.Resource.Id.item_touch_helper_previous_elevation;
+			global::Rg.Plugins.Popup.Resource.Id.labeled = global::WordQuiz.Droid.Resource.Id.labeled;
+			global::Rg.Plugins.Popup.Resource.Id.largeLabel = global::WordQuiz.Droid.Resource.Id.largeLabel;
+			global::Rg.Plugins.Popup.Resource.Id.left = global::WordQuiz.Droid.Resource.Id.left;
+			global::Rg.Plugins.Popup.Resource.Id.line1 = global::WordQuiz.Droid.Resource.Id.line1;
+			global::Rg.Plugins.Popup.Resource.Id.line3 = global::WordQuiz.Droid.Resource.Id.line3;
+			global::Rg.Plugins.Popup.Resource.Id.listMode = global::WordQuiz.Droid.Resource.Id.listMode;
+			global::Rg.Plugins.Popup.Resource.Id.list_item = global::WordQuiz.Droid.Resource.Id.list_item;
+			global::Rg.Plugins.Popup.Resource.Id.main_appbar = global::WordQuiz.Droid.Resource.Id.main_appbar;
+			global::Rg.Plugins.Popup.Resource.Id.main_tablayout = global::WordQuiz.Droid.Resource.Id.main_tablayout;
+			global::Rg.Plugins.Popup.Resource.Id.main_toolbar = global::WordQuiz.Droid.Resource.Id.main_toolbar;
+			global::Rg.Plugins.Popup.Resource.Id.main_viewpager = global::WordQuiz.Droid.Resource.Id.main_viewpager;
+			global::Rg.Plugins.Popup.Resource.Id.masked = global::WordQuiz.Droid.Resource.Id.masked;
+			global::Rg.Plugins.Popup.Resource.Id.media_actions = global::WordQuiz.Droid.Resource.Id.media_actions;
+			global::Rg.Plugins.Popup.Resource.Id.message = global::WordQuiz.Droid.Resource.Id.message;
+			global::Rg.Plugins.Popup.Resource.Id.META = global::WordQuiz.Droid.Resource.Id.META;
+			global::Rg.Plugins.Popup.Resource.Id.middle = global::WordQuiz.Droid.Resource.Id.middle;
+			global::Rg.Plugins.Popup.Resource.Id.mini = global::WordQuiz.Droid.Resource.Id.mini;
+			global::Rg.Plugins.Popup.Resource.Id.mtrl_child_content_container = global::WordQuiz.Droid.Resource.Id.mtrl_child_content_container;
+			global::Rg.Plugins.Popup.Resource.Id.mtrl_internal_children_alpha_tag = global::WordQuiz.Droid.Resource.Id.mtrl_internal_children_alpha_tag;
+			global::Rg.Plugins.Popup.Resource.Id.multiply = global::WordQuiz.Droid.Resource.Id.multiply;
+			global::Rg.Plugins.Popup.Resource.Id.navigation_header_container = global::WordQuiz.Droid.Resource.Id.navigation_header_container;
+			global::Rg.Plugins.Popup.Resource.Id.never = global::WordQuiz.Droid.Resource.Id.never;
+			global::Rg.Plugins.Popup.Resource.Id.none = global::WordQuiz.Droid.Resource.Id.none;
+			global::Rg.Plugins.Popup.Resource.Id.normal = global::WordQuiz.Droid.Resource.Id.normal;
+			global::Rg.Plugins.Popup.Resource.Id.notification_background = global::WordQuiz.Droid.Resource.Id.notification_background;
+			global::Rg.Plugins.Popup.Resource.Id.notification_main_column = global::WordQuiz.Droid.Resource.Id.notification_main_column;
+			global::Rg.Plugins.Popup.Resource.Id.notification_main_column_container = global::WordQuiz.Droid.Resource.Id.notification_main_column_container;
+			global::Rg.Plugins.Popup.Resource.Id.off = global::WordQuiz.Droid.Resource.Id.off;
+			global::Rg.Plugins.Popup.Resource.Id.on = global::WordQuiz.Droid.Resource.Id.on;
+			global::Rg.Plugins.Popup.Resource.Id.outline = global::WordQuiz.Droid.Resource.Id.outline;
+			global::Rg.Plugins.Popup.Resource.Id.parallax = global::WordQuiz.Droid.Resource.Id.parallax;
+			global::Rg.Plugins.Popup.Resource.Id.parentPanel = global::WordQuiz.Droid.Resource.Id.parentPanel;
+			global::Rg.Plugins.Popup.Resource.Id.parent_matrix = global::WordQuiz.Droid.Resource.Id.parent_matrix;
+			global::Rg.Plugins.Popup.Resource.Id.pin = global::WordQuiz.Droid.Resource.Id.pin;
+			global::Rg.Plugins.Popup.Resource.Id.progress_circular = global::WordQuiz.Droid.Resource.Id.progress_circular;
+			global::Rg.Plugins.Popup.Resource.Id.progress_horizontal = global::WordQuiz.Droid.Resource.Id.progress_horizontal;
+			global::Rg.Plugins.Popup.Resource.Id.radio = global::WordQuiz.Droid.Resource.Id.radio;
+			global::Rg.Plugins.Popup.Resource.Id.right = global::WordQuiz.Droid.Resource.Id.right;
+			global::Rg.Plugins.Popup.Resource.Id.right_icon = global::WordQuiz.Droid.Resource.Id.right_icon;
+			global::Rg.Plugins.Popup.Resource.Id.right_side = global::WordQuiz.Droid.Resource.Id.right_side;
+			global::Rg.Plugins.Popup.Resource.Id.save_non_transition_alpha = global::WordQuiz.Droid.Resource.Id.save_non_transition_alpha;
+			global::Rg.Plugins.Popup.Resource.Id.save_overlay_view = global::WordQuiz.Droid.Resource.Id.save_overlay_view;
+			global::Rg.Plugins.Popup.Resource.Id.screen = global::WordQuiz.Droid.Resource.Id.screen;
+			global::Rg.Plugins.Popup.Resource.Id.scroll = global::WordQuiz.Droid.Resource.Id.scroll;
+			global::Rg.Plugins.Popup.Resource.Id.scrollable = global::WordQuiz.Droid.Resource.Id.scrollable;
+			global::Rg.Plugins.Popup.Resource.Id.scrollIndicatorDown = global::WordQuiz.Droid.Resource.Id.scrollIndicatorDown;
+			global::Rg.Plugins.Popup.Resource.Id.scrollIndicatorUp = global::WordQuiz.Droid.Resource.Id.scrollIndicatorUp;
+			global::Rg.Plugins.Popup.Resource.Id.scrollView = global::WordQuiz.Droid.Resource.Id.scrollView;
+			global::Rg.Plugins.Popup.Resource.Id.search_badge = global::WordQuiz.Droid.Resource.Id.search_badge;
+			global::Rg.Plugins.Popup.Resource.Id.search_bar = global::WordQuiz.Droid.Resource.Id.search_bar;
+			global::Rg.Plugins.Popup.Resource.Id.search_button = global::WordQuiz.Droid.Resource.Id.search_button;
+			global::Rg.Plugins.Popup.Resource.Id.search_close_btn = global::WordQuiz.Droid.Resource.Id.search_close_btn;
+			global::Rg.Plugins.Popup.Resource.Id.search_edit_frame = global::WordQuiz.Droid.Resource.Id.search_edit_frame;
+			global::Rg.Plugins.Popup.Resource.Id.search_go_btn = global::WordQuiz.Droid.Resource.Id.search_go_btn;
+			global::Rg.Plugins.Popup.Resource.Id.search_mag_icon = global::WordQuiz.Droid.Resource.Id.search_mag_icon;
+			global::Rg.Plugins.Popup.Resource.Id.search_plate = global::WordQuiz.Droid.Resource.Id.search_plate;
+			global::Rg.Plugins.Popup.Resource.Id.search_src_text = global::WordQuiz.Droid.Resource.Id.search_src_text;
+			global::Rg.Plugins.Popup.Resource.Id.search_voice_btn = global::WordQuiz.Droid.Resource.Id.search_voice_btn;
+			global::Rg.Plugins.Popup.Resource.Id.selected = global::WordQuiz.Droid.Resource.Id.selected;
+			global::Rg.Plugins.Popup.Resource.Id.select_dialog_listview = global::WordQuiz.Droid.Resource.Id.select_dialog_listview;
+			global::Rg.Plugins.Popup.Resource.Id.shellcontent_appbar = global::WordQuiz.Droid.Resource.Id.shellcontent_appbar;
+			global::Rg.Plugins.Popup.Resource.Id.shellcontent_toolbar = global::WordQuiz.Droid.Resource.Id.shellcontent_toolbar;
+			global::Rg.Plugins.Popup.Resource.Id.SHIFT = global::WordQuiz.Droid.Resource.Id.SHIFT;
+			global::Rg.Plugins.Popup.Resource.Id.shortcut = global::WordQuiz.Droid.Resource.Id.shortcut;
+			global::Rg.Plugins.Popup.Resource.Id.showCustom = global::WordQuiz.Droid.Resource.Id.showCustom;
+			global::Rg.Plugins.Popup.Resource.Id.showHome = global::WordQuiz.Droid.Resource.Id.showHome;
+			global::Rg.Plugins.Popup.Resource.Id.showTitle = global::WordQuiz.Droid.Resource.Id.showTitle;
+			global::Rg.Plugins.Popup.Resource.Id.sliding_tabs = global::WordQuiz.Droid.Resource.Id.sliding_tabs;
+			global::Rg.Plugins.Popup.Resource.Id.smallLabel = global::WordQuiz.Droid.Resource.Id.smallLabel;
+			global::Rg.Plugins.Popup.Resource.Id.snackbar_action = global::WordQuiz.Droid.Resource.Id.snackbar_action;
+			global::Rg.Plugins.Popup.Resource.Id.snackbar_text = global::WordQuiz.Droid.Resource.Id.snackbar_text;
+			global::Rg.Plugins.Popup.Resource.Id.snap = global::WordQuiz.Droid.Resource.Id.snap;
+			global::Rg.Plugins.Popup.Resource.Id.snapMargins = global::WordQuiz.Droid.Resource.Id.snapMargins;
+			global::Rg.Plugins.Popup.Resource.Id.spacer = global::WordQuiz.Droid.Resource.Id.spacer;
+			global::Rg.Plugins.Popup.Resource.Id.split_action_bar = global::WordQuiz.Droid.Resource.Id.split_action_bar;
+			global::Rg.Plugins.Popup.Resource.Id.src_atop = global::WordQuiz.Droid.Resource.Id.src_atop;
+			global::Rg.Plugins.Popup.Resource.Id.src_in = global::WordQuiz.Droid.Resource.Id.src_in;
+			global::Rg.Plugins.Popup.Resource.Id.src_over = global::WordQuiz.Droid.Resource.Id.src_over;
+			global::Rg.Plugins.Popup.Resource.Id.start = global::WordQuiz.Droid.Resource.Id.start;
+			global::Rg.Plugins.Popup.Resource.Id.status_bar_latest_event_content = global::WordQuiz.Droid.Resource.Id.status_bar_latest_event_content;
+			global::Rg.Plugins.Popup.Resource.Id.stretch = global::WordQuiz.Droid.Resource.Id.stretch;
+			global::Rg.Plugins.Popup.Resource.Id.submenuarrow = global::WordQuiz.Droid.Resource.Id.submenuarrow;
+			global::Rg.Plugins.Popup.Resource.Id.submit_area = global::WordQuiz.Droid.Resource.Id.submit_area;
+			global::Rg.Plugins.Popup.Resource.Id.SYM = global::WordQuiz.Droid.Resource.Id.SYM;
+			global::Rg.Plugins.Popup.Resource.Id.tabMode = global::WordQuiz.Droid.Resource.Id.tabMode;
+			global::Rg.Plugins.Popup.Resource.Id.tag_accessibility_actions = global::WordQuiz.Droid.Resource.Id.tag_accessibility_actions;
+			global::Rg.Plugins.Popup.Resource.Id.tag_accessibility_clickable_spans = global::WordQuiz.Droid.Resource.Id.tag_accessibility_clickable_spans;
+			global::Rg.Plugins.Popup.Resource.Id.tag_accessibility_heading = global::WordQuiz.Droid.Resource.Id.tag_accessibility_heading;
+			global::Rg.Plugins.Popup.Resource.Id.tag_accessibility_pane_title = global::WordQuiz.Droid.Resource.Id.tag_accessibility_pane_title;
+			global::Rg.Plugins.Popup.Resource.Id.tag_screen_reader_focusable = global::WordQuiz.Droid.Resource.Id.tag_screen_reader_focusable;
+			global::Rg.Plugins.Popup.Resource.Id.tag_transition_group = global::WordQuiz.Droid.Resource.Id.tag_transition_group;
+			global::Rg.Plugins.Popup.Resource.Id.tag_unhandled_key_event_manager = global::WordQuiz.Droid.Resource.Id.tag_unhandled_key_event_manager;
+			global::Rg.Plugins.Popup.Resource.Id.tag_unhandled_key_listeners = global::WordQuiz.Droid.Resource.Id.tag_unhandled_key_listeners;
+			global::Rg.Plugins.Popup.Resource.Id.text = global::WordQuiz.Droid.Resource.Id.text;
+			global::Rg.Plugins.Popup.Resource.Id.text2 = global::WordQuiz.Droid.Resource.Id.text2;
+			global::Rg.Plugins.Popup.Resource.Id.textinput_counter = global::WordQuiz.Droid.Resource.Id.textinput_counter;
+			global::Rg.Plugins.Popup.Resource.Id.textinput_error = global::WordQuiz.Droid.Resource.Id.textinput_error;
+			global::Rg.Plugins.Popup.Resource.Id.textinput_helper_text = global::WordQuiz.Droid.Resource.Id.textinput_helper_text;
+			global::Rg.Plugins.Popup.Resource.Id.textSpacerNoButtons = global::WordQuiz.Droid.Resource.Id.textSpacerNoButtons;
+			global::Rg.Plugins.Popup.Resource.Id.textSpacerNoTitle = global::WordQuiz.Droid.Resource.Id.textSpacerNoTitle;
+			global::Rg.Plugins.Popup.Resource.Id.textStart = global::WordQuiz.Droid.Resource.Id.textStart;
+			global::Rg.Plugins.Popup.Resource.Id.text_input_password_toggle = global::WordQuiz.Droid.Resource.Id.text_input_password_toggle;
+			global::Rg.Plugins.Popup.Resource.Id.time = global::WordQuiz.Droid.Resource.Id.time;
+			global::Rg.Plugins.Popup.Resource.Id.title = global::WordQuiz.Droid.Resource.Id.title;
+			global::Rg.Plugins.Popup.Resource.Id.titleDividerNoCustom = global::WordQuiz.Droid.Resource.Id.titleDividerNoCustom;
+			global::Rg.Plugins.Popup.Resource.Id.title_template = global::WordQuiz.Droid.Resource.Id.title_template;
+			global::Rg.Plugins.Popup.Resource.Id.toolbar = global::WordQuiz.Droid.Resource.Id.toolbar;
+			global::Rg.Plugins.Popup.Resource.Id.top = global::WordQuiz.Droid.Resource.Id.top;
+			global::Rg.Plugins.Popup.Resource.Id.topPanel = global::WordQuiz.Droid.Resource.Id.topPanel;
+			global::Rg.Plugins.Popup.Resource.Id.touch_outside = global::WordQuiz.Droid.Resource.Id.touch_outside;
+			global::Rg.Plugins.Popup.Resource.Id.transition_current_scene = global::WordQuiz.Droid.Resource.Id.transition_current_scene;
+			global::Rg.Plugins.Popup.Resource.Id.transition_layout_save = global::WordQuiz.Droid.Resource.Id.transition_layout_save;
+			global::Rg.Plugins.Popup.Resource.Id.transition_position = global::WordQuiz.Droid.Resource.Id.transition_position;
+			global::Rg.Plugins.Popup.Resource.Id.transition_scene_layoutid_cache = global::WordQuiz.Droid.Resource.Id.transition_scene_layoutid_cache;
+			global::Rg.Plugins.Popup.Resource.Id.transition_transform = global::WordQuiz.Droid.Resource.Id.transition_transform;
+			global::Rg.Plugins.Popup.Resource.Id.@unchecked = global::WordQuiz.Droid.Resource.Id.@unchecked;
+			global::Rg.Plugins.Popup.Resource.Id.uniform = global::WordQuiz.Droid.Resource.Id.uniform;
+			global::Rg.Plugins.Popup.Resource.Id.unlabeled = global::WordQuiz.Droid.Resource.Id.unlabeled;
+			global::Rg.Plugins.Popup.Resource.Id.up = global::WordQuiz.Droid.Resource.Id.up;
+			global::Rg.Plugins.Popup.Resource.Id.useLogo = global::WordQuiz.Droid.Resource.Id.useLogo;
+			global::Rg.Plugins.Popup.Resource.Id.view_offset_helper = global::WordQuiz.Droid.Resource.Id.view_offset_helper;
+			global::Rg.Plugins.Popup.Resource.Id.visible = global::WordQuiz.Droid.Resource.Id.visible;
+			global::Rg.Plugins.Popup.Resource.Id.withText = global::WordQuiz.Droid.Resource.Id.withText;
+			global::Rg.Plugins.Popup.Resource.Id.wrap_content = global::WordQuiz.Droid.Resource.Id.wrap_content;
+			global::Rg.Plugins.Popup.Resource.Integer.abc_config_activityDefaultDur = global::WordQuiz.Droid.Resource.Integer.abc_config_activityDefaultDur;
+			global::Rg.Plugins.Popup.Resource.Integer.abc_config_activityShortDur = global::WordQuiz.Droid.Resource.Integer.abc_config_activityShortDur;
+			global::Rg.Plugins.Popup.Resource.Integer.app_bar_elevation_anim_duration = global::WordQuiz.Droid.Resource.Integer.app_bar_elevation_anim_duration;
+			global::Rg.Plugins.Popup.Resource.Integer.bottom_sheet_slide_duration = global::WordQuiz.Droid.Resource.Integer.bottom_sheet_slide_duration;
+			global::Rg.Plugins.Popup.Resource.Integer.cancel_button_image_alpha = global::WordQuiz.Droid.Resource.Integer.cancel_button_image_alpha;
+			global::Rg.Plugins.Popup.Resource.Integer.config_tooltipAnimTime = global::WordQuiz.Droid.Resource.Integer.config_tooltipAnimTime;
+			global::Rg.Plugins.Popup.Resource.Integer.design_snackbar_text_max_lines = global::WordQuiz.Droid.Resource.Integer.design_snackbar_text_max_lines;
+			global::Rg.Plugins.Popup.Resource.Integer.design_tab_indicator_anim_duration_ms = global::WordQuiz.Droid.Resource.Integer.design_tab_indicator_anim_duration_ms;
+			global::Rg.Plugins.Popup.Resource.Integer.hide_password_duration = global::WordQuiz.Droid.Resource.Integer.hide_password_duration;
+			global::Rg.Plugins.Popup.Resource.Integer.mtrl_btn_anim_delay_ms = global::WordQuiz.Droid.Resource.Integer.mtrl_btn_anim_delay_ms;
+			global::Rg.Plugins.Popup.Resource.Integer.mtrl_btn_anim_duration_ms = global::WordQuiz.Droid.Resource.Integer.mtrl_btn_anim_duration_ms;
+			global::Rg.Plugins.Popup.Resource.Integer.mtrl_chip_anim_duration = global::WordQuiz.Droid.Resource.Integer.mtrl_chip_anim_duration;
+			global::Rg.Plugins.Popup.Resource.Integer.mtrl_tab_indicator_anim_duration_ms = global::WordQuiz.Droid.Resource.Integer.mtrl_tab_indicator_anim_duration_ms;
+			global::Rg.Plugins.Popup.Resource.Integer.show_password_duration = global::WordQuiz.Droid.Resource.Integer.show_password_duration;
+			global::Rg.Plugins.Popup.Resource.Integer.status_bar_notification_info_maxnum = global::WordQuiz.Droid.Resource.Integer.status_bar_notification_info_maxnum;
+			global::Rg.Plugins.Popup.Resource.Interpolator.btn_checkbox_checked_mtrl_animation_interpolator_0 = global::WordQuiz.Droid.Resource.Interpolator.btn_checkbox_checked_mtrl_animation_interpolator_0;
+			global::Rg.Plugins.Popup.Resource.Interpolator.btn_checkbox_checked_mtrl_animation_interpolator_1 = global::WordQuiz.Droid.Resource.Interpolator.btn_checkbox_checked_mtrl_animation_interpolator_1;
+			global::Rg.Plugins.Popup.Resource.Interpolator.btn_checkbox_unchecked_mtrl_animation_interpolator_0 = global::WordQuiz.Droid.Resource.Interpolator.btn_checkbox_unchecked_mtrl_animation_interpolator_0;
+			global::Rg.Plugins.Popup.Resource.Interpolator.btn_checkbox_unchecked_mtrl_animation_interpolator_1 = global::WordQuiz.Droid.Resource.Interpolator.btn_checkbox_unchecked_mtrl_animation_interpolator_1;
+			global::Rg.Plugins.Popup.Resource.Interpolator.btn_radio_to_off_mtrl_animation_interpolator_0 = global::WordQuiz.Droid.Resource.Interpolator.btn_radio_to_off_mtrl_animation_interpolator_0;
+			global::Rg.Plugins.Popup.Resource.Interpolator.btn_radio_to_on_mtrl_animation_interpolator_0 = global::WordQuiz.Droid.Resource.Interpolator.btn_radio_to_on_mtrl_animation_interpolator_0;
+			global::Rg.Plugins.Popup.Resource.Interpolator.fast_out_slow_in = global::WordQuiz.Droid.Resource.Interpolator.fast_out_slow_in;
+			global::Rg.Plugins.Popup.Resource.Interpolator.mtrl_fast_out_linear_in = global::WordQuiz.Droid.Resource.Interpolator.mtrl_fast_out_linear_in;
+			global::Rg.Plugins.Popup.Resource.Interpolator.mtrl_fast_out_slow_in = global::WordQuiz.Droid.Resource.Interpolator.mtrl_fast_out_slow_in;
+			global::Rg.Plugins.Popup.Resource.Interpolator.mtrl_linear = global::WordQuiz.Droid.Resource.Interpolator.mtrl_linear;
+			global::Rg.Plugins.Popup.Resource.Interpolator.mtrl_linear_out_slow_in = global::WordQuiz.Droid.Resource.Interpolator.mtrl_linear_out_slow_in;
+			global::Rg.Plugins.Popup.Resource.Layout.abc_action_bar_title_item = global::WordQuiz.Droid.Resource.Layout.abc_action_bar_title_item;
+			global::Rg.Plugins.Popup.Resource.Layout.abc_action_bar_up_container = global::WordQuiz.Droid.Resource.Layout.abc_action_bar_up_container;
+			global::Rg.Plugins.Popup.Resource.Layout.abc_action_menu_item_layout = global::WordQuiz.Droid.Resource.Layout.abc_action_menu_item_layout;
+			global::Rg.Plugins.Popup.Resource.Layout.abc_action_menu_layout = global::WordQuiz.Droid.Resource.Layout.abc_action_menu_layout;
+			global::Rg.Plugins.Popup.Resource.Layout.abc_action_mode_bar = global::WordQuiz.Droid.Resource.Layout.abc_action_mode_bar;
+			global::Rg.Plugins.Popup.Resource.Layout.abc_action_mode_close_item_material = global::WordQuiz.Droid.Resource.Layout.abc_action_mode_close_item_material;
+			global::Rg.Plugins.Popup.Resource.Layout.abc_activity_chooser_view = global::WordQuiz.Droid.Resource.Layout.abc_activity_chooser_view;
+			global::Rg.Plugins.Popup.Resource.Layout.abc_activity_chooser_view_list_item = global::WordQuiz.Droid.Resource.Layout.abc_activity_chooser_view_list_item;
+			global::Rg.Plugins.Popup.Resource.Layout.abc_alert_dialog_button_bar_material = global::WordQuiz.Droid.Resource.Layout.abc_alert_dialog_button_bar_material;
+			global::Rg.Plugins.Popup.Resource.Layout.abc_alert_dialog_material = global::WordQuiz.Droid.Resource.Layout.abc_alert_dialog_material;
+			global::Rg.Plugins.Popup.Resource.Layout.abc_alert_dialog_title_material = global::WordQuiz.Droid.Resource.Layout.abc_alert_dialog_title_material;
+			global::Rg.Plugins.Popup.Resource.Layout.abc_cascading_menu_item_layout = global::WordQuiz.Droid.Resource.Layout.abc_cascading_menu_item_layout;
+			global::Rg.Plugins.Popup.Resource.Layout.abc_dialog_title_material = global::WordQuiz.Droid.Resource.Layout.abc_dialog_title_material;
+			global::Rg.Plugins.Popup.Resource.Layout.abc_expanded_menu_layout = global::WordQuiz.Droid.Resource.Layout.abc_expanded_menu_layout;
+			global::Rg.Plugins.Popup.Resource.Layout.abc_list_menu_item_checkbox = global::WordQuiz.Droid.Resource.Layout.abc_list_menu_item_checkbox;
+			global::Rg.Plugins.Popup.Resource.Layout.abc_list_menu_item_icon = global::WordQuiz.Droid.Resource.Layout.abc_list_menu_item_icon;
+			global::Rg.Plugins.Popup.Resource.Layout.abc_list_menu_item_layout = global::WordQuiz.Droid.Resource.Layout.abc_list_menu_item_layout;
+			global::Rg.Plugins.Popup.Resource.Layout.abc_list_menu_item_radio = global::WordQuiz.Droid.Resource.Layout.abc_list_menu_item_radio;
+			global::Rg.Plugins.Popup.Resource.Layout.abc_popup_menu_header_item_layout = global::WordQuiz.Droid.Resource.Layout.abc_popup_menu_header_item_layout;
+			global::Rg.Plugins.Popup.Resource.Layout.abc_popup_menu_item_layout = global::WordQuiz.Droid.Resource.Layout.abc_popup_menu_item_layout;
+			global::Rg.Plugins.Popup.Resource.Layout.abc_screen_content_include = global::WordQuiz.Droid.Resource.Layout.abc_screen_content_include;
+			global::Rg.Plugins.Popup.Resource.Layout.abc_screen_simple = global::WordQuiz.Droid.Resource.Layout.abc_screen_simple;
+			global::Rg.Plugins.Popup.Resource.Layout.abc_screen_simple_overlay_action_mode = global::WordQuiz.Droid.Resource.Layout.abc_screen_simple_overlay_action_mode;
+			global::Rg.Plugins.Popup.Resource.Layout.abc_screen_toolbar = global::WordQuiz.Droid.Resource.Layout.abc_screen_toolbar;
+			global::Rg.Plugins.Popup.Resource.Layout.abc_search_dropdown_item_icons_2line = global::WordQuiz.Droid.Resource.Layout.abc_search_dropdown_item_icons_2line;
+			global::Rg.Plugins.Popup.Resource.Layout.abc_search_view = global::WordQuiz.Droid.Resource.Layout.abc_search_view;
+			global::Rg.Plugins.Popup.Resource.Layout.abc_select_dialog_material = global::WordQuiz.Droid.Resource.Layout.abc_select_dialog_material;
+			global::Rg.Plugins.Popup.Resource.Layout.abc_tooltip = global::WordQuiz.Droid.Resource.Layout.abc_tooltip;
+			global::Rg.Plugins.Popup.Resource.Layout.BottomTabLayout = global::WordQuiz.Droid.Resource.Layout.BottomTabLayout;
+			global::Rg.Plugins.Popup.Resource.Layout.browser_actions_context_menu_page = global::WordQuiz.Droid.Resource.Layout.browser_actions_context_menu_page;
+			global::Rg.Plugins.Popup.Resource.Layout.browser_actions_context_menu_row = global::WordQuiz.Droid.Resource.Layout.browser_actions_context_menu_row;
+			global::Rg.Plugins.Popup.Resource.Layout.custom_dialog = global::WordQuiz.Droid.Resource.Layout.custom_dialog;
+			global::Rg.Plugins.Popup.Resource.Layout.design_bottom_navigation_item = global::WordQuiz.Droid.Resource.Layout.design_bottom_navigation_item;
+			global::Rg.Plugins.Popup.Resource.Layout.design_bottom_sheet_dialog = global::WordQuiz.Droid.Resource.Layout.design_bottom_sheet_dialog;
+			global::Rg.Plugins.Popup.Resource.Layout.design_layout_snackbar = global::WordQuiz.Droid.Resource.Layout.design_layout_snackbar;
+			global::Rg.Plugins.Popup.Resource.Layout.design_layout_snackbar_include = global::WordQuiz.Droid.Resource.Layout.design_layout_snackbar_include;
+			global::Rg.Plugins.Popup.Resource.Layout.design_layout_tab_icon = global::WordQuiz.Droid.Resource.Layout.design_layout_tab_icon;
+			global::Rg.Plugins.Popup.Resource.Layout.design_layout_tab_text = global::WordQuiz.Droid.Resource.Layout.design_layout_tab_text;
+			global::Rg.Plugins.Popup.Resource.Layout.design_menu_item_action_area = global::WordQuiz.Droid.Resource.Layout.design_menu_item_action_area;
+			global::Rg.Plugins.Popup.Resource.Layout.design_navigation_item = global::WordQuiz.Droid.Resource.Layout.design_navigation_item;
+			global::Rg.Plugins.Popup.Resource.Layout.design_navigation_item_header = global::WordQuiz.Droid.Resource.Layout.design_navigation_item_header;
+			global::Rg.Plugins.Popup.Resource.Layout.design_navigation_item_separator = global::WordQuiz.Droid.Resource.Layout.design_navigation_item_separator;
+			global::Rg.Plugins.Popup.Resource.Layout.design_navigation_item_subheader = global::WordQuiz.Droid.Resource.Layout.design_navigation_item_subheader;
+			global::Rg.Plugins.Popup.Resource.Layout.design_navigation_menu = global::WordQuiz.Droid.Resource.Layout.design_navigation_menu;
+			global::Rg.Plugins.Popup.Resource.Layout.design_navigation_menu_item = global::WordQuiz.Droid.Resource.Layout.design_navigation_menu_item;
+			global::Rg.Plugins.Popup.Resource.Layout.design_text_input_password_icon = global::WordQuiz.Droid.Resource.Layout.design_text_input_password_icon;
+			global::Rg.Plugins.Popup.Resource.Layout.FallbackTabbarDoNotUse = global::WordQuiz.Droid.Resource.Layout.FallbackTabbarDoNotUse;
+			global::Rg.Plugins.Popup.Resource.Layout.FallbackToolbarDoNotUse = global::WordQuiz.Droid.Resource.Layout.FallbackToolbarDoNotUse;
+			global::Rg.Plugins.Popup.Resource.Layout.FlyoutContent = global::WordQuiz.Droid.Resource.Layout.FlyoutContent;
+			global::Rg.Plugins.Popup.Resource.Layout.mtrl_layout_snackbar = global::WordQuiz.Droid.Resource.Layout.mtrl_layout_snackbar;
+			global::Rg.Plugins.Popup.Resource.Layout.mtrl_layout_snackbar_include = global::WordQuiz.Droid.Resource.Layout.mtrl_layout_snackbar_include;
+			global::Rg.Plugins.Popup.Resource.Layout.notification_action = global::WordQuiz.Droid.Resource.Layout.notification_action;
+			global::Rg.Plugins.Popup.Resource.Layout.notification_action_tombstone = global::WordQuiz.Droid.Resource.Layout.notification_action_tombstone;
+			global::Rg.Plugins.Popup.Resource.Layout.notification_media_action = global::WordQuiz.Droid.Resource.Layout.notification_media_action;
+			global::Rg.Plugins.Popup.Resource.Layout.notification_media_cancel_action = global::WordQuiz.Droid.Resource.Layout.notification_media_cancel_action;
+			global::Rg.Plugins.Popup.Resource.Layout.notification_template_big_media = global::WordQuiz.Droid.Resource.Layout.notification_template_big_media;
+			global::Rg.Plugins.Popup.Resource.Layout.notification_template_big_media_custom = global::WordQuiz.Droid.Resource.Layout.notification_template_big_media_custom;
+			global::Rg.Plugins.Popup.Resource.Layout.notification_template_big_media_narrow = global::WordQuiz.Droid.Resource.Layout.notification_template_big_media_narrow;
+			global::Rg.Plugins.Popup.Resource.Layout.notification_template_big_media_narrow_custom = global::WordQuiz.Droid.Resource.Layout.notification_template_big_media_narrow_custom;
+			global::Rg.Plugins.Popup.Resource.Layout.notification_template_custom_big = global::WordQuiz.Droid.Resource.Layout.notification_template_custom_big;
+			global::Rg.Plugins.Popup.Resource.Layout.notification_template_icon_group = global::WordQuiz.Droid.Resource.Layout.notification_template_icon_group;
+			global::Rg.Plugins.Popup.Resource.Layout.notification_template_lines_media = global::WordQuiz.Droid.Resource.Layout.notification_template_lines_media;
+			global::Rg.Plugins.Popup.Resource.Layout.notification_template_media = global::WordQuiz.Droid.Resource.Layout.notification_template_media;
+			global::Rg.Plugins.Popup.Resource.Layout.notification_template_media_custom = global::WordQuiz.Droid.Resource.Layout.notification_template_media_custom;
+			global::Rg.Plugins.Popup.Resource.Layout.notification_template_part_chronometer = global::WordQuiz.Droid.Resource.Layout.notification_template_part_chronometer;
+			global::Rg.Plugins.Popup.Resource.Layout.notification_template_part_time = global::WordQuiz.Droid.Resource.Layout.notification_template_part_time;
+			global::Rg.Plugins.Popup.Resource.Layout.RootLayout = global::WordQuiz.Droid.Resource.Layout.RootLayout;
+			global::Rg.Plugins.Popup.Resource.Layout.select_dialog_item_material = global::WordQuiz.Droid.Resource.Layout.select_dialog_item_material;
+			global::Rg.Plugins.Popup.Resource.Layout.select_dialog_multichoice_material = global::WordQuiz.Droid.Resource.Layout.select_dialog_multichoice_material;
+			global::Rg.Plugins.Popup.Resource.Layout.select_dialog_singlechoice_material = global::WordQuiz.Droid.Resource.Layout.select_dialog_singlechoice_material;
+			global::Rg.Plugins.Popup.Resource.Layout.ShellContent = global::WordQuiz.Droid.Resource.Layout.ShellContent;
+			global::Rg.Plugins.Popup.Resource.Layout.support_simple_spinner_dropdown_item = global::WordQuiz.Droid.Resource.Layout.support_simple_spinner_dropdown_item;
+			global::Rg.Plugins.Popup.Resource.Layout.Tabbar = global::WordQuiz.Droid.Resource.Layout.Tabbar;
+			global::Rg.Plugins.Popup.Resource.Layout.Toolbar = global::WordQuiz.Droid.Resource.Layout.Toolbar;
+			global::Rg.Plugins.Popup.Resource.String.abc_action_bar_home_description = global::WordQuiz.Droid.Resource.String.abc_action_bar_home_description;
+			global::Rg.Plugins.Popup.Resource.String.abc_action_bar_up_description = global::WordQuiz.Droid.Resource.String.abc_action_bar_up_description;
+			global::Rg.Plugins.Popup.Resource.String.abc_action_menu_overflow_description = global::WordQuiz.Droid.Resource.String.abc_action_menu_overflow_description;
+			global::Rg.Plugins.Popup.Resource.String.abc_action_mode_done = global::WordQuiz.Droid.Resource.String.abc_action_mode_done;
+			global::Rg.Plugins.Popup.Resource.String.abc_activitychooserview_choose_application = global::WordQuiz.Droid.Resource.String.abc_activitychooserview_choose_application;
+			global::Rg.Plugins.Popup.Resource.String.abc_activity_chooser_view_see_all = global::WordQuiz.Droid.Resource.String.abc_activity_chooser_view_see_all;
+			global::Rg.Plugins.Popup.Resource.String.abc_capital_off = global::WordQuiz.Droid.Resource.String.abc_capital_off;
+			global::Rg.Plugins.Popup.Resource.String.abc_capital_on = global::WordQuiz.Droid.Resource.String.abc_capital_on;
+			global::Rg.Plugins.Popup.Resource.String.abc_menu_alt_shortcut_label = global::WordQuiz.Droid.Resource.String.abc_menu_alt_shortcut_label;
+			global::Rg.Plugins.Popup.Resource.String.abc_menu_ctrl_shortcut_label = global::WordQuiz.Droid.Resource.String.abc_menu_ctrl_shortcut_label;
+			global::Rg.Plugins.Popup.Resource.String.abc_menu_delete_shortcut_label = global::WordQuiz.Droid.Resource.String.abc_menu_delete_shortcut_label;
+			global::Rg.Plugins.Popup.Resource.String.abc_menu_enter_shortcut_label = global::WordQuiz.Droid.Resource.String.abc_menu_enter_shortcut_label;
+			global::Rg.Plugins.Popup.Resource.String.abc_menu_function_shortcut_label = global::WordQuiz.Droid.Resource.String.abc_menu_function_shortcut_label;
+			global::Rg.Plugins.Popup.Resource.String.abc_menu_meta_shortcut_label = global::WordQuiz.Droid.Resource.String.abc_menu_meta_shortcut_label;
+			global::Rg.Plugins.Popup.Resource.String.abc_menu_shift_shortcut_label = global::WordQuiz.Droid.Resource.String.abc_menu_shift_shortcut_label;
+			global::Rg.Plugins.Popup.Resource.String.abc_menu_space_shortcut_label = global::WordQuiz.Droid.Resource.String.abc_menu_space_shortcut_label;
+			global::Rg.Plugins.Popup.Resource.String.abc_menu_sym_shortcut_label = global::WordQuiz.Droid.Resource.String.abc_menu_sym_shortcut_label;
+			global::Rg.Plugins.Popup.Resource.String.abc_prepend_shortcut_label = global::WordQuiz.Droid.Resource.String.abc_prepend_shortcut_label;
+			global::Rg.Plugins.Popup.Resource.String.abc_searchview_description_clear = global::WordQuiz.Droid.Resource.String.abc_searchview_description_clear;
+			global::Rg.Plugins.Popup.Resource.String.abc_searchview_description_query = global::WordQuiz.Droid.Resource.String.abc_searchview_description_query;
+			global::Rg.Plugins.Popup.Resource.String.abc_searchview_description_search = global::WordQuiz.Droid.Resource.String.abc_searchview_description_search;
+			global::Rg.Plugins.Popup.Resource.String.abc_searchview_description_submit = global::WordQuiz.Droid.Resource.String.abc_searchview_description_submit;
+			global::Rg.Plugins.Popup.Resource.String.abc_searchview_description_voice = global::WordQuiz.Droid.Resource.String.abc_searchview_description_voice;
+			global::Rg.Plugins.Popup.Resource.String.abc_search_hint = global::WordQuiz.Droid.Resource.String.abc_search_hint;
+			global::Rg.Plugins.Popup.Resource.String.abc_shareactionprovider_share_with = global::WordQuiz.Droid.Resource.String.abc_shareactionprovider_share_with;
+			global::Rg.Plugins.Popup.Resource.String.abc_shareactionprovider_share_with_application = global::WordQuiz.Droid.Resource.String.abc_shareactionprovider_share_with_application;
+			global::Rg.Plugins.Popup.Resource.String.abc_toolbar_collapse_description = global::WordQuiz.Droid.Resource.String.abc_toolbar_collapse_description;
+			global::Rg.Plugins.Popup.Resource.String.appbar_scrolling_view_behavior = global::WordQuiz.Droid.Resource.String.appbar_scrolling_view_behavior;
+			global::Rg.Plugins.Popup.Resource.String.bottom_sheet_behavior = global::WordQuiz.Droid.Resource.String.bottom_sheet_behavior;
+			global::Rg.Plugins.Popup.Resource.String.character_counter_content_description = global::WordQuiz.Droid.Resource.String.character_counter_content_description;
+			global::Rg.Plugins.Popup.Resource.String.character_counter_pattern = global::WordQuiz.Droid.Resource.String.character_counter_pattern;
+			global::Rg.Plugins.Popup.Resource.String.fab_transformation_scrim_behavior = global::WordQuiz.Droid.Resource.String.fab_transformation_scrim_behavior;
+			global::Rg.Plugins.Popup.Resource.String.fab_transformation_sheet_behavior = global::WordQuiz.Droid.Resource.String.fab_transformation_sheet_behavior;
+			global::Rg.Plugins.Popup.Resource.String.hide_bottom_view_on_scroll_behavior = global::WordQuiz.Droid.Resource.String.hide_bottom_view_on_scroll_behavior;
+			global::Rg.Plugins.Popup.Resource.String.mtrl_chip_close_icon_content_description = global::WordQuiz.Droid.Resource.String.mtrl_chip_close_icon_content_description;
+			global::Rg.Plugins.Popup.Resource.String.password_toggle_content_description = global::WordQuiz.Droid.Resource.String.password_toggle_content_description;
+			global::Rg.Plugins.Popup.Resource.String.path_password_eye = global::WordQuiz.Droid.Resource.String.path_password_eye;
+			global::Rg.Plugins.Popup.Resource.String.path_password_eye_mask_strike_through = global::WordQuiz.Droid.Resource.String.path_password_eye_mask_strike_through;
+			global::Rg.Plugins.Popup.Resource.String.path_password_eye_mask_visible = global::WordQuiz.Droid.Resource.String.path_password_eye_mask_visible;
+			global::Rg.Plugins.Popup.Resource.String.path_password_strike_through = global::WordQuiz.Droid.Resource.String.path_password_strike_through;
+			global::Rg.Plugins.Popup.Resource.String.search_menu_title = global::WordQuiz.Droid.Resource.String.search_menu_title;
+			global::Rg.Plugins.Popup.Resource.String.status_bar_notification_info_overflow = global::WordQuiz.Droid.Resource.String.status_bar_notification_info_overflow;
+			global::Rg.Plugins.Popup.Resource.Style.AlertDialog_AppCompat = global::WordQuiz.Droid.Resource.Style.AlertDialog_AppCompat;
+			global::Rg.Plugins.Popup.Resource.Style.AlertDialog_AppCompat_Light = global::WordQuiz.Droid.Resource.Style.AlertDialog_AppCompat_Light;
+			global::Rg.Plugins.Popup.Resource.Style.Animation_AppCompat_Dialog = global::WordQuiz.Droid.Resource.Style.Animation_AppCompat_Dialog;
+			global::Rg.Plugins.Popup.Resource.Style.Animation_AppCompat_DropDownUp = global::WordQuiz.Droid.Resource.Style.Animation_AppCompat_DropDownUp;
+			global::Rg.Plugins.Popup.Resource.Style.Animation_AppCompat_Tooltip = global::WordQuiz.Droid.Resource.Style.Animation_AppCompat_Tooltip;
+			global::Rg.Plugins.Popup.Resource.Style.Animation_Design_BottomSheetDialog = global::WordQuiz.Droid.Resource.Style.Animation_Design_BottomSheetDialog;
+			global::Rg.Plugins.Popup.Resource.Style.Base_AlertDialog_AppCompat = global::WordQuiz.Droid.Resource.Style.Base_AlertDialog_AppCompat;
+			global::Rg.Plugins.Popup.Resource.Style.Base_AlertDialog_AppCompat_Light = global::WordQuiz.Droid.Resource.Style.Base_AlertDialog_AppCompat_Light;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Animation_AppCompat_Dialog = global::WordQuiz.Droid.Resource.Style.Base_Animation_AppCompat_Dialog;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Animation_AppCompat_DropDownUp = global::WordQuiz.Droid.Resource.Style.Base_Animation_AppCompat_DropDownUp;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Animation_AppCompat_Tooltip = global::WordQuiz.Droid.Resource.Style.Base_Animation_AppCompat_Tooltip;
+			global::Rg.Plugins.Popup.Resource.Style.Base_CardView = global::WordQuiz.Droid.Resource.Style.Base_CardView;
+			global::Rg.Plugins.Popup.Resource.Style.Base_DialogWindowTitleBackground_AppCompat = global::WordQuiz.Droid.Resource.Style.Base_DialogWindowTitleBackground_AppCompat;
+			global::Rg.Plugins.Popup.Resource.Style.Base_DialogWindowTitle_AppCompat = global::WordQuiz.Droid.Resource.Style.Base_DialogWindowTitle_AppCompat;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat = global::WordQuiz.Droid.Resource.Style.Base_TextAppearance_AppCompat;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Body1 = global::WordQuiz.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body1;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Body2 = global::WordQuiz.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body2;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Button = global::WordQuiz.Droid.Resource.Style.Base_TextAppearance_AppCompat_Button;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Caption = global::WordQuiz.Droid.Resource.Style.Base_TextAppearance_AppCompat_Caption;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Display1 = global::WordQuiz.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display1;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Display2 = global::WordQuiz.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display2;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Display3 = global::WordQuiz.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display3;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Display4 = global::WordQuiz.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display4;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Headline = global::WordQuiz.Droid.Resource.Style.Base_TextAppearance_AppCompat_Headline;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Inverse = global::WordQuiz.Droid.Resource.Style.Base_TextAppearance_AppCompat_Inverse;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Large = global::WordQuiz.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse = global::WordQuiz.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::WordQuiz.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::WordQuiz.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Medium = global::WordQuiz.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse = global::WordQuiz.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Menu = global::WordQuiz.Droid.Resource.Style.Base_TextAppearance_AppCompat_Menu;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_SearchResult = global::WordQuiz.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle = global::WordQuiz.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title = global::WordQuiz.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Small = global::WordQuiz.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse = global::WordQuiz.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Subhead = global::WordQuiz.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse = global::WordQuiz.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Title = global::WordQuiz.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse = global::WordQuiz.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Tooltip = global::WordQuiz.Droid.Resource.Style.Base_TextAppearance_AppCompat_Tooltip;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu = global::WordQuiz.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::WordQuiz.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::WordQuiz.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title = global::WordQuiz.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::WordQuiz.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::WordQuiz.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title = global::WordQuiz.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button = global::WordQuiz.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::WordQuiz.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored = global::WordQuiz.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse = global::WordQuiz.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem = global::WordQuiz.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header = global::WordQuiz.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large = global::WordQuiz.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small = global::WordQuiz.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch = global::WordQuiz.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::WordQuiz.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::WordQuiz.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::WordQuiz.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title = global::WordQuiz.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::Rg.Plugins.Popup.Resource.Style.Base_ThemeOverlay_AppCompat = global::WordQuiz.Droid.Resource.Style.Base_ThemeOverlay_AppCompat;
+			global::Rg.Plugins.Popup.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar = global::WordQuiz.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar;
+			global::Rg.Plugins.Popup.Resource.Style.Base_ThemeOverlay_AppCompat_Dark = global::WordQuiz.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark;
+			global::Rg.Plugins.Popup.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar = global::WordQuiz.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::Rg.Plugins.Popup.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog = global::WordQuiz.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog;
+			global::Rg.Plugins.Popup.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert = global::WordQuiz.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert;
+			global::Rg.Plugins.Popup.Resource.Style.Base_ThemeOverlay_AppCompat_Light = global::WordQuiz.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Light;
+			global::Rg.Plugins.Popup.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog = global::WordQuiz.Droid.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog;
+			global::Rg.Plugins.Popup.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog_Alert = global::WordQuiz.Droid.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog_Alert;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Theme_AppCompat = global::WordQuiz.Droid.Resource.Style.Base_Theme_AppCompat;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Theme_AppCompat_CompactMenu = global::WordQuiz.Droid.Resource.Style.Base_Theme_AppCompat_CompactMenu;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Theme_AppCompat_Dialog = global::WordQuiz.Droid.Resource.Style.Base_Theme_AppCompat_Dialog;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge = global::WordQuiz.Droid.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Theme_AppCompat_Dialog_Alert = global::WordQuiz.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_Alert;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize = global::WordQuiz.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth = global::WordQuiz.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Theme_AppCompat_Light = global::WordQuiz.Droid.Resource.Style.Base_Theme_AppCompat_Light;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar = global::WordQuiz.Droid.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Theme_AppCompat_Light_Dialog = global::WordQuiz.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge = global::WordQuiz.Droid.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert = global::WordQuiz.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize = global::WordQuiz.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth = global::WordQuiz.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Theme_MaterialComponents = global::WordQuiz.Droid.Resource.Style.Base_Theme_MaterialComponents;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Theme_MaterialComponents_Bridge = global::WordQuiz.Droid.Resource.Style.Base_Theme_MaterialComponents_Bridge;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Theme_MaterialComponents_CompactMenu = global::WordQuiz.Droid.Resource.Style.Base_Theme_MaterialComponents_CompactMenu;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Theme_MaterialComponents_Dialog = global::WordQuiz.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Theme_MaterialComponents_DialogWhenLarge = global::WordQuiz.Droid.Resource.Style.Base_Theme_MaterialComponents_DialogWhenLarge;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Theme_MaterialComponents_Dialog_Alert = global::WordQuiz.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog_Alert;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Theme_MaterialComponents_Dialog_FixedSize = global::WordQuiz.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog_FixedSize;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Theme_MaterialComponents_Dialog_MinWidth = global::WordQuiz.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog_MinWidth;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Theme_MaterialComponents_Light = global::WordQuiz.Droid.Resource.Style.Base_Theme_MaterialComponents_Light;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Theme_MaterialComponents_Light_Bridge = global::WordQuiz.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Bridge;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar = global::WordQuiz.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar_Bridge = global::WordQuiz.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar_Bridge;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog = global::WordQuiz.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Theme_MaterialComponents_Light_DialogWhenLarge = global::WordQuiz.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_DialogWhenLarge;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_Alert = global::WordQuiz.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_Alert;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_FixedSize = global::WordQuiz.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_FixedSize;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_MinWidth = global::WordQuiz.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_MinWidth;
+			global::Rg.Plugins.Popup.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog = global::WordQuiz.Droid.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog;
+			global::Rg.Plugins.Popup.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog_Alert = global::WordQuiz.Droid.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog_Alert;
+			global::Rg.Plugins.Popup.Resource.Style.Base_V14_Theme_MaterialComponents = global::WordQuiz.Droid.Resource.Style.Base_V14_Theme_MaterialComponents;
+			global::Rg.Plugins.Popup.Resource.Style.Base_V14_Theme_MaterialComponents_Bridge = global::WordQuiz.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Bridge;
+			global::Rg.Plugins.Popup.Resource.Style.Base_V14_Theme_MaterialComponents_Dialog = global::WordQuiz.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Dialog;
+			global::Rg.Plugins.Popup.Resource.Style.Base_V14_Theme_MaterialComponents_Light = global::WordQuiz.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light;
+			global::Rg.Plugins.Popup.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Bridge = global::WordQuiz.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Bridge;
+			global::Rg.Plugins.Popup.Resource.Style.Base_V14_Theme_MaterialComponents_Light_DarkActionBar_Bridge = global::WordQuiz.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light_DarkActionBar_Bridge;
+			global::Rg.Plugins.Popup.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Dialog = global::WordQuiz.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Dialog;
+			global::Rg.Plugins.Popup.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog = global::WordQuiz.Droid.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog;
+			global::Rg.Plugins.Popup.Resource.Style.Base_V21_Theme_AppCompat = global::WordQuiz.Droid.Resource.Style.Base_V21_Theme_AppCompat;
+			global::Rg.Plugins.Popup.Resource.Style.Base_V21_Theme_AppCompat_Dialog = global::WordQuiz.Droid.Resource.Style.Base_V21_Theme_AppCompat_Dialog;
+			global::Rg.Plugins.Popup.Resource.Style.Base_V21_Theme_AppCompat_Light = global::WordQuiz.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light;
+			global::Rg.Plugins.Popup.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog = global::WordQuiz.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog;
+			global::Rg.Plugins.Popup.Resource.Style.Base_V22_Theme_AppCompat = global::WordQuiz.Droid.Resource.Style.Base_V22_Theme_AppCompat;
+			global::Rg.Plugins.Popup.Resource.Style.Base_V22_Theme_AppCompat_Light = global::WordQuiz.Droid.Resource.Style.Base_V22_Theme_AppCompat_Light;
+			global::Rg.Plugins.Popup.Resource.Style.Base_V23_Theme_AppCompat = global::WordQuiz.Droid.Resource.Style.Base_V23_Theme_AppCompat;
+			global::Rg.Plugins.Popup.Resource.Style.Base_V23_Theme_AppCompat_Light = global::WordQuiz.Droid.Resource.Style.Base_V23_Theme_AppCompat_Light;
+			global::Rg.Plugins.Popup.Resource.Style.Base_V26_Theme_AppCompat = global::WordQuiz.Droid.Resource.Style.Base_V26_Theme_AppCompat;
+			global::Rg.Plugins.Popup.Resource.Style.Base_V26_Theme_AppCompat_Light = global::WordQuiz.Droid.Resource.Style.Base_V26_Theme_AppCompat_Light;
+			global::Rg.Plugins.Popup.Resource.Style.Base_V26_Widget_AppCompat_Toolbar = global::WordQuiz.Droid.Resource.Style.Base_V26_Widget_AppCompat_Toolbar;
+			global::Rg.Plugins.Popup.Resource.Style.Base_V28_Theme_AppCompat = global::WordQuiz.Droid.Resource.Style.Base_V28_Theme_AppCompat;
+			global::Rg.Plugins.Popup.Resource.Style.Base_V28_Theme_AppCompat_Light = global::WordQuiz.Droid.Resource.Style.Base_V28_Theme_AppCompat_Light;
+			global::Rg.Plugins.Popup.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog = global::WordQuiz.Droid.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog;
+			global::Rg.Plugins.Popup.Resource.Style.Base_V7_Theme_AppCompat = global::WordQuiz.Droid.Resource.Style.Base_V7_Theme_AppCompat;
+			global::Rg.Plugins.Popup.Resource.Style.Base_V7_Theme_AppCompat_Dialog = global::WordQuiz.Droid.Resource.Style.Base_V7_Theme_AppCompat_Dialog;
+			global::Rg.Plugins.Popup.Resource.Style.Base_V7_Theme_AppCompat_Light = global::WordQuiz.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light;
+			global::Rg.Plugins.Popup.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog = global::WordQuiz.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog;
+			global::Rg.Plugins.Popup.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView = global::WordQuiz.Droid.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView;
+			global::Rg.Plugins.Popup.Resource.Style.Base_V7_Widget_AppCompat_EditText = global::WordQuiz.Droid.Resource.Style.Base_V7_Widget_AppCompat_EditText;
+			global::Rg.Plugins.Popup.Resource.Style.Base_V7_Widget_AppCompat_Toolbar = global::WordQuiz.Droid.Resource.Style.Base_V7_Widget_AppCompat_Toolbar;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_ActionBar = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_ActionButton = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_ActionMode = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_ActionMode;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_ActivityChooserView = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_ActivityChooserView;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_Button = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_Button;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_ButtonBar = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_Button_Borderless = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_Button_Colored = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_Button_Colored;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_Button_Small = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_Button_Small;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_EditText = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_EditText;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_ImageButton = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_ImageButton;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_Light_ActionBar = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_ListMenuView = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_ListMenuView;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_ListPopupWindow = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_ListPopupWindow;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_ListView = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_ListView;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_ListView_DropDown = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_ListView_DropDown;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_ListView_Menu = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_ListView_Menu;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_PopupMenu = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_PopupWindow = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_PopupWindow;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_ProgressBar = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_RatingBar = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_RatingBar_Small = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Small;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_SearchView = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_SearchView;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_SeekBar = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_Spinner = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_Spinner;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_TextView = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_TextView;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_Toolbar = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation = global::WordQuiz.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_Design_TabLayout = global::WordQuiz.Droid.Resource.Style.Base_Widget_Design_TabLayout;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_MaterialComponents_Chip = global::WordQuiz.Droid.Resource.Style.Base_Widget_MaterialComponents_Chip;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_MaterialComponents_TextInputEditText = global::WordQuiz.Droid.Resource.Style.Base_Widget_MaterialComponents_TextInputEditText;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_MaterialComponents_TextInputLayout = global::WordQuiz.Droid.Resource.Style.Base_Widget_MaterialComponents_TextInputLayout;
+			global::Rg.Plugins.Popup.Resource.Style.CardView = global::WordQuiz.Droid.Resource.Style.CardView;
+			global::Rg.Plugins.Popup.Resource.Style.CardView_Dark = global::WordQuiz.Droid.Resource.Style.CardView_Dark;
+			global::Rg.Plugins.Popup.Resource.Style.CardView_Light = global::WordQuiz.Droid.Resource.Style.CardView_Light;
+			global::Rg.Plugins.Popup.Resource.Style.collectionViewStyle = global::WordQuiz.Droid.Resource.Style.collectionViewStyle;
+			global::Rg.Plugins.Popup.Resource.Style.Platform_AppCompat = global::WordQuiz.Droid.Resource.Style.Platform_AppCompat;
+			global::Rg.Plugins.Popup.Resource.Style.Platform_AppCompat_Light = global::WordQuiz.Droid.Resource.Style.Platform_AppCompat_Light;
+			global::Rg.Plugins.Popup.Resource.Style.Platform_MaterialComponents = global::WordQuiz.Droid.Resource.Style.Platform_MaterialComponents;
+			global::Rg.Plugins.Popup.Resource.Style.Platform_MaterialComponents_Dialog = global::WordQuiz.Droid.Resource.Style.Platform_MaterialComponents_Dialog;
+			global::Rg.Plugins.Popup.Resource.Style.Platform_MaterialComponents_Light = global::WordQuiz.Droid.Resource.Style.Platform_MaterialComponents_Light;
+			global::Rg.Plugins.Popup.Resource.Style.Platform_MaterialComponents_Light_Dialog = global::WordQuiz.Droid.Resource.Style.Platform_MaterialComponents_Light_Dialog;
+			global::Rg.Plugins.Popup.Resource.Style.Platform_ThemeOverlay_AppCompat = global::WordQuiz.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat;
+			global::Rg.Plugins.Popup.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark = global::WordQuiz.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark;
+			global::Rg.Plugins.Popup.Resource.Style.Platform_ThemeOverlay_AppCompat_Light = global::WordQuiz.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Light;
+			global::Rg.Plugins.Popup.Resource.Style.Platform_V21_AppCompat = global::WordQuiz.Droid.Resource.Style.Platform_V21_AppCompat;
+			global::Rg.Plugins.Popup.Resource.Style.Platform_V21_AppCompat_Light = global::WordQuiz.Droid.Resource.Style.Platform_V21_AppCompat_Light;
+			global::Rg.Plugins.Popup.Resource.Style.Platform_V25_AppCompat = global::WordQuiz.Droid.Resource.Style.Platform_V25_AppCompat;
+			global::Rg.Plugins.Popup.Resource.Style.Platform_V25_AppCompat_Light = global::WordQuiz.Droid.Resource.Style.Platform_V25_AppCompat_Light;
+			global::Rg.Plugins.Popup.Resource.Style.Platform_Widget_AppCompat_Spinner = global::WordQuiz.Droid.Resource.Style.Platform_Widget_AppCompat_Spinner;
+			global::Rg.Plugins.Popup.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat = global::WordQuiz.Droid.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat;
+			global::Rg.Plugins.Popup.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem = global::WordQuiz.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem;
+			global::Rg.Plugins.Popup.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon = global::WordQuiz.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon;
+			global::Rg.Plugins.Popup.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem = global::WordQuiz.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem;
+			global::Rg.Plugins.Popup.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup = global::WordQuiz.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup;
+			global::Rg.Plugins.Popup.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Shortcut = global::WordQuiz.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Shortcut;
+			global::Rg.Plugins.Popup.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_SubmenuArrow = global::WordQuiz.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_SubmenuArrow;
+			global::Rg.Plugins.Popup.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text = global::WordQuiz.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text;
+			global::Rg.Plugins.Popup.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Title = global::WordQuiz.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Title;
+			global::Rg.Plugins.Popup.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon = global::WordQuiz.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon;
+			global::Rg.Plugins.Popup.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown = global::WordQuiz.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown;
+			global::Rg.Plugins.Popup.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = global::WordQuiz.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1;
+			global::Rg.Plugins.Popup.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = global::WordQuiz.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2;
+			global::Rg.Plugins.Popup.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query = global::WordQuiz.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query;
+			global::Rg.Plugins.Popup.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text = global::WordQuiz.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text;
+			global::Rg.Plugins.Popup.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton = global::WordQuiz.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton;
+			global::Rg.Plugins.Popup.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = global::WordQuiz.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat = global::WordQuiz.Droid.Resource.Style.TextAppearance_AppCompat;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Body1 = global::WordQuiz.Droid.Resource.Style.TextAppearance_AppCompat_Body1;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Body2 = global::WordQuiz.Droid.Resource.Style.TextAppearance_AppCompat_Body2;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Button = global::WordQuiz.Droid.Resource.Style.TextAppearance_AppCompat_Button;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Caption = global::WordQuiz.Droid.Resource.Style.TextAppearance_AppCompat_Caption;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Display1 = global::WordQuiz.Droid.Resource.Style.TextAppearance_AppCompat_Display1;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Display2 = global::WordQuiz.Droid.Resource.Style.TextAppearance_AppCompat_Display2;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Display3 = global::WordQuiz.Droid.Resource.Style.TextAppearance_AppCompat_Display3;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Display4 = global::WordQuiz.Droid.Resource.Style.TextAppearance_AppCompat_Display4;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Headline = global::WordQuiz.Droid.Resource.Style.TextAppearance_AppCompat_Headline;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Inverse = global::WordQuiz.Droid.Resource.Style.TextAppearance_AppCompat_Inverse;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Large = global::WordQuiz.Droid.Resource.Style.TextAppearance_AppCompat_Large;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Large_Inverse = global::WordQuiz.Droid.Resource.Style.TextAppearance_AppCompat_Large_Inverse;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle = global::WordQuiz.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title = global::WordQuiz.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::WordQuiz.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::WordQuiz.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Medium = global::WordQuiz.Droid.Resource.Style.TextAppearance_AppCompat_Medium;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Medium_Inverse = global::WordQuiz.Droid.Resource.Style.TextAppearance_AppCompat_Medium_Inverse;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Menu = global::WordQuiz.Droid.Resource.Style.TextAppearance_AppCompat_Menu;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle = global::WordQuiz.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_SearchResult_Title = global::WordQuiz.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Title;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Small = global::WordQuiz.Droid.Resource.Style.TextAppearance_AppCompat_Small;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Small_Inverse = global::WordQuiz.Droid.Resource.Style.TextAppearance_AppCompat_Small_Inverse;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Subhead = global::WordQuiz.Droid.Resource.Style.TextAppearance_AppCompat_Subhead;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse = global::WordQuiz.Droid.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Title = global::WordQuiz.Droid.Resource.Style.TextAppearance_AppCompat_Title;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Title_Inverse = global::WordQuiz.Droid.Resource.Style.TextAppearance_AppCompat_Title_Inverse;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Tooltip = global::WordQuiz.Droid.Resource.Style.TextAppearance_AppCompat_Tooltip;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu = global::WordQuiz.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::WordQuiz.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::WordQuiz.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title = global::WordQuiz.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::WordQuiz.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::WordQuiz.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = global::WordQuiz.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title = global::WordQuiz.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = global::WordQuiz.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Widget_Button = global::WordQuiz.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::WordQuiz.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored = global::WordQuiz.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse = global::WordQuiz.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem = global::WordQuiz.Droid.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header = global::WordQuiz.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large = global::WordQuiz.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small = global::WordQuiz.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Widget_Switch = global::WordQuiz.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Switch;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::WordQuiz.Droid.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_Compat_Notification = global::WordQuiz.Droid.Resource.Style.TextAppearance_Compat_Notification;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_Compat_Notification_Info = global::WordQuiz.Droid.Resource.Style.TextAppearance_Compat_Notification_Info;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_Compat_Notification_Info_Media = global::WordQuiz.Droid.Resource.Style.TextAppearance_Compat_Notification_Info_Media;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_Compat_Notification_Line2 = global::WordQuiz.Droid.Resource.Style.TextAppearance_Compat_Notification_Line2;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_Compat_Notification_Line2_Media = global::WordQuiz.Droid.Resource.Style.TextAppearance_Compat_Notification_Line2_Media;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_Compat_Notification_Media = global::WordQuiz.Droid.Resource.Style.TextAppearance_Compat_Notification_Media;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_Compat_Notification_Time = global::WordQuiz.Droid.Resource.Style.TextAppearance_Compat_Notification_Time;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_Compat_Notification_Time_Media = global::WordQuiz.Droid.Resource.Style.TextAppearance_Compat_Notification_Time_Media;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_Compat_Notification_Title = global::WordQuiz.Droid.Resource.Style.TextAppearance_Compat_Notification_Title;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_Compat_Notification_Title_Media = global::WordQuiz.Droid.Resource.Style.TextAppearance_Compat_Notification_Title_Media;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded = global::WordQuiz.Droid.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_Design_Counter = global::WordQuiz.Droid.Resource.Style.TextAppearance_Design_Counter;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_Design_Counter_Overflow = global::WordQuiz.Droid.Resource.Style.TextAppearance_Design_Counter_Overflow;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_Design_Error = global::WordQuiz.Droid.Resource.Style.TextAppearance_Design_Error;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_Design_HelperText = global::WordQuiz.Droid.Resource.Style.TextAppearance_Design_HelperText;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_Design_Hint = global::WordQuiz.Droid.Resource.Style.TextAppearance_Design_Hint;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_Design_Snackbar_Message = global::WordQuiz.Droid.Resource.Style.TextAppearance_Design_Snackbar_Message;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_Design_Tab = global::WordQuiz.Droid.Resource.Style.TextAppearance_Design_Tab;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_MaterialComponents_Body1 = global::WordQuiz.Droid.Resource.Style.TextAppearance_MaterialComponents_Body1;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_MaterialComponents_Body2 = global::WordQuiz.Droid.Resource.Style.TextAppearance_MaterialComponents_Body2;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_MaterialComponents_Button = global::WordQuiz.Droid.Resource.Style.TextAppearance_MaterialComponents_Button;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_MaterialComponents_Caption = global::WordQuiz.Droid.Resource.Style.TextAppearance_MaterialComponents_Caption;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_MaterialComponents_Chip = global::WordQuiz.Droid.Resource.Style.TextAppearance_MaterialComponents_Chip;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_MaterialComponents_Headline1 = global::WordQuiz.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline1;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_MaterialComponents_Headline2 = global::WordQuiz.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline2;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_MaterialComponents_Headline3 = global::WordQuiz.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline3;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_MaterialComponents_Headline4 = global::WordQuiz.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline4;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_MaterialComponents_Headline5 = global::WordQuiz.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline5;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_MaterialComponents_Headline6 = global::WordQuiz.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline6;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_MaterialComponents_Overline = global::WordQuiz.Droid.Resource.Style.TextAppearance_MaterialComponents_Overline;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_MaterialComponents_Subtitle1 = global::WordQuiz.Droid.Resource.Style.TextAppearance_MaterialComponents_Subtitle1;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_MaterialComponents_Subtitle2 = global::WordQuiz.Droid.Resource.Style.TextAppearance_MaterialComponents_Subtitle2;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_MaterialComponents_Tab = global::WordQuiz.Droid.Resource.Style.TextAppearance_MaterialComponents_Tab;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::WordQuiz.Droid.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::WordQuiz.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title = global::WordQuiz.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_AppCompat = global::WordQuiz.Droid.Resource.Style.ThemeOverlay_AppCompat;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_AppCompat_ActionBar = global::WordQuiz.Droid.Resource.Style.ThemeOverlay_AppCompat_ActionBar;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_AppCompat_Dark = global::WordQuiz.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar = global::WordQuiz.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_AppCompat_DayNight = global::WordQuiz.Droid.Resource.Style.ThemeOverlay_AppCompat_DayNight;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_AppCompat_DayNight_ActionBar = global::WordQuiz.Droid.Resource.Style.ThemeOverlay_AppCompat_DayNight_ActionBar;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_AppCompat_Dialog = global::WordQuiz.Droid.Resource.Style.ThemeOverlay_AppCompat_Dialog;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert = global::WordQuiz.Droid.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_AppCompat_Light = global::WordQuiz.Droid.Resource.Style.ThemeOverlay_AppCompat_Light;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_MaterialComponents = global::WordQuiz.Droid.Resource.Style.ThemeOverlay_MaterialComponents;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_MaterialComponents_ActionBar = global::WordQuiz.Droid.Resource.Style.ThemeOverlay_MaterialComponents_ActionBar;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_MaterialComponents_Dark = global::WordQuiz.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dark;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_MaterialComponents_Dark_ActionBar = global::WordQuiz.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dark_ActionBar;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_MaterialComponents_Dialog = global::WordQuiz.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dialog;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_MaterialComponents_Dialog_Alert = global::WordQuiz.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dialog_Alert;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_MaterialComponents_Light = global::WordQuiz.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Light;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText = global::WordQuiz.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox = global::WordQuiz.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox_Dense = global::WordQuiz.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox_Dense;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox = global::WordQuiz.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox_Dense = global::WordQuiz.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox_Dense;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_AppCompat = global::WordQuiz.Droid.Resource.Style.Theme_AppCompat;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_AppCompat_CompactMenu = global::WordQuiz.Droid.Resource.Style.Theme_AppCompat_CompactMenu;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_AppCompat_DayNight = global::WordQuiz.Droid.Resource.Style.Theme_AppCompat_DayNight;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar = global::WordQuiz.Droid.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_AppCompat_DayNight_Dialog = global::WordQuiz.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge = global::WordQuiz.Droid.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert = global::WordQuiz.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth = global::WordQuiz.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_AppCompat_DayNight_NoActionBar = global::WordQuiz.Droid.Resource.Style.Theme_AppCompat_DayNight_NoActionBar;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_AppCompat_Dialog = global::WordQuiz.Droid.Resource.Style.Theme_AppCompat_Dialog;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_AppCompat_DialogWhenLarge = global::WordQuiz.Droid.Resource.Style.Theme_AppCompat_DialogWhenLarge;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_AppCompat_Dialog_Alert = global::WordQuiz.Droid.Resource.Style.Theme_AppCompat_Dialog_Alert;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_AppCompat_Dialog_MinWidth = global::WordQuiz.Droid.Resource.Style.Theme_AppCompat_Dialog_MinWidth;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_AppCompat_Light = global::WordQuiz.Droid.Resource.Style.Theme_AppCompat_Light;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_AppCompat_Light_DarkActionBar = global::WordQuiz.Droid.Resource.Style.Theme_AppCompat_Light_DarkActionBar;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_AppCompat_Light_Dialog = global::WordQuiz.Droid.Resource.Style.Theme_AppCompat_Light_Dialog;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge = global::WordQuiz.Droid.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_AppCompat_Light_Dialog_Alert = global::WordQuiz.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_Alert;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth = global::WordQuiz.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_AppCompat_Light_NoActionBar = global::WordQuiz.Droid.Resource.Style.Theme_AppCompat_Light_NoActionBar;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_AppCompat_NoActionBar = global::WordQuiz.Droid.Resource.Style.Theme_AppCompat_NoActionBar;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_Design = global::WordQuiz.Droid.Resource.Style.Theme_Design;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_Design_BottomSheetDialog = global::WordQuiz.Droid.Resource.Style.Theme_Design_BottomSheetDialog;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_Design_Light = global::WordQuiz.Droid.Resource.Style.Theme_Design_Light;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_Design_Light_BottomSheetDialog = global::WordQuiz.Droid.Resource.Style.Theme_Design_Light_BottomSheetDialog;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_Design_Light_NoActionBar = global::WordQuiz.Droid.Resource.Style.Theme_Design_Light_NoActionBar;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_Design_NoActionBar = global::WordQuiz.Droid.Resource.Style.Theme_Design_NoActionBar;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents = global::WordQuiz.Droid.Resource.Style.Theme_MaterialComponents;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_BottomSheetDialog = global::WordQuiz.Droid.Resource.Style.Theme_MaterialComponents_BottomSheetDialog;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_Bridge = global::WordQuiz.Droid.Resource.Style.Theme_MaterialComponents_Bridge;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_CompactMenu = global::WordQuiz.Droid.Resource.Style.Theme_MaterialComponents_CompactMenu;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_Dialog = global::WordQuiz.Droid.Resource.Style.Theme_MaterialComponents_Dialog;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_DialogWhenLarge = global::WordQuiz.Droid.Resource.Style.Theme_MaterialComponents_DialogWhenLarge;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_Dialog_Alert = global::WordQuiz.Droid.Resource.Style.Theme_MaterialComponents_Dialog_Alert;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_Dialog_MinWidth = global::WordQuiz.Droid.Resource.Style.Theme_MaterialComponents_Dialog_MinWidth;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_Light = global::WordQuiz.Droid.Resource.Style.Theme_MaterialComponents_Light;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_Light_BottomSheetDialog = global::WordQuiz.Droid.Resource.Style.Theme_MaterialComponents_Light_BottomSheetDialog;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_Light_Bridge = global::WordQuiz.Droid.Resource.Style.Theme_MaterialComponents_Light_Bridge;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar = global::WordQuiz.Droid.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar_Bridge = global::WordQuiz.Droid.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar_Bridge;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_Light_Dialog = global::WordQuiz.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_Light_DialogWhenLarge = global::WordQuiz.Droid.Resource.Style.Theme_MaterialComponents_Light_DialogWhenLarge;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_Light_Dialog_Alert = global::WordQuiz.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_Alert;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_Light_Dialog_MinWidth = global::WordQuiz.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_MinWidth;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_Light_NoActionBar = global::WordQuiz.Droid.Resource.Style.Theme_MaterialComponents_Light_NoActionBar;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_Light_NoActionBar_Bridge = global::WordQuiz.Droid.Resource.Style.Theme_MaterialComponents_Light_NoActionBar_Bridge;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_NoActionBar = global::WordQuiz.Droid.Resource.Style.Theme_MaterialComponents_NoActionBar;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_NoActionBar_Bridge = global::WordQuiz.Droid.Resource.Style.Theme_MaterialComponents_NoActionBar_Bridge;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_ActionBar = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_ActionBar;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_ActionBar_Solid = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_ActionBar_Solid;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_ActionBar_TabBar = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabBar;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_ActionBar_TabText = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabText;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_ActionBar_TabView = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabView;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_ActionButton = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_ActionButton;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_ActionButton_CloseMode = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_ActionButton_CloseMode;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_ActionButton_Overflow = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_ActionButton_Overflow;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_ActionMode = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_ActionMode;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_ActivityChooserView = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_ActivityChooserView;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_AutoCompleteTextView = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_AutoCompleteTextView;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_Button = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_Button;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_ButtonBar = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_ButtonBar;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_Button_Borderless = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_Button_Borderless;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_Button_Borderless_Colored = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_Button_Borderless_Colored;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_Button_Colored = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_Button_Colored;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_Button_Small = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_Button_Small;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_CompoundButton_Switch = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_CompoundButton_Switch;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_DrawerArrowToggle = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_DrawerArrowToggle;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_DropDownItem_Spinner = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_DropDownItem_Spinner;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_EditText = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_EditText;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_ImageButton = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_ImageButton;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_Light_ActionBar = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_Light_ActionButton = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_Light_ActivityChooserView = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_Light_ActivityChooserView;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_Light_ListPopupWindow = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_Light_ListPopupWindow;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_Light_ListView_DropDown = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_Light_ListView_DropDown;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_Light_PopupMenu = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_Light_SearchView = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_Light_SearchView;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_ListMenuView = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_ListMenuView;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_ListPopupWindow = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_ListPopupWindow;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_ListView = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_ListView;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_ListView_DropDown = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_ListView_DropDown;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_ListView_Menu = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_ListView_Menu;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_PopupMenu = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_PopupMenu;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_PopupMenu_Overflow = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_PopupMenu_Overflow;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_PopupWindow = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_PopupWindow;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_ProgressBar = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_ProgressBar;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_RatingBar = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_RatingBar;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_RatingBar_Indicator = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_RatingBar_Indicator;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_RatingBar_Small = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_RatingBar_Small;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_SearchView = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_SearchView;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_SearchView_ActionBar = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_SearchView_ActionBar;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_SeekBar = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_SeekBar;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_SeekBar_Discrete = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_SeekBar_Discrete;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_Spinner = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_Spinner;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_Spinner_DropDown = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_Spinner_Underlined = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_Spinner_Underlined;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_TextView = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_TextView;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_TextView_SpinnerItem = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_TextView_SpinnerItem;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_Toolbar = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_Toolbar;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation = global::WordQuiz.Droid.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_Compat_NotificationActionContainer = global::WordQuiz.Droid.Resource.Style.Widget_Compat_NotificationActionContainer;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_Compat_NotificationActionText = global::WordQuiz.Droid.Resource.Style.Widget_Compat_NotificationActionText;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_Design_AppBarLayout = global::WordQuiz.Droid.Resource.Style.Widget_Design_AppBarLayout;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_Design_BottomNavigationView = global::WordQuiz.Droid.Resource.Style.Widget_Design_BottomNavigationView;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_Design_BottomSheet_Modal = global::WordQuiz.Droid.Resource.Style.Widget_Design_BottomSheet_Modal;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_Design_CollapsingToolbar = global::WordQuiz.Droid.Resource.Style.Widget_Design_CollapsingToolbar;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_Design_FloatingActionButton = global::WordQuiz.Droid.Resource.Style.Widget_Design_FloatingActionButton;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_Design_NavigationView = global::WordQuiz.Droid.Resource.Style.Widget_Design_NavigationView;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_Design_ScrimInsetsFrameLayout = global::WordQuiz.Droid.Resource.Style.Widget_Design_ScrimInsetsFrameLayout;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_Design_Snackbar = global::WordQuiz.Droid.Resource.Style.Widget_Design_Snackbar;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_Design_TabLayout = global::WordQuiz.Droid.Resource.Style.Widget_Design_TabLayout;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_Design_TextInputLayout = global::WordQuiz.Droid.Resource.Style.Widget_Design_TextInputLayout;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_BottomAppBar = global::WordQuiz.Droid.Resource.Style.Widget_MaterialComponents_BottomAppBar;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_BottomAppBar_Colored = global::WordQuiz.Droid.Resource.Style.Widget_MaterialComponents_BottomAppBar_Colored;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_BottomNavigationView = global::WordQuiz.Droid.Resource.Style.Widget_MaterialComponents_BottomNavigationView;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_BottomNavigationView_Colored = global::WordQuiz.Droid.Resource.Style.Widget_MaterialComponents_BottomNavigationView_Colored;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_BottomSheet_Modal = global::WordQuiz.Droid.Resource.Style.Widget_MaterialComponents_BottomSheet_Modal;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_Button = global::WordQuiz.Droid.Resource.Style.Widget_MaterialComponents_Button;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_Button_Icon = global::WordQuiz.Droid.Resource.Style.Widget_MaterialComponents_Button_Icon;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton = global::WordQuiz.Droid.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton_Icon = global::WordQuiz.Droid.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton_Icon;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_Button_TextButton = global::WordQuiz.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog = global::WordQuiz.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog_Icon = global::WordQuiz.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog_Icon;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_Button_TextButton_Icon = global::WordQuiz.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton_Icon;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton = global::WordQuiz.Droid.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton_Icon = global::WordQuiz.Droid.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton_Icon;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_CardView = global::WordQuiz.Droid.Resource.Style.Widget_MaterialComponents_CardView;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_ChipGroup = global::WordQuiz.Droid.Resource.Style.Widget_MaterialComponents_ChipGroup;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_Chip_Action = global::WordQuiz.Droid.Resource.Style.Widget_MaterialComponents_Chip_Action;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_Chip_Choice = global::WordQuiz.Droid.Resource.Style.Widget_MaterialComponents_Chip_Choice;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_Chip_Entry = global::WordQuiz.Droid.Resource.Style.Widget_MaterialComponents_Chip_Entry;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_Chip_Filter = global::WordQuiz.Droid.Resource.Style.Widget_MaterialComponents_Chip_Filter;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_FloatingActionButton = global::WordQuiz.Droid.Resource.Style.Widget_MaterialComponents_FloatingActionButton;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_NavigationView = global::WordQuiz.Droid.Resource.Style.Widget_MaterialComponents_NavigationView;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_Snackbar = global::WordQuiz.Droid.Resource.Style.Widget_MaterialComponents_Snackbar;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_Snackbar_FullWidth = global::WordQuiz.Droid.Resource.Style.Widget_MaterialComponents_Snackbar_FullWidth;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_TabLayout = global::WordQuiz.Droid.Resource.Style.Widget_MaterialComponents_TabLayout;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_TabLayout_Colored = global::WordQuiz.Droid.Resource.Style.Widget_MaterialComponents_TabLayout_Colored;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox = global::WordQuiz.Droid.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox_Dense = global::WordQuiz.Droid.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox_Dense;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox = global::WordQuiz.Droid.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox_Dense = global::WordQuiz.Droid.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox_Dense;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox = global::WordQuiz.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox_Dense = global::WordQuiz.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox_Dense;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox = global::WordQuiz.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense = global::WordQuiz.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_Toolbar = global::WordQuiz.Droid.Resource.Style.Widget_MaterialComponents_Toolbar;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_Support_CoordinatorLayout = global::WordQuiz.Droid.Resource.Style.Widget_Support_CoordinatorLayout;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionBar = global::WordQuiz.Droid.Resource.Styleable.ActionBar;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionBarLayout = global::WordQuiz.Droid.Resource.Styleable.ActionBarLayout;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionBarLayout_android_layout_gravity = global::WordQuiz.Droid.Resource.Styleable.ActionBarLayout_android_layout_gravity;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionBar_background = global::WordQuiz.Droid.Resource.Styleable.ActionBar_background;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionBar_backgroundSplit = global::WordQuiz.Droid.Resource.Styleable.ActionBar_backgroundSplit;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionBar_backgroundStacked = global::WordQuiz.Droid.Resource.Styleable.ActionBar_backgroundStacked;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionBar_contentInsetEnd = global::WordQuiz.Droid.Resource.Styleable.ActionBar_contentInsetEnd;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionBar_contentInsetEndWithActions = global::WordQuiz.Droid.Resource.Styleable.ActionBar_contentInsetEndWithActions;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionBar_contentInsetLeft = global::WordQuiz.Droid.Resource.Styleable.ActionBar_contentInsetLeft;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionBar_contentInsetRight = global::WordQuiz.Droid.Resource.Styleable.ActionBar_contentInsetRight;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionBar_contentInsetStart = global::WordQuiz.Droid.Resource.Styleable.ActionBar_contentInsetStart;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionBar_contentInsetStartWithNavigation = global::WordQuiz.Droid.Resource.Styleable.ActionBar_contentInsetStartWithNavigation;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionBar_customNavigationLayout = global::WordQuiz.Droid.Resource.Styleable.ActionBar_customNavigationLayout;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionBar_displayOptions = global::WordQuiz.Droid.Resource.Styleable.ActionBar_displayOptions;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionBar_divider = global::WordQuiz.Droid.Resource.Styleable.ActionBar_divider;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionBar_elevation = global::WordQuiz.Droid.Resource.Styleable.ActionBar_elevation;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionBar_height = global::WordQuiz.Droid.Resource.Styleable.ActionBar_height;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionBar_hideOnContentScroll = global::WordQuiz.Droid.Resource.Styleable.ActionBar_hideOnContentScroll;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionBar_homeAsUpIndicator = global::WordQuiz.Droid.Resource.Styleable.ActionBar_homeAsUpIndicator;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionBar_homeLayout = global::WordQuiz.Droid.Resource.Styleable.ActionBar_homeLayout;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionBar_icon = global::WordQuiz.Droid.Resource.Styleable.ActionBar_icon;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionBar_indeterminateProgressStyle = global::WordQuiz.Droid.Resource.Styleable.ActionBar_indeterminateProgressStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionBar_itemPadding = global::WordQuiz.Droid.Resource.Styleable.ActionBar_itemPadding;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionBar_logo = global::WordQuiz.Droid.Resource.Styleable.ActionBar_logo;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionBar_navigationMode = global::WordQuiz.Droid.Resource.Styleable.ActionBar_navigationMode;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionBar_popupTheme = global::WordQuiz.Droid.Resource.Styleable.ActionBar_popupTheme;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionBar_progressBarPadding = global::WordQuiz.Droid.Resource.Styleable.ActionBar_progressBarPadding;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionBar_progressBarStyle = global::WordQuiz.Droid.Resource.Styleable.ActionBar_progressBarStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionBar_subtitle = global::WordQuiz.Droid.Resource.Styleable.ActionBar_subtitle;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionBar_subtitleTextStyle = global::WordQuiz.Droid.Resource.Styleable.ActionBar_subtitleTextStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionBar_title = global::WordQuiz.Droid.Resource.Styleable.ActionBar_title;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionBar_titleTextStyle = global::WordQuiz.Droid.Resource.Styleable.ActionBar_titleTextStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionMenuItemView = global::WordQuiz.Droid.Resource.Styleable.ActionMenuItemView;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionMenuItemView_android_minWidth = global::WordQuiz.Droid.Resource.Styleable.ActionMenuItemView_android_minWidth;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionMenuView = global::WordQuiz.Droid.Resource.Styleable.ActionMenuView;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionMode = global::WordQuiz.Droid.Resource.Styleable.ActionMode;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionMode_background = global::WordQuiz.Droid.Resource.Styleable.ActionMode_background;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionMode_backgroundSplit = global::WordQuiz.Droid.Resource.Styleable.ActionMode_backgroundSplit;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionMode_closeItemLayout = global::WordQuiz.Droid.Resource.Styleable.ActionMode_closeItemLayout;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionMode_height = global::WordQuiz.Droid.Resource.Styleable.ActionMode_height;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionMode_subtitleTextStyle = global::WordQuiz.Droid.Resource.Styleable.ActionMode_subtitleTextStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionMode_titleTextStyle = global::WordQuiz.Droid.Resource.Styleable.ActionMode_titleTextStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActivityChooserView = global::WordQuiz.Droid.Resource.Styleable.ActivityChooserView;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable = global::WordQuiz.Droid.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActivityChooserView_initialActivityCount = global::WordQuiz.Droid.Resource.Styleable.ActivityChooserView_initialActivityCount;
+			global::Rg.Plugins.Popup.Resource.Styleable.AlertDialog = global::WordQuiz.Droid.Resource.Styleable.AlertDialog;
+			global::Rg.Plugins.Popup.Resource.Styleable.AlertDialog_android_layout = global::WordQuiz.Droid.Resource.Styleable.AlertDialog_android_layout;
+			global::Rg.Plugins.Popup.Resource.Styleable.AlertDialog_buttonIconDimen = global::WordQuiz.Droid.Resource.Styleable.AlertDialog_buttonIconDimen;
+			global::Rg.Plugins.Popup.Resource.Styleable.AlertDialog_buttonPanelSideLayout = global::WordQuiz.Droid.Resource.Styleable.AlertDialog_buttonPanelSideLayout;
+			global::Rg.Plugins.Popup.Resource.Styleable.AlertDialog_listItemLayout = global::WordQuiz.Droid.Resource.Styleable.AlertDialog_listItemLayout;
+			global::Rg.Plugins.Popup.Resource.Styleable.AlertDialog_listLayout = global::WordQuiz.Droid.Resource.Styleable.AlertDialog_listLayout;
+			global::Rg.Plugins.Popup.Resource.Styleable.AlertDialog_multiChoiceItemLayout = global::WordQuiz.Droid.Resource.Styleable.AlertDialog_multiChoiceItemLayout;
+			global::Rg.Plugins.Popup.Resource.Styleable.AlertDialog_showTitle = global::WordQuiz.Droid.Resource.Styleable.AlertDialog_showTitle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AlertDialog_singleChoiceItemLayout = global::WordQuiz.Droid.Resource.Styleable.AlertDialog_singleChoiceItemLayout;
+			global::Rg.Plugins.Popup.Resource.Styleable.AnimatedStateListDrawableCompat = global::WordQuiz.Droid.Resource.Styleable.AnimatedStateListDrawableCompat;
+			global::Rg.Plugins.Popup.Resource.Styleable.AnimatedStateListDrawableCompat_android_constantSize = global::WordQuiz.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_constantSize;
+			global::Rg.Plugins.Popup.Resource.Styleable.AnimatedStateListDrawableCompat_android_dither = global::WordQuiz.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_dither;
+			global::Rg.Plugins.Popup.Resource.Styleable.AnimatedStateListDrawableCompat_android_enterFadeDuration = global::WordQuiz.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_enterFadeDuration;
+			global::Rg.Plugins.Popup.Resource.Styleable.AnimatedStateListDrawableCompat_android_exitFadeDuration = global::WordQuiz.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_exitFadeDuration;
+			global::Rg.Plugins.Popup.Resource.Styleable.AnimatedStateListDrawableCompat_android_variablePadding = global::WordQuiz.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_variablePadding;
+			global::Rg.Plugins.Popup.Resource.Styleable.AnimatedStateListDrawableCompat_android_visible = global::WordQuiz.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_visible;
+			global::Rg.Plugins.Popup.Resource.Styleable.AnimatedStateListDrawableItem = global::WordQuiz.Droid.Resource.Styleable.AnimatedStateListDrawableItem;
+			global::Rg.Plugins.Popup.Resource.Styleable.AnimatedStateListDrawableItem_android_drawable = global::WordQuiz.Droid.Resource.Styleable.AnimatedStateListDrawableItem_android_drawable;
+			global::Rg.Plugins.Popup.Resource.Styleable.AnimatedStateListDrawableItem_android_id = global::WordQuiz.Droid.Resource.Styleable.AnimatedStateListDrawableItem_android_id;
+			global::Rg.Plugins.Popup.Resource.Styleable.AnimatedStateListDrawableTransition = global::WordQuiz.Droid.Resource.Styleable.AnimatedStateListDrawableTransition;
+			global::Rg.Plugins.Popup.Resource.Styleable.AnimatedStateListDrawableTransition_android_drawable = global::WordQuiz.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_drawable;
+			global::Rg.Plugins.Popup.Resource.Styleable.AnimatedStateListDrawableTransition_android_fromId = global::WordQuiz.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_fromId;
+			global::Rg.Plugins.Popup.Resource.Styleable.AnimatedStateListDrawableTransition_android_reversible = global::WordQuiz.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_reversible;
+			global::Rg.Plugins.Popup.Resource.Styleable.AnimatedStateListDrawableTransition_android_toId = global::WordQuiz.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_toId;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppBarLayout = global::WordQuiz.Droid.Resource.Styleable.AppBarLayout;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppBarLayoutStates = global::WordQuiz.Droid.Resource.Styleable.AppBarLayoutStates;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppBarLayoutStates_state_collapsed = global::WordQuiz.Droid.Resource.Styleable.AppBarLayoutStates_state_collapsed;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppBarLayoutStates_state_collapsible = global::WordQuiz.Droid.Resource.Styleable.AppBarLayoutStates_state_collapsible;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppBarLayoutStates_state_liftable = global::WordQuiz.Droid.Resource.Styleable.AppBarLayoutStates_state_liftable;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppBarLayoutStates_state_lifted = global::WordQuiz.Droid.Resource.Styleable.AppBarLayoutStates_state_lifted;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppBarLayout_android_background = global::WordQuiz.Droid.Resource.Styleable.AppBarLayout_android_background;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppBarLayout_android_keyboardNavigationCluster = global::WordQuiz.Droid.Resource.Styleable.AppBarLayout_android_keyboardNavigationCluster;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppBarLayout_android_touchscreenBlocksFocus = global::WordQuiz.Droid.Resource.Styleable.AppBarLayout_android_touchscreenBlocksFocus;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppBarLayout_elevation = global::WordQuiz.Droid.Resource.Styleable.AppBarLayout_elevation;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppBarLayout_expanded = global::WordQuiz.Droid.Resource.Styleable.AppBarLayout_expanded;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppBarLayout_Layout = global::WordQuiz.Droid.Resource.Styleable.AppBarLayout_Layout;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppBarLayout_Layout_layout_scrollFlags = global::WordQuiz.Droid.Resource.Styleable.AppBarLayout_Layout_layout_scrollFlags;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppBarLayout_Layout_layout_scrollInterpolator = global::WordQuiz.Droid.Resource.Styleable.AppBarLayout_Layout_layout_scrollInterpolator;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppBarLayout_liftOnScroll = global::WordQuiz.Droid.Resource.Styleable.AppBarLayout_liftOnScroll;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatImageView = global::WordQuiz.Droid.Resource.Styleable.AppCompatImageView;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatImageView_android_src = global::WordQuiz.Droid.Resource.Styleable.AppCompatImageView_android_src;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatImageView_srcCompat = global::WordQuiz.Droid.Resource.Styleable.AppCompatImageView_srcCompat;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatImageView_tint = global::WordQuiz.Droid.Resource.Styleable.AppCompatImageView_tint;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatImageView_tintMode = global::WordQuiz.Droid.Resource.Styleable.AppCompatImageView_tintMode;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatSeekBar = global::WordQuiz.Droid.Resource.Styleable.AppCompatSeekBar;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatSeekBar_android_thumb = global::WordQuiz.Droid.Resource.Styleable.AppCompatSeekBar_android_thumb;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatSeekBar_tickMark = global::WordQuiz.Droid.Resource.Styleable.AppCompatSeekBar_tickMark;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatSeekBar_tickMarkTint = global::WordQuiz.Droid.Resource.Styleable.AppCompatSeekBar_tickMarkTint;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode = global::WordQuiz.Droid.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTextHelper = global::WordQuiz.Droid.Resource.Styleable.AppCompatTextHelper;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTextHelper_android_drawableBottom = global::WordQuiz.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableBottom;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTextHelper_android_drawableEnd = global::WordQuiz.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableEnd;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTextHelper_android_drawableLeft = global::WordQuiz.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableLeft;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTextHelper_android_drawableRight = global::WordQuiz.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableRight;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTextHelper_android_drawableStart = global::WordQuiz.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableStart;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTextHelper_android_drawableTop = global::WordQuiz.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableTop;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTextHelper_android_textAppearance = global::WordQuiz.Droid.Resource.Styleable.AppCompatTextHelper_android_textAppearance;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTextView = global::WordQuiz.Droid.Resource.Styleable.AppCompatTextView;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTextView_android_textAppearance = global::WordQuiz.Droid.Resource.Styleable.AppCompatTextView_android_textAppearance;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTextView_autoSizeMaxTextSize = global::WordQuiz.Droid.Resource.Styleable.AppCompatTextView_autoSizeMaxTextSize;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTextView_autoSizeMinTextSize = global::WordQuiz.Droid.Resource.Styleable.AppCompatTextView_autoSizeMinTextSize;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTextView_autoSizePresetSizes = global::WordQuiz.Droid.Resource.Styleable.AppCompatTextView_autoSizePresetSizes;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity = global::WordQuiz.Droid.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTextView_autoSizeTextType = global::WordQuiz.Droid.Resource.Styleable.AppCompatTextView_autoSizeTextType;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTextView_drawableBottomCompat = global::WordQuiz.Droid.Resource.Styleable.AppCompatTextView_drawableBottomCompat;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTextView_drawableEndCompat = global::WordQuiz.Droid.Resource.Styleable.AppCompatTextView_drawableEndCompat;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTextView_drawableLeftCompat = global::WordQuiz.Droid.Resource.Styleable.AppCompatTextView_drawableLeftCompat;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTextView_drawableRightCompat = global::WordQuiz.Droid.Resource.Styleable.AppCompatTextView_drawableRightCompat;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTextView_drawableStartCompat = global::WordQuiz.Droid.Resource.Styleable.AppCompatTextView_drawableStartCompat;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTextView_drawableTint = global::WordQuiz.Droid.Resource.Styleable.AppCompatTextView_drawableTint;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTextView_drawableTintMode = global::WordQuiz.Droid.Resource.Styleable.AppCompatTextView_drawableTintMode;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTextView_drawableTopCompat = global::WordQuiz.Droid.Resource.Styleable.AppCompatTextView_drawableTopCompat;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTextView_firstBaselineToTopHeight = global::WordQuiz.Droid.Resource.Styleable.AppCompatTextView_firstBaselineToTopHeight;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTextView_fontFamily = global::WordQuiz.Droid.Resource.Styleable.AppCompatTextView_fontFamily;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTextView_fontVariationSettings = global::WordQuiz.Droid.Resource.Styleable.AppCompatTextView_fontVariationSettings;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTextView_lastBaselineToBottomHeight = global::WordQuiz.Droid.Resource.Styleable.AppCompatTextView_lastBaselineToBottomHeight;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTextView_lineHeight = global::WordQuiz.Droid.Resource.Styleable.AppCompatTextView_lineHeight;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTextView_textAllCaps = global::WordQuiz.Droid.Resource.Styleable.AppCompatTextView_textAllCaps;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTextView_textLocale = global::WordQuiz.Droid.Resource.Styleable.AppCompatTextView_textLocale;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_actionBarDivider = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_actionBarDivider;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_actionBarItemBackground = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_actionBarItemBackground;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_actionBarPopupTheme = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_actionBarPopupTheme;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_actionBarSize = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_actionBarSize;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_actionBarSplitStyle = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_actionBarSplitStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_actionBarStyle = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_actionBarStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_actionBarTabStyle = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_actionBarTabStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_actionBarTheme = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_actionBarTheme;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_actionButtonStyle = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_actionButtonStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_actionDropDownStyle = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_actionDropDownStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_actionMenuTextColor = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_actionModeBackground = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_actionModeBackground;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_actionModeCutDrawable = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_actionModeCutDrawable;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_actionModeFindDrawable = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_actionModeFindDrawable;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_actionModePasteDrawable = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_actionModePasteDrawable;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_actionModeShareDrawable = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_actionModeShareDrawable;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_actionModeSplitBackground = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_actionModeSplitBackground;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_actionModeStyle = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_actionModeStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_activityChooserViewStyle = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_activityChooserViewStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_alertDialogStyle = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_alertDialogStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_alertDialogTheme = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_alertDialogTheme;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_android_windowIsFloating = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_android_windowIsFloating;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_borderlessButtonStyle = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_borderlessButtonStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_buttonBarStyle = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_buttonBarStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_buttonStyle = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_buttonStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_buttonStyleSmall = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_buttonStyleSmall;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_checkboxStyle = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_checkboxStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_checkedTextViewStyle = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_checkedTextViewStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_colorAccent = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_colorAccent;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_colorBackgroundFloating = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_colorBackgroundFloating;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_colorButtonNormal = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_colorButtonNormal;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_colorControlActivated = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_colorControlActivated;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_colorControlHighlight = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_colorControlHighlight;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_colorControlNormal = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_colorControlNormal;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_colorError = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_colorError;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_colorPrimary = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_colorPrimary;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_colorPrimaryDark = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_colorPrimaryDark;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_controlBackground = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_controlBackground;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_dialogCornerRadius = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_dialogCornerRadius;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_dialogPreferredPadding = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_dialogPreferredPadding;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_dialogTheme = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_dialogTheme;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_dividerHorizontal = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_dividerHorizontal;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_dividerVertical = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_dividerVertical;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_dropDownListViewStyle = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_dropDownListViewStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_editTextBackground = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_editTextBackground;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_editTextColor = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_editTextColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_editTextStyle = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_editTextStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_homeAsUpIndicator = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_homeAsUpIndicator;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_imageButtonStyle = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_imageButtonStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_listChoiceIndicatorMultipleAnimated = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_listChoiceIndicatorMultipleAnimated;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_listChoiceIndicatorSingleAnimated = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_listChoiceIndicatorSingleAnimated;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_listDividerAlertDialog = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_listDividerAlertDialog;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_listMenuViewStyle = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_listMenuViewStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_listPopupWindowStyle = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_listPopupWindowStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_listPreferredItemHeight = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeight;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingEnd = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingEnd;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingStart = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingStart;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_panelBackground = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_panelBackground;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_panelMenuListTheme = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_panelMenuListTheme;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_panelMenuListWidth = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_panelMenuListWidth;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_popupMenuStyle = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_popupMenuStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_popupWindowStyle = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_popupWindowStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_radioButtonStyle = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_radioButtonStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_ratingBarStyle = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_searchViewStyle = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_searchViewStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_seekBarStyle = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_seekBarStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_selectableItemBackground = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackground;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_spinnerStyle = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_spinnerStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_switchStyle = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_switchStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_textAppearanceListItem = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItem;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_textColorSearchUrl = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_textColorSearchUrl;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_toolbarStyle = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_toolbarStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_tooltipForegroundColor = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_tooltipForegroundColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_tooltipFrameBackground = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_tooltipFrameBackground;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_viewInflaterClass = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_viewInflaterClass;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_windowActionBar = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_windowActionBar;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_windowActionBarOverlay = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_windowActionBarOverlay;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_windowActionModeOverlay = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_windowActionModeOverlay;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_windowMinWidthMajor = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMajor;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_windowMinWidthMinor = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMinor;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_windowNoTitle = global::WordQuiz.Droid.Resource.Styleable.AppCompatTheme_windowNoTitle;
+			global::Rg.Plugins.Popup.Resource.Styleable.BottomAppBar = global::WordQuiz.Droid.Resource.Styleable.BottomAppBar;
+			global::Rg.Plugins.Popup.Resource.Styleable.BottomAppBar_backgroundTint = global::WordQuiz.Droid.Resource.Styleable.BottomAppBar_backgroundTint;
+			global::Rg.Plugins.Popup.Resource.Styleable.BottomAppBar_fabAlignmentMode = global::WordQuiz.Droid.Resource.Styleable.BottomAppBar_fabAlignmentMode;
+			global::Rg.Plugins.Popup.Resource.Styleable.BottomAppBar_fabCradleMargin = global::WordQuiz.Droid.Resource.Styleable.BottomAppBar_fabCradleMargin;
+			global::Rg.Plugins.Popup.Resource.Styleable.BottomAppBar_fabCradleRoundedCornerRadius = global::WordQuiz.Droid.Resource.Styleable.BottomAppBar_fabCradleRoundedCornerRadius;
+			global::Rg.Plugins.Popup.Resource.Styleable.BottomAppBar_fabCradleVerticalOffset = global::WordQuiz.Droid.Resource.Styleable.BottomAppBar_fabCradleVerticalOffset;
+			global::Rg.Plugins.Popup.Resource.Styleable.BottomAppBar_hideOnScroll = global::WordQuiz.Droid.Resource.Styleable.BottomAppBar_hideOnScroll;
+			global::Rg.Plugins.Popup.Resource.Styleable.BottomNavigationView = global::WordQuiz.Droid.Resource.Styleable.BottomNavigationView;
+			global::Rg.Plugins.Popup.Resource.Styleable.BottomNavigationView_elevation = global::WordQuiz.Droid.Resource.Styleable.BottomNavigationView_elevation;
+			global::Rg.Plugins.Popup.Resource.Styleable.BottomNavigationView_itemBackground = global::WordQuiz.Droid.Resource.Styleable.BottomNavigationView_itemBackground;
+			global::Rg.Plugins.Popup.Resource.Styleable.BottomNavigationView_itemHorizontalTranslationEnabled = global::WordQuiz.Droid.Resource.Styleable.BottomNavigationView_itemHorizontalTranslationEnabled;
+			global::Rg.Plugins.Popup.Resource.Styleable.BottomNavigationView_itemIconSize = global::WordQuiz.Droid.Resource.Styleable.BottomNavigationView_itemIconSize;
+			global::Rg.Plugins.Popup.Resource.Styleable.BottomNavigationView_itemIconTint = global::WordQuiz.Droid.Resource.Styleable.BottomNavigationView_itemIconTint;
+			global::Rg.Plugins.Popup.Resource.Styleable.BottomNavigationView_itemTextAppearanceActive = global::WordQuiz.Droid.Resource.Styleable.BottomNavigationView_itemTextAppearanceActive;
+			global::Rg.Plugins.Popup.Resource.Styleable.BottomNavigationView_itemTextAppearanceInactive = global::WordQuiz.Droid.Resource.Styleable.BottomNavigationView_itemTextAppearanceInactive;
+			global::Rg.Plugins.Popup.Resource.Styleable.BottomNavigationView_itemTextColor = global::WordQuiz.Droid.Resource.Styleable.BottomNavigationView_itemTextColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.BottomNavigationView_labelVisibilityMode = global::WordQuiz.Droid.Resource.Styleable.BottomNavigationView_labelVisibilityMode;
+			global::Rg.Plugins.Popup.Resource.Styleable.BottomNavigationView_menu = global::WordQuiz.Droid.Resource.Styleable.BottomNavigationView_menu;
+			global::Rg.Plugins.Popup.Resource.Styleable.BottomSheetBehavior_Layout = global::WordQuiz.Droid.Resource.Styleable.BottomSheetBehavior_Layout;
+			global::Rg.Plugins.Popup.Resource.Styleable.BottomSheetBehavior_Layout_behavior_fitToContents = global::WordQuiz.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_fitToContents;
+			global::Rg.Plugins.Popup.Resource.Styleable.BottomSheetBehavior_Layout_behavior_hideable = global::WordQuiz.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_hideable;
+			global::Rg.Plugins.Popup.Resource.Styleable.BottomSheetBehavior_Layout_behavior_peekHeight = global::WordQuiz.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_peekHeight;
+			global::Rg.Plugins.Popup.Resource.Styleable.BottomSheetBehavior_Layout_behavior_skipCollapsed = global::WordQuiz.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_skipCollapsed;
+			global::Rg.Plugins.Popup.Resource.Styleable.ButtonBarLayout = global::WordQuiz.Droid.Resource.Styleable.ButtonBarLayout;
+			global::Rg.Plugins.Popup.Resource.Styleable.ButtonBarLayout_allowStacking = global::WordQuiz.Droid.Resource.Styleable.ButtonBarLayout_allowStacking;
+			global::Rg.Plugins.Popup.Resource.Styleable.CardView = global::WordQuiz.Droid.Resource.Styleable.CardView;
+			global::Rg.Plugins.Popup.Resource.Styleable.CardView_android_minHeight = global::WordQuiz.Droid.Resource.Styleable.CardView_android_minHeight;
+			global::Rg.Plugins.Popup.Resource.Styleable.CardView_android_minWidth = global::WordQuiz.Droid.Resource.Styleable.CardView_android_minWidth;
+			global::Rg.Plugins.Popup.Resource.Styleable.CardView_cardBackgroundColor = global::WordQuiz.Droid.Resource.Styleable.CardView_cardBackgroundColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.CardView_cardCornerRadius = global::WordQuiz.Droid.Resource.Styleable.CardView_cardCornerRadius;
+			global::Rg.Plugins.Popup.Resource.Styleable.CardView_cardElevation = global::WordQuiz.Droid.Resource.Styleable.CardView_cardElevation;
+			global::Rg.Plugins.Popup.Resource.Styleable.CardView_cardMaxElevation = global::WordQuiz.Droid.Resource.Styleable.CardView_cardMaxElevation;
+			global::Rg.Plugins.Popup.Resource.Styleable.CardView_cardPreventCornerOverlap = global::WordQuiz.Droid.Resource.Styleable.CardView_cardPreventCornerOverlap;
+			global::Rg.Plugins.Popup.Resource.Styleable.CardView_cardUseCompatPadding = global::WordQuiz.Droid.Resource.Styleable.CardView_cardUseCompatPadding;
+			global::Rg.Plugins.Popup.Resource.Styleable.CardView_contentPadding = global::WordQuiz.Droid.Resource.Styleable.CardView_contentPadding;
+			global::Rg.Plugins.Popup.Resource.Styleable.CardView_contentPaddingBottom = global::WordQuiz.Droid.Resource.Styleable.CardView_contentPaddingBottom;
+			global::Rg.Plugins.Popup.Resource.Styleable.CardView_contentPaddingLeft = global::WordQuiz.Droid.Resource.Styleable.CardView_contentPaddingLeft;
+			global::Rg.Plugins.Popup.Resource.Styleable.CardView_contentPaddingRight = global::WordQuiz.Droid.Resource.Styleable.CardView_contentPaddingRight;
+			global::Rg.Plugins.Popup.Resource.Styleable.CardView_contentPaddingTop = global::WordQuiz.Droid.Resource.Styleable.CardView_contentPaddingTop;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip = global::WordQuiz.Droid.Resource.Styleable.Chip;
+			global::Rg.Plugins.Popup.Resource.Styleable.ChipGroup = global::WordQuiz.Droid.Resource.Styleable.ChipGroup;
+			global::Rg.Plugins.Popup.Resource.Styleable.ChipGroup_checkedChip = global::WordQuiz.Droid.Resource.Styleable.ChipGroup_checkedChip;
+			global::Rg.Plugins.Popup.Resource.Styleable.ChipGroup_chipSpacing = global::WordQuiz.Droid.Resource.Styleable.ChipGroup_chipSpacing;
+			global::Rg.Plugins.Popup.Resource.Styleable.ChipGroup_chipSpacingHorizontal = global::WordQuiz.Droid.Resource.Styleable.ChipGroup_chipSpacingHorizontal;
+			global::Rg.Plugins.Popup.Resource.Styleable.ChipGroup_chipSpacingVertical = global::WordQuiz.Droid.Resource.Styleable.ChipGroup_chipSpacingVertical;
+			global::Rg.Plugins.Popup.Resource.Styleable.ChipGroup_singleLine = global::WordQuiz.Droid.Resource.Styleable.ChipGroup_singleLine;
+			global::Rg.Plugins.Popup.Resource.Styleable.ChipGroup_singleSelection = global::WordQuiz.Droid.Resource.Styleable.ChipGroup_singleSelection;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_android_checkable = global::WordQuiz.Droid.Resource.Styleable.Chip_android_checkable;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_android_ellipsize = global::WordQuiz.Droid.Resource.Styleable.Chip_android_ellipsize;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_android_maxWidth = global::WordQuiz.Droid.Resource.Styleable.Chip_android_maxWidth;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_android_text = global::WordQuiz.Droid.Resource.Styleable.Chip_android_text;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_android_textAppearance = global::WordQuiz.Droid.Resource.Styleable.Chip_android_textAppearance;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_checkedIcon = global::WordQuiz.Droid.Resource.Styleable.Chip_checkedIcon;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_checkedIconEnabled = global::WordQuiz.Droid.Resource.Styleable.Chip_checkedIconEnabled;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_checkedIconVisible = global::WordQuiz.Droid.Resource.Styleable.Chip_checkedIconVisible;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_chipBackgroundColor = global::WordQuiz.Droid.Resource.Styleable.Chip_chipBackgroundColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_chipCornerRadius = global::WordQuiz.Droid.Resource.Styleable.Chip_chipCornerRadius;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_chipEndPadding = global::WordQuiz.Droid.Resource.Styleable.Chip_chipEndPadding;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_chipIcon = global::WordQuiz.Droid.Resource.Styleable.Chip_chipIcon;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_chipIconEnabled = global::WordQuiz.Droid.Resource.Styleable.Chip_chipIconEnabled;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_chipIconSize = global::WordQuiz.Droid.Resource.Styleable.Chip_chipIconSize;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_chipIconTint = global::WordQuiz.Droid.Resource.Styleable.Chip_chipIconTint;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_chipIconVisible = global::WordQuiz.Droid.Resource.Styleable.Chip_chipIconVisible;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_chipMinHeight = global::WordQuiz.Droid.Resource.Styleable.Chip_chipMinHeight;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_chipStartPadding = global::WordQuiz.Droid.Resource.Styleable.Chip_chipStartPadding;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_chipStrokeColor = global::WordQuiz.Droid.Resource.Styleable.Chip_chipStrokeColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_chipStrokeWidth = global::WordQuiz.Droid.Resource.Styleable.Chip_chipStrokeWidth;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_closeIcon = global::WordQuiz.Droid.Resource.Styleable.Chip_closeIcon;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_closeIconEnabled = global::WordQuiz.Droid.Resource.Styleable.Chip_closeIconEnabled;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_closeIconEndPadding = global::WordQuiz.Droid.Resource.Styleable.Chip_closeIconEndPadding;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_closeIconSize = global::WordQuiz.Droid.Resource.Styleable.Chip_closeIconSize;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_closeIconStartPadding = global::WordQuiz.Droid.Resource.Styleable.Chip_closeIconStartPadding;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_closeIconTint = global::WordQuiz.Droid.Resource.Styleable.Chip_closeIconTint;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_closeIconVisible = global::WordQuiz.Droid.Resource.Styleable.Chip_closeIconVisible;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_hideMotionSpec = global::WordQuiz.Droid.Resource.Styleable.Chip_hideMotionSpec;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_iconEndPadding = global::WordQuiz.Droid.Resource.Styleable.Chip_iconEndPadding;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_iconStartPadding = global::WordQuiz.Droid.Resource.Styleable.Chip_iconStartPadding;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_rippleColor = global::WordQuiz.Droid.Resource.Styleable.Chip_rippleColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_showMotionSpec = global::WordQuiz.Droid.Resource.Styleable.Chip_showMotionSpec;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_textEndPadding = global::WordQuiz.Droid.Resource.Styleable.Chip_textEndPadding;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_textStartPadding = global::WordQuiz.Droid.Resource.Styleable.Chip_textStartPadding;
+			global::Rg.Plugins.Popup.Resource.Styleable.CollapsingToolbarLayout = global::WordQuiz.Droid.Resource.Styleable.CollapsingToolbarLayout;
+			global::Rg.Plugins.Popup.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity = global::WordQuiz.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity;
+			global::Rg.Plugins.Popup.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance = global::WordQuiz.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance;
+			global::Rg.Plugins.Popup.Resource.Styleable.CollapsingToolbarLayout_contentScrim = global::WordQuiz.Droid.Resource.Styleable.CollapsingToolbarLayout_contentScrim;
+			global::Rg.Plugins.Popup.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity = global::WordQuiz.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity;
+			global::Rg.Plugins.Popup.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin = global::WordQuiz.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin;
+			global::Rg.Plugins.Popup.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom = global::WordQuiz.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom;
+			global::Rg.Plugins.Popup.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd = global::WordQuiz.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd;
+			global::Rg.Plugins.Popup.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart = global::WordQuiz.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart;
+			global::Rg.Plugins.Popup.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop = global::WordQuiz.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop;
+			global::Rg.Plugins.Popup.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance = global::WordQuiz.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance;
+			global::Rg.Plugins.Popup.Resource.Styleable.CollapsingToolbarLayout_Layout = global::WordQuiz.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout;
+			global::Rg.Plugins.Popup.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseMode = global::WordQuiz.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseMode;
+			global::Rg.Plugins.Popup.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier = global::WordQuiz.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier;
+			global::Rg.Plugins.Popup.Resource.Styleable.CollapsingToolbarLayout_scrimAnimationDuration = global::WordQuiz.Droid.Resource.Styleable.CollapsingToolbarLayout_scrimAnimationDuration;
+			global::Rg.Plugins.Popup.Resource.Styleable.CollapsingToolbarLayout_scrimVisibleHeightTrigger = global::WordQuiz.Droid.Resource.Styleable.CollapsingToolbarLayout_scrimVisibleHeightTrigger;
+			global::Rg.Plugins.Popup.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim = global::WordQuiz.Droid.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim;
+			global::Rg.Plugins.Popup.Resource.Styleable.CollapsingToolbarLayout_title = global::WordQuiz.Droid.Resource.Styleable.CollapsingToolbarLayout_title;
+			global::Rg.Plugins.Popup.Resource.Styleable.CollapsingToolbarLayout_titleEnabled = global::WordQuiz.Droid.Resource.Styleable.CollapsingToolbarLayout_titleEnabled;
+			global::Rg.Plugins.Popup.Resource.Styleable.CollapsingToolbarLayout_toolbarId = global::WordQuiz.Droid.Resource.Styleable.CollapsingToolbarLayout_toolbarId;
+			global::Rg.Plugins.Popup.Resource.Styleable.ColorStateListItem = global::WordQuiz.Droid.Resource.Styleable.ColorStateListItem;
+			global::Rg.Plugins.Popup.Resource.Styleable.ColorStateListItem_alpha = global::WordQuiz.Droid.Resource.Styleable.ColorStateListItem_alpha;
+			global::Rg.Plugins.Popup.Resource.Styleable.ColorStateListItem_android_alpha = global::WordQuiz.Droid.Resource.Styleable.ColorStateListItem_android_alpha;
+			global::Rg.Plugins.Popup.Resource.Styleable.ColorStateListItem_android_color = global::WordQuiz.Droid.Resource.Styleable.ColorStateListItem_android_color;
+			global::Rg.Plugins.Popup.Resource.Styleable.CompoundButton = global::WordQuiz.Droid.Resource.Styleable.CompoundButton;
+			global::Rg.Plugins.Popup.Resource.Styleable.CompoundButton_android_button = global::WordQuiz.Droid.Resource.Styleable.CompoundButton_android_button;
+			global::Rg.Plugins.Popup.Resource.Styleable.CompoundButton_buttonCompat = global::WordQuiz.Droid.Resource.Styleable.CompoundButton_buttonCompat;
+			global::Rg.Plugins.Popup.Resource.Styleable.CompoundButton_buttonTint = global::WordQuiz.Droid.Resource.Styleable.CompoundButton_buttonTint;
+			global::Rg.Plugins.Popup.Resource.Styleable.CompoundButton_buttonTintMode = global::WordQuiz.Droid.Resource.Styleable.CompoundButton_buttonTintMode;
+			global::Rg.Plugins.Popup.Resource.Styleable.CoordinatorLayout = global::WordQuiz.Droid.Resource.Styleable.CoordinatorLayout;
+			global::Rg.Plugins.Popup.Resource.Styleable.CoordinatorLayout_keylines = global::WordQuiz.Droid.Resource.Styleable.CoordinatorLayout_keylines;
+			global::Rg.Plugins.Popup.Resource.Styleable.CoordinatorLayout_Layout = global::WordQuiz.Droid.Resource.Styleable.CoordinatorLayout_Layout;
+			global::Rg.Plugins.Popup.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity = global::WordQuiz.Droid.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity;
+			global::Rg.Plugins.Popup.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor = global::WordQuiz.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor;
+			global::Rg.Plugins.Popup.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity = global::WordQuiz.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity;
+			global::Rg.Plugins.Popup.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior = global::WordQuiz.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior;
+			global::Rg.Plugins.Popup.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges = global::WordQuiz.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges;
+			global::Rg.Plugins.Popup.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge = global::WordQuiz.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge;
+			global::Rg.Plugins.Popup.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline = global::WordQuiz.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline;
+			global::Rg.Plugins.Popup.Resource.Styleable.CoordinatorLayout_statusBarBackground = global::WordQuiz.Droid.Resource.Styleable.CoordinatorLayout_statusBarBackground;
+			global::Rg.Plugins.Popup.Resource.Styleable.DesignTheme = global::WordQuiz.Droid.Resource.Styleable.DesignTheme;
+			global::Rg.Plugins.Popup.Resource.Styleable.DesignTheme_bottomSheetDialogTheme = global::WordQuiz.Droid.Resource.Styleable.DesignTheme_bottomSheetDialogTheme;
+			global::Rg.Plugins.Popup.Resource.Styleable.DesignTheme_bottomSheetStyle = global::WordQuiz.Droid.Resource.Styleable.DesignTheme_bottomSheetStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.DrawerArrowToggle = global::WordQuiz.Droid.Resource.Styleable.DrawerArrowToggle;
+			global::Rg.Plugins.Popup.Resource.Styleable.DrawerArrowToggle_arrowHeadLength = global::WordQuiz.Droid.Resource.Styleable.DrawerArrowToggle_arrowHeadLength;
+			global::Rg.Plugins.Popup.Resource.Styleable.DrawerArrowToggle_arrowShaftLength = global::WordQuiz.Droid.Resource.Styleable.DrawerArrowToggle_arrowShaftLength;
+			global::Rg.Plugins.Popup.Resource.Styleable.DrawerArrowToggle_barLength = global::WordQuiz.Droid.Resource.Styleable.DrawerArrowToggle_barLength;
+			global::Rg.Plugins.Popup.Resource.Styleable.DrawerArrowToggle_color = global::WordQuiz.Droid.Resource.Styleable.DrawerArrowToggle_color;
+			global::Rg.Plugins.Popup.Resource.Styleable.DrawerArrowToggle_drawableSize = global::WordQuiz.Droid.Resource.Styleable.DrawerArrowToggle_drawableSize;
+			global::Rg.Plugins.Popup.Resource.Styleable.DrawerArrowToggle_gapBetweenBars = global::WordQuiz.Droid.Resource.Styleable.DrawerArrowToggle_gapBetweenBars;
+			global::Rg.Plugins.Popup.Resource.Styleable.DrawerArrowToggle_spinBars = global::WordQuiz.Droid.Resource.Styleable.DrawerArrowToggle_spinBars;
+			global::Rg.Plugins.Popup.Resource.Styleable.DrawerArrowToggle_thickness = global::WordQuiz.Droid.Resource.Styleable.DrawerArrowToggle_thickness;
+			global::Rg.Plugins.Popup.Resource.Styleable.FloatingActionButton = global::WordQuiz.Droid.Resource.Styleable.FloatingActionButton;
+			global::Rg.Plugins.Popup.Resource.Styleable.FloatingActionButton_backgroundTint = global::WordQuiz.Droid.Resource.Styleable.FloatingActionButton_backgroundTint;
+			global::Rg.Plugins.Popup.Resource.Styleable.FloatingActionButton_backgroundTintMode = global::WordQuiz.Droid.Resource.Styleable.FloatingActionButton_backgroundTintMode;
+			global::Rg.Plugins.Popup.Resource.Styleable.FloatingActionButton_Behavior_Layout = global::WordQuiz.Droid.Resource.Styleable.FloatingActionButton_Behavior_Layout;
+			global::Rg.Plugins.Popup.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide = global::WordQuiz.Droid.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide;
+			global::Rg.Plugins.Popup.Resource.Styleable.FloatingActionButton_borderWidth = global::WordQuiz.Droid.Resource.Styleable.FloatingActionButton_borderWidth;
+			global::Rg.Plugins.Popup.Resource.Styleable.FloatingActionButton_elevation = global::WordQuiz.Droid.Resource.Styleable.FloatingActionButton_elevation;
+			global::Rg.Plugins.Popup.Resource.Styleable.FloatingActionButton_fabCustomSize = global::WordQuiz.Droid.Resource.Styleable.FloatingActionButton_fabCustomSize;
+			global::Rg.Plugins.Popup.Resource.Styleable.FloatingActionButton_fabSize = global::WordQuiz.Droid.Resource.Styleable.FloatingActionButton_fabSize;
+			global::Rg.Plugins.Popup.Resource.Styleable.FloatingActionButton_hideMotionSpec = global::WordQuiz.Droid.Resource.Styleable.FloatingActionButton_hideMotionSpec;
+			global::Rg.Plugins.Popup.Resource.Styleable.FloatingActionButton_hoveredFocusedTranslationZ = global::WordQuiz.Droid.Resource.Styleable.FloatingActionButton_hoveredFocusedTranslationZ;
+			global::Rg.Plugins.Popup.Resource.Styleable.FloatingActionButton_maxImageSize = global::WordQuiz.Droid.Resource.Styleable.FloatingActionButton_maxImageSize;
+			global::Rg.Plugins.Popup.Resource.Styleable.FloatingActionButton_pressedTranslationZ = global::WordQuiz.Droid.Resource.Styleable.FloatingActionButton_pressedTranslationZ;
+			global::Rg.Plugins.Popup.Resource.Styleable.FloatingActionButton_rippleColor = global::WordQuiz.Droid.Resource.Styleable.FloatingActionButton_rippleColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.FloatingActionButton_showMotionSpec = global::WordQuiz.Droid.Resource.Styleable.FloatingActionButton_showMotionSpec;
+			global::Rg.Plugins.Popup.Resource.Styleable.FloatingActionButton_useCompatPadding = global::WordQuiz.Droid.Resource.Styleable.FloatingActionButton_useCompatPadding;
+			global::Rg.Plugins.Popup.Resource.Styleable.FlowLayout = global::WordQuiz.Droid.Resource.Styleable.FlowLayout;
+			global::Rg.Plugins.Popup.Resource.Styleable.FlowLayout_itemSpacing = global::WordQuiz.Droid.Resource.Styleable.FlowLayout_itemSpacing;
+			global::Rg.Plugins.Popup.Resource.Styleable.FlowLayout_lineSpacing = global::WordQuiz.Droid.Resource.Styleable.FlowLayout_lineSpacing;
+			global::Rg.Plugins.Popup.Resource.Styleable.FontFamily = global::WordQuiz.Droid.Resource.Styleable.FontFamily;
+			global::Rg.Plugins.Popup.Resource.Styleable.FontFamilyFont = global::WordQuiz.Droid.Resource.Styleable.FontFamilyFont;
+			global::Rg.Plugins.Popup.Resource.Styleable.FontFamilyFont_android_font = global::WordQuiz.Droid.Resource.Styleable.FontFamilyFont_android_font;
+			global::Rg.Plugins.Popup.Resource.Styleable.FontFamilyFont_android_fontStyle = global::WordQuiz.Droid.Resource.Styleable.FontFamilyFont_android_fontStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.FontFamilyFont_android_fontVariationSettings = global::WordQuiz.Droid.Resource.Styleable.FontFamilyFont_android_fontVariationSettings;
+			global::Rg.Plugins.Popup.Resource.Styleable.FontFamilyFont_android_fontWeight = global::WordQuiz.Droid.Resource.Styleable.FontFamilyFont_android_fontWeight;
+			global::Rg.Plugins.Popup.Resource.Styleable.FontFamilyFont_android_ttcIndex = global::WordQuiz.Droid.Resource.Styleable.FontFamilyFont_android_ttcIndex;
+			global::Rg.Plugins.Popup.Resource.Styleable.FontFamilyFont_font = global::WordQuiz.Droid.Resource.Styleable.FontFamilyFont_font;
+			global::Rg.Plugins.Popup.Resource.Styleable.FontFamilyFont_fontStyle = global::WordQuiz.Droid.Resource.Styleable.FontFamilyFont_fontStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.FontFamilyFont_fontVariationSettings = global::WordQuiz.Droid.Resource.Styleable.FontFamilyFont_fontVariationSettings;
+			global::Rg.Plugins.Popup.Resource.Styleable.FontFamilyFont_fontWeight = global::WordQuiz.Droid.Resource.Styleable.FontFamilyFont_fontWeight;
+			global::Rg.Plugins.Popup.Resource.Styleable.FontFamilyFont_ttcIndex = global::WordQuiz.Droid.Resource.Styleable.FontFamilyFont_ttcIndex;
+			global::Rg.Plugins.Popup.Resource.Styleable.FontFamily_fontProviderAuthority = global::WordQuiz.Droid.Resource.Styleable.FontFamily_fontProviderAuthority;
+			global::Rg.Plugins.Popup.Resource.Styleable.FontFamily_fontProviderCerts = global::WordQuiz.Droid.Resource.Styleable.FontFamily_fontProviderCerts;
+			global::Rg.Plugins.Popup.Resource.Styleable.FontFamily_fontProviderFetchStrategy = global::WordQuiz.Droid.Resource.Styleable.FontFamily_fontProviderFetchStrategy;
+			global::Rg.Plugins.Popup.Resource.Styleable.FontFamily_fontProviderFetchTimeout = global::WordQuiz.Droid.Resource.Styleable.FontFamily_fontProviderFetchTimeout;
+			global::Rg.Plugins.Popup.Resource.Styleable.FontFamily_fontProviderPackage = global::WordQuiz.Droid.Resource.Styleable.FontFamily_fontProviderPackage;
+			global::Rg.Plugins.Popup.Resource.Styleable.FontFamily_fontProviderQuery = global::WordQuiz.Droid.Resource.Styleable.FontFamily_fontProviderQuery;
+			global::Rg.Plugins.Popup.Resource.Styleable.ForegroundLinearLayout = global::WordQuiz.Droid.Resource.Styleable.ForegroundLinearLayout;
+			global::Rg.Plugins.Popup.Resource.Styleable.ForegroundLinearLayout_android_foreground = global::WordQuiz.Droid.Resource.Styleable.ForegroundLinearLayout_android_foreground;
+			global::Rg.Plugins.Popup.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity = global::WordQuiz.Droid.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity;
+			global::Rg.Plugins.Popup.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding = global::WordQuiz.Droid.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding;
+			global::Rg.Plugins.Popup.Resource.Styleable.GradientColor = global::WordQuiz.Droid.Resource.Styleable.GradientColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.GradientColorItem = global::WordQuiz.Droid.Resource.Styleable.GradientColorItem;
+			global::Rg.Plugins.Popup.Resource.Styleable.GradientColorItem_android_color = global::WordQuiz.Droid.Resource.Styleable.GradientColorItem_android_color;
+			global::Rg.Plugins.Popup.Resource.Styleable.GradientColorItem_android_offset = global::WordQuiz.Droid.Resource.Styleable.GradientColorItem_android_offset;
+			global::Rg.Plugins.Popup.Resource.Styleable.GradientColor_android_centerColor = global::WordQuiz.Droid.Resource.Styleable.GradientColor_android_centerColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.GradientColor_android_centerX = global::WordQuiz.Droid.Resource.Styleable.GradientColor_android_centerX;
+			global::Rg.Plugins.Popup.Resource.Styleable.GradientColor_android_centerY = global::WordQuiz.Droid.Resource.Styleable.GradientColor_android_centerY;
+			global::Rg.Plugins.Popup.Resource.Styleable.GradientColor_android_endColor = global::WordQuiz.Droid.Resource.Styleable.GradientColor_android_endColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.GradientColor_android_endX = global::WordQuiz.Droid.Resource.Styleable.GradientColor_android_endX;
+			global::Rg.Plugins.Popup.Resource.Styleable.GradientColor_android_endY = global::WordQuiz.Droid.Resource.Styleable.GradientColor_android_endY;
+			global::Rg.Plugins.Popup.Resource.Styleable.GradientColor_android_gradientRadius = global::WordQuiz.Droid.Resource.Styleable.GradientColor_android_gradientRadius;
+			global::Rg.Plugins.Popup.Resource.Styleable.GradientColor_android_startColor = global::WordQuiz.Droid.Resource.Styleable.GradientColor_android_startColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.GradientColor_android_startX = global::WordQuiz.Droid.Resource.Styleable.GradientColor_android_startX;
+			global::Rg.Plugins.Popup.Resource.Styleable.GradientColor_android_startY = global::WordQuiz.Droid.Resource.Styleable.GradientColor_android_startY;
+			global::Rg.Plugins.Popup.Resource.Styleable.GradientColor_android_tileMode = global::WordQuiz.Droid.Resource.Styleable.GradientColor_android_tileMode;
+			global::Rg.Plugins.Popup.Resource.Styleable.GradientColor_android_type = global::WordQuiz.Droid.Resource.Styleable.GradientColor_android_type;
+			global::Rg.Plugins.Popup.Resource.Styleable.LinearLayoutCompat = global::WordQuiz.Droid.Resource.Styleable.LinearLayoutCompat;
+			global::Rg.Plugins.Popup.Resource.Styleable.LinearLayoutCompat_android_baselineAligned = global::WordQuiz.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAligned;
+			global::Rg.Plugins.Popup.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex = global::WordQuiz.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex;
+			global::Rg.Plugins.Popup.Resource.Styleable.LinearLayoutCompat_android_gravity = global::WordQuiz.Droid.Resource.Styleable.LinearLayoutCompat_android_gravity;
+			global::Rg.Plugins.Popup.Resource.Styleable.LinearLayoutCompat_android_orientation = global::WordQuiz.Droid.Resource.Styleable.LinearLayoutCompat_android_orientation;
+			global::Rg.Plugins.Popup.Resource.Styleable.LinearLayoutCompat_android_weightSum = global::WordQuiz.Droid.Resource.Styleable.LinearLayoutCompat_android_weightSum;
+			global::Rg.Plugins.Popup.Resource.Styleable.LinearLayoutCompat_divider = global::WordQuiz.Droid.Resource.Styleable.LinearLayoutCompat_divider;
+			global::Rg.Plugins.Popup.Resource.Styleable.LinearLayoutCompat_dividerPadding = global::WordQuiz.Droid.Resource.Styleable.LinearLayoutCompat_dividerPadding;
+			global::Rg.Plugins.Popup.Resource.Styleable.LinearLayoutCompat_Layout = global::WordQuiz.Droid.Resource.Styleable.LinearLayoutCompat_Layout;
+			global::Rg.Plugins.Popup.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity = global::WordQuiz.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity;
+			global::Rg.Plugins.Popup.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height = global::WordQuiz.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height;
+			global::Rg.Plugins.Popup.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight = global::WordQuiz.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight;
+			global::Rg.Plugins.Popup.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width = global::WordQuiz.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width;
+			global::Rg.Plugins.Popup.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild = global::WordQuiz.Droid.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild;
+			global::Rg.Plugins.Popup.Resource.Styleable.LinearLayoutCompat_showDividers = global::WordQuiz.Droid.Resource.Styleable.LinearLayoutCompat_showDividers;
+			global::Rg.Plugins.Popup.Resource.Styleable.ListPopupWindow = global::WordQuiz.Droid.Resource.Styleable.ListPopupWindow;
+			global::Rg.Plugins.Popup.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset = global::WordQuiz.Droid.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset;
+			global::Rg.Plugins.Popup.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset = global::WordQuiz.Droid.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialButton = global::WordQuiz.Droid.Resource.Styleable.MaterialButton;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialButton_android_insetBottom = global::WordQuiz.Droid.Resource.Styleable.MaterialButton_android_insetBottom;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialButton_android_insetLeft = global::WordQuiz.Droid.Resource.Styleable.MaterialButton_android_insetLeft;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialButton_android_insetRight = global::WordQuiz.Droid.Resource.Styleable.MaterialButton_android_insetRight;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialButton_android_insetTop = global::WordQuiz.Droid.Resource.Styleable.MaterialButton_android_insetTop;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialButton_backgroundTint = global::WordQuiz.Droid.Resource.Styleable.MaterialButton_backgroundTint;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialButton_backgroundTintMode = global::WordQuiz.Droid.Resource.Styleable.MaterialButton_backgroundTintMode;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialButton_cornerRadius = global::WordQuiz.Droid.Resource.Styleable.MaterialButton_cornerRadius;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialButton_icon = global::WordQuiz.Droid.Resource.Styleable.MaterialButton_icon;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialButton_iconGravity = global::WordQuiz.Droid.Resource.Styleable.MaterialButton_iconGravity;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialButton_iconPadding = global::WordQuiz.Droid.Resource.Styleable.MaterialButton_iconPadding;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialButton_iconSize = global::WordQuiz.Droid.Resource.Styleable.MaterialButton_iconSize;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialButton_iconTint = global::WordQuiz.Droid.Resource.Styleable.MaterialButton_iconTint;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialButton_iconTintMode = global::WordQuiz.Droid.Resource.Styleable.MaterialButton_iconTintMode;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialButton_rippleColor = global::WordQuiz.Droid.Resource.Styleable.MaterialButton_rippleColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialButton_strokeColor = global::WordQuiz.Droid.Resource.Styleable.MaterialButton_strokeColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialButton_strokeWidth = global::WordQuiz.Droid.Resource.Styleable.MaterialButton_strokeWidth;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialCardView = global::WordQuiz.Droid.Resource.Styleable.MaterialCardView;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialCardView_strokeColor = global::WordQuiz.Droid.Resource.Styleable.MaterialCardView_strokeColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialCardView_strokeWidth = global::WordQuiz.Droid.Resource.Styleable.MaterialCardView_strokeWidth;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialComponentsTheme = global::WordQuiz.Droid.Resource.Styleable.MaterialComponentsTheme;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialComponentsTheme_bottomSheetDialogTheme = global::WordQuiz.Droid.Resource.Styleable.MaterialComponentsTheme_bottomSheetDialogTheme;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialComponentsTheme_bottomSheetStyle = global::WordQuiz.Droid.Resource.Styleable.MaterialComponentsTheme_bottomSheetStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialComponentsTheme_chipGroupStyle = global::WordQuiz.Droid.Resource.Styleable.MaterialComponentsTheme_chipGroupStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialComponentsTheme_chipStandaloneStyle = global::WordQuiz.Droid.Resource.Styleable.MaterialComponentsTheme_chipStandaloneStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialComponentsTheme_chipStyle = global::WordQuiz.Droid.Resource.Styleable.MaterialComponentsTheme_chipStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialComponentsTheme_colorAccent = global::WordQuiz.Droid.Resource.Styleable.MaterialComponentsTheme_colorAccent;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialComponentsTheme_colorBackgroundFloating = global::WordQuiz.Droid.Resource.Styleable.MaterialComponentsTheme_colorBackgroundFloating;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialComponentsTheme_colorPrimary = global::WordQuiz.Droid.Resource.Styleable.MaterialComponentsTheme_colorPrimary;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialComponentsTheme_colorPrimaryDark = global::WordQuiz.Droid.Resource.Styleable.MaterialComponentsTheme_colorPrimaryDark;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialComponentsTheme_colorSecondary = global::WordQuiz.Droid.Resource.Styleable.MaterialComponentsTheme_colorSecondary;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialComponentsTheme_editTextStyle = global::WordQuiz.Droid.Resource.Styleable.MaterialComponentsTheme_editTextStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialComponentsTheme_floatingActionButtonStyle = global::WordQuiz.Droid.Resource.Styleable.MaterialComponentsTheme_floatingActionButtonStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialComponentsTheme_materialButtonStyle = global::WordQuiz.Droid.Resource.Styleable.MaterialComponentsTheme_materialButtonStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialComponentsTheme_materialCardViewStyle = global::WordQuiz.Droid.Resource.Styleable.MaterialComponentsTheme_materialCardViewStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialComponentsTheme_navigationViewStyle = global::WordQuiz.Droid.Resource.Styleable.MaterialComponentsTheme_navigationViewStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialComponentsTheme_scrimBackground = global::WordQuiz.Droid.Resource.Styleable.MaterialComponentsTheme_scrimBackground;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialComponentsTheme_snackbarButtonStyle = global::WordQuiz.Droid.Resource.Styleable.MaterialComponentsTheme_snackbarButtonStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialComponentsTheme_tabStyle = global::WordQuiz.Droid.Resource.Styleable.MaterialComponentsTheme_tabStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialComponentsTheme_textAppearanceBody1 = global::WordQuiz.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceBody1;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialComponentsTheme_textAppearanceBody2 = global::WordQuiz.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceBody2;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialComponentsTheme_textAppearanceButton = global::WordQuiz.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceButton;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialComponentsTheme_textAppearanceCaption = global::WordQuiz.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceCaption;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline1 = global::WordQuiz.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline1;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline2 = global::WordQuiz.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline2;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline3 = global::WordQuiz.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline3;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline4 = global::WordQuiz.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline4;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline5 = global::WordQuiz.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline5;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline6 = global::WordQuiz.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline6;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialComponentsTheme_textAppearanceOverline = global::WordQuiz.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceOverline;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialComponentsTheme_textAppearanceSubtitle1 = global::WordQuiz.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceSubtitle1;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialComponentsTheme_textAppearanceSubtitle2 = global::WordQuiz.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceSubtitle2;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialComponentsTheme_textInputStyle = global::WordQuiz.Droid.Resource.Styleable.MaterialComponentsTheme_textInputStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuGroup = global::WordQuiz.Droid.Resource.Styleable.MenuGroup;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuGroup_android_checkableBehavior = global::WordQuiz.Droid.Resource.Styleable.MenuGroup_android_checkableBehavior;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuGroup_android_enabled = global::WordQuiz.Droid.Resource.Styleable.MenuGroup_android_enabled;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuGroup_android_id = global::WordQuiz.Droid.Resource.Styleable.MenuGroup_android_id;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuGroup_android_menuCategory = global::WordQuiz.Droid.Resource.Styleable.MenuGroup_android_menuCategory;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuGroup_android_orderInCategory = global::WordQuiz.Droid.Resource.Styleable.MenuGroup_android_orderInCategory;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuGroup_android_visible = global::WordQuiz.Droid.Resource.Styleable.MenuGroup_android_visible;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuItem = global::WordQuiz.Droid.Resource.Styleable.MenuItem;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuItem_actionLayout = global::WordQuiz.Droid.Resource.Styleable.MenuItem_actionLayout;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuItem_actionProviderClass = global::WordQuiz.Droid.Resource.Styleable.MenuItem_actionProviderClass;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuItem_actionViewClass = global::WordQuiz.Droid.Resource.Styleable.MenuItem_actionViewClass;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuItem_alphabeticModifiers = global::WordQuiz.Droid.Resource.Styleable.MenuItem_alphabeticModifiers;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuItem_android_alphabeticShortcut = global::WordQuiz.Droid.Resource.Styleable.MenuItem_android_alphabeticShortcut;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuItem_android_checkable = global::WordQuiz.Droid.Resource.Styleable.MenuItem_android_checkable;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuItem_android_checked = global::WordQuiz.Droid.Resource.Styleable.MenuItem_android_checked;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuItem_android_enabled = global::WordQuiz.Droid.Resource.Styleable.MenuItem_android_enabled;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuItem_android_icon = global::WordQuiz.Droid.Resource.Styleable.MenuItem_android_icon;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuItem_android_id = global::WordQuiz.Droid.Resource.Styleable.MenuItem_android_id;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuItem_android_menuCategory = global::WordQuiz.Droid.Resource.Styleable.MenuItem_android_menuCategory;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuItem_android_numericShortcut = global::WordQuiz.Droid.Resource.Styleable.MenuItem_android_numericShortcut;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuItem_android_onClick = global::WordQuiz.Droid.Resource.Styleable.MenuItem_android_onClick;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuItem_android_orderInCategory = global::WordQuiz.Droid.Resource.Styleable.MenuItem_android_orderInCategory;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuItem_android_title = global::WordQuiz.Droid.Resource.Styleable.MenuItem_android_title;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuItem_android_titleCondensed = global::WordQuiz.Droid.Resource.Styleable.MenuItem_android_titleCondensed;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuItem_android_visible = global::WordQuiz.Droid.Resource.Styleable.MenuItem_android_visible;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuItem_contentDescription = global::WordQuiz.Droid.Resource.Styleable.MenuItem_contentDescription;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuItem_iconTint = global::WordQuiz.Droid.Resource.Styleable.MenuItem_iconTint;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuItem_iconTintMode = global::WordQuiz.Droid.Resource.Styleable.MenuItem_iconTintMode;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuItem_numericModifiers = global::WordQuiz.Droid.Resource.Styleable.MenuItem_numericModifiers;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuItem_showAsAction = global::WordQuiz.Droid.Resource.Styleable.MenuItem_showAsAction;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuItem_tooltipText = global::WordQuiz.Droid.Resource.Styleable.MenuItem_tooltipText;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuView = global::WordQuiz.Droid.Resource.Styleable.MenuView;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuView_android_headerBackground = global::WordQuiz.Droid.Resource.Styleable.MenuView_android_headerBackground;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuView_android_horizontalDivider = global::WordQuiz.Droid.Resource.Styleable.MenuView_android_horizontalDivider;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuView_android_itemBackground = global::WordQuiz.Droid.Resource.Styleable.MenuView_android_itemBackground;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuView_android_itemIconDisabledAlpha = global::WordQuiz.Droid.Resource.Styleable.MenuView_android_itemIconDisabledAlpha;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuView_android_itemTextAppearance = global::WordQuiz.Droid.Resource.Styleable.MenuView_android_itemTextAppearance;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuView_android_verticalDivider = global::WordQuiz.Droid.Resource.Styleable.MenuView_android_verticalDivider;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuView_android_windowAnimationStyle = global::WordQuiz.Droid.Resource.Styleable.MenuView_android_windowAnimationStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuView_preserveIconSpacing = global::WordQuiz.Droid.Resource.Styleable.MenuView_preserveIconSpacing;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuView_subMenuArrow = global::WordQuiz.Droid.Resource.Styleable.MenuView_subMenuArrow;
+			global::Rg.Plugins.Popup.Resource.Styleable.NavigationView = global::WordQuiz.Droid.Resource.Styleable.NavigationView;
+			global::Rg.Plugins.Popup.Resource.Styleable.NavigationView_android_background = global::WordQuiz.Droid.Resource.Styleable.NavigationView_android_background;
+			global::Rg.Plugins.Popup.Resource.Styleable.NavigationView_android_fitsSystemWindows = global::WordQuiz.Droid.Resource.Styleable.NavigationView_android_fitsSystemWindows;
+			global::Rg.Plugins.Popup.Resource.Styleable.NavigationView_android_maxWidth = global::WordQuiz.Droid.Resource.Styleable.NavigationView_android_maxWidth;
+			global::Rg.Plugins.Popup.Resource.Styleable.NavigationView_elevation = global::WordQuiz.Droid.Resource.Styleable.NavigationView_elevation;
+			global::Rg.Plugins.Popup.Resource.Styleable.NavigationView_headerLayout = global::WordQuiz.Droid.Resource.Styleable.NavigationView_headerLayout;
+			global::Rg.Plugins.Popup.Resource.Styleable.NavigationView_itemBackground = global::WordQuiz.Droid.Resource.Styleable.NavigationView_itemBackground;
+			global::Rg.Plugins.Popup.Resource.Styleable.NavigationView_itemHorizontalPadding = global::WordQuiz.Droid.Resource.Styleable.NavigationView_itemHorizontalPadding;
+			global::Rg.Plugins.Popup.Resource.Styleable.NavigationView_itemIconPadding = global::WordQuiz.Droid.Resource.Styleable.NavigationView_itemIconPadding;
+			global::Rg.Plugins.Popup.Resource.Styleable.NavigationView_itemIconTint = global::WordQuiz.Droid.Resource.Styleable.NavigationView_itemIconTint;
+			global::Rg.Plugins.Popup.Resource.Styleable.NavigationView_itemTextAppearance = global::WordQuiz.Droid.Resource.Styleable.NavigationView_itemTextAppearance;
+			global::Rg.Plugins.Popup.Resource.Styleable.NavigationView_itemTextColor = global::WordQuiz.Droid.Resource.Styleable.NavigationView_itemTextColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.NavigationView_menu = global::WordQuiz.Droid.Resource.Styleable.NavigationView_menu;
+			global::Rg.Plugins.Popup.Resource.Styleable.PopupWindow = global::WordQuiz.Droid.Resource.Styleable.PopupWindow;
+			global::Rg.Plugins.Popup.Resource.Styleable.PopupWindowBackgroundState = global::WordQuiz.Droid.Resource.Styleable.PopupWindowBackgroundState;
+			global::Rg.Plugins.Popup.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor = global::WordQuiz.Droid.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor;
+			global::Rg.Plugins.Popup.Resource.Styleable.PopupWindow_android_popupAnimationStyle = global::WordQuiz.Droid.Resource.Styleable.PopupWindow_android_popupAnimationStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.PopupWindow_android_popupBackground = global::WordQuiz.Droid.Resource.Styleable.PopupWindow_android_popupBackground;
+			global::Rg.Plugins.Popup.Resource.Styleable.PopupWindow_overlapAnchor = global::WordQuiz.Droid.Resource.Styleable.PopupWindow_overlapAnchor;
+			global::Rg.Plugins.Popup.Resource.Styleable.RecycleListView = global::WordQuiz.Droid.Resource.Styleable.RecycleListView;
+			global::Rg.Plugins.Popup.Resource.Styleable.RecycleListView_paddingBottomNoButtons = global::WordQuiz.Droid.Resource.Styleable.RecycleListView_paddingBottomNoButtons;
+			global::Rg.Plugins.Popup.Resource.Styleable.RecycleListView_paddingTopNoTitle = global::WordQuiz.Droid.Resource.Styleable.RecycleListView_paddingTopNoTitle;
+			global::Rg.Plugins.Popup.Resource.Styleable.RecyclerView = global::WordQuiz.Droid.Resource.Styleable.RecyclerView;
+			global::Rg.Plugins.Popup.Resource.Styleable.RecyclerView_android_clipToPadding = global::WordQuiz.Droid.Resource.Styleable.RecyclerView_android_clipToPadding;
+			global::Rg.Plugins.Popup.Resource.Styleable.RecyclerView_android_descendantFocusability = global::WordQuiz.Droid.Resource.Styleable.RecyclerView_android_descendantFocusability;
+			global::Rg.Plugins.Popup.Resource.Styleable.RecyclerView_android_orientation = global::WordQuiz.Droid.Resource.Styleable.RecyclerView_android_orientation;
+			global::Rg.Plugins.Popup.Resource.Styleable.RecyclerView_fastScrollEnabled = global::WordQuiz.Droid.Resource.Styleable.RecyclerView_fastScrollEnabled;
+			global::Rg.Plugins.Popup.Resource.Styleable.RecyclerView_fastScrollHorizontalThumbDrawable = global::WordQuiz.Droid.Resource.Styleable.RecyclerView_fastScrollHorizontalThumbDrawable;
+			global::Rg.Plugins.Popup.Resource.Styleable.RecyclerView_fastScrollHorizontalTrackDrawable = global::WordQuiz.Droid.Resource.Styleable.RecyclerView_fastScrollHorizontalTrackDrawable;
+			global::Rg.Plugins.Popup.Resource.Styleable.RecyclerView_fastScrollVerticalThumbDrawable = global::WordQuiz.Droid.Resource.Styleable.RecyclerView_fastScrollVerticalThumbDrawable;
+			global::Rg.Plugins.Popup.Resource.Styleable.RecyclerView_fastScrollVerticalTrackDrawable = global::WordQuiz.Droid.Resource.Styleable.RecyclerView_fastScrollVerticalTrackDrawable;
+			global::Rg.Plugins.Popup.Resource.Styleable.RecyclerView_layoutManager = global::WordQuiz.Droid.Resource.Styleable.RecyclerView_layoutManager;
+			global::Rg.Plugins.Popup.Resource.Styleable.RecyclerView_reverseLayout = global::WordQuiz.Droid.Resource.Styleable.RecyclerView_reverseLayout;
+			global::Rg.Plugins.Popup.Resource.Styleable.RecyclerView_spanCount = global::WordQuiz.Droid.Resource.Styleable.RecyclerView_spanCount;
+			global::Rg.Plugins.Popup.Resource.Styleable.RecyclerView_stackFromEnd = global::WordQuiz.Droid.Resource.Styleable.RecyclerView_stackFromEnd;
+			global::Rg.Plugins.Popup.Resource.Styleable.ScrimInsetsFrameLayout = global::WordQuiz.Droid.Resource.Styleable.ScrimInsetsFrameLayout;
+			global::Rg.Plugins.Popup.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground = global::WordQuiz.Droid.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground;
+			global::Rg.Plugins.Popup.Resource.Styleable.ScrollingViewBehavior_Layout = global::WordQuiz.Droid.Resource.Styleable.ScrollingViewBehavior_Layout;
+			global::Rg.Plugins.Popup.Resource.Styleable.ScrollingViewBehavior_Layout_behavior_overlapTop = global::WordQuiz.Droid.Resource.Styleable.ScrollingViewBehavior_Layout_behavior_overlapTop;
+			global::Rg.Plugins.Popup.Resource.Styleable.SearchView = global::WordQuiz.Droid.Resource.Styleable.SearchView;
+			global::Rg.Plugins.Popup.Resource.Styleable.SearchView_android_focusable = global::WordQuiz.Droid.Resource.Styleable.SearchView_android_focusable;
+			global::Rg.Plugins.Popup.Resource.Styleable.SearchView_android_imeOptions = global::WordQuiz.Droid.Resource.Styleable.SearchView_android_imeOptions;
+			global::Rg.Plugins.Popup.Resource.Styleable.SearchView_android_inputType = global::WordQuiz.Droid.Resource.Styleable.SearchView_android_inputType;
+			global::Rg.Plugins.Popup.Resource.Styleable.SearchView_android_maxWidth = global::WordQuiz.Droid.Resource.Styleable.SearchView_android_maxWidth;
+			global::Rg.Plugins.Popup.Resource.Styleable.SearchView_closeIcon = global::WordQuiz.Droid.Resource.Styleable.SearchView_closeIcon;
+			global::Rg.Plugins.Popup.Resource.Styleable.SearchView_commitIcon = global::WordQuiz.Droid.Resource.Styleable.SearchView_commitIcon;
+			global::Rg.Plugins.Popup.Resource.Styleable.SearchView_defaultQueryHint = global::WordQuiz.Droid.Resource.Styleable.SearchView_defaultQueryHint;
+			global::Rg.Plugins.Popup.Resource.Styleable.SearchView_goIcon = global::WordQuiz.Droid.Resource.Styleable.SearchView_goIcon;
+			global::Rg.Plugins.Popup.Resource.Styleable.SearchView_iconifiedByDefault = global::WordQuiz.Droid.Resource.Styleable.SearchView_iconifiedByDefault;
+			global::Rg.Plugins.Popup.Resource.Styleable.SearchView_layout = global::WordQuiz.Droid.Resource.Styleable.SearchView_layout;
+			global::Rg.Plugins.Popup.Resource.Styleable.SearchView_queryBackground = global::WordQuiz.Droid.Resource.Styleable.SearchView_queryBackground;
+			global::Rg.Plugins.Popup.Resource.Styleable.SearchView_queryHint = global::WordQuiz.Droid.Resource.Styleable.SearchView_queryHint;
+			global::Rg.Plugins.Popup.Resource.Styleable.SearchView_searchHintIcon = global::WordQuiz.Droid.Resource.Styleable.SearchView_searchHintIcon;
+			global::Rg.Plugins.Popup.Resource.Styleable.SearchView_searchIcon = global::WordQuiz.Droid.Resource.Styleable.SearchView_searchIcon;
+			global::Rg.Plugins.Popup.Resource.Styleable.SearchView_submitBackground = global::WordQuiz.Droid.Resource.Styleable.SearchView_submitBackground;
+			global::Rg.Plugins.Popup.Resource.Styleable.SearchView_suggestionRowLayout = global::WordQuiz.Droid.Resource.Styleable.SearchView_suggestionRowLayout;
+			global::Rg.Plugins.Popup.Resource.Styleable.SearchView_voiceIcon = global::WordQuiz.Droid.Resource.Styleable.SearchView_voiceIcon;
+			global::Rg.Plugins.Popup.Resource.Styleable.Snackbar = global::WordQuiz.Droid.Resource.Styleable.Snackbar;
+			global::Rg.Plugins.Popup.Resource.Styleable.SnackbarLayout = global::WordQuiz.Droid.Resource.Styleable.SnackbarLayout;
+			global::Rg.Plugins.Popup.Resource.Styleable.SnackbarLayout_android_maxWidth = global::WordQuiz.Droid.Resource.Styleable.SnackbarLayout_android_maxWidth;
+			global::Rg.Plugins.Popup.Resource.Styleable.SnackbarLayout_elevation = global::WordQuiz.Droid.Resource.Styleable.SnackbarLayout_elevation;
+			global::Rg.Plugins.Popup.Resource.Styleable.SnackbarLayout_maxActionInlineWidth = global::WordQuiz.Droid.Resource.Styleable.SnackbarLayout_maxActionInlineWidth;
+			global::Rg.Plugins.Popup.Resource.Styleable.Snackbar_snackbarButtonStyle = global::WordQuiz.Droid.Resource.Styleable.Snackbar_snackbarButtonStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.Snackbar_snackbarStyle = global::WordQuiz.Droid.Resource.Styleable.Snackbar_snackbarStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.Spinner = global::WordQuiz.Droid.Resource.Styleable.Spinner;
+			global::Rg.Plugins.Popup.Resource.Styleable.Spinner_android_dropDownWidth = global::WordQuiz.Droid.Resource.Styleable.Spinner_android_dropDownWidth;
+			global::Rg.Plugins.Popup.Resource.Styleable.Spinner_android_entries = global::WordQuiz.Droid.Resource.Styleable.Spinner_android_entries;
+			global::Rg.Plugins.Popup.Resource.Styleable.Spinner_android_popupBackground = global::WordQuiz.Droid.Resource.Styleable.Spinner_android_popupBackground;
+			global::Rg.Plugins.Popup.Resource.Styleable.Spinner_android_prompt = global::WordQuiz.Droid.Resource.Styleable.Spinner_android_prompt;
+			global::Rg.Plugins.Popup.Resource.Styleable.Spinner_popupTheme = global::WordQuiz.Droid.Resource.Styleable.Spinner_popupTheme;
+			global::Rg.Plugins.Popup.Resource.Styleable.StateListDrawable = global::WordQuiz.Droid.Resource.Styleable.StateListDrawable;
+			global::Rg.Plugins.Popup.Resource.Styleable.StateListDrawableItem = global::WordQuiz.Droid.Resource.Styleable.StateListDrawableItem;
+			global::Rg.Plugins.Popup.Resource.Styleable.StateListDrawableItem_android_drawable = global::WordQuiz.Droid.Resource.Styleable.StateListDrawableItem_android_drawable;
+			global::Rg.Plugins.Popup.Resource.Styleable.StateListDrawable_android_constantSize = global::WordQuiz.Droid.Resource.Styleable.StateListDrawable_android_constantSize;
+			global::Rg.Plugins.Popup.Resource.Styleable.StateListDrawable_android_dither = global::WordQuiz.Droid.Resource.Styleable.StateListDrawable_android_dither;
+			global::Rg.Plugins.Popup.Resource.Styleable.StateListDrawable_android_enterFadeDuration = global::WordQuiz.Droid.Resource.Styleable.StateListDrawable_android_enterFadeDuration;
+			global::Rg.Plugins.Popup.Resource.Styleable.StateListDrawable_android_exitFadeDuration = global::WordQuiz.Droid.Resource.Styleable.StateListDrawable_android_exitFadeDuration;
+			global::Rg.Plugins.Popup.Resource.Styleable.StateListDrawable_android_variablePadding = global::WordQuiz.Droid.Resource.Styleable.StateListDrawable_android_variablePadding;
+			global::Rg.Plugins.Popup.Resource.Styleable.StateListDrawable_android_visible = global::WordQuiz.Droid.Resource.Styleable.StateListDrawable_android_visible;
+			global::Rg.Plugins.Popup.Resource.Styleable.SwitchCompat = global::WordQuiz.Droid.Resource.Styleable.SwitchCompat;
+			global::Rg.Plugins.Popup.Resource.Styleable.SwitchCompat_android_textOff = global::WordQuiz.Droid.Resource.Styleable.SwitchCompat_android_textOff;
+			global::Rg.Plugins.Popup.Resource.Styleable.SwitchCompat_android_textOn = global::WordQuiz.Droid.Resource.Styleable.SwitchCompat_android_textOn;
+			global::Rg.Plugins.Popup.Resource.Styleable.SwitchCompat_android_thumb = global::WordQuiz.Droid.Resource.Styleable.SwitchCompat_android_thumb;
+			global::Rg.Plugins.Popup.Resource.Styleable.SwitchCompat_showText = global::WordQuiz.Droid.Resource.Styleable.SwitchCompat_showText;
+			global::Rg.Plugins.Popup.Resource.Styleable.SwitchCompat_splitTrack = global::WordQuiz.Droid.Resource.Styleable.SwitchCompat_splitTrack;
+			global::Rg.Plugins.Popup.Resource.Styleable.SwitchCompat_switchMinWidth = global::WordQuiz.Droid.Resource.Styleable.SwitchCompat_switchMinWidth;
+			global::Rg.Plugins.Popup.Resource.Styleable.SwitchCompat_switchPadding = global::WordQuiz.Droid.Resource.Styleable.SwitchCompat_switchPadding;
+			global::Rg.Plugins.Popup.Resource.Styleable.SwitchCompat_switchTextAppearance = global::WordQuiz.Droid.Resource.Styleable.SwitchCompat_switchTextAppearance;
+			global::Rg.Plugins.Popup.Resource.Styleable.SwitchCompat_thumbTextPadding = global::WordQuiz.Droid.Resource.Styleable.SwitchCompat_thumbTextPadding;
+			global::Rg.Plugins.Popup.Resource.Styleable.SwitchCompat_thumbTint = global::WordQuiz.Droid.Resource.Styleable.SwitchCompat_thumbTint;
+			global::Rg.Plugins.Popup.Resource.Styleable.SwitchCompat_thumbTintMode = global::WordQuiz.Droid.Resource.Styleable.SwitchCompat_thumbTintMode;
+			global::Rg.Plugins.Popup.Resource.Styleable.SwitchCompat_track = global::WordQuiz.Droid.Resource.Styleable.SwitchCompat_track;
+			global::Rg.Plugins.Popup.Resource.Styleable.SwitchCompat_trackTint = global::WordQuiz.Droid.Resource.Styleable.SwitchCompat_trackTint;
+			global::Rg.Plugins.Popup.Resource.Styleable.SwitchCompat_trackTintMode = global::WordQuiz.Droid.Resource.Styleable.SwitchCompat_trackTintMode;
+			global::Rg.Plugins.Popup.Resource.Styleable.TabItem = global::WordQuiz.Droid.Resource.Styleable.TabItem;
+			global::Rg.Plugins.Popup.Resource.Styleable.TabItem_android_icon = global::WordQuiz.Droid.Resource.Styleable.TabItem_android_icon;
+			global::Rg.Plugins.Popup.Resource.Styleable.TabItem_android_layout = global::WordQuiz.Droid.Resource.Styleable.TabItem_android_layout;
+			global::Rg.Plugins.Popup.Resource.Styleable.TabItem_android_text = global::WordQuiz.Droid.Resource.Styleable.TabItem_android_text;
+			global::Rg.Plugins.Popup.Resource.Styleable.TabLayout = global::WordQuiz.Droid.Resource.Styleable.TabLayout;
+			global::Rg.Plugins.Popup.Resource.Styleable.TabLayout_tabBackground = global::WordQuiz.Droid.Resource.Styleable.TabLayout_tabBackground;
+			global::Rg.Plugins.Popup.Resource.Styleable.TabLayout_tabContentStart = global::WordQuiz.Droid.Resource.Styleable.TabLayout_tabContentStart;
+			global::Rg.Plugins.Popup.Resource.Styleable.TabLayout_tabGravity = global::WordQuiz.Droid.Resource.Styleable.TabLayout_tabGravity;
+			global::Rg.Plugins.Popup.Resource.Styleable.TabLayout_tabIconTint = global::WordQuiz.Droid.Resource.Styleable.TabLayout_tabIconTint;
+			global::Rg.Plugins.Popup.Resource.Styleable.TabLayout_tabIconTintMode = global::WordQuiz.Droid.Resource.Styleable.TabLayout_tabIconTintMode;
+			global::Rg.Plugins.Popup.Resource.Styleable.TabLayout_tabIndicator = global::WordQuiz.Droid.Resource.Styleable.TabLayout_tabIndicator;
+			global::Rg.Plugins.Popup.Resource.Styleable.TabLayout_tabIndicatorAnimationDuration = global::WordQuiz.Droid.Resource.Styleable.TabLayout_tabIndicatorAnimationDuration;
+			global::Rg.Plugins.Popup.Resource.Styleable.TabLayout_tabIndicatorColor = global::WordQuiz.Droid.Resource.Styleable.TabLayout_tabIndicatorColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.TabLayout_tabIndicatorFullWidth = global::WordQuiz.Droid.Resource.Styleable.TabLayout_tabIndicatorFullWidth;
+			global::Rg.Plugins.Popup.Resource.Styleable.TabLayout_tabIndicatorGravity = global::WordQuiz.Droid.Resource.Styleable.TabLayout_tabIndicatorGravity;
+			global::Rg.Plugins.Popup.Resource.Styleable.TabLayout_tabIndicatorHeight = global::WordQuiz.Droid.Resource.Styleable.TabLayout_tabIndicatorHeight;
+			global::Rg.Plugins.Popup.Resource.Styleable.TabLayout_tabInlineLabel = global::WordQuiz.Droid.Resource.Styleable.TabLayout_tabInlineLabel;
+			global::Rg.Plugins.Popup.Resource.Styleable.TabLayout_tabMaxWidth = global::WordQuiz.Droid.Resource.Styleable.TabLayout_tabMaxWidth;
+			global::Rg.Plugins.Popup.Resource.Styleable.TabLayout_tabMinWidth = global::WordQuiz.Droid.Resource.Styleable.TabLayout_tabMinWidth;
+			global::Rg.Plugins.Popup.Resource.Styleable.TabLayout_tabMode = global::WordQuiz.Droid.Resource.Styleable.TabLayout_tabMode;
+			global::Rg.Plugins.Popup.Resource.Styleable.TabLayout_tabPadding = global::WordQuiz.Droid.Resource.Styleable.TabLayout_tabPadding;
+			global::Rg.Plugins.Popup.Resource.Styleable.TabLayout_tabPaddingBottom = global::WordQuiz.Droid.Resource.Styleable.TabLayout_tabPaddingBottom;
+			global::Rg.Plugins.Popup.Resource.Styleable.TabLayout_tabPaddingEnd = global::WordQuiz.Droid.Resource.Styleable.TabLayout_tabPaddingEnd;
+			global::Rg.Plugins.Popup.Resource.Styleable.TabLayout_tabPaddingStart = global::WordQuiz.Droid.Resource.Styleable.TabLayout_tabPaddingStart;
+			global::Rg.Plugins.Popup.Resource.Styleable.TabLayout_tabPaddingTop = global::WordQuiz.Droid.Resource.Styleable.TabLayout_tabPaddingTop;
+			global::Rg.Plugins.Popup.Resource.Styleable.TabLayout_tabRippleColor = global::WordQuiz.Droid.Resource.Styleable.TabLayout_tabRippleColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.TabLayout_tabSelectedTextColor = global::WordQuiz.Droid.Resource.Styleable.TabLayout_tabSelectedTextColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.TabLayout_tabTextAppearance = global::WordQuiz.Droid.Resource.Styleable.TabLayout_tabTextAppearance;
+			global::Rg.Plugins.Popup.Resource.Styleable.TabLayout_tabTextColor = global::WordQuiz.Droid.Resource.Styleable.TabLayout_tabTextColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.TabLayout_tabUnboundedRipple = global::WordQuiz.Droid.Resource.Styleable.TabLayout_tabUnboundedRipple;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextAppearance = global::WordQuiz.Droid.Resource.Styleable.TextAppearance;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextAppearance_android_fontFamily = global::WordQuiz.Droid.Resource.Styleable.TextAppearance_android_fontFamily;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextAppearance_android_shadowColor = global::WordQuiz.Droid.Resource.Styleable.TextAppearance_android_shadowColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextAppearance_android_shadowDx = global::WordQuiz.Droid.Resource.Styleable.TextAppearance_android_shadowDx;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextAppearance_android_shadowDy = global::WordQuiz.Droid.Resource.Styleable.TextAppearance_android_shadowDy;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextAppearance_android_shadowRadius = global::WordQuiz.Droid.Resource.Styleable.TextAppearance_android_shadowRadius;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextAppearance_android_textColor = global::WordQuiz.Droid.Resource.Styleable.TextAppearance_android_textColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextAppearance_android_textColorHint = global::WordQuiz.Droid.Resource.Styleable.TextAppearance_android_textColorHint;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextAppearance_android_textColorLink = global::WordQuiz.Droid.Resource.Styleable.TextAppearance_android_textColorLink;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextAppearance_android_textFontWeight = global::WordQuiz.Droid.Resource.Styleable.TextAppearance_android_textFontWeight;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextAppearance_android_textSize = global::WordQuiz.Droid.Resource.Styleable.TextAppearance_android_textSize;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextAppearance_android_textStyle = global::WordQuiz.Droid.Resource.Styleable.TextAppearance_android_textStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextAppearance_android_typeface = global::WordQuiz.Droid.Resource.Styleable.TextAppearance_android_typeface;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextAppearance_fontFamily = global::WordQuiz.Droid.Resource.Styleable.TextAppearance_fontFamily;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextAppearance_fontVariationSettings = global::WordQuiz.Droid.Resource.Styleable.TextAppearance_fontVariationSettings;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextAppearance_textAllCaps = global::WordQuiz.Droid.Resource.Styleable.TextAppearance_textAllCaps;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextAppearance_textLocale = global::WordQuiz.Droid.Resource.Styleable.TextAppearance_textLocale;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout = global::WordQuiz.Droid.Resource.Styleable.TextInputLayout;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_android_hint = global::WordQuiz.Droid.Resource.Styleable.TextInputLayout_android_hint;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_android_textColorHint = global::WordQuiz.Droid.Resource.Styleable.TextInputLayout_android_textColorHint;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_boxBackgroundColor = global::WordQuiz.Droid.Resource.Styleable.TextInputLayout_boxBackgroundColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_boxBackgroundMode = global::WordQuiz.Droid.Resource.Styleable.TextInputLayout_boxBackgroundMode;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_boxCollapsedPaddingTop = global::WordQuiz.Droid.Resource.Styleable.TextInputLayout_boxCollapsedPaddingTop;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_boxCornerRadiusBottomEnd = global::WordQuiz.Droid.Resource.Styleable.TextInputLayout_boxCornerRadiusBottomEnd;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_boxCornerRadiusBottomStart = global::WordQuiz.Droid.Resource.Styleable.TextInputLayout_boxCornerRadiusBottomStart;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_boxCornerRadiusTopEnd = global::WordQuiz.Droid.Resource.Styleable.TextInputLayout_boxCornerRadiusTopEnd;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_boxCornerRadiusTopStart = global::WordQuiz.Droid.Resource.Styleable.TextInputLayout_boxCornerRadiusTopStart;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_boxStrokeColor = global::WordQuiz.Droid.Resource.Styleable.TextInputLayout_boxStrokeColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_boxStrokeWidth = global::WordQuiz.Droid.Resource.Styleable.TextInputLayout_boxStrokeWidth;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_counterEnabled = global::WordQuiz.Droid.Resource.Styleable.TextInputLayout_counterEnabled;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_counterMaxLength = global::WordQuiz.Droid.Resource.Styleable.TextInputLayout_counterMaxLength;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance = global::WordQuiz.Droid.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_counterTextAppearance = global::WordQuiz.Droid.Resource.Styleable.TextInputLayout_counterTextAppearance;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_errorEnabled = global::WordQuiz.Droid.Resource.Styleable.TextInputLayout_errorEnabled;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_errorTextAppearance = global::WordQuiz.Droid.Resource.Styleable.TextInputLayout_errorTextAppearance;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_helperText = global::WordQuiz.Droid.Resource.Styleable.TextInputLayout_helperText;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_helperTextEnabled = global::WordQuiz.Droid.Resource.Styleable.TextInputLayout_helperTextEnabled;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_helperTextTextAppearance = global::WordQuiz.Droid.Resource.Styleable.TextInputLayout_helperTextTextAppearance;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_hintAnimationEnabled = global::WordQuiz.Droid.Resource.Styleable.TextInputLayout_hintAnimationEnabled;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_hintEnabled = global::WordQuiz.Droid.Resource.Styleable.TextInputLayout_hintEnabled;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_hintTextAppearance = global::WordQuiz.Droid.Resource.Styleable.TextInputLayout_hintTextAppearance;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_passwordToggleContentDescription = global::WordQuiz.Droid.Resource.Styleable.TextInputLayout_passwordToggleContentDescription;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_passwordToggleDrawable = global::WordQuiz.Droid.Resource.Styleable.TextInputLayout_passwordToggleDrawable;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_passwordToggleEnabled = global::WordQuiz.Droid.Resource.Styleable.TextInputLayout_passwordToggleEnabled;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_passwordToggleTint = global::WordQuiz.Droid.Resource.Styleable.TextInputLayout_passwordToggleTint;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_passwordToggleTintMode = global::WordQuiz.Droid.Resource.Styleable.TextInputLayout_passwordToggleTintMode;
+			global::Rg.Plugins.Popup.Resource.Styleable.ThemeEnforcement = global::WordQuiz.Droid.Resource.Styleable.ThemeEnforcement;
+			global::Rg.Plugins.Popup.Resource.Styleable.ThemeEnforcement_android_textAppearance = global::WordQuiz.Droid.Resource.Styleable.ThemeEnforcement_android_textAppearance;
+			global::Rg.Plugins.Popup.Resource.Styleable.ThemeEnforcement_enforceMaterialTheme = global::WordQuiz.Droid.Resource.Styleable.ThemeEnforcement_enforceMaterialTheme;
+			global::Rg.Plugins.Popup.Resource.Styleable.ThemeEnforcement_enforceTextAppearance = global::WordQuiz.Droid.Resource.Styleable.ThemeEnforcement_enforceTextAppearance;
+			global::Rg.Plugins.Popup.Resource.Styleable.Toolbar = global::WordQuiz.Droid.Resource.Styleable.Toolbar;
+			global::Rg.Plugins.Popup.Resource.Styleable.Toolbar_android_gravity = global::WordQuiz.Droid.Resource.Styleable.Toolbar_android_gravity;
+			global::Rg.Plugins.Popup.Resource.Styleable.Toolbar_android_minHeight = global::WordQuiz.Droid.Resource.Styleable.Toolbar_android_minHeight;
+			global::Rg.Plugins.Popup.Resource.Styleable.Toolbar_buttonGravity = global::WordQuiz.Droid.Resource.Styleable.Toolbar_buttonGravity;
+			global::Rg.Plugins.Popup.Resource.Styleable.Toolbar_collapseContentDescription = global::WordQuiz.Droid.Resource.Styleable.Toolbar_collapseContentDescription;
+			global::Rg.Plugins.Popup.Resource.Styleable.Toolbar_collapseIcon = global::WordQuiz.Droid.Resource.Styleable.Toolbar_collapseIcon;
+			global::Rg.Plugins.Popup.Resource.Styleable.Toolbar_contentInsetEnd = global::WordQuiz.Droid.Resource.Styleable.Toolbar_contentInsetEnd;
+			global::Rg.Plugins.Popup.Resource.Styleable.Toolbar_contentInsetEndWithActions = global::WordQuiz.Droid.Resource.Styleable.Toolbar_contentInsetEndWithActions;
+			global::Rg.Plugins.Popup.Resource.Styleable.Toolbar_contentInsetLeft = global::WordQuiz.Droid.Resource.Styleable.Toolbar_contentInsetLeft;
+			global::Rg.Plugins.Popup.Resource.Styleable.Toolbar_contentInsetRight = global::WordQuiz.Droid.Resource.Styleable.Toolbar_contentInsetRight;
+			global::Rg.Plugins.Popup.Resource.Styleable.Toolbar_contentInsetStart = global::WordQuiz.Droid.Resource.Styleable.Toolbar_contentInsetStart;
+			global::Rg.Plugins.Popup.Resource.Styleable.Toolbar_contentInsetStartWithNavigation = global::WordQuiz.Droid.Resource.Styleable.Toolbar_contentInsetStartWithNavigation;
+			global::Rg.Plugins.Popup.Resource.Styleable.Toolbar_logo = global::WordQuiz.Droid.Resource.Styleable.Toolbar_logo;
+			global::Rg.Plugins.Popup.Resource.Styleable.Toolbar_logoDescription = global::WordQuiz.Droid.Resource.Styleable.Toolbar_logoDescription;
+			global::Rg.Plugins.Popup.Resource.Styleable.Toolbar_maxButtonHeight = global::WordQuiz.Droid.Resource.Styleable.Toolbar_maxButtonHeight;
+			global::Rg.Plugins.Popup.Resource.Styleable.Toolbar_menu = global::WordQuiz.Droid.Resource.Styleable.Toolbar_menu;
+			global::Rg.Plugins.Popup.Resource.Styleable.Toolbar_navigationContentDescription = global::WordQuiz.Droid.Resource.Styleable.Toolbar_navigationContentDescription;
+			global::Rg.Plugins.Popup.Resource.Styleable.Toolbar_navigationIcon = global::WordQuiz.Droid.Resource.Styleable.Toolbar_navigationIcon;
+			global::Rg.Plugins.Popup.Resource.Styleable.Toolbar_popupTheme = global::WordQuiz.Droid.Resource.Styleable.Toolbar_popupTheme;
+			global::Rg.Plugins.Popup.Resource.Styleable.Toolbar_subtitle = global::WordQuiz.Droid.Resource.Styleable.Toolbar_subtitle;
+			global::Rg.Plugins.Popup.Resource.Styleable.Toolbar_subtitleTextAppearance = global::WordQuiz.Droid.Resource.Styleable.Toolbar_subtitleTextAppearance;
+			global::Rg.Plugins.Popup.Resource.Styleable.Toolbar_subtitleTextColor = global::WordQuiz.Droid.Resource.Styleable.Toolbar_subtitleTextColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.Toolbar_title = global::WordQuiz.Droid.Resource.Styleable.Toolbar_title;
+			global::Rg.Plugins.Popup.Resource.Styleable.Toolbar_titleMargin = global::WordQuiz.Droid.Resource.Styleable.Toolbar_titleMargin;
+			global::Rg.Plugins.Popup.Resource.Styleable.Toolbar_titleMarginBottom = global::WordQuiz.Droid.Resource.Styleable.Toolbar_titleMarginBottom;
+			global::Rg.Plugins.Popup.Resource.Styleable.Toolbar_titleMarginEnd = global::WordQuiz.Droid.Resource.Styleable.Toolbar_titleMarginEnd;
+			global::Rg.Plugins.Popup.Resource.Styleable.Toolbar_titleMargins = global::WordQuiz.Droid.Resource.Styleable.Toolbar_titleMargins;
+			global::Rg.Plugins.Popup.Resource.Styleable.Toolbar_titleMarginStart = global::WordQuiz.Droid.Resource.Styleable.Toolbar_titleMarginStart;
+			global::Rg.Plugins.Popup.Resource.Styleable.Toolbar_titleMarginTop = global::WordQuiz.Droid.Resource.Styleable.Toolbar_titleMarginTop;
+			global::Rg.Plugins.Popup.Resource.Styleable.Toolbar_titleTextAppearance = global::WordQuiz.Droid.Resource.Styleable.Toolbar_titleTextAppearance;
+			global::Rg.Plugins.Popup.Resource.Styleable.Toolbar_titleTextColor = global::WordQuiz.Droid.Resource.Styleable.Toolbar_titleTextColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.View = global::WordQuiz.Droid.Resource.Styleable.View;
+			global::Rg.Plugins.Popup.Resource.Styleable.ViewBackgroundHelper = global::WordQuiz.Droid.Resource.Styleable.ViewBackgroundHelper;
+			global::Rg.Plugins.Popup.Resource.Styleable.ViewBackgroundHelper_android_background = global::WordQuiz.Droid.Resource.Styleable.ViewBackgroundHelper_android_background;
+			global::Rg.Plugins.Popup.Resource.Styleable.ViewBackgroundHelper_backgroundTint = global::WordQuiz.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTint;
+			global::Rg.Plugins.Popup.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode = global::WordQuiz.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode;
+			global::Rg.Plugins.Popup.Resource.Styleable.ViewStubCompat = global::WordQuiz.Droid.Resource.Styleable.ViewStubCompat;
+			global::Rg.Plugins.Popup.Resource.Styleable.ViewStubCompat_android_id = global::WordQuiz.Droid.Resource.Styleable.ViewStubCompat_android_id;
+			global::Rg.Plugins.Popup.Resource.Styleable.ViewStubCompat_android_inflatedId = global::WordQuiz.Droid.Resource.Styleable.ViewStubCompat_android_inflatedId;
+			global::Rg.Plugins.Popup.Resource.Styleable.ViewStubCompat_android_layout = global::WordQuiz.Droid.Resource.Styleable.ViewStubCompat_android_layout;
+			global::Rg.Plugins.Popup.Resource.Styleable.View_android_focusable = global::WordQuiz.Droid.Resource.Styleable.View_android_focusable;
+			global::Rg.Plugins.Popup.Resource.Styleable.View_android_theme = global::WordQuiz.Droid.Resource.Styleable.View_android_theme;
+			global::Rg.Plugins.Popup.Resource.Styleable.View_paddingEnd = global::WordQuiz.Droid.Resource.Styleable.View_paddingEnd;
+			global::Rg.Plugins.Popup.Resource.Styleable.View_paddingStart = global::WordQuiz.Droid.Resource.Styleable.View_paddingStart;
+			global::Rg.Plugins.Popup.Resource.Styleable.View_theme = global::WordQuiz.Droid.Resource.Styleable.View_theme;
 			global::Xamarin.Essentials.Resource.Attribute.alpha = global::WordQuiz.Droid.Resource.Attribute.alpha;
 			global::Xamarin.Essentials.Resource.Attribute.coordinatorLayoutStyle = global::WordQuiz.Droid.Resource.Attribute.coordinatorLayoutStyle;
 			global::Xamarin.Essentials.Resource.Attribute.font = global::WordQuiz.Droid.Resource.Attribute.font;
@@ -10077,628 +15485,679 @@ namespace WordQuiz.Droid
 			public const int logoDescription = 2130903356;
 			
 			// aapt resource value: 0x7F03013D
-			public const int materialButtonStyle = 2130903357;
+			public const int lottieAnimationViewStyle = 2130903357;
 			
 			// aapt resource value: 0x7F03013E
-			public const int materialCardViewStyle = 2130903358;
+			public const int lottie_autoPlay = 2130903358;
 			
 			// aapt resource value: 0x7F03013F
-			public const int maxActionInlineWidth = 2130903359;
+			public const int lottie_cacheComposition = 2130903359;
 			
 			// aapt resource value: 0x7F030140
-			public const int maxButtonHeight = 2130903360;
+			public const int lottie_colorFilter = 2130903360;
 			
 			// aapt resource value: 0x7F030141
-			public const int maxImageSize = 2130903361;
+			public const int lottie_enableMergePathsForKitKatAndAbove = 2130903361;
 			
 			// aapt resource value: 0x7F030142
-			public const int measureWithLargestChild = 2130903362;
+			public const int lottie_fallbackRes = 2130903362;
 			
 			// aapt resource value: 0x7F030143
-			public const int menu = 2130903363;
+			public const int lottie_fileName = 2130903363;
 			
 			// aapt resource value: 0x7F030144
-			public const int multiChoiceItemLayout = 2130903364;
+			public const int lottie_imageAssetsFolder = 2130903364;
 			
 			// aapt resource value: 0x7F030145
-			public const int navigationContentDescription = 2130903365;
+			public const int lottie_loop = 2130903365;
 			
 			// aapt resource value: 0x7F030146
-			public const int navigationIcon = 2130903366;
+			public const int lottie_progress = 2130903366;
 			
 			// aapt resource value: 0x7F030147
-			public const int navigationMode = 2130903367;
+			public const int lottie_rawRes = 2130903367;
 			
 			// aapt resource value: 0x7F030148
-			public const int navigationViewStyle = 2130903368;
+			public const int lottie_renderMode = 2130903368;
 			
 			// aapt resource value: 0x7F030149
-			public const int numericModifiers = 2130903369;
+			public const int lottie_repeatCount = 2130903369;
 			
 			// aapt resource value: 0x7F03014A
-			public const int overlapAnchor = 2130903370;
+			public const int lottie_repeatMode = 2130903370;
 			
 			// aapt resource value: 0x7F03014B
-			public const int paddingBottomNoButtons = 2130903371;
+			public const int lottie_scale = 2130903371;
 			
 			// aapt resource value: 0x7F03014C
-			public const int paddingEnd = 2130903372;
+			public const int lottie_speed = 2130903372;
 			
 			// aapt resource value: 0x7F03014D
-			public const int paddingStart = 2130903373;
+			public const int lottie_url = 2130903373;
 			
 			// aapt resource value: 0x7F03014E
-			public const int paddingTopNoTitle = 2130903374;
+			public const int materialButtonStyle = 2130903374;
 			
 			// aapt resource value: 0x7F03014F
-			public const int panelBackground = 2130903375;
+			public const int materialCardViewStyle = 2130903375;
 			
 			// aapt resource value: 0x7F030150
-			public const int panelMenuListTheme = 2130903376;
+			public const int maxActionInlineWidth = 2130903376;
 			
 			// aapt resource value: 0x7F030151
-			public const int panelMenuListWidth = 2130903377;
+			public const int maxButtonHeight = 2130903377;
 			
 			// aapt resource value: 0x7F030152
-			public const int passwordToggleContentDescription = 2130903378;
+			public const int maxImageSize = 2130903378;
 			
 			// aapt resource value: 0x7F030153
-			public const int passwordToggleDrawable = 2130903379;
+			public const int measureWithLargestChild = 2130903379;
 			
 			// aapt resource value: 0x7F030154
-			public const int passwordToggleEnabled = 2130903380;
+			public const int menu = 2130903380;
 			
 			// aapt resource value: 0x7F030155
-			public const int passwordToggleTint = 2130903381;
+			public const int multiChoiceItemLayout = 2130903381;
 			
 			// aapt resource value: 0x7F030156
-			public const int passwordToggleTintMode = 2130903382;
+			public const int navigationContentDescription = 2130903382;
 			
 			// aapt resource value: 0x7F030157
-			public const int played_ad_marker_color = 2130903383;
+			public const int navigationIcon = 2130903383;
 			
 			// aapt resource value: 0x7F030158
-			public const int played_color = 2130903384;
+			public const int navigationMode = 2130903384;
 			
 			// aapt resource value: 0x7F030159
-			public const int player_layout_id = 2130903385;
+			public const int navigationViewStyle = 2130903385;
 			
 			// aapt resource value: 0x7F03015A
-			public const int popupMenuStyle = 2130903386;
+			public const int numericModifiers = 2130903386;
 			
 			// aapt resource value: 0x7F03015B
-			public const int popupTheme = 2130903387;
+			public const int overlapAnchor = 2130903387;
 			
 			// aapt resource value: 0x7F03015C
-			public const int popupWindowStyle = 2130903388;
+			public const int paddingBottomNoButtons = 2130903388;
 			
 			// aapt resource value: 0x7F03015D
-			public const int preserveIconSpacing = 2130903389;
+			public const int paddingEnd = 2130903389;
 			
 			// aapt resource value: 0x7F03015E
-			public const int pressedTranslationZ = 2130903390;
+			public const int paddingStart = 2130903390;
 			
 			// aapt resource value: 0x7F03015F
-			public const int progressBarPadding = 2130903391;
+			public const int paddingTopNoTitle = 2130903391;
 			
 			// aapt resource value: 0x7F030160
-			public const int progressBarStyle = 2130903392;
+			public const int panelBackground = 2130903392;
 			
 			// aapt resource value: 0x7F030161
-			public const int queryBackground = 2130903393;
+			public const int panelMenuListTheme = 2130903393;
 			
 			// aapt resource value: 0x7F030162
-			public const int queryHint = 2130903394;
+			public const int panelMenuListWidth = 2130903394;
 			
 			// aapt resource value: 0x7F030163
-			public const int radioButtonStyle = 2130903395;
+			public const int passwordToggleContentDescription = 2130903395;
 			
 			// aapt resource value: 0x7F030164
-			public const int ratingBarStyle = 2130903396;
+			public const int passwordToggleDrawable = 2130903396;
 			
 			// aapt resource value: 0x7F030165
-			public const int ratingBarStyleIndicator = 2130903397;
+			public const int passwordToggleEnabled = 2130903397;
 			
 			// aapt resource value: 0x7F030166
-			public const int ratingBarStyleSmall = 2130903398;
+			public const int passwordToggleTint = 2130903398;
 			
 			// aapt resource value: 0x7F030167
-			public const int recyclerViewStyle = 2130903399;
+			public const int passwordToggleTintMode = 2130903399;
 			
 			// aapt resource value: 0x7F030168
-			public const int repeat_toggle_modes = 2130903400;
+			public const int played_ad_marker_color = 2130903400;
 			
 			// aapt resource value: 0x7F030169
-			public const int resize_mode = 2130903401;
+			public const int played_color = 2130903401;
 			
 			// aapt resource value: 0x7F03016A
-			public const int reverseLayout = 2130903402;
+			public const int player_layout_id = 2130903402;
 			
 			// aapt resource value: 0x7F03016B
-			public const int rewind_increment = 2130903403;
+			public const int popupMenuStyle = 2130903403;
 			
 			// aapt resource value: 0x7F03016C
-			public const int rippleColor = 2130903404;
+			public const int popupTheme = 2130903404;
 			
 			// aapt resource value: 0x7F03016D
-			public const int scrimAnimationDuration = 2130903405;
+			public const int popupWindowStyle = 2130903405;
 			
 			// aapt resource value: 0x7F03016E
-			public const int scrimBackground = 2130903406;
+			public const int preserveIconSpacing = 2130903406;
 			
 			// aapt resource value: 0x7F03016F
-			public const int scrimVisibleHeightTrigger = 2130903407;
+			public const int pressedTranslationZ = 2130903407;
 			
 			// aapt resource value: 0x7F030170
-			public const int scrubber_color = 2130903408;
+			public const int progressBarPadding = 2130903408;
 			
 			// aapt resource value: 0x7F030171
-			public const int scrubber_disabled_size = 2130903409;
+			public const int progressBarStyle = 2130903409;
 			
 			// aapt resource value: 0x7F030172
-			public const int scrubber_dragged_size = 2130903410;
+			public const int queryBackground = 2130903410;
 			
 			// aapt resource value: 0x7F030173
-			public const int scrubber_drawable = 2130903411;
+			public const int queryHint = 2130903411;
 			
 			// aapt resource value: 0x7F030174
-			public const int scrubber_enabled_size = 2130903412;
+			public const int radioButtonStyle = 2130903412;
 			
 			// aapt resource value: 0x7F030175
-			public const int searchHintIcon = 2130903413;
+			public const int ratingBarStyle = 2130903413;
 			
 			// aapt resource value: 0x7F030176
-			public const int searchIcon = 2130903414;
+			public const int ratingBarStyleIndicator = 2130903414;
 			
 			// aapt resource value: 0x7F030177
-			public const int searchViewStyle = 2130903415;
+			public const int ratingBarStyleSmall = 2130903415;
 			
 			// aapt resource value: 0x7F030178
-			public const int seekBarStyle = 2130903416;
+			public const int recyclerViewStyle = 2130903416;
 			
 			// aapt resource value: 0x7F030179
-			public const int selectableItemBackground = 2130903417;
+			public const int repeat_toggle_modes = 2130903417;
 			
 			// aapt resource value: 0x7F03017A
-			public const int selectableItemBackgroundBorderless = 2130903418;
+			public const int resize_mode = 2130903418;
 			
 			// aapt resource value: 0x7F03017B
-			public const int showAsAction = 2130903419;
+			public const int reverseLayout = 2130903419;
 			
 			// aapt resource value: 0x7F03017C
-			public const int showDividers = 2130903420;
+			public const int rewind_increment = 2130903420;
 			
 			// aapt resource value: 0x7F03017D
-			public const int showMotionSpec = 2130903421;
+			public const int rippleColor = 2130903421;
 			
 			// aapt resource value: 0x7F03017E
-			public const int showText = 2130903422;
+			public const int scrimAnimationDuration = 2130903422;
 			
 			// aapt resource value: 0x7F03017F
-			public const int showTitle = 2130903423;
+			public const int scrimBackground = 2130903423;
 			
 			// aapt resource value: 0x7F030180
-			public const int show_buffering = 2130903424;
+			public const int scrimVisibleHeightTrigger = 2130903424;
 			
 			// aapt resource value: 0x7F030181
-			public const int show_shuffle_button = 2130903425;
+			public const int scrubber_color = 2130903425;
 			
 			// aapt resource value: 0x7F030182
-			public const int show_timeout = 2130903426;
+			public const int scrubber_disabled_size = 2130903426;
 			
 			// aapt resource value: 0x7F030183
-			public const int shutter_background_color = 2130903427;
+			public const int scrubber_dragged_size = 2130903427;
 			
 			// aapt resource value: 0x7F030184
-			public const int singleChoiceItemLayout = 2130903428;
+			public const int scrubber_drawable = 2130903428;
 			
 			// aapt resource value: 0x7F030185
-			public const int singleLine = 2130903429;
+			public const int scrubber_enabled_size = 2130903429;
 			
 			// aapt resource value: 0x7F030186
-			public const int singleSelection = 2130903430;
+			public const int searchHintIcon = 2130903430;
 			
 			// aapt resource value: 0x7F030187
-			public const int snackbarButtonStyle = 2130903431;
+			public const int searchIcon = 2130903431;
 			
 			// aapt resource value: 0x7F030188
-			public const int snackbarStyle = 2130903432;
+			public const int searchViewStyle = 2130903432;
 			
 			// aapt resource value: 0x7F030189
-			public const int spanCount = 2130903433;
+			public const int seekBarStyle = 2130903433;
 			
 			// aapt resource value: 0x7F03018A
-			public const int spinBars = 2130903434;
+			public const int selectableItemBackground = 2130903434;
 			
 			// aapt resource value: 0x7F03018B
-			public const int spinnerDropDownItemStyle = 2130903435;
+			public const int selectableItemBackgroundBorderless = 2130903435;
 			
 			// aapt resource value: 0x7F03018C
-			public const int spinnerStyle = 2130903436;
+			public const int showAsAction = 2130903436;
 			
 			// aapt resource value: 0x7F03018D
-			public const int splitTrack = 2130903437;
+			public const int showDividers = 2130903437;
 			
 			// aapt resource value: 0x7F03018E
-			public const int srcCompat = 2130903438;
+			public const int showMotionSpec = 2130903438;
 			
 			// aapt resource value: 0x7F03018F
-			public const int stackFromEnd = 2130903439;
+			public const int showText = 2130903439;
 			
 			// aapt resource value: 0x7F030190
-			public const int state_above_anchor = 2130903440;
+			public const int showTitle = 2130903440;
 			
 			// aapt resource value: 0x7F030191
-			public const int state_collapsed = 2130903441;
+			public const int show_buffering = 2130903441;
 			
 			// aapt resource value: 0x7F030192
-			public const int state_collapsible = 2130903442;
+			public const int show_shuffle_button = 2130903442;
 			
 			// aapt resource value: 0x7F030193
-			public const int state_liftable = 2130903443;
+			public const int show_timeout = 2130903443;
 			
 			// aapt resource value: 0x7F030194
-			public const int state_lifted = 2130903444;
+			public const int shutter_background_color = 2130903444;
 			
 			// aapt resource value: 0x7F030195
-			public const int statusBarBackground = 2130903445;
+			public const int singleChoiceItemLayout = 2130903445;
 			
 			// aapt resource value: 0x7F030196
-			public const int statusBarScrim = 2130903446;
+			public const int singleLine = 2130903446;
 			
 			// aapt resource value: 0x7F030197
-			public const int strokeColor = 2130903447;
+			public const int singleSelection = 2130903447;
 			
 			// aapt resource value: 0x7F030198
-			public const int strokeWidth = 2130903448;
+			public const int snackbarButtonStyle = 2130903448;
 			
 			// aapt resource value: 0x7F030199
-			public const int subMenuArrow = 2130903449;
+			public const int snackbarStyle = 2130903449;
 			
 			// aapt resource value: 0x7F03019A
-			public const int submitBackground = 2130903450;
+			public const int spanCount = 2130903450;
 			
 			// aapt resource value: 0x7F03019B
-			public const int subtitle = 2130903451;
+			public const int spinBars = 2130903451;
 			
 			// aapt resource value: 0x7F03019C
-			public const int subtitleTextAppearance = 2130903452;
+			public const int spinnerDropDownItemStyle = 2130903452;
 			
 			// aapt resource value: 0x7F03019D
-			public const int subtitleTextColor = 2130903453;
+			public const int spinnerStyle = 2130903453;
 			
 			// aapt resource value: 0x7F03019E
-			public const int subtitleTextStyle = 2130903454;
+			public const int splitTrack = 2130903454;
 			
 			// aapt resource value: 0x7F03019F
-			public const int suggestionRowLayout = 2130903455;
+			public const int srcCompat = 2130903455;
 			
 			// aapt resource value: 0x7F0301A0
-			public const int surface_type = 2130903456;
+			public const int stackFromEnd = 2130903456;
 			
 			// aapt resource value: 0x7F0301A1
-			public const int switchMinWidth = 2130903457;
+			public const int state_above_anchor = 2130903457;
 			
 			// aapt resource value: 0x7F0301A2
-			public const int switchPadding = 2130903458;
+			public const int state_collapsed = 2130903458;
 			
 			// aapt resource value: 0x7F0301A3
-			public const int switchStyle = 2130903459;
+			public const int state_collapsible = 2130903459;
 			
 			// aapt resource value: 0x7F0301A4
-			public const int switchTextAppearance = 2130903460;
+			public const int state_liftable = 2130903460;
 			
 			// aapt resource value: 0x7F0301A5
-			public const int tabBackground = 2130903461;
+			public const int state_lifted = 2130903461;
 			
 			// aapt resource value: 0x7F0301A6
-			public const int tabContentStart = 2130903462;
+			public const int statusBarBackground = 2130903462;
 			
 			// aapt resource value: 0x7F0301A7
-			public const int tabGravity = 2130903463;
+			public const int statusBarScrim = 2130903463;
 			
 			// aapt resource value: 0x7F0301A8
-			public const int tabIconTint = 2130903464;
+			public const int strokeColor = 2130903464;
 			
 			// aapt resource value: 0x7F0301A9
-			public const int tabIconTintMode = 2130903465;
+			public const int strokeWidth = 2130903465;
 			
 			// aapt resource value: 0x7F0301AA
-			public const int tabIndicator = 2130903466;
+			public const int subMenuArrow = 2130903466;
 			
 			// aapt resource value: 0x7F0301AB
-			public const int tabIndicatorAnimationDuration = 2130903467;
+			public const int submitBackground = 2130903467;
 			
 			// aapt resource value: 0x7F0301AC
-			public const int tabIndicatorColor = 2130903468;
+			public const int subtitle = 2130903468;
 			
 			// aapt resource value: 0x7F0301AD
-			public const int tabIndicatorFullWidth = 2130903469;
+			public const int subtitleTextAppearance = 2130903469;
 			
 			// aapt resource value: 0x7F0301AE
-			public const int tabIndicatorGravity = 2130903470;
+			public const int subtitleTextColor = 2130903470;
 			
 			// aapt resource value: 0x7F0301AF
-			public const int tabIndicatorHeight = 2130903471;
+			public const int subtitleTextStyle = 2130903471;
 			
 			// aapt resource value: 0x7F0301B0
-			public const int tabInlineLabel = 2130903472;
+			public const int suggestionRowLayout = 2130903472;
 			
 			// aapt resource value: 0x7F0301B1
-			public const int tabMaxWidth = 2130903473;
+			public const int surface_type = 2130903473;
 			
 			// aapt resource value: 0x7F0301B2
-			public const int tabMinWidth = 2130903474;
+			public const int switchMinWidth = 2130903474;
 			
 			// aapt resource value: 0x7F0301B3
-			public const int tabMode = 2130903475;
+			public const int switchPadding = 2130903475;
 			
 			// aapt resource value: 0x7F0301B4
-			public const int tabPadding = 2130903476;
+			public const int switchStyle = 2130903476;
 			
 			// aapt resource value: 0x7F0301B5
-			public const int tabPaddingBottom = 2130903477;
+			public const int switchTextAppearance = 2130903477;
 			
 			// aapt resource value: 0x7F0301B6
-			public const int tabPaddingEnd = 2130903478;
+			public const int tabBackground = 2130903478;
 			
 			// aapt resource value: 0x7F0301B7
-			public const int tabPaddingStart = 2130903479;
+			public const int tabContentStart = 2130903479;
 			
 			// aapt resource value: 0x7F0301B8
-			public const int tabPaddingTop = 2130903480;
+			public const int tabGravity = 2130903480;
 			
 			// aapt resource value: 0x7F0301B9
-			public const int tabRippleColor = 2130903481;
+			public const int tabIconTint = 2130903481;
 			
 			// aapt resource value: 0x7F0301BA
-			public const int tabSelectedTextColor = 2130903482;
+			public const int tabIconTintMode = 2130903482;
 			
 			// aapt resource value: 0x7F0301BB
-			public const int tabStyle = 2130903483;
+			public const int tabIndicator = 2130903483;
 			
 			// aapt resource value: 0x7F0301BC
-			public const int tabTextAppearance = 2130903484;
+			public const int tabIndicatorAnimationDuration = 2130903484;
 			
 			// aapt resource value: 0x7F0301BD
-			public const int tabTextColor = 2130903485;
+			public const int tabIndicatorColor = 2130903485;
 			
 			// aapt resource value: 0x7F0301BE
-			public const int tabUnboundedRipple = 2130903486;
+			public const int tabIndicatorFullWidth = 2130903486;
 			
 			// aapt resource value: 0x7F0301BF
-			public const int textAllCaps = 2130903487;
+			public const int tabIndicatorGravity = 2130903487;
 			
 			// aapt resource value: 0x7F0301C0
-			public const int textAppearanceBody1 = 2130903488;
+			public const int tabIndicatorHeight = 2130903488;
 			
 			// aapt resource value: 0x7F0301C1
-			public const int textAppearanceBody2 = 2130903489;
+			public const int tabInlineLabel = 2130903489;
 			
 			// aapt resource value: 0x7F0301C2
-			public const int textAppearanceButton = 2130903490;
+			public const int tabMaxWidth = 2130903490;
 			
 			// aapt resource value: 0x7F0301C3
-			public const int textAppearanceCaption = 2130903491;
+			public const int tabMinWidth = 2130903491;
 			
 			// aapt resource value: 0x7F0301C4
-			public const int textAppearanceHeadline1 = 2130903492;
+			public const int tabMode = 2130903492;
 			
 			// aapt resource value: 0x7F0301C5
-			public const int textAppearanceHeadline2 = 2130903493;
+			public const int tabPadding = 2130903493;
 			
 			// aapt resource value: 0x7F0301C6
-			public const int textAppearanceHeadline3 = 2130903494;
+			public const int tabPaddingBottom = 2130903494;
 			
 			// aapt resource value: 0x7F0301C7
-			public const int textAppearanceHeadline4 = 2130903495;
+			public const int tabPaddingEnd = 2130903495;
 			
 			// aapt resource value: 0x7F0301C8
-			public const int textAppearanceHeadline5 = 2130903496;
+			public const int tabPaddingStart = 2130903496;
 			
 			// aapt resource value: 0x7F0301C9
-			public const int textAppearanceHeadline6 = 2130903497;
+			public const int tabPaddingTop = 2130903497;
 			
 			// aapt resource value: 0x7F0301CA
-			public const int textAppearanceLargePopupMenu = 2130903498;
+			public const int tabRippleColor = 2130903498;
 			
 			// aapt resource value: 0x7F0301CB
-			public const int textAppearanceListItem = 2130903499;
+			public const int tabSelectedTextColor = 2130903499;
 			
 			// aapt resource value: 0x7F0301CC
-			public const int textAppearanceListItemSecondary = 2130903500;
+			public const int tabStyle = 2130903500;
 			
 			// aapt resource value: 0x7F0301CD
-			public const int textAppearanceListItemSmall = 2130903501;
+			public const int tabTextAppearance = 2130903501;
 			
 			// aapt resource value: 0x7F0301CE
-			public const int textAppearanceOverline = 2130903502;
+			public const int tabTextColor = 2130903502;
 			
 			// aapt resource value: 0x7F0301CF
-			public const int textAppearancePopupMenuHeader = 2130903503;
+			public const int tabUnboundedRipple = 2130903503;
 			
 			// aapt resource value: 0x7F0301D0
-			public const int textAppearanceSearchResultSubtitle = 2130903504;
+			public const int textAllCaps = 2130903504;
 			
 			// aapt resource value: 0x7F0301D1
-			public const int textAppearanceSearchResultTitle = 2130903505;
+			public const int textAppearanceBody1 = 2130903505;
 			
 			// aapt resource value: 0x7F0301D2
-			public const int textAppearanceSmallPopupMenu = 2130903506;
+			public const int textAppearanceBody2 = 2130903506;
 			
 			// aapt resource value: 0x7F0301D3
-			public const int textAppearanceSubtitle1 = 2130903507;
+			public const int textAppearanceButton = 2130903507;
 			
 			// aapt resource value: 0x7F0301D4
-			public const int textAppearanceSubtitle2 = 2130903508;
+			public const int textAppearanceCaption = 2130903508;
 			
 			// aapt resource value: 0x7F0301D5
-			public const int textColorAlertDialogListItem = 2130903509;
+			public const int textAppearanceHeadline1 = 2130903509;
 			
 			// aapt resource value: 0x7F0301D6
-			public const int textColorSearchUrl = 2130903510;
+			public const int textAppearanceHeadline2 = 2130903510;
 			
 			// aapt resource value: 0x7F0301D7
-			public const int textEndPadding = 2130903511;
+			public const int textAppearanceHeadline3 = 2130903511;
 			
 			// aapt resource value: 0x7F0301D8
-			public const int textInputStyle = 2130903512;
+			public const int textAppearanceHeadline4 = 2130903512;
 			
 			// aapt resource value: 0x7F0301D9
-			public const int textLocale = 2130903513;
+			public const int textAppearanceHeadline5 = 2130903513;
 			
 			// aapt resource value: 0x7F0301DA
-			public const int textStartPadding = 2130903514;
+			public const int textAppearanceHeadline6 = 2130903514;
 			
 			// aapt resource value: 0x7F0301DB
-			public const int theme = 2130903515;
+			public const int textAppearanceLargePopupMenu = 2130903515;
 			
 			// aapt resource value: 0x7F0301DC
-			public const int thickness = 2130903516;
+			public const int textAppearanceListItem = 2130903516;
 			
 			// aapt resource value: 0x7F0301DD
-			public const int thumbTextPadding = 2130903517;
+			public const int textAppearanceListItemSecondary = 2130903517;
 			
 			// aapt resource value: 0x7F0301DE
-			public const int thumbTint = 2130903518;
+			public const int textAppearanceListItemSmall = 2130903518;
 			
 			// aapt resource value: 0x7F0301DF
-			public const int thumbTintMode = 2130903519;
+			public const int textAppearanceOverline = 2130903519;
 			
 			// aapt resource value: 0x7F0301E0
-			public const int tickMark = 2130903520;
+			public const int textAppearancePopupMenuHeader = 2130903520;
 			
 			// aapt resource value: 0x7F0301E1
-			public const int tickMarkTint = 2130903521;
+			public const int textAppearanceSearchResultSubtitle = 2130903521;
 			
 			// aapt resource value: 0x7F0301E2
-			public const int tickMarkTintMode = 2130903522;
+			public const int textAppearanceSearchResultTitle = 2130903522;
 			
 			// aapt resource value: 0x7F0301E3
-			public const int time_bar_min_update_interval = 2130903523;
+			public const int textAppearanceSmallPopupMenu = 2130903523;
 			
 			// aapt resource value: 0x7F0301E4
-			public const int tint = 2130903524;
+			public const int textAppearanceSubtitle1 = 2130903524;
 			
 			// aapt resource value: 0x7F0301E5
-			public const int tintMode = 2130903525;
+			public const int textAppearanceSubtitle2 = 2130903525;
 			
 			// aapt resource value: 0x7F0301E6
-			public const int title = 2130903526;
+			public const int textColorAlertDialogListItem = 2130903526;
 			
 			// aapt resource value: 0x7F0301E7
-			public const int titleEnabled = 2130903527;
+			public const int textColorSearchUrl = 2130903527;
 			
 			// aapt resource value: 0x7F0301E8
-			public const int titleMargin = 2130903528;
+			public const int textEndPadding = 2130903528;
 			
 			// aapt resource value: 0x7F0301E9
-			public const int titleMarginBottom = 2130903529;
+			public const int textInputStyle = 2130903529;
 			
 			// aapt resource value: 0x7F0301EA
-			public const int titleMarginEnd = 2130903530;
-			
-			// aapt resource value: 0x7F0301ED
-			public const int titleMargins = 2130903533;
+			public const int textLocale = 2130903530;
 			
 			// aapt resource value: 0x7F0301EB
-			public const int titleMarginStart = 2130903531;
+			public const int textStartPadding = 2130903531;
 			
 			// aapt resource value: 0x7F0301EC
-			public const int titleMarginTop = 2130903532;
+			public const int theme = 2130903532;
+			
+			// aapt resource value: 0x7F0301ED
+			public const int thickness = 2130903533;
 			
 			// aapt resource value: 0x7F0301EE
-			public const int titleTextAppearance = 2130903534;
+			public const int thumbTextPadding = 2130903534;
 			
 			// aapt resource value: 0x7F0301EF
-			public const int titleTextColor = 2130903535;
+			public const int thumbTint = 2130903535;
 			
 			// aapt resource value: 0x7F0301F0
-			public const int titleTextStyle = 2130903536;
+			public const int thumbTintMode = 2130903536;
 			
 			// aapt resource value: 0x7F0301F1
-			public const int toolbarId = 2130903537;
+			public const int tickMark = 2130903537;
 			
 			// aapt resource value: 0x7F0301F2
-			public const int toolbarNavigationButtonStyle = 2130903538;
+			public const int tickMarkTint = 2130903538;
 			
 			// aapt resource value: 0x7F0301F3
-			public const int toolbarStyle = 2130903539;
+			public const int tickMarkTintMode = 2130903539;
 			
 			// aapt resource value: 0x7F0301F4
-			public const int tooltipForegroundColor = 2130903540;
+			public const int time_bar_min_update_interval = 2130903540;
 			
 			// aapt resource value: 0x7F0301F5
-			public const int tooltipFrameBackground = 2130903541;
+			public const int tint = 2130903541;
 			
 			// aapt resource value: 0x7F0301F6
-			public const int tooltipText = 2130903542;
+			public const int tintMode = 2130903542;
 			
 			// aapt resource value: 0x7F0301F7
-			public const int touch_target_height = 2130903543;
+			public const int title = 2130903543;
 			
 			// aapt resource value: 0x7F0301F8
-			public const int track = 2130903544;
+			public const int titleEnabled = 2130903544;
 			
 			// aapt resource value: 0x7F0301F9
-			public const int trackTint = 2130903545;
+			public const int titleMargin = 2130903545;
 			
 			// aapt resource value: 0x7F0301FA
-			public const int trackTintMode = 2130903546;
+			public const int titleMarginBottom = 2130903546;
 			
 			// aapt resource value: 0x7F0301FB
-			public const int ttcIndex = 2130903547;
-			
-			// aapt resource value: 0x7F0301FC
-			public const int unplayed_color = 2130903548;
-			
-			// aapt resource value: 0x7F0301FD
-			public const int useCompatPadding = 2130903549;
+			public const int titleMarginEnd = 2130903547;
 			
 			// aapt resource value: 0x7F0301FE
-			public const int use_artwork = 2130903550;
+			public const int titleMargins = 2130903550;
+			
+			// aapt resource value: 0x7F0301FC
+			public const int titleMarginStart = 2130903548;
+			
+			// aapt resource value: 0x7F0301FD
+			public const int titleMarginTop = 2130903549;
 			
 			// aapt resource value: 0x7F0301FF
-			public const int use_controller = 2130903551;
+			public const int titleTextAppearance = 2130903551;
 			
 			// aapt resource value: 0x7F030200
-			public const int use_sensor_rotation = 2130903552;
+			public const int titleTextColor = 2130903552;
 			
 			// aapt resource value: 0x7F030201
-			public const int viewInflaterClass = 2130903553;
+			public const int titleTextStyle = 2130903553;
 			
 			// aapt resource value: 0x7F030202
-			public const int voiceIcon = 2130903554;
+			public const int toolbarId = 2130903554;
 			
 			// aapt resource value: 0x7F030203
-			public const int windowActionBar = 2130903555;
+			public const int toolbarNavigationButtonStyle = 2130903555;
 			
 			// aapt resource value: 0x7F030204
-			public const int windowActionBarOverlay = 2130903556;
+			public const int toolbarStyle = 2130903556;
 			
 			// aapt resource value: 0x7F030205
-			public const int windowActionModeOverlay = 2130903557;
+			public const int tooltipForegroundColor = 2130903557;
 			
 			// aapt resource value: 0x7F030206
-			public const int windowFixedHeightMajor = 2130903558;
+			public const int tooltipFrameBackground = 2130903558;
 			
 			// aapt resource value: 0x7F030207
-			public const int windowFixedHeightMinor = 2130903559;
+			public const int tooltipText = 2130903559;
 			
 			// aapt resource value: 0x7F030208
-			public const int windowFixedWidthMajor = 2130903560;
+			public const int touch_target_height = 2130903560;
 			
 			// aapt resource value: 0x7F030209
-			public const int windowFixedWidthMinor = 2130903561;
+			public const int track = 2130903561;
 			
 			// aapt resource value: 0x7F03020A
-			public const int windowMinWidthMajor = 2130903562;
+			public const int trackTint = 2130903562;
 			
 			// aapt resource value: 0x7F03020B
-			public const int windowMinWidthMinor = 2130903563;
+			public const int trackTintMode = 2130903563;
 			
 			// aapt resource value: 0x7F03020C
-			public const int windowNoTitle = 2130903564;
+			public const int ttcIndex = 2130903564;
+			
+			// aapt resource value: 0x7F03020D
+			public const int unplayed_color = 2130903565;
+			
+			// aapt resource value: 0x7F03020E
+			public const int useCompatPadding = 2130903566;
+			
+			// aapt resource value: 0x7F03020F
+			public const int use_artwork = 2130903567;
+			
+			// aapt resource value: 0x7F030210
+			public const int use_controller = 2130903568;
+			
+			// aapt resource value: 0x7F030211
+			public const int use_sensor_rotation = 2130903569;
+			
+			// aapt resource value: 0x7F030212
+			public const int viewInflaterClass = 2130903570;
+			
+			// aapt resource value: 0x7F030213
+			public const int voiceIcon = 2130903571;
+			
+			// aapt resource value: 0x7F030214
+			public const int windowActionBar = 2130903572;
+			
+			// aapt resource value: 0x7F030215
+			public const int windowActionBarOverlay = 2130903573;
+			
+			// aapt resource value: 0x7F030216
+			public const int windowActionModeOverlay = 2130903574;
+			
+			// aapt resource value: 0x7F030217
+			public const int windowFixedHeightMajor = 2130903575;
+			
+			// aapt resource value: 0x7F030218
+			public const int windowFixedHeightMinor = 2130903576;
+			
+			// aapt resource value: 0x7F030219
+			public const int windowFixedWidthMajor = 2130903577;
+			
+			// aapt resource value: 0x7F03021A
+			public const int windowFixedWidthMinor = 2130903578;
+			
+			// aapt resource value: 0x7F03021B
+			public const int windowMinWidthMajor = 2130903579;
+			
+			// aapt resource value: 0x7F03021C
+			public const int windowMinWidthMinor = 2130903580;
+			
+			// aapt resource value: 0x7F03021D
+			public const int windowNoTitle = 2130903581;
 			
 			static Attribute()
 			{
@@ -12346,19 +17805,25 @@ namespace WordQuiz.Droid
 			public const int RegisterBackground = 2131165352;
 			
 			// aapt resource value: 0x7F0700A9
-			public const int tab_about = 2131165353;
+			public const int round_arrow_back_24 = 2131165353;
 			
 			// aapt resource value: 0x7F0700AA
-			public const int tab_feed = 2131165354;
+			public const int round_volume_up_24 = 2131165354;
 			
 			// aapt resource value: 0x7F0700AB
-			public const int tooltip_frame_dark = 2131165355;
+			public const int tab_about = 2131165355;
 			
 			// aapt resource value: 0x7F0700AC
-			public const int tooltip_frame_light = 2131165356;
+			public const int tab_feed = 2131165356;
 			
 			// aapt resource value: 0x7F0700AD
-			public const int xamarin_logo = 2131165357;
+			public const int tooltip_frame_dark = 2131165357;
+			
+			// aapt resource value: 0x7F0700AE
+			public const int tooltip_frame_light = 2131165358;
+			
+			// aapt resource value: 0x7F0700AF
+			public const int xamarin_logo = 2131165359;
 			
 			static Drawable()
 			{
@@ -12554,676 +18019,694 @@ namespace WordQuiz.Droid
 			public const int auto = 2131230784;
 			
 			// aapt resource value: 0x7F080041
-			public const int beginning = 2131230785;
+			public const int automatic = 2131230785;
 			
 			// aapt resource value: 0x7F080042
-			public const int blocking = 2131230786;
+			public const int beginning = 2131230786;
 			
 			// aapt resource value: 0x7F080043
-			public const int bottom = 2131230787;
+			public const int blocking = 2131230787;
 			
 			// aapt resource value: 0x7F080044
-			public const int bottomtab_navarea = 2131230788;
+			public const int bottom = 2131230788;
 			
 			// aapt resource value: 0x7F080045
-			public const int bottomtab_tabbar = 2131230789;
+			public const int bottomtab_navarea = 2131230789;
 			
 			// aapt resource value: 0x7F080046
-			public const int browser_actions_header_text = 2131230790;
-			
-			// aapt resource value: 0x7F080049
-			public const int browser_actions_menu_items = 2131230793;
+			public const int bottomtab_tabbar = 2131230790;
 			
 			// aapt resource value: 0x7F080047
-			public const int browser_actions_menu_item_icon = 2131230791;
-			
-			// aapt resource value: 0x7F080048
-			public const int browser_actions_menu_item_text = 2131230792;
+			public const int browser_actions_header_text = 2131230791;
 			
 			// aapt resource value: 0x7F08004A
-			public const int browser_actions_menu_view = 2131230794;
+			public const int browser_actions_menu_items = 2131230794;
+			
+			// aapt resource value: 0x7F080048
+			public const int browser_actions_menu_item_icon = 2131230792;
+			
+			// aapt resource value: 0x7F080049
+			public const int browser_actions_menu_item_text = 2131230793;
 			
 			// aapt resource value: 0x7F08004B
-			public const int buttonPanel = 2131230795;
+			public const int browser_actions_menu_view = 2131230795;
 			
 			// aapt resource value: 0x7F08004C
-			public const int cancel_action = 2131230796;
+			public const int buttonPanel = 2131230796;
 			
 			// aapt resource value: 0x7F08004D
-			public const int center = 2131230797;
+			public const int cancel_action = 2131230797;
 			
 			// aapt resource value: 0x7F08004E
-			public const int center_horizontal = 2131230798;
+			public const int center = 2131230798;
 			
 			// aapt resource value: 0x7F08004F
-			public const int center_vertical = 2131230799;
+			public const int center_horizontal = 2131230799;
 			
 			// aapt resource value: 0x7F080050
-			public const int checkbox = 2131230800;
+			public const int center_vertical = 2131230800;
 			
 			// aapt resource value: 0x7F080051
-			public const int @checked = 2131230801;
+			public const int checkbox = 2131230801;
 			
 			// aapt resource value: 0x7F080052
-			public const int chronometer = 2131230802;
+			public const int @checked = 2131230802;
 			
 			// aapt resource value: 0x7F080053
-			public const int clip_horizontal = 2131230803;
+			public const int chronometer = 2131230803;
 			
 			// aapt resource value: 0x7F080054
-			public const int clip_vertical = 2131230804;
+			public const int clip_horizontal = 2131230804;
 			
 			// aapt resource value: 0x7F080055
-			public const int collapseActionView = 2131230805;
+			public const int clip_vertical = 2131230805;
 			
 			// aapt resource value: 0x7F080056
-			public const int container = 2131230806;
+			public const int collapseActionView = 2131230806;
 			
 			// aapt resource value: 0x7F080057
-			public const int content = 2131230807;
+			public const int container = 2131230807;
 			
 			// aapt resource value: 0x7F080058
-			public const int contentPanel = 2131230808;
+			public const int content = 2131230808;
 			
 			// aapt resource value: 0x7F080059
-			public const int coordinator = 2131230809;
+			public const int contentPanel = 2131230809;
+			
+			// aapt resource value: 0x7F08005A
+			public const int coordinator = 2131230810;
 			
 			// aapt resource value: 0x7F080001
 			public const int CTRL = 2131230721;
 			
-			// aapt resource value: 0x7F08005A
-			public const int custom = 2131230810;
-			
 			// aapt resource value: 0x7F08005B
-			public const int customPanel = 2131230811;
+			public const int custom = 2131230811;
 			
 			// aapt resource value: 0x7F08005C
-			public const int decor_content_parent = 2131230812;
+			public const int customPanel = 2131230812;
 			
 			// aapt resource value: 0x7F08005D
-			public const int default_activity_button = 2131230813;
+			public const int decor_content_parent = 2131230813;
 			
 			// aapt resource value: 0x7F08005E
-			public const int design_bottom_sheet = 2131230814;
+			public const int default_activity_button = 2131230814;
 			
 			// aapt resource value: 0x7F08005F
-			public const int design_menu_item_action_area = 2131230815;
+			public const int design_bottom_sheet = 2131230815;
 			
 			// aapt resource value: 0x7F080060
-			public const int design_menu_item_action_area_stub = 2131230816;
+			public const int design_menu_item_action_area = 2131230816;
 			
 			// aapt resource value: 0x7F080061
-			public const int design_menu_item_text = 2131230817;
+			public const int design_menu_item_action_area_stub = 2131230817;
 			
 			// aapt resource value: 0x7F080062
-			public const int design_navigation_view = 2131230818;
+			public const int design_menu_item_text = 2131230818;
 			
 			// aapt resource value: 0x7F080063
-			public const int dialog_button = 2131230819;
+			public const int design_navigation_view = 2131230819;
 			
 			// aapt resource value: 0x7F080064
-			public const int disableHome = 2131230820;
+			public const int dialog_button = 2131230820;
 			
 			// aapt resource value: 0x7F080065
-			public const int edit_query = 2131230821;
+			public const int disableHome = 2131230821;
 			
 			// aapt resource value: 0x7F080066
-			public const int end = 2131230822;
+			public const int edit_query = 2131230822;
 			
 			// aapt resource value: 0x7F080067
-			public const int end_padder = 2131230823;
+			public const int end = 2131230823;
 			
 			// aapt resource value: 0x7F080068
-			public const int enterAlways = 2131230824;
+			public const int end_padder = 2131230824;
 			
 			// aapt resource value: 0x7F080069
-			public const int enterAlwaysCollapsed = 2131230825;
+			public const int enterAlways = 2131230825;
 			
 			// aapt resource value: 0x7F08006A
-			public const int exitUntilCollapsed = 2131230826;
+			public const int enterAlwaysCollapsed = 2131230826;
 			
 			// aapt resource value: 0x7F08006B
-			public const int exo_ad_overlay = 2131230827;
+			public const int exitUntilCollapsed = 2131230827;
 			
 			// aapt resource value: 0x7F08006C
-			public const int exo_artwork = 2131230828;
+			public const int exo_ad_overlay = 2131230828;
 			
 			// aapt resource value: 0x7F08006D
-			public const int exo_buffering = 2131230829;
+			public const int exo_artwork = 2131230829;
 			
 			// aapt resource value: 0x7F08006E
-			public const int exo_content_frame = 2131230830;
+			public const int exo_buffering = 2131230830;
 			
 			// aapt resource value: 0x7F08006F
-			public const int exo_controller = 2131230831;
+			public const int exo_content_frame = 2131230831;
 			
 			// aapt resource value: 0x7F080070
-			public const int exo_controller_placeholder = 2131230832;
+			public const int exo_controller = 2131230832;
 			
 			// aapt resource value: 0x7F080071
-			public const int exo_duration = 2131230833;
+			public const int exo_controller_placeholder = 2131230833;
 			
 			// aapt resource value: 0x7F080072
-			public const int exo_error_message = 2131230834;
+			public const int exo_duration = 2131230834;
 			
 			// aapt resource value: 0x7F080073
-			public const int exo_ffwd = 2131230835;
+			public const int exo_error_message = 2131230835;
 			
 			// aapt resource value: 0x7F080074
-			public const int exo_next = 2131230836;
+			public const int exo_ffwd = 2131230836;
 			
 			// aapt resource value: 0x7F080075
-			public const int exo_overlay = 2131230837;
+			public const int exo_next = 2131230837;
 			
 			// aapt resource value: 0x7F080076
-			public const int exo_pause = 2131230838;
+			public const int exo_overlay = 2131230838;
 			
 			// aapt resource value: 0x7F080077
-			public const int exo_play = 2131230839;
+			public const int exo_pause = 2131230839;
 			
 			// aapt resource value: 0x7F080078
-			public const int exo_position = 2131230840;
+			public const int exo_play = 2131230840;
 			
 			// aapt resource value: 0x7F080079
-			public const int exo_prev = 2131230841;
+			public const int exo_position = 2131230841;
 			
 			// aapt resource value: 0x7F08007A
-			public const int exo_progress = 2131230842;
+			public const int exo_prev = 2131230842;
 			
 			// aapt resource value: 0x7F08007B
-			public const int exo_progress_placeholder = 2131230843;
+			public const int exo_progress = 2131230843;
 			
 			// aapt resource value: 0x7F08007C
-			public const int exo_repeat_toggle = 2131230844;
+			public const int exo_progress_placeholder = 2131230844;
 			
 			// aapt resource value: 0x7F08007D
-			public const int exo_rew = 2131230845;
+			public const int exo_repeat_toggle = 2131230845;
 			
 			// aapt resource value: 0x7F08007E
-			public const int exo_shuffle = 2131230846;
+			public const int exo_rew = 2131230846;
 			
 			// aapt resource value: 0x7F08007F
-			public const int exo_shutter = 2131230847;
+			public const int exo_shuffle = 2131230847;
 			
 			// aapt resource value: 0x7F080080
-			public const int exo_subtitles = 2131230848;
+			public const int exo_shutter = 2131230848;
 			
 			// aapt resource value: 0x7F080081
-			public const int exo_track_selection_view = 2131230849;
+			public const int exo_subtitles = 2131230849;
 			
 			// aapt resource value: 0x7F080082
-			public const int exo_vr = 2131230850;
-			
-			// aapt resource value: 0x7F080084
-			public const int expanded_menu = 2131230852;
+			public const int exo_track_selection_view = 2131230850;
 			
 			// aapt resource value: 0x7F080083
-			public const int expand_activities_button = 2131230851;
+			public const int exo_vr = 2131230851;
 			
 			// aapt resource value: 0x7F080085
-			public const int fill = 2131230853;
+			public const int expanded_menu = 2131230853;
 			
-			// aapt resource value: 0x7F080088
-			public const int filled = 2131230856;
+			// aapt resource value: 0x7F080084
+			public const int expand_activities_button = 2131230852;
 			
 			// aapt resource value: 0x7F080086
-			public const int fill_horizontal = 2131230854;
-			
-			// aapt resource value: 0x7F080087
-			public const int fill_vertical = 2131230855;
+			public const int fill = 2131230854;
 			
 			// aapt resource value: 0x7F080089
-			public const int fit = 2131230857;
+			public const int filled = 2131230857;
+			
+			// aapt resource value: 0x7F080087
+			public const int fill_horizontal = 2131230855;
+			
+			// aapt resource value: 0x7F080088
+			public const int fill_vertical = 2131230856;
 			
 			// aapt resource value: 0x7F08008A
-			public const int @fixed = 2131230858;
+			public const int fit = 2131230858;
 			
 			// aapt resource value: 0x7F08008B
-			public const int fixed_height = 2131230859;
+			public const int @fixed = 2131230859;
 			
 			// aapt resource value: 0x7F08008C
-			public const int fixed_width = 2131230860;
+			public const int fixed_height = 2131230860;
 			
 			// aapt resource value: 0x7F08008D
-			public const int flyoutcontent_appbar = 2131230861;
+			public const int fixed_width = 2131230861;
 			
 			// aapt resource value: 0x7F08008E
-			public const int flyoutcontent_recycler = 2131230862;
+			public const int flyoutcontent_appbar = 2131230862;
 			
 			// aapt resource value: 0x7F08008F
-			public const int forever = 2131230863;
+			public const int flyoutcontent_recycler = 2131230863;
+			
+			// aapt resource value: 0x7F080090
+			public const int forever = 2131230864;
 			
 			// aapt resource value: 0x7F080002
 			public const int FUNCTION = 2131230722;
 			
-			// aapt resource value: 0x7F080090
-			public const int ghost_view = 2131230864;
-			
 			// aapt resource value: 0x7F080091
-			public const int ghost_view_holder = 2131230865;
+			public const int ghost_view = 2131230865;
 			
 			// aapt resource value: 0x7F080092
-			public const int group_divider = 2131230866;
+			public const int ghost_view_holder = 2131230866;
 			
 			// aapt resource value: 0x7F080093
-			public const int home = 2131230867;
+			public const int group_divider = 2131230867;
 			
 			// aapt resource value: 0x7F080094
-			public const int homeAsUp = 2131230868;
+			public const int hardware = 2131230868;
 			
 			// aapt resource value: 0x7F080095
-			public const int icon = 2131230869;
+			public const int home = 2131230869;
 			
 			// aapt resource value: 0x7F080096
-			public const int icon_group = 2131230870;
+			public const int homeAsUp = 2131230870;
 			
 			// aapt resource value: 0x7F080097
-			public const int ifRoom = 2131230871;
+			public const int icon = 2131230871;
 			
 			// aapt resource value: 0x7F080098
-			public const int image = 2131230872;
+			public const int icon_group = 2131230872;
 			
 			// aapt resource value: 0x7F080099
-			public const int info = 2131230873;
+			public const int ifRoom = 2131230873;
 			
 			// aapt resource value: 0x7F08009A
-			public const int italic = 2131230874;
+			public const int image = 2131230874;
 			
 			// aapt resource value: 0x7F08009B
-			public const int item_touch_helper_previous_elevation = 2131230875;
+			public const int info = 2131230875;
 			
 			// aapt resource value: 0x7F08009C
-			public const int labeled = 2131230876;
+			public const int italic = 2131230876;
 			
 			// aapt resource value: 0x7F08009D
-			public const int largeLabel = 2131230877;
+			public const int item_touch_helper_previous_elevation = 2131230877;
 			
 			// aapt resource value: 0x7F08009E
-			public const int left = 2131230878;
+			public const int labeled = 2131230878;
 			
 			// aapt resource value: 0x7F08009F
-			public const int line1 = 2131230879;
+			public const int largeLabel = 2131230879;
 			
 			// aapt resource value: 0x7F0800A0
-			public const int line3 = 2131230880;
+			public const int left = 2131230880;
 			
 			// aapt resource value: 0x7F0800A1
-			public const int listMode = 2131230881;
+			public const int line1 = 2131230881;
 			
 			// aapt resource value: 0x7F0800A2
-			public const int list_item = 2131230882;
+			public const int line3 = 2131230882;
 			
 			// aapt resource value: 0x7F0800A3
-			public const int main_appbar = 2131230883;
+			public const int listMode = 2131230883;
 			
 			// aapt resource value: 0x7F0800A4
-			public const int main_tablayout = 2131230884;
+			public const int list_item = 2131230884;
 			
 			// aapt resource value: 0x7F0800A5
-			public const int main_toolbar = 2131230885;
+			public const int lottie_layer_name = 2131230885;
 			
 			// aapt resource value: 0x7F0800A6
-			public const int main_viewpager = 2131230886;
+			public const int main_appbar = 2131230886;
 			
 			// aapt resource value: 0x7F0800A7
-			public const int masked = 2131230887;
+			public const int main_tablayout = 2131230887;
 			
 			// aapt resource value: 0x7F0800A8
-			public const int media_actions = 2131230888;
+			public const int main_toolbar = 2131230888;
 			
 			// aapt resource value: 0x7F0800A9
-			public const int message = 2131230889;
+			public const int main_viewpager = 2131230889;
+			
+			// aapt resource value: 0x7F0800AA
+			public const int masked = 2131230890;
+			
+			// aapt resource value: 0x7F0800AB
+			public const int media_actions = 2131230891;
+			
+			// aapt resource value: 0x7F0800AC
+			public const int message = 2131230892;
 			
 			// aapt resource value: 0x7F080003
 			public const int META = 2131230723;
 			
-			// aapt resource value: 0x7F0800AA
-			public const int middle = 2131230890;
-			
-			// aapt resource value: 0x7F0800AB
-			public const int mini = 2131230891;
-			
-			// aapt resource value: 0x7F0800AC
-			public const int mtrl_child_content_container = 2131230892;
-			
 			// aapt resource value: 0x7F0800AD
-			public const int mtrl_internal_children_alpha_tag = 2131230893;
+			public const int middle = 2131230893;
 			
 			// aapt resource value: 0x7F0800AE
-			public const int multiply = 2131230894;
+			public const int mini = 2131230894;
 			
 			// aapt resource value: 0x7F0800AF
-			public const int navigation_header_container = 2131230895;
+			public const int mtrl_child_content_container = 2131230895;
 			
 			// aapt resource value: 0x7F0800B0
-			public const int never = 2131230896;
+			public const int mtrl_internal_children_alpha_tag = 2131230896;
 			
 			// aapt resource value: 0x7F0800B1
-			public const int none = 2131230897;
+			public const int multiply = 2131230897;
 			
 			// aapt resource value: 0x7F0800B2
-			public const int normal = 2131230898;
+			public const int navigation_header_container = 2131230898;
 			
 			// aapt resource value: 0x7F0800B3
-			public const int notification_background = 2131230899;
+			public const int never = 2131230899;
 			
 			// aapt resource value: 0x7F0800B4
-			public const int notification_main_column = 2131230900;
+			public const int none = 2131230900;
 			
 			// aapt resource value: 0x7F0800B5
-			public const int notification_main_column_container = 2131230901;
+			public const int normal = 2131230901;
 			
 			// aapt resource value: 0x7F0800B6
-			public const int off = 2131230902;
+			public const int notification_background = 2131230902;
 			
 			// aapt resource value: 0x7F0800B7
-			public const int on = 2131230903;
+			public const int notification_main_column = 2131230903;
 			
 			// aapt resource value: 0x7F0800B8
-			public const int one = 2131230904;
+			public const int notification_main_column_container = 2131230904;
 			
 			// aapt resource value: 0x7F0800B9
-			public const int outline = 2131230905;
+			public const int off = 2131230905;
 			
 			// aapt resource value: 0x7F0800BA
-			public const int parallax = 2131230906;
+			public const int on = 2131230906;
 			
 			// aapt resource value: 0x7F0800BB
-			public const int parentPanel = 2131230907;
+			public const int one = 2131230907;
 			
 			// aapt resource value: 0x7F0800BC
-			public const int parent_matrix = 2131230908;
+			public const int outline = 2131230908;
 			
 			// aapt resource value: 0x7F0800BD
-			public const int pin = 2131230909;
+			public const int parallax = 2131230909;
 			
 			// aapt resource value: 0x7F0800BE
-			public const int progress_circular = 2131230910;
+			public const int parentPanel = 2131230910;
 			
 			// aapt resource value: 0x7F0800BF
-			public const int progress_horizontal = 2131230911;
+			public const int parent_matrix = 2131230911;
 			
 			// aapt resource value: 0x7F0800C0
-			public const int radio = 2131230912;
+			public const int pin = 2131230912;
 			
 			// aapt resource value: 0x7F0800C1
-			public const int right = 2131230913;
+			public const int progress_circular = 2131230913;
 			
 			// aapt resource value: 0x7F0800C2
-			public const int right_icon = 2131230914;
+			public const int progress_horizontal = 2131230914;
 			
 			// aapt resource value: 0x7F0800C3
-			public const int right_side = 2131230915;
+			public const int radio = 2131230915;
 			
 			// aapt resource value: 0x7F0800C4
-			public const int save_non_transition_alpha = 2131230916;
+			public const int restart = 2131230916;
 			
 			// aapt resource value: 0x7F0800C5
-			public const int save_overlay_view = 2131230917;
+			public const int reverse = 2131230917;
 			
 			// aapt resource value: 0x7F0800C6
-			public const int screen = 2131230918;
+			public const int right = 2131230918;
 			
 			// aapt resource value: 0x7F0800C7
-			public const int scroll = 2131230919;
-			
-			// aapt resource value: 0x7F0800CB
-			public const int scrollable = 2131230923;
+			public const int right_icon = 2131230919;
 			
 			// aapt resource value: 0x7F0800C8
-			public const int scrollIndicatorDown = 2131230920;
+			public const int right_side = 2131230920;
 			
 			// aapt resource value: 0x7F0800C9
-			public const int scrollIndicatorUp = 2131230921;
+			public const int save_non_transition_alpha = 2131230921;
 			
 			// aapt resource value: 0x7F0800CA
-			public const int scrollView = 2131230922;
+			public const int save_overlay_view = 2131230922;
+			
+			// aapt resource value: 0x7F0800CB
+			public const int screen = 2131230923;
 			
 			// aapt resource value: 0x7F0800CC
-			public const int search_badge = 2131230924;
-			
-			// aapt resource value: 0x7F0800CD
-			public const int search_bar = 2131230925;
-			
-			// aapt resource value: 0x7F0800CE
-			public const int search_button = 2131230926;
-			
-			// aapt resource value: 0x7F0800CF
-			public const int search_close_btn = 2131230927;
+			public const int scroll = 2131230924;
 			
 			// aapt resource value: 0x7F0800D0
-			public const int search_edit_frame = 2131230928;
+			public const int scrollable = 2131230928;
+			
+			// aapt resource value: 0x7F0800CD
+			public const int scrollIndicatorDown = 2131230925;
+			
+			// aapt resource value: 0x7F0800CE
+			public const int scrollIndicatorUp = 2131230926;
+			
+			// aapt resource value: 0x7F0800CF
+			public const int scrollView = 2131230927;
 			
 			// aapt resource value: 0x7F0800D1
-			public const int search_go_btn = 2131230929;
+			public const int search_badge = 2131230929;
 			
 			// aapt resource value: 0x7F0800D2
-			public const int search_mag_icon = 2131230930;
+			public const int search_bar = 2131230930;
 			
 			// aapt resource value: 0x7F0800D3
-			public const int search_plate = 2131230931;
+			public const int search_button = 2131230931;
 			
 			// aapt resource value: 0x7F0800D4
-			public const int search_src_text = 2131230932;
+			public const int search_close_btn = 2131230932;
 			
 			// aapt resource value: 0x7F0800D5
-			public const int search_voice_btn = 2131230933;
-			
-			// aapt resource value: 0x7F0800D7
-			public const int selected = 2131230935;
+			public const int search_edit_frame = 2131230933;
 			
 			// aapt resource value: 0x7F0800D6
-			public const int select_dialog_listview = 2131230934;
+			public const int search_go_btn = 2131230934;
+			
+			// aapt resource value: 0x7F0800D7
+			public const int search_mag_icon = 2131230935;
 			
 			// aapt resource value: 0x7F0800D8
-			public const int shellcontent_appbar = 2131230936;
+			public const int search_plate = 2131230936;
 			
 			// aapt resource value: 0x7F0800D9
-			public const int shellcontent_toolbar = 2131230937;
+			public const int search_src_text = 2131230937;
+			
+			// aapt resource value: 0x7F0800DA
+			public const int search_voice_btn = 2131230938;
+			
+			// aapt resource value: 0x7F0800DC
+			public const int selected = 2131230940;
+			
+			// aapt resource value: 0x7F0800DB
+			public const int select_dialog_listview = 2131230939;
+			
+			// aapt resource value: 0x7F0800DD
+			public const int shellcontent_appbar = 2131230941;
+			
+			// aapt resource value: 0x7F0800DE
+			public const int shellcontent_toolbar = 2131230942;
 			
 			// aapt resource value: 0x7F080004
 			public const int SHIFT = 2131230724;
 			
-			// aapt resource value: 0x7F0800DA
-			public const int shortcut = 2131230938;
-			
-			// aapt resource value: 0x7F0800DB
-			public const int showCustom = 2131230939;
-			
-			// aapt resource value: 0x7F0800DC
-			public const int showHome = 2131230940;
-			
-			// aapt resource value: 0x7F0800DD
-			public const int showTitle = 2131230941;
-			
-			// aapt resource value: 0x7F0800DE
-			public const int sliding_tabs = 2131230942;
-			
 			// aapt resource value: 0x7F0800DF
-			public const int smallLabel = 2131230943;
+			public const int shortcut = 2131230943;
 			
 			// aapt resource value: 0x7F0800E0
-			public const int snackbar_action = 2131230944;
+			public const int showCustom = 2131230944;
 			
 			// aapt resource value: 0x7F0800E1
-			public const int snackbar_text = 2131230945;
+			public const int showHome = 2131230945;
 			
 			// aapt resource value: 0x7F0800E2
-			public const int snap = 2131230946;
+			public const int showTitle = 2131230946;
 			
 			// aapt resource value: 0x7F0800E3
-			public const int snapMargins = 2131230947;
+			public const int sliding_tabs = 2131230947;
 			
 			// aapt resource value: 0x7F0800E4
-			public const int spacer = 2131230948;
+			public const int smallLabel = 2131230948;
 			
 			// aapt resource value: 0x7F0800E5
-			public const int spherical_gl_surface_view = 2131230949;
+			public const int snackbar_action = 2131230949;
 			
 			// aapt resource value: 0x7F0800E6
-			public const int split_action_bar = 2131230950;
+			public const int snackbar_text = 2131230950;
 			
 			// aapt resource value: 0x7F0800E7
-			public const int src_atop = 2131230951;
+			public const int snap = 2131230951;
 			
 			// aapt resource value: 0x7F0800E8
-			public const int src_in = 2131230952;
+			public const int snapMargins = 2131230952;
 			
 			// aapt resource value: 0x7F0800E9
-			public const int src_over = 2131230953;
+			public const int software = 2131230953;
 			
 			// aapt resource value: 0x7F0800EA
-			public const int start = 2131230954;
+			public const int spacer = 2131230954;
 			
 			// aapt resource value: 0x7F0800EB
-			public const int status_bar_latest_event_content = 2131230955;
+			public const int spherical_gl_surface_view = 2131230955;
 			
 			// aapt resource value: 0x7F0800EC
-			public const int stretch = 2131230956;
+			public const int split_action_bar = 2131230956;
 			
 			// aapt resource value: 0x7F0800ED
-			public const int submenuarrow = 2131230957;
+			public const int src_atop = 2131230957;
 			
 			// aapt resource value: 0x7F0800EE
-			public const int submit_area = 2131230958;
+			public const int src_in = 2131230958;
 			
 			// aapt resource value: 0x7F0800EF
-			public const int surface_view = 2131230959;
+			public const int src_over = 2131230959;
+			
+			// aapt resource value: 0x7F0800F0
+			public const int start = 2131230960;
+			
+			// aapt resource value: 0x7F0800F1
+			public const int status_bar_latest_event_content = 2131230961;
+			
+			// aapt resource value: 0x7F0800F2
+			public const int stretch = 2131230962;
+			
+			// aapt resource value: 0x7F0800F3
+			public const int submenuarrow = 2131230963;
+			
+			// aapt resource value: 0x7F0800F4
+			public const int submit_area = 2131230964;
+			
+			// aapt resource value: 0x7F0800F5
+			public const int surface_view = 2131230965;
 			
 			// aapt resource value: 0x7F080005
 			public const int SYM = 2131230725;
 			
-			// aapt resource value: 0x7F0800F0
-			public const int tabMode = 2131230960;
-			
-			// aapt resource value: 0x7F0800F1
-			public const int tag_accessibility_actions = 2131230961;
-			
-			// aapt resource value: 0x7F0800F2
-			public const int tag_accessibility_clickable_spans = 2131230962;
-			
-			// aapt resource value: 0x7F0800F3
-			public const int tag_accessibility_heading = 2131230963;
-			
-			// aapt resource value: 0x7F0800F4
-			public const int tag_accessibility_pane_title = 2131230964;
-			
-			// aapt resource value: 0x7F0800F5
-			public const int tag_screen_reader_focusable = 2131230965;
-			
 			// aapt resource value: 0x7F0800F6
-			public const int tag_transition_group = 2131230966;
+			public const int tabMode = 2131230966;
 			
 			// aapt resource value: 0x7F0800F7
-			public const int tag_unhandled_key_event_manager = 2131230967;
+			public const int tag_accessibility_actions = 2131230967;
 			
 			// aapt resource value: 0x7F0800F8
-			public const int tag_unhandled_key_listeners = 2131230968;
+			public const int tag_accessibility_clickable_spans = 2131230968;
 			
 			// aapt resource value: 0x7F0800F9
-			public const int text = 2131230969;
+			public const int tag_accessibility_heading = 2131230969;
 			
 			// aapt resource value: 0x7F0800FA
-			public const int text2 = 2131230970;
-			
-			// aapt resource value: 0x7F0800FF
-			public const int textinput_counter = 2131230975;
-			
-			// aapt resource value: 0x7F080100
-			public const int textinput_error = 2131230976;
-			
-			// aapt resource value: 0x7F080101
-			public const int textinput_helper_text = 2131230977;
+			public const int tag_accessibility_pane_title = 2131230970;
 			
 			// aapt resource value: 0x7F0800FB
-			public const int textSpacerNoButtons = 2131230971;
+			public const int tag_screen_reader_focusable = 2131230971;
 			
 			// aapt resource value: 0x7F0800FC
-			public const int textSpacerNoTitle = 2131230972;
+			public const int tag_transition_group = 2131230972;
 			
 			// aapt resource value: 0x7F0800FD
-			public const int textStart = 2131230973;
-			
-			// aapt resource value: 0x7F080102
-			public const int texture_view = 2131230978;
+			public const int tag_unhandled_key_event_manager = 2131230973;
 			
 			// aapt resource value: 0x7F0800FE
-			public const int text_input_password_toggle = 2131230974;
+			public const int tag_unhandled_key_listeners = 2131230974;
 			
-			// aapt resource value: 0x7F080103
-			public const int time = 2131230979;
+			// aapt resource value: 0x7F0800FF
+			public const int text = 2131230975;
 			
-			// aapt resource value: 0x7F080104
-			public const int title = 2131230980;
+			// aapt resource value: 0x7F080100
+			public const int text2 = 2131230976;
 			
 			// aapt resource value: 0x7F080105
-			public const int titleDividerNoCustom = 2131230981;
+			public const int textinput_counter = 2131230981;
 			
 			// aapt resource value: 0x7F080106
-			public const int title_template = 2131230982;
+			public const int textinput_error = 2131230982;
 			
 			// aapt resource value: 0x7F080107
-			public const int toolbar = 2131230983;
+			public const int textinput_helper_text = 2131230983;
+			
+			// aapt resource value: 0x7F080101
+			public const int textSpacerNoButtons = 2131230977;
+			
+			// aapt resource value: 0x7F080102
+			public const int textSpacerNoTitle = 2131230978;
+			
+			// aapt resource value: 0x7F080103
+			public const int textStart = 2131230979;
 			
 			// aapt resource value: 0x7F080108
-			public const int top = 2131230984;
+			public const int texture_view = 2131230984;
+			
+			// aapt resource value: 0x7F080104
+			public const int text_input_password_toggle = 2131230980;
 			
 			// aapt resource value: 0x7F080109
-			public const int topPanel = 2131230985;
+			public const int time = 2131230985;
 			
 			// aapt resource value: 0x7F08010A
-			public const int touch_outside = 2131230986;
+			public const int title = 2131230986;
 			
 			// aapt resource value: 0x7F08010B
-			public const int transition_current_scene = 2131230987;
+			public const int titleDividerNoCustom = 2131230987;
 			
 			// aapt resource value: 0x7F08010C
-			public const int transition_layout_save = 2131230988;
+			public const int title_template = 2131230988;
 			
 			// aapt resource value: 0x7F08010D
-			public const int transition_position = 2131230989;
+			public const int toolbar = 2131230989;
 			
 			// aapt resource value: 0x7F08010E
-			public const int transition_scene_layoutid_cache = 2131230990;
+			public const int top = 2131230990;
 			
 			// aapt resource value: 0x7F08010F
-			public const int transition_transform = 2131230991;
+			public const int topPanel = 2131230991;
 			
 			// aapt resource value: 0x7F080110
-			public const int @unchecked = 2131230992;
+			public const int touch_outside = 2131230992;
 			
 			// aapt resource value: 0x7F080111
-			public const int uniform = 2131230993;
+			public const int transition_current_scene = 2131230993;
 			
 			// aapt resource value: 0x7F080112
-			public const int unlabeled = 2131230994;
+			public const int transition_layout_save = 2131230994;
 			
 			// aapt resource value: 0x7F080113
-			public const int up = 2131230995;
+			public const int transition_position = 2131230995;
 			
 			// aapt resource value: 0x7F080114
-			public const int useLogo = 2131230996;
+			public const int transition_scene_layoutid_cache = 2131230996;
 			
 			// aapt resource value: 0x7F080115
-			public const int video_decoder_gl_surface_view = 2131230997;
+			public const int transition_transform = 2131230997;
 			
 			// aapt resource value: 0x7F080116
-			public const int view_offset_helper = 2131230998;
+			public const int @unchecked = 2131230998;
 			
 			// aapt resource value: 0x7F080117
-			public const int visible = 2131230999;
+			public const int uniform = 2131230999;
 			
 			// aapt resource value: 0x7F080118
-			public const int when_playing = 2131231000;
+			public const int unlabeled = 2131231000;
 			
 			// aapt resource value: 0x7F080119
-			public const int withText = 2131231001;
+			public const int up = 2131231001;
 			
 			// aapt resource value: 0x7F08011A
-			public const int wrap_content = 2131231002;
+			public const int useLogo = 2131231002;
 			
 			// aapt resource value: 0x7F08011B
-			public const int zoom = 2131231003;
+			public const int video_decoder_gl_surface_view = 2131231003;
+			
+			// aapt resource value: 0x7F08011C
+			public const int view_offset_helper = 2131231004;
+			
+			// aapt resource value: 0x7F08011D
+			public const int visible = 2131231005;
+			
+			// aapt resource value: 0x7F08011E
+			public const int when_playing = 2131231006;
+			
+			// aapt resource value: 0x7F08011F
+			public const int withText = 2131231007;
+			
+			// aapt resource value: 0x7F080120
+			public const int wrap_content = 2131231008;
+			
+			// aapt resource value: 0x7F080121
+			public const int zoom = 2131231009;
 			
 			static Id()
 			{
@@ -15452,7 +20935,7 @@ namespace WordQuiz.Droid
 		public partial class Styleable
 		{
 			
-			// aapt resource value: { 0x7F030034,0x7F030035,0x7F030036,0x7F030097,0x7F030098,0x7F030099,0x7F03009A,0x7F03009B,0x7F03009C,0x7F0300AB,0x7F0300B1,0x7F0300B2,0x7F0300C5,0x7F0300F0,0x7F0300F5,0x7F0300FC,0x7F0300FD,0x7F0300FF,0x7F030109,0x7F030113,0x7F03013B,0x7F030147,0x7F03015B,0x7F03015F,0x7F030160,0x7F03019B,0x7F03019E,0x7F0301E6,0x7F0301F0 }
+			// aapt resource value: { 0x7F030034,0x7F030035,0x7F030036,0x7F030097,0x7F030098,0x7F030099,0x7F03009A,0x7F03009B,0x7F03009C,0x7F0300AB,0x7F0300B1,0x7F0300B2,0x7F0300C5,0x7F0300F0,0x7F0300F5,0x7F0300FC,0x7F0300FD,0x7F0300FF,0x7F030109,0x7F030113,0x7F03013B,0x7F030158,0x7F03016C,0x7F030170,0x7F030171,0x7F0301AC,0x7F0301AF,0x7F0301F7,0x7F030201 }
 			public static int[] ActionBar = new int[] {
 					2130903092,
 					2130903093,
@@ -15475,14 +20958,14 @@ namespace WordQuiz.Droid
 					2130903305,
 					2130903315,
 					2130903355,
-					2130903367,
-					2130903387,
-					2130903391,
-					2130903392,
-					2130903451,
-					2130903454,
-					2130903526,
-					2130903536};
+					2130903384,
+					2130903404,
+					2130903408,
+					2130903409,
+					2130903468,
+					2130903471,
+					2130903543,
+					2130903553};
 			
 			// aapt resource value: { 0x10100B3 }
 			public static int[] ActionBarLayout = new int[] {
@@ -15589,14 +21072,14 @@ namespace WordQuiz.Droid
 			public static int[] ActionMenuView = new int[] {
 					-1};
 			
-			// aapt resource value: { 0x7F030034,0x7F030035,0x7F030084,0x7F0300F0,0x7F03019E,0x7F0301F0 }
+			// aapt resource value: { 0x7F030034,0x7F030035,0x7F030084,0x7F0300F0,0x7F0301AF,0x7F030201 }
 			public static int[] ActionMode = new int[] {
 					2130903092,
 					2130903093,
 					2130903172,
 					2130903280,
-					2130903454,
-					2130903536};
+					2130903471,
+					2130903553};
 			
 			// aapt resource value: 0
 			public const int ActionMode_background = 0;
@@ -15627,16 +21110,16 @@ namespace WordQuiz.Droid
 			// aapt resource value: 1
 			public const int ActivityChooserView_initialActivityCount = 1;
 			
-			// aapt resource value: { 0x10100F2,0x7F030058,0x7F030059,0x7F030130,0x7F030131,0x7F030144,0x7F03017F,0x7F030184 }
+			// aapt resource value: { 0x10100F2,0x7F030058,0x7F030059,0x7F030130,0x7F030131,0x7F030155,0x7F030190,0x7F030195 }
 			public static int[] AlertDialog = new int[] {
 					16842994,
 					2130903128,
 					2130903129,
 					2130903344,
 					2130903345,
-					2130903364,
-					2130903423,
-					2130903428};
+					2130903381,
+					2130903440,
+					2130903445};
 			
 			// aapt resource value: 0
 			public const int AlertDialog_android_layout = 0;
@@ -15728,12 +21211,12 @@ namespace WordQuiz.Droid
 					2130903243,
 					2130903337};
 			
-			// aapt resource value: { 0x7F030191,0x7F030192,0x7F030193,0x7F030194 }
+			// aapt resource value: { 0x7F0301A2,0x7F0301A3,0x7F0301A4,0x7F0301A5 }
 			public static int[] AppBarLayoutStates = new int[] {
-					2130903441,
-					2130903442,
-					2130903443,
-					2130903444};
+					2130903458,
+					2130903459,
+					2130903460,
+					2130903461};
 			
 			// aapt resource value: 0
 			public const int AppBarLayoutStates_state_collapsed = 0;
@@ -15776,12 +21259,12 @@ namespace WordQuiz.Droid
 			// aapt resource value: 5
 			public const int AppBarLayout_liftOnScroll = 5;
 			
-			// aapt resource value: { 0x1010119,0x7F03018E,0x7F0301E4,0x7F0301E5 }
+			// aapt resource value: { 0x1010119,0x7F03019F,0x7F0301F5,0x7F0301F6 }
 			public static int[] AppCompatImageView = new int[] {
 					16843033,
-					2130903438,
-					2130903524,
-					2130903525};
+					2130903455,
+					2130903541,
+					2130903542};
 			
 			// aapt resource value: 0
 			public const int AppCompatImageView_android_src = 0;
@@ -15795,12 +21278,12 @@ namespace WordQuiz.Droid
 			// aapt resource value: 3
 			public const int AppCompatImageView_tintMode = 3;
 			
-			// aapt resource value: { 0x1010142,0x7F0301E0,0x7F0301E1,0x7F0301E2 }
+			// aapt resource value: { 0x1010142,0x7F0301F1,0x7F0301F2,0x7F0301F3 }
 			public static int[] AppCompatSeekBar = new int[] {
 					16843074,
-					2130903520,
-					2130903521,
-					2130903522};
+					2130903537,
+					2130903538,
+					2130903539};
 			
 			// aapt resource value: 0
 			public const int AppCompatSeekBar_android_thumb = 0;
@@ -15845,7 +21328,7 @@ namespace WordQuiz.Droid
 			// aapt resource value: 0
 			public const int AppCompatTextHelper_android_textAppearance = 0;
 			
-			// aapt resource value: { 0x1010034,0x7F03002E,0x7F03002F,0x7F030030,0x7F030031,0x7F030032,0x7F0300B6,0x7F0300B7,0x7F0300B8,0x7F0300B9,0x7F0300BB,0x7F0300BC,0x7F0300BD,0x7F0300BE,0x7F0300DF,0x7F0300E2,0x7F0300EA,0x7F03011C,0x7F03012A,0x7F0301BF,0x7F0301D9 }
+			// aapt resource value: { 0x1010034,0x7F03002E,0x7F03002F,0x7F030030,0x7F030031,0x7F030032,0x7F0300B6,0x7F0300B7,0x7F0300B8,0x7F0300B9,0x7F0300BB,0x7F0300BC,0x7F0300BD,0x7F0300BE,0x7F0300DF,0x7F0300E2,0x7F0300EA,0x7F03011C,0x7F03012A,0x7F0301D0,0x7F0301EA }
 			public static int[] AppCompatTextView = new int[] {
 					16842804,
 					2130903086,
@@ -15866,8 +21349,8 @@ namespace WordQuiz.Droid
 					2130903274,
 					2130903324,
 					2130903338,
-					2130903487,
-					2130903513};
+					2130903504,
+					2130903530};
 			
 			// aapt resource value: 0
 			public const int AppCompatTextView_android_textAppearance = 0;
@@ -15932,7 +21415,7 @@ namespace WordQuiz.Droid
 			// aapt resource value: 20
 			public const int AppCompatTextView_textLocale = 20;
 			
-			// aapt resource value: { 0x1010057,0x10100AE,0x7F030000,0x7F030001,0x7F030002,0x7F030003,0x7F030004,0x7F030005,0x7F030006,0x7F030007,0x7F030008,0x7F030009,0x7F03000A,0x7F03000B,0x7F03000C,0x7F03000E,0x7F03000F,0x7F030010,0x7F030011,0x7F030012,0x7F030013,0x7F030014,0x7F030015,0x7F030016,0x7F030017,0x7F030018,0x7F030019,0x7F03001A,0x7F03001B,0x7F03001C,0x7F03001D,0x7F03001E,0x7F030021,0x7F030024,0x7F030025,0x7F030026,0x7F030027,0x7F03002D,0x7F030042,0x7F030051,0x7F030052,0x7F030053,0x7F030054,0x7F030055,0x7F03005A,0x7F03005B,0x7F030065,0x7F03006A,0x7F03008A,0x7F03008B,0x7F03008C,0x7F03008D,0x7F03008E,0x7F03008F,0x7F030090,0x7F030091,0x7F030092,0x7F030094,0x7F0300A3,0x7F0300AE,0x7F0300AF,0x7F0300B0,0x7F0300B3,0x7F0300B5,0x7F0300C0,0x7F0300C1,0x7F0300C2,0x7F0300C3,0x7F0300C4,0x7F0300FC,0x7F030108,0x7F03012C,0x7F03012D,0x7F03012E,0x7F03012F,0x7F030132,0x7F030133,0x7F030134,0x7F030135,0x7F030136,0x7F030137,0x7F030138,0x7F030139,0x7F03013A,0x7F03014F,0x7F030150,0x7F030151,0x7F03015A,0x7F03015C,0x7F030163,0x7F030164,0x7F030165,0x7F030166,0x7F030177,0x7F030178,0x7F030179,0x7F03017A,0x7F03018B,0x7F03018C,0x7F0301A3,0x7F0301CA,0x7F0301CB,0x7F0301CC,0x7F0301CD,0x7F0301CF,0x7F0301D0,0x7F0301D1,0x7F0301D2,0x7F0301D5,0x7F0301D6,0x7F0301F2,0x7F0301F3,0x7F0301F4,0x7F0301F5,0x7F030201,0x7F030203,0x7F030204,0x7F030205,0x7F030206,0x7F030207,0x7F030208,0x7F030209,0x7F03020A,0x7F03020B,0x7F03020C }
+			// aapt resource value: { 0x1010057,0x10100AE,0x7F030000,0x7F030001,0x7F030002,0x7F030003,0x7F030004,0x7F030005,0x7F030006,0x7F030007,0x7F030008,0x7F030009,0x7F03000A,0x7F03000B,0x7F03000C,0x7F03000E,0x7F03000F,0x7F030010,0x7F030011,0x7F030012,0x7F030013,0x7F030014,0x7F030015,0x7F030016,0x7F030017,0x7F030018,0x7F030019,0x7F03001A,0x7F03001B,0x7F03001C,0x7F03001D,0x7F03001E,0x7F030021,0x7F030024,0x7F030025,0x7F030026,0x7F030027,0x7F03002D,0x7F030042,0x7F030051,0x7F030052,0x7F030053,0x7F030054,0x7F030055,0x7F03005A,0x7F03005B,0x7F030065,0x7F03006A,0x7F03008A,0x7F03008B,0x7F03008C,0x7F03008D,0x7F03008E,0x7F03008F,0x7F030090,0x7F030091,0x7F030092,0x7F030094,0x7F0300A3,0x7F0300AE,0x7F0300AF,0x7F0300B0,0x7F0300B3,0x7F0300B5,0x7F0300C0,0x7F0300C1,0x7F0300C2,0x7F0300C3,0x7F0300C4,0x7F0300FC,0x7F030108,0x7F03012C,0x7F03012D,0x7F03012E,0x7F03012F,0x7F030132,0x7F030133,0x7F030134,0x7F030135,0x7F030136,0x7F030137,0x7F030138,0x7F030139,0x7F03013A,0x7F030160,0x7F030161,0x7F030162,0x7F03016B,0x7F03016D,0x7F030174,0x7F030175,0x7F030176,0x7F030177,0x7F030188,0x7F030189,0x7F03018A,0x7F03018B,0x7F03019C,0x7F03019D,0x7F0301B4,0x7F0301DB,0x7F0301DC,0x7F0301DD,0x7F0301DE,0x7F0301E0,0x7F0301E1,0x7F0301E2,0x7F0301E3,0x7F0301E6,0x7F0301E7,0x7F030203,0x7F030204,0x7F030205,0x7F030206,0x7F030212,0x7F030214,0x7F030215,0x7F030216,0x7F030217,0x7F030218,0x7F030219,0x7F03021A,0x7F03021B,0x7F03021C,0x7F03021D }
 			public static int[] AppCompatTheme = new int[] {
 					16842839,
 					16842926,
@@ -16018,47 +21501,47 @@ namespace WordQuiz.Droid
 					2130903352,
 					2130903353,
 					2130903354,
-					2130903375,
-					2130903376,
-					2130903377,
-					2130903386,
-					2130903388,
-					2130903395,
-					2130903396,
-					2130903397,
-					2130903398,
+					2130903392,
+					2130903393,
+					2130903394,
+					2130903403,
+					2130903405,
+					2130903412,
+					2130903413,
+					2130903414,
 					2130903415,
-					2130903416,
-					2130903417,
-					2130903418,
+					2130903432,
+					2130903433,
+					2130903434,
 					2130903435,
-					2130903436,
-					2130903459,
-					2130903498,
-					2130903499,
-					2130903500,
-					2130903501,
-					2130903503,
-					2130903504,
-					2130903505,
-					2130903506,
-					2130903509,
-					2130903510,
-					2130903538,
-					2130903539,
-					2130903540,
-					2130903541,
-					2130903553,
+					2130903452,
+					2130903453,
+					2130903476,
+					2130903515,
+					2130903516,
+					2130903517,
+					2130903518,
+					2130903520,
+					2130903521,
+					2130903522,
+					2130903523,
+					2130903526,
+					2130903527,
 					2130903555,
 					2130903556,
 					2130903557,
 					2130903558,
-					2130903559,
-					2130903560,
-					2130903561,
-					2130903562,
-					2130903563,
-					2130903564};
+					2130903570,
+					2130903572,
+					2130903573,
+					2130903574,
+					2130903575,
+					2130903576,
+					2130903577,
+					2130903578,
+					2130903579,
+					2130903580,
+					2130903581};
 			
 			// aapt resource value: 2
 			public const int AppCompatTheme_actionBarDivider = 2;
@@ -16435,9 +21918,9 @@ namespace WordQuiz.Droid
 			// aapt resource value: 124
 			public const int AppCompatTheme_windowNoTitle = 124;
 			
-			// aapt resource value: { 0x7F030169 }
+			// aapt resource value: { 0x7F03017A }
 			public static int[] AspectRatioFrameLayout = new int[] {
-					2130903401};
+					2130903418};
 			
 			// aapt resource value: 0
 			public const int AspectRatioFrameLayout_resize_mode = 0;
@@ -16469,7 +21952,7 @@ namespace WordQuiz.Droid
 			// aapt resource value: 5
 			public const int BottomAppBar_hideOnScroll = 5;
 			
-			// aapt resource value: { 0x7F0300C5,0x7F03010D,0x7F03010F,0x7F030111,0x7F030112,0x7F030116,0x7F030117,0x7F030118,0x7F03011B,0x7F030143 }
+			// aapt resource value: { 0x7F0300C5,0x7F03010D,0x7F03010F,0x7F030111,0x7F030112,0x7F030116,0x7F030117,0x7F030118,0x7F03011B,0x7F030154 }
 			public static int[] BottomNavigationView = new int[] {
 					2130903237,
 					2130903309,
@@ -16480,7 +21963,7 @@ namespace WordQuiz.Droid
 					2130903319,
 					2130903320,
 					2130903323,
-					2130903363};
+					2130903380};
 			
 			// aapt resource value: 0
 			public const int BottomNavigationView_elevation = 0;
@@ -16593,7 +22076,7 @@ namespace WordQuiz.Droid
 			// aapt resource value: 12
 			public const int CardView_contentPaddingTop = 12;
 			
-			// aapt resource value: { 0x1010034,0x10100AB,0x101011F,0x101014F,0x10101E5,0x7F030067,0x7F030068,0x7F030069,0x7F03006B,0x7F03006C,0x7F03006D,0x7F03006F,0x7F030070,0x7F030071,0x7F030072,0x7F030073,0x7F030074,0x7F030079,0x7F03007A,0x7F03007B,0x7F03007D,0x7F03007E,0x7F03007F,0x7F030080,0x7F030081,0x7F030082,0x7F030083,0x7F0300F4,0x7F030100,0x7F030104,0x7F03016C,0x7F03017D,0x7F0301D7,0x7F0301DA }
+			// aapt resource value: { 0x1010034,0x10100AB,0x101011F,0x101014F,0x10101E5,0x7F030067,0x7F030068,0x7F030069,0x7F03006B,0x7F03006C,0x7F03006D,0x7F03006F,0x7F030070,0x7F030071,0x7F030072,0x7F030073,0x7F030074,0x7F030079,0x7F03007A,0x7F03007B,0x7F03007D,0x7F03007E,0x7F03007F,0x7F030080,0x7F030081,0x7F030082,0x7F030083,0x7F0300F4,0x7F030100,0x7F030104,0x7F03017D,0x7F03018E,0x7F0301E8,0x7F0301EB }
 			public static int[] Chip = new int[] {
 					16842804,
 					16842923,
@@ -16625,19 +22108,19 @@ namespace WordQuiz.Droid
 					2130903284,
 					2130903296,
 					2130903300,
-					2130903404,
 					2130903421,
-					2130903511,
-					2130903514};
+					2130903438,
+					2130903528,
+					2130903531};
 			
-			// aapt resource value: { 0x7F030066,0x7F030075,0x7F030076,0x7F030077,0x7F030185,0x7F030186 }
+			// aapt resource value: { 0x7F030066,0x7F030075,0x7F030076,0x7F030077,0x7F030196,0x7F030197 }
 			public static int[] ChipGroup = new int[] {
 					2130903142,
 					2130903157,
 					2130903158,
 					2130903159,
-					2130903429,
-					2130903430};
+					2130903446,
+					2130903447};
 			
 			// aapt resource value: 0
 			public const int ChipGroup_checkedChip = 0;
@@ -16759,7 +22242,7 @@ namespace WordQuiz.Droid
 			// aapt resource value: 33
 			public const int Chip_textStartPadding = 33;
 			
-			// aapt resource value: { 0x7F030087,0x7F030088,0x7F0300A2,0x7F0300CC,0x7F0300CD,0x7F0300CE,0x7F0300CF,0x7F0300D0,0x7F0300D1,0x7F0300D2,0x7F03016D,0x7F03016F,0x7F030196,0x7F0301E6,0x7F0301E7,0x7F0301F1 }
+			// aapt resource value: { 0x7F030087,0x7F030088,0x7F0300A2,0x7F0300CC,0x7F0300CD,0x7F0300CE,0x7F0300CF,0x7F0300D0,0x7F0300D1,0x7F0300D2,0x7F03017E,0x7F030180,0x7F0301A7,0x7F0301F7,0x7F0301F8,0x7F030202 }
 			public static int[] CollapsingToolbarLayout = new int[] {
 					2130903175,
 					2130903176,
@@ -16771,12 +22254,12 @@ namespace WordQuiz.Droid
 					2130903248,
 					2130903249,
 					2130903250,
-					2130903405,
-					2130903407,
-					2130903446,
-					2130903526,
-					2130903527,
-					2130903537};
+					2130903422,
+					2130903424,
+					2130903463,
+					2130903543,
+					2130903544,
+					2130903554};
 			
 			// aapt resource value: 0
 			public const int CollapsingToolbarLayout_collapsedTitleGravity = 0;
@@ -16871,10 +22354,10 @@ namespace WordQuiz.Droid
 			// aapt resource value: 3
 			public const int CompoundButton_buttonTintMode = 3;
 			
-			// aapt resource value: { 0x7F03011A,0x7F030195 }
+			// aapt resource value: { 0x7F03011A,0x7F0301A6 }
 			public static int[] CoordinatorLayout = new int[] {
 					2130903322,
-					2130903445};
+					2130903462};
 			
 			// aapt resource value: 0
 			public const int CoordinatorLayout_keylines = 0;
@@ -16913,21 +22396,21 @@ namespace WordQuiz.Droid
 			// aapt resource value: 1
 			public const int CoordinatorLayout_statusBarBackground = 1;
 			
-			// aapt resource value: { 0x7F030022,0x7F030023,0x7F03003A,0x7F030050,0x7F030157,0x7F030158,0x7F030170,0x7F030171,0x7F030172,0x7F030173,0x7F030174,0x7F0301F7,0x7F0301FC }
+			// aapt resource value: { 0x7F030022,0x7F030023,0x7F03003A,0x7F030050,0x7F030168,0x7F030169,0x7F030181,0x7F030182,0x7F030183,0x7F030184,0x7F030185,0x7F030208,0x7F03020D }
 			public static int[] DefaultTimeBar = new int[] {
 					2130903074,
 					2130903075,
 					2130903098,
 					2130903120,
-					2130903383,
-					2130903384,
-					2130903408,
-					2130903409,
-					2130903410,
-					2130903411,
-					2130903412,
-					2130903543,
-					2130903548};
+					2130903400,
+					2130903401,
+					2130903425,
+					2130903426,
+					2130903427,
+					2130903428,
+					2130903429,
+					2130903560,
+					2130903565};
 			
 			// aapt resource value: 0
 			public const int DefaultTimeBar_ad_marker_color = 0;
@@ -16979,7 +22462,7 @@ namespace WordQuiz.Droid
 			// aapt resource value: 1
 			public const int DesignTheme_bottomSheetStyle = 1;
 			
-			// aapt resource value: { 0x7F03002B,0x7F03002C,0x7F030039,0x7F030089,0x7F0300BA,0x7F0300ED,0x7F03018A,0x7F0301DC }
+			// aapt resource value: { 0x7F03002B,0x7F03002C,0x7F030039,0x7F030089,0x7F0300BA,0x7F0300ED,0x7F03019B,0x7F0301ED }
 			public static int[] DrawerArrowToggle = new int[] {
 					2130903083,
 					2130903084,
@@ -16987,8 +22470,8 @@ namespace WordQuiz.Droid
 					2130903177,
 					2130903226,
 					2130903277,
-					2130903434,
-					2130903516};
+					2130903451,
+					2130903533};
 			
 			// aapt resource value: 0
 			public const int DrawerArrowToggle_arrowHeadLength = 0;
@@ -17014,7 +22497,7 @@ namespace WordQuiz.Droid
 			// aapt resource value: 7
 			public const int DrawerArrowToggle_thickness = 7;
 			
-			// aapt resource value: { 0x7F030037,0x7F030038,0x7F030041,0x7F0300C5,0x7F0300D7,0x7F0300D8,0x7F0300F4,0x7F0300FE,0x7F030141,0x7F03015E,0x7F03016C,0x7F03017D,0x7F0301FD }
+			// aapt resource value: { 0x7F030037,0x7F030038,0x7F030041,0x7F0300C5,0x7F0300D7,0x7F0300D8,0x7F0300F4,0x7F0300FE,0x7F030152,0x7F03016F,0x7F03017D,0x7F03018E,0x7F03020E }
 			public static int[] FloatingActionButton = new int[] {
 					2130903095,
 					2130903096,
@@ -17024,11 +22507,11 @@ namespace WordQuiz.Droid
 					2130903256,
 					2130903284,
 					2130903294,
-					2130903361,
-					2130903390,
-					2130903404,
+					2130903378,
+					2130903407,
 					2130903421,
-					2130903549};
+					2130903438,
+					2130903566};
 			
 			// aapt resource value: 0
 			public const int FloatingActionButton_backgroundTint = 0;
@@ -17096,7 +22579,7 @@ namespace WordQuiz.Droid
 					2130903271,
 					2130903272};
 			
-			// aapt resource value: { 0x1010532,0x1010533,0x101053F,0x101056F,0x1010570,0x7F0300E1,0x7F0300E9,0x7F0300EA,0x7F0300EB,0x7F0301FB }
+			// aapt resource value: { 0x1010532,0x1010533,0x101053F,0x101056F,0x1010570,0x7F0300E1,0x7F0300E9,0x7F0300EA,0x7F0300EB,0x7F03020C }
 			public static int[] FontFamilyFont = new int[] {
 					16844082,
 					16844083,
@@ -17107,7 +22590,7 @@ namespace WordQuiz.Droid
 					2130903273,
 					2130903274,
 					2130903275,
-					2130903547};
+					2130903564};
 			
 			// aapt resource value: 0
 			public const int FontFamilyFont_android_font = 0;
@@ -17234,7 +22717,7 @@ namespace WordQuiz.Droid
 			// aapt resource value: 2
 			public const int GradientColor_android_type = 2;
 			
-			// aapt resource value: { 0x10100AF,0x10100C4,0x1010126,0x1010127,0x1010128,0x7F0300B2,0x7F0300B4,0x7F030142,0x7F03017C }
+			// aapt resource value: { 0x10100AF,0x10100C4,0x1010126,0x1010127,0x1010128,0x7F0300B2,0x7F0300B4,0x7F030153,0x7F03018D }
 			public static int[] LinearLayoutCompat = new int[] {
 					16842927,
 					16842948,
@@ -17243,8 +22726,8 @@ namespace WordQuiz.Droid
 					16843048,
 					2130903218,
 					2130903220,
-					2130903362,
-					2130903420};
+					2130903379,
+					2130903437};
 			
 			// aapt resource value: 2
 			public const int LinearLayoutCompat_android_baselineAligned = 2;
@@ -17303,7 +22786,74 @@ namespace WordQuiz.Droid
 			// aapt resource value: 1
 			public const int ListPopupWindow_android_dropDownVerticalOffset = 1;
 			
-			// aapt resource value: { 0x10101B7,0x10101B8,0x10101B9,0x10101BA,0x7F030037,0x7F030038,0x7F0300A6,0x7F0300FF,0x7F030101,0x7F030102,0x7F030103,0x7F030105,0x7F030106,0x7F03016C,0x7F030197,0x7F030198 }
+			// aapt resource value: { 0x7F03013E,0x7F03013F,0x7F030140,0x7F030141,0x7F030142,0x7F030143,0x7F030144,0x7F030145,0x7F030146,0x7F030147,0x7F030148,0x7F030149,0x7F03014A,0x7F03014B,0x7F03014C,0x7F03014D }
+			public static int[] LottieAnimationView = new int[] {
+					2130903358,
+					2130903359,
+					2130903360,
+					2130903361,
+					2130903362,
+					2130903363,
+					2130903364,
+					2130903365,
+					2130903366,
+					2130903367,
+					2130903368,
+					2130903369,
+					2130903370,
+					2130903371,
+					2130903372,
+					2130903373};
+			
+			// aapt resource value: 0
+			public const int LottieAnimationView_lottie_autoPlay = 0;
+			
+			// aapt resource value: 1
+			public const int LottieAnimationView_lottie_cacheComposition = 1;
+			
+			// aapt resource value: 2
+			public const int LottieAnimationView_lottie_colorFilter = 2;
+			
+			// aapt resource value: 3
+			public const int LottieAnimationView_lottie_enableMergePathsForKitKatAndAbove = 3;
+			
+			// aapt resource value: 4
+			public const int LottieAnimationView_lottie_fallbackRes = 4;
+			
+			// aapt resource value: 5
+			public const int LottieAnimationView_lottie_fileName = 5;
+			
+			// aapt resource value: 6
+			public const int LottieAnimationView_lottie_imageAssetsFolder = 6;
+			
+			// aapt resource value: 7
+			public const int LottieAnimationView_lottie_loop = 7;
+			
+			// aapt resource value: 8
+			public const int LottieAnimationView_lottie_progress = 8;
+			
+			// aapt resource value: 9
+			public const int LottieAnimationView_lottie_rawRes = 9;
+			
+			// aapt resource value: 10
+			public const int LottieAnimationView_lottie_renderMode = 10;
+			
+			// aapt resource value: 11
+			public const int LottieAnimationView_lottie_repeatCount = 11;
+			
+			// aapt resource value: 12
+			public const int LottieAnimationView_lottie_repeatMode = 12;
+			
+			// aapt resource value: 13
+			public const int LottieAnimationView_lottie_scale = 13;
+			
+			// aapt resource value: 14
+			public const int LottieAnimationView_lottie_speed = 14;
+			
+			// aapt resource value: 15
+			public const int LottieAnimationView_lottie_url = 15;
+			
+			// aapt resource value: { 0x10101B7,0x10101B8,0x10101B9,0x10101BA,0x7F030037,0x7F030038,0x7F0300A6,0x7F0300FF,0x7F030101,0x7F030102,0x7F030103,0x7F030105,0x7F030106,0x7F03017D,0x7F0301A8,0x7F0301A9 }
 			public static int[] MaterialButton = new int[] {
 					16843191,
 					16843192,
@@ -17318,9 +22868,9 @@ namespace WordQuiz.Droid
 					2130903299,
 					2130903301,
 					2130903302,
-					2130903404,
-					2130903447,
-					2130903448};
+					2130903421,
+					2130903464,
+					2130903465};
 			
 			// aapt resource value: 3
 			public const int MaterialButton_android_insetBottom = 3;
@@ -17370,10 +22920,10 @@ namespace WordQuiz.Droid
 			// aapt resource value: 15
 			public const int MaterialButton_strokeWidth = 15;
 			
-			// aapt resource value: { 0x7F030197,0x7F030198 }
+			// aapt resource value: { 0x7F0301A8,0x7F0301A9 }
 			public static int[] MaterialCardView = new int[] {
-					2130903447,
-					2130903448};
+					2130903464,
+					2130903465};
 			
 			// aapt resource value: 0
 			public const int MaterialCardView_strokeColor = 0;
@@ -17381,7 +22931,7 @@ namespace WordQuiz.Droid
 			// aapt resource value: 1
 			public const int MaterialCardView_strokeWidth = 1;
 			
-			// aapt resource value: { 0x7F030045,0x7F030046,0x7F03006E,0x7F030078,0x7F03007C,0x7F03008A,0x7F03008B,0x7F030091,0x7F030092,0x7F030093,0x7F0300C4,0x7F0300E0,0x7F03013D,0x7F03013E,0x7F030148,0x7F03016E,0x7F030187,0x7F0301BB,0x7F0301C0,0x7F0301C1,0x7F0301C2,0x7F0301C3,0x7F0301C4,0x7F0301C5,0x7F0301C6,0x7F0301C7,0x7F0301C8,0x7F0301C9,0x7F0301CE,0x7F0301D3,0x7F0301D4,0x7F0301D8 }
+			// aapt resource value: { 0x7F030045,0x7F030046,0x7F03006E,0x7F030078,0x7F03007C,0x7F03008A,0x7F03008B,0x7F030091,0x7F030092,0x7F030093,0x7F0300C4,0x7F0300E0,0x7F03014E,0x7F03014F,0x7F030159,0x7F03017F,0x7F030198,0x7F0301CC,0x7F0301D1,0x7F0301D2,0x7F0301D3,0x7F0301D4,0x7F0301D5,0x7F0301D6,0x7F0301D7,0x7F0301D8,0x7F0301D9,0x7F0301DA,0x7F0301DF,0x7F0301E4,0x7F0301E5,0x7F0301E9 }
 			public static int[] MaterialComponentsTheme = new int[] {
 					2130903109,
 					2130903110,
@@ -17395,26 +22945,26 @@ namespace WordQuiz.Droid
 					2130903187,
 					2130903236,
 					2130903264,
-					2130903357,
-					2130903358,
-					2130903368,
-					2130903406,
-					2130903431,
-					2130903483,
-					2130903488,
-					2130903489,
-					2130903490,
-					2130903491,
-					2130903492,
-					2130903493,
-					2130903494,
-					2130903495,
-					2130903496,
-					2130903497,
-					2130903502,
+					2130903374,
+					2130903375,
+					2130903385,
+					2130903423,
+					2130903448,
+					2130903500,
+					2130903505,
+					2130903506,
 					2130903507,
 					2130903508,
-					2130903512};
+					2130903509,
+					2130903510,
+					2130903511,
+					2130903512,
+					2130903513,
+					2130903514,
+					2130903519,
+					2130903524,
+					2130903525,
+					2130903529};
 			
 			// aapt resource value: 0
 			public const int MaterialComponentsTheme_bottomSheetDialogTheme = 0;
@@ -17539,7 +23089,7 @@ namespace WordQuiz.Droid
 			// aapt resource value: 2
 			public const int MenuGroup_android_visible = 2;
 			
-			// aapt resource value: { 0x1010002,0x101000E,0x10100D0,0x1010106,0x1010194,0x10101DE,0x10101DF,0x10101E1,0x10101E2,0x10101E3,0x10101E4,0x10101E5,0x101026F,0x7F03000D,0x7F03001F,0x7F030020,0x7F03002A,0x7F030096,0x7F030105,0x7F030106,0x7F030149,0x7F03017B,0x7F0301F6 }
+			// aapt resource value: { 0x1010002,0x101000E,0x10100D0,0x1010106,0x1010194,0x10101DE,0x10101DF,0x10101E1,0x10101E2,0x10101E3,0x10101E4,0x10101E5,0x101026F,0x7F03000D,0x7F03001F,0x7F030020,0x7F03002A,0x7F030096,0x7F030105,0x7F030106,0x7F03015A,0x7F03018C,0x7F030207 }
 			public static int[] MenuItem = new int[] {
 					16842754,
 					16842766,
@@ -17561,9 +23111,9 @@ namespace WordQuiz.Droid
 					2130903190,
 					2130903301,
 					2130903302,
-					2130903369,
-					2130903419,
-					2130903542};
+					2130903386,
+					2130903436,
+					2130903559};
 			
 			// aapt resource value: 13
 			public const int MenuItem_actionLayout = 13;
@@ -17634,7 +23184,7 @@ namespace WordQuiz.Droid
 			// aapt resource value: 22
 			public const int MenuItem_tooltipText = 22;
 			
-			// aapt resource value: { 0x10100AE,0x101012C,0x101012D,0x101012E,0x101012F,0x1010130,0x1010131,0x7F03015D,0x7F030199 }
+			// aapt resource value: { 0x10100AE,0x101012C,0x101012D,0x101012E,0x101012F,0x1010130,0x1010131,0x7F03016E,0x7F0301AA }
 			public static int[] MenuView = new int[] {
 					16842926,
 					16843052,
@@ -17643,8 +23193,8 @@ namespace WordQuiz.Droid
 					16843055,
 					16843056,
 					16843057,
-					2130903389,
-					2130903449};
+					2130903406,
+					2130903466};
 			
 			// aapt resource value: 4
 			public const int MenuView_android_headerBackground = 4;
@@ -17673,7 +23223,7 @@ namespace WordQuiz.Droid
 			// aapt resource value: 8
 			public const int MenuView_subMenuArrow = 8;
 			
-			// aapt resource value: { 0x10100D4,0x10100DD,0x101011F,0x7F0300C5,0x7F0300EF,0x7F03010D,0x7F03010E,0x7F030110,0x7F030112,0x7F030115,0x7F030118,0x7F030143 }
+			// aapt resource value: { 0x10100D4,0x10100DD,0x101011F,0x7F0300C5,0x7F0300EF,0x7F03010D,0x7F03010E,0x7F030110,0x7F030112,0x7F030115,0x7F030118,0x7F030154 }
 			public static int[] NavigationView = new int[] {
 					16842964,
 					16842973,
@@ -17686,7 +23236,7 @@ namespace WordQuiz.Droid
 					2130903314,
 					2130903317,
 					2130903320,
-					2130903363};
+					2130903380};
 			
 			// aapt resource value: 0
 			public const int NavigationView_android_background = 0;
@@ -17724,7 +23274,7 @@ namespace WordQuiz.Droid
 			// aapt resource value: 11
 			public const int NavigationView_menu = 11;
 			
-			// aapt resource value: { 0x7F030022,0x7F030023,0x7F03003A,0x7F030050,0x7F0300A4,0x7F0300DE,0x7F030157,0x7F030158,0x7F030168,0x7F03016B,0x7F030170,0x7F030171,0x7F030172,0x7F030173,0x7F030174,0x7F030181,0x7F030182,0x7F0301E3,0x7F0301F7,0x7F0301FC }
+			// aapt resource value: { 0x7F030022,0x7F030023,0x7F03003A,0x7F030050,0x7F0300A4,0x7F0300DE,0x7F030168,0x7F030169,0x7F030179,0x7F03017C,0x7F030181,0x7F030182,0x7F030183,0x7F030184,0x7F030185,0x7F030192,0x7F030193,0x7F0301F4,0x7F030208,0x7F03020D }
 			public static int[] PlayerControlView = new int[] {
 					2130903074,
 					2130903075,
@@ -17732,20 +23282,20 @@ namespace WordQuiz.Droid
 					2130903120,
 					2130903204,
 					2130903262,
-					2130903383,
-					2130903384,
 					2130903400,
-					2130903403,
-					2130903408,
-					2130903409,
-					2130903410,
-					2130903411,
-					2130903412,
+					2130903401,
+					2130903417,
+					2130903420,
 					2130903425,
 					2130903426,
-					2130903523,
-					2130903543,
-					2130903548};
+					2130903427,
+					2130903428,
+					2130903429,
+					2130903442,
+					2130903443,
+					2130903540,
+					2130903560,
+					2130903565};
 			
 			// aapt resource value: 0
 			public const int PlayerControlView_ad_marker_color = 0;
@@ -17807,7 +23357,7 @@ namespace WordQuiz.Droid
 			// aapt resource value: 19
 			public const int PlayerControlView_unplayed_color = 19;
 			
-			// aapt resource value: { 0x7F030022,0x7F030023,0x7F030033,0x7F03003A,0x7F030050,0x7F0300A4,0x7F0300AD,0x7F0300DE,0x7F0300F7,0x7F0300F8,0x7F030119,0x7F030157,0x7F030158,0x7F030159,0x7F030168,0x7F030169,0x7F03016B,0x7F030170,0x7F030171,0x7F030172,0x7F030173,0x7F030174,0x7F030180,0x7F030181,0x7F030182,0x7F030183,0x7F0301A0,0x7F0301E3,0x7F0301F7,0x7F0301FC,0x7F0301FE,0x7F0301FF,0x7F030200 }
+			// aapt resource value: { 0x7F030022,0x7F030023,0x7F030033,0x7F03003A,0x7F030050,0x7F0300A4,0x7F0300AD,0x7F0300DE,0x7F0300F7,0x7F0300F8,0x7F030119,0x7F030168,0x7F030169,0x7F03016A,0x7F030179,0x7F03017A,0x7F03017C,0x7F030181,0x7F030182,0x7F030183,0x7F030184,0x7F030185,0x7F030191,0x7F030192,0x7F030193,0x7F030194,0x7F0301B1,0x7F0301F4,0x7F030208,0x7F03020D,0x7F03020F,0x7F030210,0x7F030211 }
 			public static int[] PlayerView = new int[] {
 					2130903074,
 					2130903075,
@@ -17820,28 +23370,28 @@ namespace WordQuiz.Droid
 					2130903287,
 					2130903288,
 					2130903321,
-					2130903383,
-					2130903384,
-					2130903385,
 					2130903400,
 					2130903401,
-					2130903403,
-					2130903408,
-					2130903409,
-					2130903410,
-					2130903411,
-					2130903412,
-					2130903424,
+					2130903402,
+					2130903417,
+					2130903418,
+					2130903420,
 					2130903425,
 					2130903426,
 					2130903427,
-					2130903456,
-					2130903523,
-					2130903543,
-					2130903548,
-					2130903550,
-					2130903551,
-					2130903552};
+					2130903428,
+					2130903429,
+					2130903441,
+					2130903442,
+					2130903443,
+					2130903444,
+					2130903473,
+					2130903540,
+					2130903560,
+					2130903565,
+					2130903567,
+					2130903568,
+					2130903569};
 			
 			// aapt resource value: 0
 			public const int PlayerView_ad_marker_color = 0;
@@ -17942,15 +23492,15 @@ namespace WordQuiz.Droid
 			// aapt resource value: 32
 			public const int PlayerView_use_sensor_rotation = 32;
 			
-			// aapt resource value: { 0x1010176,0x10102C9,0x7F03014A }
+			// aapt resource value: { 0x1010176,0x10102C9,0x7F03015B }
 			public static int[] PopupWindow = new int[] {
 					16843126,
 					16843465,
-					2130903370};
+					2130903387};
 			
-			// aapt resource value: { 0x7F030190 }
+			// aapt resource value: { 0x7F0301A1 }
 			public static int[] PopupWindowBackgroundState = new int[] {
-					2130903440};
+					2130903457};
 			
 			// aapt resource value: 0
 			public const int PopupWindowBackgroundState_state_above_anchor = 0;
@@ -17964,10 +23514,10 @@ namespace WordQuiz.Droid
 			// aapt resource value: 2
 			public const int PopupWindow_overlapAnchor = 2;
 			
-			// aapt resource value: { 0x7F03014B,0x7F03014E }
+			// aapt resource value: { 0x7F03015C,0x7F03015F }
 			public static int[] RecycleListView = new int[] {
-					2130903371,
-					2130903374};
+					2130903388,
+					2130903391};
 			
 			// aapt resource value: 0
 			public const int RecycleListView_paddingBottomNoButtons = 0;
@@ -17975,7 +23525,7 @@ namespace WordQuiz.Droid
 			// aapt resource value: 1
 			public const int RecycleListView_paddingTopNoTitle = 1;
 			
-			// aapt resource value: { 0x10100C4,0x10100EB,0x10100F1,0x7F0300D9,0x7F0300DA,0x7F0300DB,0x7F0300DC,0x7F0300DD,0x7F03011E,0x7F03016A,0x7F030189,0x7F03018F }
+			// aapt resource value: { 0x10100C4,0x10100EB,0x10100F1,0x7F0300D9,0x7F0300DA,0x7F0300DB,0x7F0300DC,0x7F0300DD,0x7F03011E,0x7F03017B,0x7F03019A,0x7F0301A0 }
 			public static int[] RecyclerView = new int[] {
 					16842948,
 					16842987,
@@ -17986,9 +23536,9 @@ namespace WordQuiz.Droid
 					2130903260,
 					2130903261,
 					2130903326,
-					2130903402,
-					2130903433,
-					2130903439};
+					2130903419,
+					2130903450,
+					2130903456};
 			
 			// aapt resource value: 1
 			public const int RecyclerView_android_clipToPadding = 1;
@@ -18040,7 +23590,7 @@ namespace WordQuiz.Droid
 			// aapt resource value: 0
 			public const int ScrollingViewBehavior_Layout_behavior_overlapTop = 0;
 			
-			// aapt resource value: { 0x10100DA,0x101011F,0x1010220,0x1010264,0x7F03007D,0x7F030095,0x7F0300AC,0x7F0300EE,0x7F030107,0x7F03011D,0x7F030161,0x7F030162,0x7F030175,0x7F030176,0x7F03019A,0x7F03019F,0x7F030202 }
+			// aapt resource value: { 0x10100DA,0x101011F,0x1010220,0x1010264,0x7F03007D,0x7F030095,0x7F0300AC,0x7F0300EE,0x7F030107,0x7F03011D,0x7F030172,0x7F030173,0x7F030186,0x7F030187,0x7F0301AB,0x7F0301B0,0x7F030213 }
 			public static int[] SearchView = new int[] {
 					16842970,
 					16843039,
@@ -18052,13 +23602,13 @@ namespace WordQuiz.Droid
 					2130903278,
 					2130903303,
 					2130903325,
-					2130903393,
-					2130903394,
-					2130903413,
-					2130903414,
-					2130903450,
-					2130903455,
-					2130903554};
+					2130903410,
+					2130903411,
+					2130903430,
+					2130903431,
+					2130903467,
+					2130903472,
+					2130903571};
 			
 			// aapt resource value: 0
 			public const int SearchView_android_focusable = 0;
@@ -18111,16 +23661,16 @@ namespace WordQuiz.Droid
 			// aapt resource value: 16
 			public const int SearchView_voiceIcon = 16;
 			
-			// aapt resource value: { 0x7F030187,0x7F030188 }
+			// aapt resource value: { 0x7F030198,0x7F030199 }
 			public static int[] Snackbar = new int[] {
-					2130903431,
-					2130903432};
+					2130903448,
+					2130903449};
 			
-			// aapt resource value: { 0x101011F,0x7F0300C5,0x7F03013F }
+			// aapt resource value: { 0x101011F,0x7F0300C5,0x7F030150 }
 			public static int[] SnackbarLayout = new int[] {
 					16843039,
 					2130903237,
-					2130903359};
+					2130903376};
 			
 			// aapt resource value: 0
 			public const int SnackbarLayout_android_maxWidth = 0;
@@ -18137,13 +23687,13 @@ namespace WordQuiz.Droid
 			// aapt resource value: 1
 			public const int Snackbar_snackbarStyle = 1;
 			
-			// aapt resource value: { 0x10100B2,0x1010176,0x101017B,0x1010262,0x7F03015B }
+			// aapt resource value: { 0x10100B2,0x1010176,0x101017B,0x1010262,0x7F03016C }
 			public static int[] Spinner = new int[] {
 					16842930,
 					16843126,
 					16843131,
 					16843362,
-					2130903387};
+					2130903404};
 			
 			// aapt resource value: 3
 			public const int Spinner_android_dropDownWidth = 3;
@@ -18194,22 +23744,22 @@ namespace WordQuiz.Droid
 			// aapt resource value: 1
 			public const int StateListDrawable_android_visible = 1;
 			
-			// aapt resource value: { 0x1010124,0x1010125,0x1010142,0x7F03017E,0x7F03018D,0x7F0301A1,0x7F0301A2,0x7F0301A4,0x7F0301DD,0x7F0301DE,0x7F0301DF,0x7F0301F8,0x7F0301F9,0x7F0301FA }
+			// aapt resource value: { 0x1010124,0x1010125,0x1010142,0x7F03018F,0x7F03019E,0x7F0301B2,0x7F0301B3,0x7F0301B5,0x7F0301EE,0x7F0301EF,0x7F0301F0,0x7F030209,0x7F03020A,0x7F03020B }
 			public static int[] SwitchCompat = new int[] {
 					16843044,
 					16843045,
 					16843074,
-					2130903422,
-					2130903437,
-					2130903457,
-					2130903458,
-					2130903460,
-					2130903517,
-					2130903518,
-					2130903519,
-					2130903544,
-					2130903545,
-					2130903546};
+					2130903439,
+					2130903454,
+					2130903474,
+					2130903475,
+					2130903477,
+					2130903534,
+					2130903535,
+					2130903536,
+					2130903561,
+					2130903562,
+					2130903563};
 			
 			// aapt resource value: 1
 			public const int SwitchCompat_android_textOff = 1;
@@ -18268,33 +23818,33 @@ namespace WordQuiz.Droid
 			// aapt resource value: 2
 			public const int TabItem_android_text = 2;
 			
-			// aapt resource value: { 0x7F0301A5,0x7F0301A6,0x7F0301A7,0x7F0301A8,0x7F0301A9,0x7F0301AA,0x7F0301AB,0x7F0301AC,0x7F0301AD,0x7F0301AE,0x7F0301AF,0x7F0301B0,0x7F0301B1,0x7F0301B2,0x7F0301B3,0x7F0301B4,0x7F0301B5,0x7F0301B6,0x7F0301B7,0x7F0301B8,0x7F0301B9,0x7F0301BA,0x7F0301BC,0x7F0301BD,0x7F0301BE }
+			// aapt resource value: { 0x7F0301B6,0x7F0301B7,0x7F0301B8,0x7F0301B9,0x7F0301BA,0x7F0301BB,0x7F0301BC,0x7F0301BD,0x7F0301BE,0x7F0301BF,0x7F0301C0,0x7F0301C1,0x7F0301C2,0x7F0301C3,0x7F0301C4,0x7F0301C5,0x7F0301C6,0x7F0301C7,0x7F0301C8,0x7F0301C9,0x7F0301CA,0x7F0301CB,0x7F0301CD,0x7F0301CE,0x7F0301CF }
 			public static int[] TabLayout = new int[] {
-					2130903461,
-					2130903462,
-					2130903463,
-					2130903464,
-					2130903465,
-					2130903466,
-					2130903467,
-					2130903468,
-					2130903469,
-					2130903470,
-					2130903471,
-					2130903472,
-					2130903473,
-					2130903474,
-					2130903475,
-					2130903476,
-					2130903477,
 					2130903478,
 					2130903479,
 					2130903480,
 					2130903481,
 					2130903482,
+					2130903483,
 					2130903484,
 					2130903485,
-					2130903486};
+					2130903486,
+					2130903487,
+					2130903488,
+					2130903489,
+					2130903490,
+					2130903491,
+					2130903492,
+					2130903493,
+					2130903494,
+					2130903495,
+					2130903496,
+					2130903497,
+					2130903498,
+					2130903499,
+					2130903501,
+					2130903502,
+					2130903503};
 			
 			// aapt resource value: 0
 			public const int TabLayout_tabBackground = 0;
@@ -18371,7 +23921,7 @@ namespace WordQuiz.Droid
 			// aapt resource value: 24
 			public const int TabLayout_tabUnboundedRipple = 24;
 			
-			// aapt resource value: { 0x1010095,0x1010096,0x1010097,0x1010098,0x101009A,0x101009B,0x1010161,0x1010162,0x1010163,0x1010164,0x10103AC,0x1010585,0x7F0300E2,0x7F0300EA,0x7F0301BF,0x7F0301D9 }
+			// aapt resource value: { 0x1010095,0x1010096,0x1010097,0x1010098,0x101009A,0x101009B,0x1010161,0x1010162,0x1010163,0x1010164,0x10103AC,0x1010585,0x7F0300E2,0x7F0300EA,0x7F0301D0,0x7F0301EA }
 			public static int[] TextAppearance = new int[] {
 					16842901,
 					16842902,
@@ -18387,8 +23937,8 @@ namespace WordQuiz.Droid
 					16844165,
 					2130903266,
 					2130903274,
-					2130903487,
-					2130903513};
+					2130903504,
+					2130903530};
 			
 			// aapt resource value: 10
 			public const int TextAppearance_android_fontFamily = 10;
@@ -18438,7 +23988,7 @@ namespace WordQuiz.Droid
 			// aapt resource value: 15
 			public const int TextAppearance_textLocale = 15;
 			
-			// aapt resource value: { 0x101009A,0x1010150,0x7F030047,0x7F030048,0x7F030049,0x7F03004A,0x7F03004B,0x7F03004C,0x7F03004D,0x7F03004E,0x7F03004F,0x7F0300A7,0x7F0300A8,0x7F0300A9,0x7F0300AA,0x7F0300C8,0x7F0300C9,0x7F0300F1,0x7F0300F2,0x7F0300F3,0x7F0300F9,0x7F0300FA,0x7F0300FB,0x7F030152,0x7F030153,0x7F030154,0x7F030155,0x7F030156 }
+			// aapt resource value: { 0x101009A,0x1010150,0x7F030047,0x7F030048,0x7F030049,0x7F03004A,0x7F03004B,0x7F03004C,0x7F03004D,0x7F03004E,0x7F03004F,0x7F0300A7,0x7F0300A8,0x7F0300A9,0x7F0300AA,0x7F0300C8,0x7F0300C9,0x7F0300F1,0x7F0300F2,0x7F0300F3,0x7F0300F9,0x7F0300FA,0x7F0300FB,0x7F030163,0x7F030164,0x7F030165,0x7F030166,0x7F030167 }
 			public static int[] TextInputLayout = new int[] {
 					16842906,
 					16843088,
@@ -18463,11 +24013,11 @@ namespace WordQuiz.Droid
 					2130903289,
 					2130903290,
 					2130903291,
-					2130903378,
-					2130903379,
-					2130903380,
-					2130903381,
-					2130903382};
+					2130903395,
+					2130903396,
+					2130903397,
+					2130903398,
+					2130903399};
 			
 			// aapt resource value: 1
 			public const int TextInputLayout_android_hint = 1;
@@ -18568,7 +24118,7 @@ namespace WordQuiz.Droid
 			// aapt resource value: 2
 			public const int ThemeEnforcement_enforceTextAppearance = 2;
 			
-			// aapt resource value: { 0x10100AF,0x1010140,0x7F030057,0x7F030085,0x7F030086,0x7F030097,0x7F030098,0x7F030099,0x7F03009A,0x7F03009B,0x7F03009C,0x7F03013B,0x7F03013C,0x7F030140,0x7F030143,0x7F030145,0x7F030146,0x7F03015B,0x7F03019B,0x7F03019C,0x7F03019D,0x7F0301E6,0x7F0301E8,0x7F0301E9,0x7F0301EA,0x7F0301EB,0x7F0301EC,0x7F0301ED,0x7F0301EE,0x7F0301EF }
+			// aapt resource value: { 0x10100AF,0x1010140,0x7F030057,0x7F030085,0x7F030086,0x7F030097,0x7F030098,0x7F030099,0x7F03009A,0x7F03009B,0x7F03009C,0x7F03013B,0x7F03013C,0x7F030151,0x7F030154,0x7F030156,0x7F030157,0x7F03016C,0x7F0301AC,0x7F0301AD,0x7F0301AE,0x7F0301F7,0x7F0301F9,0x7F0301FA,0x7F0301FB,0x7F0301FC,0x7F0301FD,0x7F0301FE,0x7F0301FF,0x7F030200 }
 			public static int[] Toolbar = new int[] {
 					16842927,
 					16843072,
@@ -18583,23 +24133,23 @@ namespace WordQuiz.Droid
 					2130903196,
 					2130903355,
 					2130903356,
-					2130903360,
-					2130903363,
-					2130903365,
-					2130903366,
-					2130903387,
-					2130903451,
-					2130903452,
-					2130903453,
-					2130903526,
-					2130903528,
-					2130903529,
-					2130903530,
-					2130903531,
-					2130903532,
-					2130903533,
-					2130903534,
-					2130903535};
+					2130903377,
+					2130903380,
+					2130903382,
+					2130903383,
+					2130903404,
+					2130903468,
+					2130903469,
+					2130903470,
+					2130903543,
+					2130903545,
+					2130903546,
+					2130903547,
+					2130903548,
+					2130903549,
+					2130903550,
+					2130903551,
+					2130903552};
 			
 			// aapt resource value: 0
 			public const int Toolbar_android_gravity = 0;
@@ -18691,13 +24241,13 @@ namespace WordQuiz.Droid
 			// aapt resource value: 29
 			public const int Toolbar_titleTextColor = 29;
 			
-			// aapt resource value: { 0x1010000,0x10100DA,0x7F03014C,0x7F03014D,0x7F0301DB }
+			// aapt resource value: { 0x1010000,0x10100DA,0x7F03015D,0x7F03015E,0x7F0301EC }
 			public static int[] View = new int[] {
 					16842752,
 					16842970,
-					2130903372,
-					2130903373,
-					2130903515};
+					2130903389,
+					2130903390,
+					2130903532};
 			
 			// aapt resource value: { 0x10100D4,0x7F030037,0x7F030038 }
 			public static int[] ViewBackgroundHelper = new int[] {

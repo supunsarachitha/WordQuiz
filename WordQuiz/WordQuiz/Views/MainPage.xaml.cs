@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Rg.Plugins.Popup.Extensions;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -23,14 +24,15 @@ namespace WordQuiz.Views
             
         }
 
-        private void NewGame_Clicked(object sender, EventArgs e)
+        private async void NewGame_Clicked(object sender, EventArgs e)
         {
-            Navigation.PushAsync(new GemaPage());
+            await Navigation.PushModalAsync(new GemaPage());
+            //await Navigation.PushPopupAsync(new Popup("31570-mouse-error.json"));
         }
 
-        private void Continue_Clicked(object sender, EventArgs e)
+        private async void Continue_Clicked(object sender, EventArgs e)
         {
-            Navigation.PushAsync(new GemaPage());
+            await Navigation.PushModalAsync(new GemaPage());
         }
 
 
