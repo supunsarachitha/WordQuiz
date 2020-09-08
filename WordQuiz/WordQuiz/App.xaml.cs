@@ -17,7 +17,7 @@ namespace WordQuiz
         {
             InitializeComponent();
 
-
+            Xamarin.Forms.DataGrid.DataGridComponent.Init();
 
 
 
@@ -33,6 +33,7 @@ namespace WordQuiz
 
         protected override void OnSleep()
         {
+            CrossMediaManager.Current.Stop();
         }
 
         protected override void OnResume()

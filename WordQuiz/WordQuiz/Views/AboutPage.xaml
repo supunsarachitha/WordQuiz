@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="WordQuiz.Views.AboutPage" NavigationPage.HasBackButton="True" NavigationPage.HasNavigationBar="True">
+    <ContentPage.Content>
+
+        <ScrollView>
+        <StackLayout VerticalOptions="Start" Margin="10">
+
+            <Label Text="Animations Credits" FontFamily="OpenSans-Bold"
+                VerticalOptions="StartAndExpand" 
+                HorizontalOptions="Center" />
+                <Label Text="Toni Adegbenro: https://lottiefiles.com/toniadegbenro" VerticalOptions="StartAndExpand" HorizontalOptions="Start" FontFamily="OpenSans-Regular" />
+                <Label Text="Luis Pérez: https://lottiefiles.com/luisperez" VerticalOptions="StartAndExpand" HorizontalOptions="Start" FontFamily="OpenSans-Regular" />
+                <Label Text="Aleksei Mozgovets: https://lottiefiles.com/brainsheep" VerticalOptions="StartAndExpand" HorizontalOptions="Start" FontFamily="OpenSans-Regular"/>
+                <Label Text="Mikhail Voloshin: https://lottiefiles.com/Mikhail_V94" VerticalOptions="StartAndExpand" HorizontalOptions="Start" FontFamily="OpenSans-Regular"/>
+                <Label Text="Mel Barr: https://lottiefiles.com/user/452742" VerticalOptions="StartAndExpand" HorizontalOptions="Start" FontFamily="OpenSans-Regular"/>
+                <Label Text="CARSYNC: https://lottiefiles.com/carsync" VerticalOptions="StartAndExpand" HorizontalOptions="Start" FontFamily="OpenSans-Regular"/>
+                <Label Text="Andrey Popov: https://lottiefiles.com/motionpopov" VerticalOptions="StartAndExpand" HorizontalOptions="Start" FontFamily="OpenSans-Regular"/>
+            
+            <Label Text=""
+                VerticalOptions="StartAndExpand" 
+                HorizontalOptions="Start" />
+
+            <Label Text="Fonts" FontFamily="OpenSans-Bold"
+                VerticalOptions="StartAndExpand" 
+                HorizontalOptions="Center" />
+                <Label Text="Font awesome - https://fontawesome.com/" FontFamily="OpenSans-Regular"
+                VerticalOptions="StartAndExpand" 
+                HorizontalOptions="Start" />
+            <Label Text="OpenSans"
+                VerticalOptions="StartAndExpand" FontFamily="OpenSans-Regular"
+                HorizontalOptions="Start" />
+            
+            
+            <Label Text=""
+                VerticalOptions="StartAndExpand" 
+                HorizontalOptions="Center" />
+
+            <Label Text="Plugins and Libraries" FontFamily="OpenSans-Bold"
+                VerticalOptions="StartAndExpand" 
+                HorizontalOptions="Center" />
+                <Label Text="Rg.Plugins.Popup" FontFamily="OpenSans-Regular"
+                VerticalOptions="StartAndExpand" 
+                HorizontalOptions="Start" />
+                <Label Text="Xamarin.Forms.DataGrid" FontFamily="OpenSans-Regular"
+                VerticalOptions="StartAndExpand" 
+                HorizontalOptions="Start" />
+                <Label Text="Com.Airbnb.Xamarin.Forms.Lottie" FontFamily="OpenSans-Regular"
+                VerticalOptions="StartAndExpand" 
+                HorizontalOptions="Start" />
+                <Label Text="Plugin.MediaManager" FontFamily="OpenSans-Regular"
+                VerticalOptions="StartAndExpand" 
+                HorizontalOptions="Start" />
+                <Label Text="Newtonsoft.Json" FontFamily="OpenSans-Regular"
+                VerticalOptions="StartAndExpand" 
+                HorizontalOptions="Start" />
+                <Label Text="Firebase" FontFamily="OpenSans-Regular"
+                VerticalOptions="StartAndExpand" 
+                HorizontalOptions="Start" />
+
+
+                <Label Text=""
+                VerticalOptions="StartAndExpand" 
+                HorizontalOptions="Center" />
+
+                <Image HorizontalOptions="CenterAndExpand" VerticalOptions="EndAndExpand" Source="IARC.png"></Image>
+                <Label Text="All rights reserved 2020 Techbuzzsl™" FontFamily="OpenSans-Bold"
+                VerticalOptions="EndAndExpand" 
+                HorizontalOptions="Center" />
+
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

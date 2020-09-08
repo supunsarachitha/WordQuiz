@@ -32,6 +32,9 @@
         <x:String x:Key="IconHome">&#xf015;</x:String>
         <x:String x:Key="IconThrophy">&#xf091;</x:String>
         <x:String x:Key="IconGame">&#xf11b;</x:String>
-
+        <x:String x:Key="DeleteUser">&#xf235;</x:String>
+        <x:String x:Key="Exit">&#xf2f5;</x:String>
+        <x:String x:Key="Sound">&#xf028;</x:String>
+        <x:String x:Key="IconAbout">&#xf2bb;</x:String>
     </Application.Resources>
 </Application>

@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
-             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:forms="clr-namespace:Lottie.Forms;assembly=Lottie.Forms"
              x:Class="WordQuiz.Views.GemaPage" NavigationPage.HasBackButton="True" NavigationPage.HasNavigationBar="True" >
 
     <ContentPage.Content>
@@ -14,16 +14,17 @@
         </StackLayout>-->
         <Grid>
 
-            <StackLayout IsVisible="false" BackgroundColor="Transparent" x:Name="Indicator" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand">
-                <ActivityIndicator BackgroundColor="Transparent" IsRunning="True" Color="LightGreen" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" ></ActivityIndicator>
+            <StackLayout IsVisible="false" BackgroundColor="White" x:Name="Indicator" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+                <forms:AnimationView x:Name="AnimationView2" Animation="7655-rocket.json" AutoPlay="True" BackgroundColor="White"
+                Loop="True" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" WidthRequest="100" HeightRequest="100" />
             </StackLayout>
 
             <Grid x:Name="board">
             <Grid.RowDefinitions>
                 <RowDefinition Height="50" x:Name="score"/> 
-                <RowDefinition Height="70" x:Name="word"/>
+                <RowDefinition Height="50" x:Name="word"/>
                 <RowDefinition Height="*" x:Name="definition"/>
-                <RowDefinition Height="70" x:Name="imgbtn"/>
+                <RowDefinition Height="60" x:Name="imgbtn"/>
                 <RowDefinition Height="*" x:Name="txt"/>
                 <RowDefinition Height="70"/>
                 <RowDefinition Height="70"/>
@@ -37,24 +38,34 @@
             </Grid.ColumnDefinitions>
 
 
-                <Button Grid.Column="0" Grid.Row="0" Grid.ColumnSpan="2"  BackgroundColor="SkyBlue" FontFamily="OpenSans-Bold" CornerRadius="10" Padding="5" Margin="5"  Text="Back" FontSize="Medium" TextColor="White"   x:Name="btnBack" Clicked="btnBack_Clicked" HeightRequest="50" WidthRequest="100"  VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand">
+                <Button Grid.Column="0" Grid.Row="0" Grid.ColumnSpan="2"   FontFamily="OpenSans-Bold" CornerRadius="10" Padding="5" Margin="10,10,0,0"  Text="Back" FontSize="Medium" TextColor="White"   x:Name="btnBack" Clicked="btnBack_Clicked" HeightRequest="50" WidthRequest="100"  VerticalOptions="CenterAndExpand" HorizontalOptions="StartAndExpand">
                     <Button.ImageSource>
                         <FontImageSource Glyph="&#xf0a8;" FontFamily="fa-solid" Color="White" Size="Title"/>
                     </Button.ImageSource>
                 </Button>
-                <Label Grid.Row="0" Grid.Column="3" x:Name="lblScoreName" FontFamily="OpenSans-BoldItalic" Text="Score :" HorizontalOptions="Center"  VerticalOptions="CenterAndExpand" HorizontalTextAlignment="Center" VerticalTextAlignment="Center" FontSize="Medium"></Label>
-                <Label Grid.Row="0" Grid.Column="4"  x:Name="lblScore" FontFamily="OpenSans-BoldItalic" HorizontalOptions="CenterAndExpand"  VerticalOptions="CenterAndExpand" HorizontalTextAlignment="Center" VerticalTextAlignment="Center" FontSize="Medium"></Label>
+                <Frame Grid.Row="0"  Grid.Column="3" Grid.ColumnSpan="2" CornerRadius="20" Padding="10,0,10,0" Margin="0,10,10,0" >
+                    <StackLayout Orientation="Horizontal">
 
-                <Label Grid.Row="1" Grid.ColumnSpan="5" x:Name="txtWord" FontSize="40" FontFamily="OpenSans-Bold" CharacterSpacing="5" HorizontalOptions="CenterAndExpand"  VerticalOptions="CenterAndExpand" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"></Label>
+
+                        <Label  Grid.Column="3" x:Name="lblScoreName" FontFamily="OpenSans-BoldItalic" TextColor="#01163b" Text="Score :" HorizontalOptions="Center"  VerticalOptions="CenterAndExpand" HorizontalTextAlignment="Center" VerticalTextAlignment="Center" FontSize="Medium"></Label>
+                        <Label  Grid.Column="4"  x:Name="lblScore" FontFamily="OpenSans-BoldItalic" TextColor="#01163b" HorizontalOptions="CenterAndExpand"  VerticalOptions="CenterAndExpand" HorizontalTextAlignment="Center" VerticalTextAlignment="Center" FontSize="Medium"></Label>
+                    </StackLayout>
+                </Frame>
+
+                <Label Grid.Row="1" Grid.ColumnSpan="5" x:Name="txtWord" TextColor="#01163b" FontSize="30" FontFamily="OpenSans-Bold" CharacterSpacing="5" HorizontalOptions="CenterAndExpand"  VerticalOptions="CenterAndExpand" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"></Label>
 
                 <Frame Grid.Row="2" Grid.ColumnSpan="5" HorizontalOptions="CenterAndExpand"  VerticalOptions="CenterAndExpand">
-                    <Label  x:Name="lblDefinition"  HorizontalTextAlignment="Center" VerticalTextAlignment="Center" FontFamily="OpenSans-SemiBold" ></Label>
+                    <Label  x:Name="lblDefinition" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" TextColor="#01163b"  HorizontalTextAlignment="Center" VerticalTextAlignment="Center" FontFamily="OpenSans-SemiBold" ></Label>
 
                 </Frame>
-            <ImageButton Grid.Row="3" Grid.Column="2" Margin="5"   BorderColor="Gray" BorderWidth="1" WidthRequest="50" HeightRequest="50" BackgroundColor="White" Source="round_volume_up_24.xml" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" ></ImageButton>
+            <ImageButton Grid.Row="4" Grid.Column="2" Margin="5" Padding="5"  BorderColor="Gray" BorderWidth="1" WidthRequest="50" HeightRequest="50" BackgroundColor="White"  VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" x:Name="btnAudio" Clicked="btnAudio_Clicked" >
+                    <ImageButton.Source>
+                        <FontImageSource Glyph="&#xf028;" FontFamily="fa-solid" Color="Green"/>
+                    </ImageButton.Source>
+            </ImageButton>
 
-                <Frame Grid.Row="4" Grid.Column="2" VerticalOptions="Center" Margin="0" Padding="0" >
-                    <Entry  x:Name="txtInput" MaxLength="1" FontSize="40" FontFamily="OpenSans-Bold" TextChanged="txtInput_TextChanged"  VerticalOptions="Center" HorizontalTextAlignment="Center" Keyboard="Plain" ReturnType="Go"></Entry>
+                <Frame Grid.Row="3" Grid.Column="2"  VerticalOptions="Center" Margin="0" Padding="0" >
+                    <Entry  x:Name="txtInput" MaxLength="1" FontSize="25" FontFamily="OpenSans-Bold" TextChanged="txtInput_TextChanged"  VerticalOptions="Center" HorizontalTextAlignment="Center" Keyboard="Plain" ReturnType="Go"></Entry>
                 </Frame>
 
                 <Button Grid.Row="5" Grid.Column="1" FontFamily="OpenSans-Bold" FontSize="Large" Grid.ColumnSpan="3" VerticalOptions="Start" BorderColor="Gray" BorderWidth="2" CornerRadius="10" x:Name="btnNext" Clicked="btnNext_Clicked" Text="Next word" >

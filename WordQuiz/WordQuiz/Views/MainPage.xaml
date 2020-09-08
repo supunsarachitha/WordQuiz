@@ -1,15 +1,28 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
-             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="WordQuiz.Views.MainPage" BackgroundImageSource="RegisterBackground.png" Opacity="0.5">
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:forms="clr-namespace:Lottie.Forms;assembly=Lottie.Forms"
+             x:Class="WordQuiz.Views.MainPage" BackgroundColor="White" >
     <ContentPage.Content>
-        <StackLayout HorizontalOptions="FillAndExpand" VerticalOptions="EndAndExpand" Margin="20,20,20,100"  >
-            <Button CornerRadius="20" Text="New Game" FontSize="Large" FontFamily="OpenSans-Bold" x:Name="NewGame" Clicked="NewGame_Clicked" BorderColor="Gray" BorderWidth="3" WidthRequest="250" HeightRequest="60" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand">
-                <Button.ImageSource>
-                    <FontImageSource Glyph="&#xf11b;" FontFamily="fa-solid"/>
-                </Button.ImageSource>
-            </Button>
-            <Button CornerRadius="20" Text="Continue" x:Name="Continue" Clicked="Continue_Clicked" BorderColor="Gray" BorderWidth="3" HeightRequest="60" IsVisible="false" ></Button>
-        </StackLayout>
+        <Grid >
+            <forms:AnimationView x:Name="AnimationView" Animation="" AutoPlay="True"  WidthRequest="300" HeightRequest="300" Margin="0,40,0,0"
+                Loop="True" VerticalOptions="StartAndExpand" HorizontalOptions="CenterAndExpand" />
+
+                <StackLayout HorizontalOptions="FillAndExpand" VerticalOptions="EndAndExpand" Margin="20,20,20,100"  >
+
+
+                    <Button CornerRadius="20" Text="New Game" FontSize="Large" FontFamily="OpenSans-Bold" x:Name="NewGame" Clicked="NewGame_Clicked" BorderColor="Gray" BorderWidth="3" WidthRequest="250" HeightRequest="60" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand">
+                        <Button.ImageSource>
+                            <FontImageSource Glyph="&#xf11b;" FontFamily="fa-solid"/>
+                        </Button.ImageSource>
+                    </Button>
+                    <Button CornerRadius="20" Text="Continue" x:Name="Continue" Clicked="Continue_Clicked" BorderColor="Gray" BorderWidth="3" HeightRequest="60" IsVisible="false" ></Button>
+                </StackLayout>
+                <StackLayout IsVisible="false" BackgroundColor="White" x:Name="Indicator" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+                <ActivityIndicator BackgroundColor="Transparent" IsRunning="True" Color="#4778c9" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" ></ActivityIndicator>
+
+                
+            </StackLayout>
+        </Grid>
+       
     </ContentPage.Content>
 </ContentPage>

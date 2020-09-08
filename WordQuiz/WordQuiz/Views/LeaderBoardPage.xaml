@@ -1,11 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
-             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="WordQuiz.Views.LeaderBoardPage" BackgroundColor="WhiteSmoke" Title="Leader Bord" Padding="0">
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             xmlns:dg="clr-namespace:Xamarin.Forms.DataGrid;assembly=Xamarin.Forms.DataGrid"
+             x:Class="WordQuiz.Views.LeaderBoardPage"  Title="Leader Bord" BackgroundColor="White">
     <ContentPage.Content>
-        <Grid>
 
-        <CollectionView x:Name="CollectionLeaderBoard" >
+
+        <!--<CollectionView x:Name="CollectionLeaderBoard" >
 
             <CollectionView.Header>
                 <Grid Padding="10" BackgroundColor="Gray">
@@ -18,12 +19,12 @@
                         <ColumnDefinition Width="Auto" />
                     </Grid.ColumnDefinitions>
                     <Label   WidthRequest="60" FontSize="Default" Grid.Column="0" TextColor="White"
-                               HorizontalTextAlignment="Start" VerticalTextAlignment="Center" Text="Rank"/>
+                               HorizontalTextAlignment="Start" VerticalTextAlignment="Center" Text="Rank" FontFamily="OpenSans-Bold"/>
 
                     <Label  WidthRequest="80" FontSize="Default" Grid.Column="1" TextColor="White"
-                               HorizontalTextAlignment="Start" VerticalTextAlignment="Center" Text="Score"/>
+                               HorizontalTextAlignment="Start" VerticalTextAlignment="Center" Text="Score" FontFamily="OpenSans-Bold"/>
                     <Label   FontSize="Default" Grid.Column="2" TextColor="White"
-                               HorizontalTextAlignment="Start" VerticalTextAlignment="Center" Text="User / Country"/>
+                               HorizontalTextAlignment="Start" VerticalTextAlignment="Center" Text="User / Country" FontFamily="OpenSans-Bold"/>
 
                 </Grid>
             </CollectionView.Header>
@@ -33,35 +34,95 @@
                         <Grid.RowDefinitions>
                             <RowDefinition Height="Auto" />
                             <RowDefinition Height="Auto" />
-                            <RowDefinition Height="0.4" />
+                            <RowDefinition Height="1" />
                         </Grid.RowDefinitions>
                         <Grid.ColumnDefinitions>
                             <ColumnDefinition Width="Auto" />
                             <ColumnDefinition Width="Auto" />
                             <ColumnDefinition Width="Auto" />
                         </Grid.ColumnDefinitions>
-                        <Label Grid.RowSpan="3" HeightRequest="60" WidthRequest="60" FontSize="Medium" Grid.Column="0"
+                            <Label Grid.RowSpan="3" HeightRequest="60" WidthRequest="60" FontSize="Medium" Grid.Column="0" FontFamily="OpenSans-SemiBold" TextColor="WhiteSmoke"
                                HorizontalTextAlignment="Start" VerticalTextAlignment="Center" Text="{Binding Rank}"/>
 
-                        <Label Grid.RowSpan="3" HeightRequest="60" WidthRequest="80" FontSize="Medium" Grid.Column="1" 
+                            <Label Grid.RowSpan="3" HeightRequest="60" WidthRequest="80" FontSize="Medium" Grid.Column="1" FontFamily="OpenSans-SemiBold" TextColor="WhiteSmoke"
                                HorizontalTextAlignment="Start" VerticalTextAlignment="Center" Text="{Binding Score}"/>
 
-                        <Label Grid.Row="0" Grid.Column="2" Text="{Binding UserName}"
+                            <Label Grid.Row="0" Grid.Column="2" Text="{Binding UserName}" FontFamily="OpenSans-SemiBold" TextColor="WhiteSmoke"
                                HorizontalTextAlignment="Start" VerticalTextAlignment="End" FontAttributes="Bold"  />
 
-                        <Label Grid.Row="1" Grid.Column="2" Text="{Binding CountryName}" 
+                            <Label Grid.Row="1" Grid.Column="2" Text="{Binding CountryName}"  FontFamily="OpenSans-SemiBold" TextColor="WhiteSmoke"
                                HorizontalTextAlignment="Start" VerticalTextAlignment="Start" FontAttributes="Italic" />
-                        <BoxView BackgroundColor="Black" Grid.ColumnSpan="4" Grid.Row="2"></BoxView>
+                        <BoxView BackgroundColor="Gray" Grid.ColumnSpan="4" Grid.Row="2"></BoxView>
 
                         
                         
                     </Grid>
                 </DataTemplate>
             </CollectionView.ItemTemplate>
-        </CollectionView>
-        <StackLayout IsVisible="false" x:Name="Indicator" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand">
-            <ActivityIndicator BackgroundColor="Transparent" IsRunning="True" Color="LightGreen" ></ActivityIndicator>
-        </StackLayout>
+        </CollectionView>-->
+
+
+        <Grid>
+
+            <StackLayout IsVisible="false" x:Name="Indicator" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+                <ActivityIndicator BackgroundColor="Transparent" IsRunning="True" Color="#4778c9" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" ></ActivityIndicator>
+            </StackLayout>
+            <dg:DataGrid x:Name="CollectionLeaderBoard" SelectionEnabled="False" RowHeight="70" HeaderHeight="50" BorderColor="#CCCCCC" HeaderBackground="Gray" HeaderTextColor="WhiteSmoke" FontFamily="OpenSans-SemiBold">
+                <dg:DataGrid.HeaderFontSize>
+                    <OnIdiom  x:TypeArguments="x:Double">
+                        <OnIdiom.Tablet>15</OnIdiom.Tablet>
+                        <OnIdiom.Phone>13</OnIdiom.Phone>
+                    </OnIdiom>
+                </dg:DataGrid.HeaderFontSize>
+
+                <dg:DataGrid.Columns>
+                    
+                    <dg:DataGridColumn Title="Rank"  Width="1.5*">
+                    <dg:DataGridColumn.CellTemplate>
+                        <DataTemplate>
+                            <ContentView HorizontalOptions="Fill" VerticalOptions="Fill" Margin="5,0,2,0"  >
+                                    <Label Text="{Binding Rank}" HorizontalOptions="CenterAndExpand" LineBreakMode="WordWrap" VerticalOptions="Center" />
+                            </ContentView>
+                        </DataTemplate>
+                    </dg:DataGridColumn.CellTemplate>
+                    </dg:DataGridColumn>
+                    <dg:DataGridColumn Title="Score"  Width="2*">
+                        <dg:DataGridColumn.CellTemplate>
+                            <DataTemplate>
+                                <ContentView HorizontalOptions="Fill" VerticalOptions="Fill" Margin="5,0,5,0"  >
+                                    <Label Text="{Binding Score}" HorizontalOptions="EndAndExpand" LineBreakMode="WordWrap" VerticalOptions="Center" />
+                                </ContentView>
+                            </DataTemplate>
+                        </dg:DataGridColumn.CellTemplate>
+                    </dg:DataGridColumn>
+                    <dg:DataGridColumn Title="User name"   Width="3*">
+                        <dg:DataGridColumn.CellTemplate>
+                            <DataTemplate>
+                                <ContentView HorizontalOptions="Fill" VerticalOptions="Fill" Margin="5,0,2,0"  >
+                                    <Label Text="{Binding UserName}" HorizontalOptions="Center" LineBreakMode="WordWrap" VerticalOptions="Center" />
+                                </ContentView>
+                            </DataTemplate>
+                        </dg:DataGridColumn.CellTemplate>
+                    </dg:DataGridColumn>
+                    <dg:DataGridColumn  Title="Country" Width="3.5*"  HorizontalContentAlignment="StartAndExpand">
+                        <dg:DataGridColumn.CellTemplate>
+                            <DataTemplate>
+                                <ContentView HorizontalOptions="Fill" VerticalOptions="Fill" Margin="5,0,2,0"  >
+                                    <Label Text="{Binding CountryName}" HorizontalOptions="StartAndExpand" LineBreakMode="WordWrap" VerticalOptions="Center" />
+                                </ContentView>
+                            </DataTemplate>
+                        </dg:DataGridColumn.CellTemplate>
+                    </dg:DataGridColumn>
+
+                </dg:DataGrid.Columns>
+                
+                <dg:DataGrid.RowsBackgroundColorPalette>
+                    <dg:PaletteCollection>
+                        <Color>#d1ffdd</Color>
+                        <Color>#e0f1ff</Color>
+                    </dg:PaletteCollection>
+                </dg:DataGrid.RowsBackgroundColorPalette>
+            </dg:DataGrid>
 
         </Grid>
     </ContentPage.Content>

@@ -23,11 +23,25 @@ namespace WordQuiz
                 closer?.closeApplication();
         }
 
-        private void OnMenuItemRegisterClicked(object sender, EventArgs e)
+        private async void OnMenuItemRegisterClicked(object sender, EventArgs e)
         {
-            Xamarin.Essentials.Preferences.Set("registered", false);
-                Shell.Current.GoToAsync("//RegisterPage");
+            var a = await DisplayAlert("","Are you sure?","Procceed", "Cancel");
+            if (a)
+            {
+                Xamarin.Essentials.Preferences.Set("registered", false);
+                await Shell.Current.GoToAsync("//RegisterPage");
+            }
             
+            
+        }
+
+        private void AboutPg_Clicked(object sender, EventArgs e)
+        {
+            Dispatcher.BeginInvokeOnMainThread(async () =>
+            {
+                await Navigation.PushModalAsync(new AboutPage());
+
+            });
         }
     }
 }

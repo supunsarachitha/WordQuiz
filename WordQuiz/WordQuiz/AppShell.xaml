@@ -74,35 +74,79 @@
         </ResourceDictionary>
     </Shell.Resources>
 
+
+
+    <Shell.FlyoutHeaderTemplate>
+        <DataTemplate>
+            <Grid BackgroundColor="Black" HeightRequest="200">
+                
+                
+                
+                <Image Aspect="AspectFill"
+                   Source="RegisterBackground.png"
+                   Opacity="0.6" />
+                <StackLayout HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand">
+                    <Label Text="Word puzzle" TextColor="White" FontFamily="OpenSans-Bold" FontSize="35"
+                   FontAttributes="Bold"
+                   HorizontalTextAlignment="Center"
+                   VerticalTextAlignment="Center" />
+                    <Label Text="TechbuzzsL™ " FontFamily="OpenSans-Bold" FontSize="Medium"
+                   TextColor="White"
+                   FontAttributes="Bold"
+                   HorizontalTextAlignment="Center"
+                   VerticalTextAlignment="Center" />
+                    <Label Text="© 2019" FontFamily="OpenSans-Italic"
+                   TextColor="White"
+                   FontAttributes="Bold"
+                   HorizontalTextAlignment="Center"
+                   VerticalTextAlignment="Center" />
+                </StackLayout>
+                
+            </Grid>
+        </DataTemplate>
+    </Shell.FlyoutHeaderTemplate>
+
     <!-- 
         When the Flyout is visible this defines the content to display in the flyout.
         FlyoutDisplayOptions="AsMultipleItems" will create a separate flyout item for each child element    
         https://docs.microsoft.com/dotnet/api/xamarin.forms.shellgroupitem.flyoutdisplayoptions?view=xamarin-forms
     -->
     <FlyoutItem FlyoutDisplayOptions="AsMultipleItems">
-        <Tab Title="Home">
+        <Tab Title="Home" >
+            
             <Tab.Icon>
-                <FontImageSource Glyph="{StaticResource IconHome}" FontFamily="fa-solid" />
+                <FontImageSource Glyph="{StaticResource IconHome}" FontFamily="fa-solid"  Color="Black"/>
             </Tab.Icon>
-            <ShellContent Title="Home"  Route="MainPage" ContentTemplate="{DataTemplate local:MainPage}" />
+            <ShellContent Title="Home"  Route="MainPage" ContentTemplate="{DataTemplate local:MainPage}"/>
+
         </Tab>
         <Tab Title="Leader Board">
             <Tab.Icon>
-                <FontImageSource Glyph="{StaticResource IconThrophy}" FontFamily="fa-solid" />
+                <FontImageSource Glyph="{StaticResource IconThrophy}" FontFamily="fa-solid" Color="Black" />
             </Tab.Icon>
             <ShellContent Title="Leader Board"  Route="LeaderBoardPage" ContentTemplate="{DataTemplate local:LeaderBoardPage}" />
         </Tab>
-        
-       
-        
-        
        
     </FlyoutItem>
 
     <!-- When the Flyout is visible this will be a menu item you can tie a click behavior to  -->
-    <MenuItem Text="New User" StyleClass="MenuItemLayoutStyle" Clicked="OnMenuItemRegisterClicked">
+
+
+
+    <MenuItem Text="About" StyleClass="MenuItemLayoutStyle" x:Name="AboutPg" Clicked="AboutPg_Clicked">
+        <MenuItem.IconImageSource>
+            <FontImageSource Glyph="{StaticResource IconAbout}" FontFamily="fa-solid" Color="Black"></FontImageSource>
+        </MenuItem.IconImageSource>
     </MenuItem>
-    <MenuItem Text="Exit" StyleClass="MenuItemLayoutStyle" Clicked="OnMenuItemClicked">
+    <MenuItem Text="Reset Game" StyleClass="MenuItemLayoutStyle" Clicked="OnMenuItemRegisterClicked">
+        <MenuItem.IconImageSource>
+            <FontImageSource Glyph="{StaticResource DeleteUser}" FontFamily="fa-solid" Color="Black"></FontImageSource>
+        </MenuItem.IconImageSource>
+    </MenuItem>
+        <MenuItem Text="Exit" StyleClass="MenuItemLayoutStyle" Clicked="OnMenuItemClicked">
+        <MenuItem.IconImageSource>
+            <FontImageSource Glyph="{StaticResource Exit}" FontFamily="fa-solid" Color="Black"></FontImageSource>
+        </MenuItem.IconImageSource>
     </MenuItem>
 
     <!--
@@ -112,6 +156,7 @@
         await Shell.Current.GoToAsync("//LoginPage");
     -->
     <ShellContent Route="RegisterPage" Shell.FlyoutBehavior="Disabled" ContentTemplate="{DataTemplate local:RegisterPage}" />
+    <ShellContent Route="AboutPage" Shell.FlyoutBehavior="Disabled" ContentTemplate="{DataTemplate local:AboutPage}" />
     <ShellContent Route="GemaPage" Shell.FlyoutBehavior="Disabled" Shell.TabBarIsVisible="False" ContentTemplate="{DataTemplate local:GemaPage}" />
     <!-- Optional Templates 
     // These may be provided inline as below or as separate classes.

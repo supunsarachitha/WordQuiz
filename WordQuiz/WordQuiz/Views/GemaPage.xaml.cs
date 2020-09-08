@@ -11,6 +11,8 @@ using System.Threading.Tasks;
 using WordQuiz.API;
 using WordQuiz.Models;
 using Xamarin.Forms;
+using Xamarin.Forms.Platform;
+using Xamarin.Forms.Platform.Android;
 using Xamarin.Forms.Xaml;
 
 namespace WordQuiz.Views
@@ -24,12 +26,13 @@ namespace WordQuiz.Views
         string Orginalword = "";
         int RandomPosition = 0;
         DictionaryAPI dictionaryAPI = new DictionaryAPI();
+        string AudioUrl = "";
 
 
         public GemaPage()
         {
             InitializeComponent();
-
+            CrossMediaManager.Current.Notification.Enabled = false;
             Indicator.IsVisible = true;
             board.IsVisible = false;
 
@@ -38,6 +41,8 @@ namespace WordQuiz.Views
 
             int score = Xamarin.Essentials.Preferences.Get("Score", 0);
             lblScore.Text = Convert.ToString((score));
+
+            CrossMediaManager.Current.MediaItemFinished += Current_MediaItemFinished;
 
         }
 
@@ -120,11 +125,13 @@ namespace WordQuiz.Views
 
                     try
                     {
-                        var a = meaning.Phonetics.ElementAt(0).Audio.AbsoluteUri;
-                        if (a != null)
+                        AudioUrl = "";
+                        AudioUrl = meaning.Phonetics.ElementAt(0).Audio.AbsoluteUri;
+                        if (AudioUrl != null)
                         {
 
-                            await CrossMediaManager.Current.Play(a.ToString());
+                            await CrossMediaManager.Current.Play(AudioUrl.ToString());
+
                         }
                     }
                     catch (Exception)
@@ -143,6 +150,7 @@ namespace WordQuiz.Views
 
                 Indicator.IsVisible = false;
                 board.IsVisible = true;
+                txtInput.Focus();
             }
             catch (Exception ex)
             {
@@ -158,21 +166,30 @@ namespace WordQuiz.Views
 
             Dispatcher.BeginInvokeOnMainThread(async() =>
             {
-                if (WordList != null)
+                try
                 {
-                    if (WordList.Count > 0)
+                    if (WordList != null)
                     {
-                        WordList.Clear();
+                        if (WordList.Count > 0)
+                        {
+                            WordList.Clear();
+                        }
                     }
+
+                    WebClient client = new WebClient();
+                    string RandomWords = "";
+                    RandomWords = client.DownloadString("https://www.wordgenerator.net/application/p.php?id=" + "charades_easy" + "&type=1&spaceflag=false");
+
+                    WordList = RandomWords.Split(',').ToList();
+
+                    wordCount = 0;
+                    ShowNextWord();
                 }
-                
-                WebClient client = new WebClient();
-                string RandomWords = client.DownloadString("https://www.wordgenerator.net/application/p.php?id=" + "charades_easy" + "&type=1&spaceflag=false");
+                catch (Exception)
+                {
 
-                WordList = RandomWords.Split(',').ToList();
-
-                wordCount = 0;
-                ShowNextWord();
+                    return;
+                }
             });
             
         }
@@ -183,7 +200,7 @@ namespace WordQuiz.Views
             //await Shell.Current.GoToAsync("//MainPage");
             txtInput.Text = "";
             ShowNextWord();
-            txtInput.Focus();
+            
 
         }
 
@@ -193,24 +210,25 @@ namespace WordQuiz.Views
             {
                 if (Orginalword.ToLower() == txtWord.Text.ToLower())
                 {
+
+                    await CrossMediaManager.Current.PlayFromAssembly("Correct.mp3", null);
+                    await Navigation.PushPopupAsync(new Popup("31640-success-mouse.json"));
                     int score = Convert.ToInt32(lblScore.Text);
                     Xamarin.Essentials.Preferences.Set("Score", (Convert.ToInt32(lblScore.Text) + 10));
                     lblScore.Text = Convert.ToString((score + 10));
-
-                    await Navigation.PushPopupAsync(new Popup("31640-success-mouse.json"));
+                    
 
                    
                 }
                 else
                 {
-
-
+                    await CrossMediaManager.Current.PlayFromAssembly("False.mp3", null);
                     await Navigation.PushPopupAsync(new Popup("31570-mouse-error.json"));
                     char[] ch = Orginalword.ToCharArray(); //convert to character array
                     ch[RandomPosition] = '_'; //replace random charactor
                     txtWord.Text = new string(ch);
                     txtInput.Text = "";
-                    txtInput.Focus();
+                    
                 }
             }
             else
@@ -257,6 +275,21 @@ namespace WordQuiz.Views
         private void btnBack_Clicked(object sender, EventArgs e)
         {
             Navigation.PopModalAsync();
+        }
+
+        private async void btnAudio_Clicked(object sender, EventArgs e)
+        {
+
+            
+            await CrossMediaManager.Current.Play(AudioUrl.ToString());
+           
+
+        }
+
+        private void Current_MediaItemFinished(object sender, MediaManager.Media.MediaItemEventArgs e)
+        {
+            CrossMediaManager.Current.Stop();
+            CrossMediaManager.Current.Dispose();
         }
     }
 }
