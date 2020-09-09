@@ -16,7 +16,7 @@ namespace WordQuiz
         public App()
         {
             InitializeComponent();
-
+            CrossMediaManager.Current.Notification.Enabled = false;
             Xamarin.Forms.DataGrid.DataGridComponent.Init();
 
 

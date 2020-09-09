@@ -28,10 +28,15 @@ namespace WordQuiz.Views
         DictionaryAPI dictionaryAPI = new DictionaryAPI();
         string AudioUrl = "";
 
+        string selectedType ="";
+        bool DictionaryEnable = false;
 
-        public GemaPage()
+        public GemaPage(string SelectedType , bool dictionary)
         {
             InitializeComponent();
+
+            selectedType = SelectedType;
+            DictionaryEnable = dictionary;
             CrossMediaManager.Current.Notification.Enabled = false;
             Indicator.IsVisible = true;
             board.IsVisible = false;
@@ -43,6 +48,8 @@ namespace WordQuiz.Views
             lblScore.Text = Convert.ToString((score));
 
             CrossMediaManager.Current.MediaItemFinished += Current_MediaItemFinished;
+            
+
 
         }
 
@@ -67,6 +74,7 @@ namespace WordQuiz.Views
                     wordCount++;
                     if (wordCount > 48)
                     {
+                        //get next 50 words
                         await GetWordList();
                         return;
                     }
@@ -77,9 +85,23 @@ namespace WordQuiz.Views
 
                     char[] ch = Orginalword.ToCharArray(); //convert to character array
                     ch[RandomPosition] = '_'; //replace random charactor
+
+                    if (DictionaryEnable)
+                    {
+                        Indicator.IsVisible = true;
+                        board.IsVisible = false;
+                        btnAudio.IsVisible = true;
+                        lbldefframe.IsVisible = true;
+                        await getDictionaryAPI(Orginalword);
+                    }
+                    else
+                    {
+                        Indicator.IsVisible = false;
+                        board.IsVisible = true;
+                        btnAudio.IsVisible = false;
+                        lbldefframe.IsVisible = false;
+                    }
                     
-                    
-                    await getDictionaryAPI(Orginalword);
                     txtWord.Text = new string(ch);
                 }
 
@@ -164,8 +186,7 @@ namespace WordQuiz.Views
         private async Task GetWordList()
         {
 
-            Dispatcher.BeginInvokeOnMainThread(async() =>
-            {
+            
                 try
                 {
                     if (WordList != null)
@@ -178,7 +199,7 @@ namespace WordQuiz.Views
 
                     WebClient client = new WebClient();
                     string RandomWords = "";
-                    RandomWords = client.DownloadString("https://www.wordgenerator.net/application/p.php?id=" + "charades_easy" + "&type=1&spaceflag=false");
+                    RandomWords = client.DownloadString("https://www.wordgenerator.net/application/p.php?id=" + selectedType + "&type=1&spaceflag=false");
 
                     WordList = RandomWords.Split(',').ToList();
 
@@ -190,7 +211,7 @@ namespace WordQuiz.Views
 
                     return;
                 }
-            });
+            
             
         }
 

@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<pages:PopupPage 
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:pages="clr-namespace:Rg.Plugins.Popup.Pages;assembly=Rg.Plugins.Popup"
+    xmlns:animations="clr-namespace:Rg.Plugins.Popup.Animations;assembly=Rg.Plugins.Popup" 
+    
+    xmlns:forms="clr-namespace:Lottie.Forms;assembly=Lottie.Forms"
+    x:Class="WordQuiz.Views.GameLevelPopup">
+    <!--You can set an animation in the xaml file or in the csharp code behind-->
+
+    <!--You can use any elements here which are extended from Xamarin.Forms.View-->
+    <Grid Margin="20" Padding="20"  HorizontalOptions="FillAndExpand" VerticalOptions="Center" BackgroundColor="White" >
+
+        <Frame>
+            <StackLayout Orientation="Vertical">
+            
+                
+            
+        <StackLayout>
+                <Label Text="Select Type" FontFamily="OpenSans-Bold" FontSize="Medium" />
+                <RadioButton Text="Words" IsChecked="true" x:Name="RdWords" CheckedChanged="RdWords_CheckedChanged" FontFamily="OpenSans-SemiBold"/>
+                <!--<RadioButton Text="Idioms" x:Name="RdIdioms" CheckedChanged="RdWords_CheckedChanged" FontFamily="OpenSans-SemiBold"/>-->
+                <RadioButton Text="Animals" x:Name="RdAnimals" CheckedChanged="RdWords_CheckedChanged" FontFamily="OpenSans-SemiBold"/>
+                <!--<RadioButton Text="TV Shows" x:Name="RdTV" CheckedChanged="RdWords_CheckedChanged" FontFamily="OpenSans-SemiBold"/>
+                <RadioButton Text="Books" x:Name="RdBooks" CheckedChanged="RdWords_CheckedChanged" FontFamily="OpenSans-SemiBold"/>
+                <RadioButton Text="Movies" x:Name="RdMovies" CheckedChanged="RdWords_CheckedChanged" FontFamily="OpenSans-SemiBold" />
+                <RadioButton Text="Character names" x:Name="RdCharacter"  CheckedChanged="RdWords_CheckedChanged" FontFamily="OpenSans-SemiBold"/>-->
+        </StackLayout>
+
+                <BoxView HeightRequest="10"></BoxView>
+
+        <StackLayout x:Name="levelSelector">
+                <Label Text="Select Level" FontFamily="OpenSans-Bold" FontSize="Medium"/>
+                <RadioButton Text="Easy" IsChecked="true" x:Name="rdEasy" CheckedChanged="RdWords_CheckedChanged" FontFamily="OpenSans-SemiBold"/>
+                <RadioButton Text="Moderate" x:Name="rdModerate" CheckedChanged="RdWords_CheckedChanged" FontFamily="OpenSans-SemiBold"/>
+                <RadioButton Text="Hard" x:Name="rdHard" CheckedChanged="RdWords_CheckedChanged" FontFamily="OpenSans-SemiBold"/>
+                <RadioButton Text="Very Hard"  x:Name="rdVeryHard" CheckedChanged="RdWords_CheckedChanged" FontFamily="OpenSans-SemiBold"/>
+        </StackLayout>
+
+        <Button Grid.Column="0" Grid.Row="0" Grid.ColumnSpan="2"   FontFamily="OpenSans-Bold" CornerRadius="10" Padding="5" Margin="10,10,0,0"  Text="Go"  FontSize="Medium" TextColor="White"   x:Name="btnGo" Clicked="btnGo_Clicked" HeightRequest="50" WidthRequest="100"  VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand">
+            <Button.ImageSource>
+                    <FontImageSource Glyph="&#xf0fb;" FontFamily="fa-solid" Color="White" Size="Title"/>
+            </Button.ImageSource>
+        </Button>
+        </StackLayout>
+        </Frame>
+    </Grid>
+    
+
+
+
+</pages:PopupPage>

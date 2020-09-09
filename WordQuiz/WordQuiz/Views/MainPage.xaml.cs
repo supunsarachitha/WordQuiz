@@ -93,18 +93,17 @@ namespace WordQuiz.Views
                 return;
             }
 
+            
+
             try
             {
                 if (!clicked)
                 {
                     Indicator.IsVisible = true;
                     clicked = true;
-                    Dispatcher.BeginInvokeOnMainThread(async () =>
-                    {
-                        await Navigation.PushModalAsync(new GemaPage());
-                    });
-                    
-
+                    await Navigation.PushPopupAsync(new GameLevelPopup());
+                    Indicator.IsVisible = false;
+                    clicked = false;
                 }
             }
             catch (Exception)
@@ -126,8 +125,10 @@ namespace WordQuiz.Views
 
         protected async override void OnAppearing()
         {
+            
             if (!CrossMediaManager.Current.IsPlaying())
             {
+                CrossMediaManager.Current.Notification.Enabled = false;
                 await CrossMediaManager.Current.PlayFromAssembly("perception.amr", null);
             }
             
@@ -136,7 +137,7 @@ namespace WordQuiz.Views
 
             if (Connectivity.NetworkAccess != NetworkAccess.Internet)
             {
-                Navigation.PushPopupAsync(new Popup("12955-no-internet-connection-empty-state.json"));
+                await Navigation.PushPopupAsync(new Popup("12955-no-internet-connection-empty-state.json"));
                 return;
             }
             updateScore();

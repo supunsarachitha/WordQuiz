@@ -86,7 +86,7 @@
                    Source="RegisterBackground.png"
                    Opacity="0.6" />
                 <StackLayout HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand">
-                    <Label Text="Word puzzle" TextColor="White" FontFamily="OpenSans-Bold" FontSize="35"
+                    <Label Text="Woodle" TextColor="White" FontFamily="OpenSans-BoldItalic" FontSize="40" CharacterSpacing="4"
                    FontAttributes="Bold"
                    HorizontalTextAlignment="Center"
                    VerticalTextAlignment="Center" />
@@ -117,7 +117,7 @@
             <Tab.Icon>
                 <FontImageSource Glyph="{StaticResource IconHome}" FontFamily="fa-solid"  Color="Black"/>
             </Tab.Icon>
-            <ShellContent Title="Home"  Route="MainPage" ContentTemplate="{DataTemplate local:MainPage}"/>
+            <ShellContent Title="Home" x:Name="titleHomelbl"  Route="MainPage" ContentTemplate="{DataTemplate local:MainPage}"/>
 
         </Tab>
         <Tab Title="Leader Board">

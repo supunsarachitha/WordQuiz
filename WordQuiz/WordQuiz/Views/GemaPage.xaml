@@ -14,15 +14,17 @@
         </StackLayout>-->
         <Grid>
 
-            <StackLayout IsVisible="false" BackgroundColor="White" x:Name="Indicator" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
-                <forms:AnimationView x:Name="AnimationView2" Animation="7655-rocket.json" AutoPlay="True" BackgroundColor="White"
+            <StackLayout IsVisible="false" BackgroundColor="White" x:Name="Indicator" HorizontalOptions="FillAndExpand" VerticalOptions="Center">
+                <forms:AnimationView x:Name="AnimationView2" Animation="9965-loading-spinner.json" AutoPlay="True" BackgroundColor="White"
                 Loop="True" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" WidthRequest="100" HeightRequest="100" />
+
+                <Label FontFamily="OpenSans-Bold" Margin="0,20,0,0" Text="Searching words.." TextColor="#009bff" HorizontalOptions="CenterAndExpand" VerticalOptions="Start" FontSize="Default"></Label>
             </StackLayout>
 
             <Grid x:Name="board">
             <Grid.RowDefinitions>
                 <RowDefinition Height="50" x:Name="score"/> 
-                <RowDefinition Height="50" x:Name="word"/>
+                <RowDefinition Height="100" x:Name="word"/>
                 <RowDefinition Height="*" x:Name="definition"/>
                 <RowDefinition Height="60" x:Name="imgbtn"/>
                 <RowDefinition Height="*" x:Name="txt"/>
@@ -38,7 +40,7 @@
             </Grid.ColumnDefinitions>
 
 
-                <Button Grid.Column="0" Grid.Row="0" Grid.ColumnSpan="2"   FontFamily="OpenSans-Bold" CornerRadius="10" Padding="5" Margin="10,10,0,0"  Text="Back" FontSize="Medium" TextColor="White"   x:Name="btnBack" Clicked="btnBack_Clicked" HeightRequest="50" WidthRequest="100"  VerticalOptions="CenterAndExpand" HorizontalOptions="StartAndExpand">
+                <Button Grid.Column="0" Grid.Row="0" Grid.ColumnSpan="2"   FontFamily="OpenSans-Bold" CornerRadius="10" IsVisible="false" Padding="5" Margin="10,10,0,0"  Text="Back" FontSize="Medium" TextColor="White"   x:Name="btnBack" Clicked="btnBack_Clicked" HeightRequest="50" WidthRequest="100"  VerticalOptions="CenterAndExpand" HorizontalOptions="StartAndExpand">
                     <Button.ImageSource>
                         <FontImageSource Glyph="&#xf0a8;" FontFamily="fa-solid" Color="White" Size="Title"/>
                     </Button.ImageSource>
@@ -52,9 +54,9 @@
                     </StackLayout>
                 </Frame>
 
-                <Label Grid.Row="1" Grid.ColumnSpan="5" x:Name="txtWord" TextColor="#01163b" FontSize="30" FontFamily="OpenSans-Bold" CharacterSpacing="5" HorizontalOptions="CenterAndExpand"  VerticalOptions="CenterAndExpand" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"></Label>
+                <Label Grid.Row="1" Grid.ColumnSpan="5" x:Name="txtWord" MaxLines="2" LineBreakMode="WordWrap" TextColor="#01163b" FontSize="30" FontFamily="OpenSans-Bold" CharacterSpacing="5" HorizontalOptions="CenterAndExpand"  VerticalOptions="CenterAndExpand" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"></Label>
 
-                <Frame Grid.Row="2" Grid.ColumnSpan="5" HorizontalOptions="CenterAndExpand"  VerticalOptions="CenterAndExpand">
+                <Frame Grid.Row="2" Grid.ColumnSpan="5" HorizontalOptions="CenterAndExpand"  VerticalOptions="CenterAndExpand" x:Name="lbldefframe">
                     <Label  x:Name="lblDefinition" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" TextColor="#01163b"  HorizontalTextAlignment="Center" VerticalTextAlignment="Center" FontFamily="OpenSans-SemiBold" ></Label>
 
                 </Frame>

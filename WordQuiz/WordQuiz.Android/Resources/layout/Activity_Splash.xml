@@ -9,12 +9,38 @@
 
     <com.airbnb.lottie.LottieAnimationView
         android:id="@+id/animation_view"
-        android:layout_width="400dp"
-        android:layout_height="400dp"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
         app:lottie_fileName="14348-just-a-pigeon.json"
         app:lottie_autoPlay="true"
         android:layout_centerVertical="true"
         android:layout_centerHorizontal="true"
         android:scaleType="centerInside"
-        app:lottie_scale="0.5"/>
+        />
+
+    <!--<ImageView
+        android:layout_below="@id/animation_view"
+        android:id="@+id/BrandName"
+        android:src="@drawable/BrandName"
+        android:layout_width="300dp"
+        android:layout_height="200dp"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:contentDescription="brandName"/>-->
+
+    <TextView
+        android:layout_below="@id/animation_view"
+        android:fontFamily="cursive"
+        android:textStyle="bold"
+        android:textSize="80sp"
+        android:text="woodle"
+        android:layout_width="300dp"
+        android:layout_height="200dp"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:textAlignment="center"
+        android:gravity="center_horizontal"
+        android:contentDescription="brandName"
+        android:textColor="#009bff"/>
+
 </RelativeLayout>
