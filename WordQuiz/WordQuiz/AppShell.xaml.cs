@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using WordQuiz.Helpers;
 using WordQuiz.Interfaces;
 
 using WordQuiz.Views;
@@ -9,6 +10,8 @@ namespace WordQuiz
 {
     public partial class AppShell : Xamarin.Forms.Shell
     {
+
+        FirebaseHelper firebaseHelper = new FirebaseHelper();
         public AppShell()
         {
             InitializeComponent();
@@ -28,6 +31,8 @@ namespace WordQuiz
             var a = await DisplayAlert("","Are you sure?","Procceed", "Cancel");
             if (a)
             {
+
+                await firebaseHelper.Deactivate(Xamarin.Essentials.Preferences.Get("UserName", ""));
                 Xamarin.Essentials.Preferences.Set("registered", false);
                 await Shell.Current.GoToAsync("//RegisterPage");
             }

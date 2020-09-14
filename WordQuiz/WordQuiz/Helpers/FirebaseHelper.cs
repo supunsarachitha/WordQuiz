@@ -24,6 +24,7 @@ namespace WordQuiz.Helpers
                   CountryName  = item.Object.CountryName,
                   CountryCode = item.Object.CountryCode,
                   Score = item.Object.Score,
+                  Active=item.Object.Active
                   
               }).ToList();
         }
@@ -33,7 +34,7 @@ namespace WordQuiz.Helpers
 
             await firebase
               .Child("Users")
-              .PostAsync(new Users() { UserId = id, UserName = name, CountryName= countryname, CountryCode=countryCode, Score=score });
+              .PostAsync(new Users() { UserId = id, UserName = name, CountryName= countryname, CountryCode=countryCode, Score=score, Datetime = DateTime.Now ,Active=true});
 
             return true;
         }
@@ -58,12 +59,45 @@ namespace WordQuiz.Helpers
                       CountryName = toUpdatePerson.Object.CountryName,
                       UserId = toUpdatePerson.Object.UserId,
                       UserName = toUpdatePerson.Object.UserName,
-                      Rank = 0
-                  }); ;
+                      Rank = 0,
+                      Datetime = DateTime.Now,
+                      Active = true
+
+                  }); ; ; ;
                 }
             }
             
             
+        }
+
+        public async Task Deactivate(string name)
+        {
+
+            if (!string.IsNullOrEmpty(name))
+            {
+                var toUpdatePerson = (await firebase
+              .Child("Users")
+              .OnceAsync<Users>()).Where(a => a.Object.UserName == name).FirstOrDefault();
+
+                if (toUpdatePerson != null)
+                {
+                    await firebase
+                  .Child("Users")
+                  .Child(toUpdatePerson.Key)
+                  .PutAsync(new Users()
+                  {
+                      Score = toUpdatePerson.Object.Score,
+                      CountryCode = toUpdatePerson.Object.CountryCode,
+                      CountryName = toUpdatePerson.Object.CountryName,
+                      UserId = toUpdatePerson.Object.UserId,
+                      UserName = toUpdatePerson.Object.UserName,
+                      Rank = 0,
+                      Datetime = DateTime.Now,
+                      Active = false
+
+                  }); 
+                }
+            }
         }
 
 

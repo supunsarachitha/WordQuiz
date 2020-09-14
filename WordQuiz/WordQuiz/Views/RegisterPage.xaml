@@ -2,34 +2,40 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:local="clr-namespace:WordQuiz"
              x:Class="WordQuiz.Views.RegisterPage" NavigationPage.HasBackButton="False" NavigationPage.HasNavigationBar="False" Shell.NavBarIsVisible="False"
-             BackgroundImageSource="RegisterBackground.png">
+             >
     <ContentPage.Content>
-        <StackLayout VerticalOptions="CenterAndExpand" HeightRequest="400">
-            <Grid HorizontalOptions="CenterAndExpand" VerticalOptions="Center" Padding="25,0,25,0" >
-                <Grid.RowDefinitions>
-                    <RowDefinition Height="20"/>
-                    <RowDefinition Height="60"/>
-                    <RowDefinition Height="2"/>
-                    <RowDefinition Height="20"/>
-                    <RowDefinition Height="60"/>
-                    <RowDefinition Height="25"/>
-                    <RowDefinition Height="60"/>
-                </Grid.RowDefinitions>
+        
+        <Grid>
+            <Image Source="background5.png" Aspect="AspectFill" Opacity="0.9" />
+            <StackLayout VerticalOptions="CenterAndExpand" HeightRequest="400">
+                <Grid HorizontalOptions="CenterAndExpand" VerticalOptions="Center" Padding="25,0,25,0" >
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="20"/>
+                        <RowDefinition Height="60"/>
+                        <RowDefinition Height="2"/>
+                        <RowDefinition Height="20"/>
+                        <RowDefinition Height="60"/>
+                        <RowDefinition Height="25"/>
+                        <RowDefinition Height="60"/>
+                    </Grid.RowDefinitions>
 
-                <Label Text="User Name" Grid.Row="0" HorizontalTextAlignment="Center" VerticalOptions="End" IsVisible="false"></Label>
-                <Frame BorderColor="Red"  CornerRadius="20" Grid.Row="1" Padding="10,0,10,0"  Opacity="0.9" >
-                    <local:CustomEntry x:Name="txtUserName" WidthRequest="60" Margin="0" MaxLength="20" Placeholder=" Enter User Name" ></local:CustomEntry>
-                </Frame>
-                <Label Text="Country" Grid.Row="3" HorizontalTextAlignment="Center" VerticalOptions="End" IsVisible="false"></Label>
-                <Frame BorderColor="Red"  CornerRadius="20" Grid.Row="4" Padding="10,0,10,0" Opacity="0.9">
-                    <Picker x:Name="pickCountry" ItemDisplayBinding="{Binding country}" WidthRequest="60" Title="Select your Country"   ></Picker>
-                </Frame>
-                <Button x:Name="btnRegister" Grid.Row="6" Text="Continue  >" FontSize="Large" FontAttributes="Bold" Clicked="btnRegister_Clicked"  
+                    <Label Text="User Name" Grid.Row="0" HorizontalTextAlignment="Center" VerticalOptions="End" IsVisible="false"></Label>
+
+                    <local:CustomEntry x:Name="txtUserName" FontFamily="OpenSans-Bold" Grid.Row="1" BackgroundColor="WhiteSmoke"  HeightRequest="50" MaxLength="8" Placeholder=" Enter User Name" VerticalOptions="FillAndExpand"></local:CustomEntry>
+
+                    <Label Text="Country" Grid.Row="3" HorizontalTextAlignment="Center" VerticalOptions="End" IsVisible="false"></Label>
+
+                    <Picker x:Name="pickCountry" Grid.Row="4"  ItemDisplayBinding="{Binding country}" FontFamily="OpenSans-Bold" BackgroundColor="WhiteSmoke" HeightRequest="50" Title="Select your Country"   VerticalOptions="FillAndExpand"  ></Picker>
+
+                    <Button x:Name="btnRegister" Grid.Row="6" Text="Continue  >" FontSize="Large" FontAttributes="Bold" Clicked="btnRegister_Clicked"  
                         CornerRadius="20" BorderColor="Gray" BorderWidth="3" HeightRequest="60"></Button>
-                
-                
-            </Grid>
-            
-        </StackLayout>
+
+
+                </Grid>
+
+            </StackLayout>
+        </Grid>
+        
+        
     </ContentPage.Content>
 </ContentPage>

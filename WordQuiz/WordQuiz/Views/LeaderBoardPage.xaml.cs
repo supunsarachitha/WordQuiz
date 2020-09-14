@@ -25,7 +25,7 @@ namespace WordQuiz.Views
             Indicator.IsVisible = true;
 
                 var AllUsers = await firebaseHelper.GetAllPersons();
-                List<Users> res = AllUsers.OrderByDescending(X => X.Score).ToList();
+                List<Users> res = AllUsers.Where(X=>X.Active==true).OrderByDescending(X => X.Score).ToList();
             int R = 0;
             foreach (var item in res)
             {

@@ -69,6 +69,7 @@ namespace WordQuiz.Views
         {
             try
             {
+
                 if (randomAnimation.Count > 0)
                 {
                     AnimationView.Animation = randomAnimation[rnd.Next(randomAnimation.Count)];

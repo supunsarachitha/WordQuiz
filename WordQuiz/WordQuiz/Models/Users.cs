@@ -13,5 +13,9 @@ namespace WordQuiz.Models
         public int Score { get; set; }
         public int Rank { get; set; } = 0;
 
+        public DateTime Datetime { get; set; }
+
+        public bool Active { get; set; } = true;
+
     }
 }

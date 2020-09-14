@@ -64,10 +64,11 @@
 
         <Grid>
 
+            <Image Source="Background2.png" Aspect="AspectFill" Opacity="0.9" />
             <StackLayout IsVisible="false" x:Name="Indicator" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
                 <ActivityIndicator BackgroundColor="Transparent" IsRunning="True" Color="#4778c9" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" ></ActivityIndicator>
             </StackLayout>
-            <dg:DataGrid x:Name="CollectionLeaderBoard"  SelectionEnabled="False" RowHeight="55" HeaderHeight="50" BorderColor="Transparent" HeaderBackground="Gray" HeaderTextColor="WhiteSmoke" FontFamily="OpenSans-SemiBold">
+            <dg:DataGrid x:Name="CollectionLeaderBoard"  SelectionEnabled="False" RowHeight="55" HeaderHeight="50" BorderColor="White" HeaderBackground="Gray" HeaderTextColor="WhiteSmoke" FontFamily="OpenSans-SemiBold">
                 <dg:DataGrid.HeaderFontSize>
                     <OnIdiom  x:TypeArguments="x:Double">
                         <OnIdiom.Tablet>15</OnIdiom.Tablet>

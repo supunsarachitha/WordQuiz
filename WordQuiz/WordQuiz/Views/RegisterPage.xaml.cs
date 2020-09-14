@@ -124,7 +124,7 @@ namespace WordQuiz.Views
             try
             {
                 AllUsers = await firebaseHelper.GetAllPersons();
-                List<Users> res = AllUsers.Where(x => x.UserName.ToLower() == txtUserName.Text.ToLower()).ToList();
+                List<Users> res = AllUsers.Where(x => x.UserName.ToLower() == txtUserName.Text.ToLower() && x.Active==true).ToList();
 
                 if (res.Count > 0)
                 {
