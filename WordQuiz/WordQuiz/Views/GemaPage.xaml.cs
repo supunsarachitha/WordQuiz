@@ -12,7 +12,6 @@ using WordQuiz.API;
 using WordQuiz.Models;
 using Xamarin.Forms;
 using Xamarin.Forms.Platform;
-using Xamarin.Forms.Platform.Android;
 using Xamarin.Forms.Xaml;
 
 namespace WordQuiz.Views
