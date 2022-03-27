@@ -11,7 +11,7 @@
 
     <!--You can use any elements here which are extended from Xamarin.Forms.View-->
 
-            <forms:AnimationView x:Name="AnimationView" Animation="" AutoPlay="True" OnFinish="Handle_OnFinish" 
-                Loop="False" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" />
+            <forms:AnimationView x:Name="AnimationView" Animation="" AutoPlay="True" OnFinishedAnimation="Handle_OnFinish" 
+                RepeatCount="1" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" />
 
 </pages:PopupPage>

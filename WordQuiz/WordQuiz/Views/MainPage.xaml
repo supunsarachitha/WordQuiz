@@ -6,7 +6,7 @@
         <Grid >
             <Image Source="Background2.png" Aspect="AspectFill" Opacity="0.9" />
             <forms:AnimationView x:Name="AnimationView" Animation="" AutoPlay="True"  WidthRequest="300" HeightRequest="300" Margin="0,40,0,0"
-                Loop="True" VerticalOptions="StartAndExpand" HorizontalOptions="CenterAndExpand" />
+                RepeatMode="Infinite" VerticalOptions="StartAndExpand" HorizontalOptions="CenterAndExpand" />
 
                 <StackLayout HorizontalOptions="FillAndExpand" VerticalOptions="EndAndExpand" Margin="20,20,20,100"  >
 

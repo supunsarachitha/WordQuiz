@@ -19,7 +19,7 @@
             <StackLayout IsVisible="false" BackgroundColor="White" x:Name="Indicator" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" Opacity="0.9">
                 <StackLayout HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand">
                     <forms:AnimationView x:Name="AnimationView2" Animation="9965-loading-spinner.json" AutoPlay="True" BackgroundColor="White"
-                Loop="True" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" WidthRequest="100" HeightRequest="100" />
+                RepeatMode="Infinite" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" WidthRequest="100" HeightRequest="100" />
 
                     <Label FontFamily="OpenSans-Bold" Margin="0,20,0,0" Text="Searching words.." TextColor="#009bff" HorizontalOptions="CenterAndExpand" VerticalOptions="Start" FontSize="Default"></Label>
 
